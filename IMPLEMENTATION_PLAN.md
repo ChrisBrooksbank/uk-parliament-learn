@@ -43,7 +43,7 @@ _App shell and routing required before any page work._
 - [x] Implement Category page: lists topics in the category with links to topic pages (spec: core-ui-navigation.md)
 - [x] Implement Topic page: renders title, introduction, and explanation body for current audience level (spec: core-ui-navigation.md)
 - [x] Implement Glossary page: alphabetically sorted terms with definitions (spec: core-ui-navigation.md)
-- [ ] Add mobile-first responsive CSS (320px–1440px), semantic HTML, and ARIA labels across all pages (spec: core-ui-navigation.md)
+- [x] Add mobile-first responsive CSS (320px–1440px), semantic HTML, and ARIA labels across all pages (spec: core-ui-navigation.md)
 - [ ] Add PWA manifest (`manifest.webmanifest`) and register service worker via `vite-plugin-pwa` for offline support (spec: core-ui-navigation.md)
 - [ ] Unit tests for router; verify E2e smoke tests pass (spec: core-ui-navigation.md)
 

@@ -17,7 +17,31 @@ export function renderErrorState(app: HTMLElement, message: string): void {
     app.innerHTML = `<div class="error-state" role="alert"><strong>Error:</strong> ${message}</div>`;
 }
 
+/**
+ * Update aria-current="page" on main nav links to reflect the active route.
+ */
+export function updateNavAriaCurrent(route: Route): void {
+    const navLinks = document.querySelectorAll<HTMLAnchorElement>('.main-nav a');
+    for (const link of navLinks) {
+        const href = link.getAttribute('href') ?? '';
+        let isCurrent = false;
+        if (route.name === 'home' && href === '#/') {
+            isCurrent = true;
+        } else if (route.name === 'glossary' && href === '#/glossary') {
+            isCurrent = true;
+        } else if (route.name === 'search' && href === '#/search') {
+            isCurrent = true;
+        }
+        if (isCurrent) {
+            link.setAttribute('aria-current', 'page');
+        } else {
+            link.removeAttribute('aria-current');
+        }
+    }
+}
+
 function renderRoute(app: HTMLElement, route: Route): void {
+    updateNavAriaCurrent(route);
     switch (route.name) {
         case 'home':
             renderHomePage(app);
