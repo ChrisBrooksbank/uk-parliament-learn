@@ -1,0 +1,259 @@
+id: local-government
+title: "Local Government"
+slug: local-government
+
+metadata:
+  category: devolution-and-local-government
+  tags:
+    - local-government
+    - councils
+    - elected-mayors
+    - combined-authorities
+    - council-tax
+    - local-services
+    - parish-councils
+    - devolution-deals
+    - unitary-authorities
+    - metropolitan-boroughs
+  last_updated: 2026-03-09
+  status: published
+  order: 2
+
+related_topics:
+  - id: devolution
+    relationship: prerequisite
+  - id: elections-and-voting
+    relationship: see-also
+  - id: the-uk-constitution
+    relationship: see-also
+
+explanations:
+  child:
+    summary: "Local government is about the councils and mayors that look after your local area -- things like rubbish collection, schools, parks, and roads."
+    body: |
+      Have you ever wondered who makes sure the bins are collected, the roads are fixed, and your local park is looked after? That is the job of local government.
+
+      In England, local government is run by councils. A council is a group of people who are elected by the people who live in the area. Just like Members of Parliament are voted for by the public, councillors are voted for too. They meet to make decisions about how their local area is run.
+
+      There are different types of council. Some areas have two layers -- a county council that looks after the big things like roads and schools, and a district council that handles smaller things like rubbish collection and planning. Other areas have just one council, called a unitary authority, that does everything.
+
+      Big cities sometimes have an elected mayor. A mayor is one person who leads the council and makes important decisions for the city. Cities like London, Manchester, and Birmingham all have elected mayors.
+
+      Councils get their money from a few different places. One of the main ones is council tax, which is a payment made by people who own or rent a home. The government also gives councils money to help pay for services.
+
+      Local government makes a big difference to everyday life. It is responsible for things you see and use every day, from the library to the street lights to the local swimming pool.
+    reading_age: 8
+  teenager:
+    summary: "Local government in England consists of elected councils and mayors that deliver public services, manage local planning, and represent communities, funded through a combination of council tax, business rates, and central government grants."
+    body: |
+      Local government is the level of government closest to people's daily lives. While Parliament and the national government make decisions about big issues like defence and the economy, local councils handle the services and decisions that affect your neighbourhood directly.
+
+      England has a complicated patchwork of local government structures. In some areas, there is a two-tier system with county councils and district councils. County councils cover a larger area and handle services like education, social care, roads, and libraries. District councils cover smaller areas within the county and deal with housing, rubbish collection, local planning, and leisure facilities. In other areas, unitary authorities combine both roles into a single council. Metropolitan boroughs serve major urban areas, while London has its own system with 32 London boroughs plus the City of London Corporation.
+
+      Since 2014, the government has pursued a policy of creating combined authorities and devolution deals. A combined authority brings together several councils in a region to work on issues like transport, economic development, and housing. Many combined authorities are led by an elected mayor -- sometimes called a metro mayor. The Greater Manchester Combined Authority, led by its elected mayor, was one of the first examples, and similar arrangements have been established across England.
+
+      At the most local level, parish and town councils operate in many rural and semi-rural areas. These are the smallest tier of local government and deal with issues like maintaining village greens, running community centres, and providing local grants.
+
+      Local government is funded through several sources. Council tax is paid by residents and is based on the value of their property. Business rates are paid by commercial properties. Councils also receive grants from central government, though these have been significantly reduced since 2010. Many councils have faced financial pressures as a result, with some being forced to cut back on services.
+
+      Local elections take place regularly, with councillors typically serving four-year terms. Voter turnout in local elections is usually much lower than in general elections, often around 30-35%, which raises questions about the democratic mandate of local representatives.
+    reading_age: 14
+  adult:
+    summary: "Local government in England comprises a multi-layered system of elected councils, combined authorities, and elected mayors responsible for delivering public services, spatial planning, and community representation, operating within a framework of statutory powers conferred by central government."
+    body: |
+      Local government in England constitutes the primary mechanism through which public services are delivered at the community level, yet it operates without constitutional protection and is subject to the legislative authority of the UK Parliament. Unlike devolved institutions in Scotland, Wales, and Northern Ireland, English local authorities derive their powers entirely from statute and can be created, restructured, or abolished by central government.
+
+      The structural landscape of English local government is characterised by considerable complexity and variation. The two-tier system, comprising county councils and district councils, operates in predominantly rural areas: county councils are responsible for strategic services including education, social care, highways, and waste disposal, while district councils handle housing, environmental health, local planning, and waste collection. Unitary authorities, which combine both tiers into a single body, exist in many urban and some rural areas. Metropolitan boroughs serve the major conurbations outside London. London's governance is distinct, with 32 London boroughs, the City of London Corporation, and the Greater London Authority headed by the directly elected Mayor of London -- a model established by the Greater London Authority Act 1999.
+
+      The creation of combined authorities represents the most significant structural reform to English local government in recent decades. Enabled by the Cities and Local Government Devolution Act 2016, combined authorities bring together groups of councils to exercise functions across a wider area, typically covering transport, strategic planning, economic development, and skills. Most combined authorities are led by a directly elected mayor with specific devolved powers. The Greater Manchester Combined Authority, established in 2011 and led by an elected mayor from 2017, served as the template. By 2026, combined authorities with elected mayors cover a significant proportion of the English population, though the powers and budgets devolved to each vary considerably depending on the terms of their devolution deal with central government.
+
+      Parish and town councils represent the most local tier of governance. There are approximately 10,000 parish councils in England, serving predominantly rural and semi-rural communities. They exercise limited functions -- maintaining open spaces, providing allotments, managing community facilities, and commenting on planning applications -- but play an important role in community representation. The power to create new parish councils rests with the principal authority for the area.
+
+      Local government finance has been a persistent source of tension. Councils are funded through a combination of council tax (a property-based tax on domestic dwellings, introduced in 1993 to replace the community charge), retained business rates, fees and charges, and grants from central government. The proportion of local government funding derived from central grants has fallen significantly since the austerity programme initiated in 2010, placing increasing reliance on council tax and business rates. Several councils have issued Section 114 notices -- effectively declarations of financial unsustainability -- in recent years, including Northamptonshire (2018), Croydon (2020), Thurrock (2022), and Birmingham (2023).
+
+      The democratic legitimacy of local government is shaped by electoral participation. Local elections in England use the first-past-the-post system, with councillors elected to represent individual wards. Turnout is typically between 30% and 40%, substantially lower than at general elections. The Local Government Act 2000 introduced the option of directly elected mayors for individual councils, though relatively few authorities adopted this model before the combined authority programme accelerated mayoral governance at the regional level.
+
+      The relationship between central and local government in England has been characterised by scholars as one of significant centralisation relative to comparable democracies. Local authorities in England exercise only those powers conferred by statute -- a principle known as ultra vires -- and have historically had limited fiscal autonomy. The Localism Act 2011 introduced a general power of competence, enabling councils to do anything that an individual could lawfully do, but this power remains subject to statutory restrictions and does not extend to raising new taxes.
+    reading_age: 18
+  researcher:
+    summary: "A scholarly analysis of English local government examining its constitutional status, structural evolution, fiscal architecture, democratic accountability, and the implications of the combined authority and devolution deal model for sub-national governance."
+    body: |
+      English local government occupies a distinctive and constitutionally precarious position within the UK's territorial governance framework. Unlike the devolved legislatures of Scotland, Wales, and Northern Ireland, which enjoy statutory protection and, in some cases, provisions against abolition without a referendum, English local authorities possess no constitutional entrenchment. Their existence, structure, powers, and funding are determined entirely by Acts of Parliament and secondary legislation, making them, in constitutional terms, creatures of statute subject to the sovereign will of the Westminster Parliament.
+
+      The structural evolution of English local government reflects successive waves of central government reorganisation. The Local Government Act 1972 established the modern two-tier framework of county and district councils, replacing a patchwork of arrangements dating to the nineteenth century. The 1980s and 1990s saw the abolition of the metropolitan county councils (1986) and the Greater London Council (1986), followed by a partial move toward unitary authorities in the 1990s. The Greater London Authority Act 1999 created a unique governance model for the capital, with a directly elected Mayor and a 25-member London Assembly exercising scrutiny functions. The London model influenced subsequent reforms, particularly the development of combined authorities with elected mayors.
+
+      The combined authority model, enabled by the Local Democracy, Economic Development and Construction Act 2009 and substantially expanded by the Cities and Local Government Devolution Act 2016, represents an attempt to create a framework for sub-national governance in England that mirrors, in limited respects, the devolution settlements elsewhere in the UK. Combined authorities bring together constituent councils to exercise joint functions, typically including transport, strategic planning, economic development, adult education, and housing. Where a combined authority has an elected mayor, additional powers may be devolved through bespoke devolution deals negotiated bilaterally between the combined authority and central government.
+
+      The devolution deal model has attracted both support and criticism. Supporters argue that it enables tailored arrangements that reflect the specific needs and opportunities of different regions, and that elected mayors provide visible, accountable leadership. Critics point to the opacity and inconsistency of the negotiation process, the limited fiscal powers actually devolved (most combined authority mayors control only a fraction of public spending in their area), and the lack of a clear statutory framework governing the distribution of powers. Sandford (2020) has argued that the deal-based approach produces an "ad hoc and asymmetric" landscape that lacks coherent constitutional underpinning. The absence of a statutory framework for English devolution comparable to the Scotland Act or Wales Act means that combined authority powers can be expanded or constrained at ministerial discretion.
+
+      Parish and town councils, numbering approximately 10,000 in England, constitute the most local tier of democratic governance. Their functions are modest -- maintaining open spaces, managing community halls, providing allotments, and acting as a statutory consultee on planning applications -- but they serve an important representational function in rural and semi-rural communities. The National Association of Local Councils has advocated for enhanced powers and funding, while academic research (Pearce and Ellwood, 2002) has highlighted the democratic deficit created by the absence of parish-level governance in many urban areas.
+
+      The fiscal architecture of English local government is a defining feature of its constitutional character. The ultra vires doctrine historically confined councils to activities specifically authorised by statute, though the Localism Act 2011's general power of competence partially liberalised this constraint. Fiscal autonomy remains severely limited: council tax, the principal local tax, generates only a minority share of local authority revenue, and its base, rate-setting discretion, and collection are all subject to central government controls including referendum requirements for excessive increases. Business rates have been partially localised since the Local Government Finance Act 2012, with authorities retaining a proportion of locally collected rates, but the system is complex and subject to periodic resets. Central government grants, which once constituted the majority of local funding, have been substantially reduced since the austerity programme initiated in 2010, with the Institute for Fiscal Studies estimating a real-terms reduction of approximately 40% in central government funding to English local authorities between 2009-10 and 2019-20.
+
+      The financial pressures on local government have manifested in a series of institutional crises. Section 114 notices -- issued under the Local Government Finance Act 1988 when a council's chief financial officer determines that expenditure will exceed available resources -- have been issued by several authorities, including Northamptonshire County Council (2018), the London Borough of Croydon (2020), Slough Borough Council (2021), Thurrock Council (2022), and Birmingham City Council (2023). These cases have raised fundamental questions about the sustainability of the current funding model, the adequacy of central government oversight, and the capacity of local government to meet its statutory obligations.
+
+      The democratic accountability of local government is complicated by low electoral participation. Turnout in English local elections typically ranges between 30% and 40%, compared with 60-70% at general elections. The first-past-the-post electoral system, combined with the ward-based election of councillors, can produce councils whose political composition does not proportionally reflect local voting patterns. The introduction of directly elected mayors -- both for individual authorities (Local Government Act 2000) and for combined authorities -- was intended to enhance democratic visibility and accountability, though the evidence on whether mayoral governance increases public engagement with local democracy is mixed.
+
+      The central-local relationship in England has been the subject of extensive scholarly analysis, with most commentators characterising the UK as one of the most centralised states in the developed world. Loughlin (1996) identified a fundamental asymmetry: central government possesses both the legal authority and the fiscal leverage to determine the parameters within which local government operates. The Layfield Committee (1976) recommended a clear allocation of financial responsibility between central and local government, but its recommendations were not implemented. Subsequent reform initiatives, from the Localism Act 2011 to the Levelling Up and Regeneration Act 2023, have sought to recalibrate this relationship, but the structural centralisation of the English system remains largely intact.
+    reading_age: null
+    sources:
+      - citation: "Cities and Local Government Devolution Act 2016, UK Parliament"
+        url: "https://www.legislation.gov.uk/ukpga/2016/1/contents"
+        type: official
+      - citation: "Localism Act 2011, UK Parliament"
+        url: "https://www.legislation.gov.uk/ukpga/2011/20/contents"
+        type: official
+      - citation: "Local Government Act 1972, UK Parliament"
+        url: "https://www.legislation.gov.uk/ukpga/1972/70/contents"
+        type: official
+      - citation: "Greater London Authority Act 1999, UK Parliament"
+        url: "https://www.legislation.gov.uk/ukpga/1999/29/contents"
+        type: official
+      - citation: "Sandford, Mark, 'Devolution to local government in England', House of Commons Library Research Briefing CBP-7029"
+        url: "https://commonslibrary.parliament.uk/research-briefings/sn07029/"
+        type: secondary
+      - citation: "Institute for Fiscal Studies, 'Local government funding in England', IFS Briefing Note"
+        url: "https://ifs.org.uk/publications/local-government-funding-england"
+        type: secondary
+      - citation: "National Audit Office, 'Financial sustainability of local authorities', 2021"
+        url: "https://www.nao.org.uk/reports/financial-sustainability-of-local-authorities/"
+        type: official
+      - citation: "Loughlin, Martin, Legality and Locality: The Role of Law in Central-Local Government Relations, Oxford University Press, 1996"
+        url: "https://global.oup.com/academic/product/legality-and-locality-9780198260660"
+        type: primary
+      - citation: "House of Commons Library, 'Combined authorities', Research Briefing CBP-9076"
+        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-9076/"
+        type: secondary
+
+glossary:
+  - term: "Unitary Authority"
+    definition_simple: "A single council that does everything for its area, instead of having two separate councils (a county council and a district council)."
+    definition_full: "A local authority that combines the functions of both county and district councils, exercising the full range of local government responsibilities within its area. Unitary authorities were introduced from the 1990s onwards as an alternative to the two-tier system, and are found in many urban areas and some rural counties. They are responsible for all local services including education, social care, housing, planning, waste collection, and highways."
+  - term: "Combined Authority"
+    definition_simple: "A group of councils that have joined together to work on big issues like transport, jobs, and housing across a wider area, often led by an elected mayor."
+    definition_full: "A legal body established under the Local Democracy, Economic Development and Construction Act 2009, comprising two or more local authorities that agree to exercise certain functions jointly across a wider area. Combined authorities typically focus on transport, economic development, strategic planning, and skills. Where a devolution deal has been agreed with central government, a combined authority may be led by a directly elected mayor with additional devolved powers."
+  - term: "Elected Mayor"
+    definition_simple: "A person chosen by local voters to lead a council or a group of councils, making important decisions about how the area is run."
+    definition_full: "A directly elected individual who serves as the political leader of either a single local authority (under the Local Government Act 2000) or a combined authority (under the Cities and Local Government Devolution Act 2016). Elected mayors hold executive powers and provide visible, accountable leadership. Combined authority mayors -- sometimes called metro mayors -- typically have additional powers over transport, strategic planning, and economic development devolved through deals with central government."
+  - term: "Council Tax"
+    definition_simple: "A payment that people who own or rent a home make to their local council, which the council uses to pay for local services like schools, bin collection, and parks."
+    definition_full: "A property-based local tax on domestic dwellings, introduced in 1993 by the Local Government Finance Act 1992 to replace the community charge (poll tax). Properties are assigned to one of eight valuation bands (A to H) based on their estimated value as at 1 April 1991. Councils set the annual rate, subject to central government controls including referendum requirements for increases above a specified threshold. Council tax is the principal source of locally raised revenue for English local authorities."
+  - term: "Devolution Deal"
+    definition_simple: "An agreement between the national government and a group of local councils that gives the local area more power to make decisions about things like transport and jobs."
+    definition_full: "A bespoke agreement negotiated bilaterally between central government and a combined authority (or, in some cases, a single local authority) setting out the specific powers, functions, and funding to be devolved. Devolution deals vary significantly in scope and ambition: some transfer powers over transport, adult education, and housing, while others include control over specific funding streams or business rate retention. The deal-based model has been criticised for its opacity, inconsistency, and lack of a clear statutory framework."
+
+did_you_know:
+  - fact: "There are over 20,000 elected councillors in England, making them the largest group of elected representatives in the country."
+    level: [child, teenager]
+  - fact: "Council tax valuations in England are still based on property values from 1 April 1991 -- over 35 years ago -- and have never been updated."
+    level: [teenager, adult, researcher]
+  - fact: "Birmingham City Council, the largest local authority in Europe, issued a Section 114 notice in 2023, effectively declaring itself unable to balance its budget."
+    level: [adult, researcher]
+  - fact: "Turnout in local elections in England is usually only about 30-35%, compared with 60-70% in general elections, meaning that many councillors are elected by a small fraction of the eligible voters in their area."
+    level: [teenager, adult]
+  - fact: "The Greater London Council and the six metropolitan county councils were abolished in 1986. London did not have a city-wide government again until the Greater London Authority was created in 2000."
+    level: [teenager, adult, researcher]
+
+key_dates:
+  - year: 1972
+    event: "The Local Government Act 1972 reorganises English local government"
+    significance: "Established the modern two-tier framework of county and district councils in England and Wales, replacing a complex patchwork of arrangements dating from the nineteenth century. The new structure came into effect on 1 April 1974."
+    levels: [adult, researcher]
+  - year: 1986
+    event: "The Greater London Council and metropolitan county councils are abolished"
+    significance: "The Conservative government abolished the GLC and six metropolitan county councils, transferring their functions to London boroughs and metropolitan boroughs respectively. This left London without a city-wide strategic government until the creation of the Greater London Authority in 2000."
+    levels: [teenager, adult, researcher]
+  - year: 1993
+    event: "Council tax replaces the community charge (poll tax)"
+    significance: "Following widespread public opposition to the community charge, the government introduced council tax as a property-based alternative. Council tax has remained the principal local tax in England since its introduction, though its valuation bands have never been updated from their 1991 base."
+    levels: [teenager, adult, researcher]
+  - year: 2000
+    event: "The Greater London Authority is established with a directly elected Mayor of London"
+    significance: "The Greater London Authority Act 1999 created a new model of metropolitan governance, with a directly elected mayor and a 25-member London Assembly. The first Mayor of London, Ken Livingstone, took office in 2000. The London model influenced the development of elected mayors for combined authorities."
+    levels: [teenager, adult, researcher]
+  - year: 2016
+    event: "The Cities and Local Government Devolution Act enables combined authorities with elected mayors"
+    significance: "Provided the statutory framework for creating combined authorities led by directly elected mayors, enabling the negotiation of devolution deals that transfer powers from central government to groups of local authorities. This marked the most significant structural reform to English sub-national governance in decades."
+    levels: [adult, researcher]
+
+key_figures:
+  - name: "Ken Livingstone"
+    role: "First Mayor of London"
+    description: "Ken Livingstone became the first directly elected Mayor of London in 2000, establishing the model of metropolitan mayoral governance that would later be extended through combined authorities. His introduction of the congestion charge for central London in 2003 demonstrated the potential for mayors to take bold policy decisions."
+    levels: [teenager, adult, researcher]
+  - name: "Andy Burnham"
+    role: "Mayor of Greater Manchester"
+    description: "Andy Burnham was elected as the first Mayor of Greater Manchester in 2017, heading the Greater Manchester Combined Authority. The Greater Manchester devolution deal served as the template for subsequent combined authority arrangements across England, and Burnham's high-profile leadership helped establish the metro mayor model in the public consciousness."
+    levels: [teenager, adult, researcher]
+  - name: "Michael Heseltine"
+    role: "Deputy Prime Minister and advocate of local governance reform"
+    description: "Michael Heseltine was a long-standing advocate of strengthening local and regional governance in England. His 2012 report 'No Stone Unturned' argued for significant decentralisation of economic powers to local areas and influenced the government's subsequent devolution deal programme. He also played a key role in urban regeneration initiatives during the 1980s and 1990s."
+    levels: [adult, researcher]
+
+quizzes:
+  child:
+    - question: "What is a council responsible for?"
+      type: multiple_choice
+      options:
+        - "Looking after local things like schools, parks, roads, and rubbish collection"
+        - "Deciding whether the country goes to war"
+        - "Choosing who becomes King or Queen"
+      correct_answer: "Looking after local things like schools, parks, roads, and rubbish collection"
+      explanation: "Councils look after the services that you see and use in your local area every day. The big national decisions are made by the UK Parliament and the government."
+    - question: "True or false: Everyone in England has the same type of council."
+      type: true_false
+      correct_answer: "False"
+      explanation: "England has different types of councils. Some areas have two layers (a county council and a district council), while others have a single unitary authority that does everything. Big cities may also have an elected mayor."
+    - question: "What is council tax?"
+      type: multiple_choice
+      options:
+        - "A payment homeowners and renters make to help pay for local services"
+        - "A tax on sweets and fizzy drinks"
+        - "A fee for visiting your local library"
+      correct_answer: "A payment homeowners and renters make to help pay for local services"
+      explanation: "Council tax is one of the main ways councils get money to pay for services like schools, bin collection, and parks. The amount depends on the value of your home."
+  teenager:
+    - question: "What is a combined authority, and how does it differ from a traditional local council?"
+      type: short_answer
+      correct_answer: "A combined authority is a group of councils that have joined together to exercise joint functions across a wider area, often led by an elected mayor. Unlike a single council, it covers a larger region and focuses on strategic issues like transport and economic development."
+      explanation: "Combined authorities were created to address the fact that many challenges -- transport networks, housing markets, economic development -- do not respect council boundaries. By working together, councils can tackle these issues at a more appropriate scale."
+    - question: "What is the difference between a county council and a district council?"
+      type: multiple_choice
+      options:
+        - "County councils handle strategic services like education and roads; district councils handle local services like housing and rubbish collection"
+        - "County councils are more powerful than district councils"
+        - "District councils cover larger areas than county councils"
+        - "There is no difference; they are the same thing"
+      correct_answer: "County councils handle strategic services like education and roads; district councils handle local services like housing and rubbish collection"
+      explanation: "In the two-tier system, county councils and district councils divide local government functions between them. County councils cover a larger area and handle strategic services, while district councils serve smaller areas within the county and deal with more local matters."
+    - question: "True or false: The Mayor of London and a metro mayor of a combined authority have exactly the same powers."
+      type: true_false
+      correct_answer: "False"
+      explanation: "While both are directly elected, their powers differ. The Mayor of London operates under the Greater London Authority Act 1999 with specific powers over transport, policing, and strategic planning. Combined authority mayors have powers set out in their individual devolution deals, which vary from one authority to another."
+  adult:
+    - question: "What is a Section 114 notice, and what does it signify about the financial health of a local authority?"
+      type: short_answer
+      correct_answer: "A Section 114 notice is issued by a council's chief financial officer under the Local Government Finance Act 1988 when expenditure is likely to exceed available resources. It effectively means the council cannot balance its budget and must take emergency action to reduce spending."
+      explanation: "Section 114 notices have become a barometer of local government financial distress. The issuing of notices by several councils in recent years -- including Northamptonshire, Croydon, Thurrock, and Birmingham -- has raised fundamental questions about the sustainability of local government funding and the impact of reductions in central government grants."
+    - question: "How has the balance of local government funding shifted since 2010, and what are the implications?"
+      type: short_answer
+      correct_answer: "Central government grants have been significantly reduced since 2010, with the IFS estimating a real-terms cut of approximately 40%. This has increased councils' reliance on council tax and business rates, reduced their capacity to deliver services, and contributed to financial crises in several authorities."
+      explanation: "The shift in local government funding reflects the broader austerity programme and has had uneven effects. Councils in more deprived areas, which historically relied more heavily on central grants, have been disproportionately affected. The resulting service reductions have raised concerns about the equitable provision of public services across England."
+    - question: "What is the general power of competence introduced by the Localism Act 2011, and how does it differ from the previous ultra vires framework?"
+      type: multiple_choice
+      options:
+        - "It allows councils to do anything a private individual could lawfully do, rather than being restricted to specifically authorised activities"
+        - "It gives councils the power to override national laws"
+        - "It enables councils to raise any taxes they choose"
+        - "It allows councils to merge with neighbouring authorities without central government approval"
+      correct_answer: "It allows councils to do anything a private individual could lawfully do, rather than being restricted to specifically authorised activities"
+      explanation: "The general power of competence represented a significant liberalisation of local authority legal capacity. Under the previous ultra vires doctrine, councils could only exercise powers specifically conferred by statute. The general power of competence reversed this presumption, though it remains subject to statutory restrictions and does not extend to fiscal autonomy."
+  researcher:
+    - question: "Critically evaluate the devolution deal model as a framework for English sub-national governance. Does the bilateral, bespoke approach produce effective and accountable governance, or does it create an ad hoc system lacking constitutional coherence?"
+      type: essay
+      correct_answer: "The devolution deal model offers flexibility and allows tailored arrangements, but its bilateral, non-statutory character creates an asymmetric and opaque system. The absence of a clear legislative framework means that powers are devolved at ministerial discretion, with limited parliamentary scrutiny. Accountability is complicated by overlapping jurisdictions between combined authorities and constituent councils. A more systematic approach, comparable to the statutory frameworks governing Scottish and Welsh devolution, would provide greater transparency and consistency."
+      explanation: "This question engages with a fundamental tension in English governance: the desire for locally tailored solutions versus the need for constitutional clarity and democratic accountability. Sandford and others have argued that the deal-based model produces a patchwork that is difficult for citizens to navigate and that lacks the institutional stability of statutory devolution. The counter-argument is that England's diversity makes a one-size-fits-all model impractical."
+    - question: "Assess the relationship between fiscal centralisation and democratic accountability in English local government. To what extent does the current funding model undermine the democratic purpose of local elections?"
+      type: essay
+      correct_answer: "The high degree of fiscal centralisation in England means that local authorities have limited control over their revenue, with most funding determined by central government decisions. This weakens the link between local taxation, spending, and democratic accountability: voters cannot easily hold councils responsible for outcomes when councils have limited fiscal autonomy. Low turnout in local elections both reflects and reinforces this problem."
+      explanation: "The fiscal centralisation thesis draws on a substantial body of comparative research demonstrating that the UK is an outlier among developed democracies in the degree of central control over local finances. The Layfield Committee (1976) identified this as a fundamental problem and recommended clearer fiscal responsibility, but its recommendations were not implemented. The result is a system where local elections provide a democratic mandate but limited fiscal control, undermining both accountability and citizen engagement."

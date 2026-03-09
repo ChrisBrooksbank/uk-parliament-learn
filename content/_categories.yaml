@@ -1,0 +1,59 @@
+schema_version: "1.0"
+description: "Category registry for UK Parliament Learn content"
+
+categories:
+  - id: parliament-basics
+    title: "Parliament Basics"
+    description: "What Parliament is, how it's structured, and who's involved"
+    icon: landmark
+    order: 1
+    folder: parliament-basics
+
+  - id: parliamentary-procedure
+    title: "Parliamentary Procedure"
+    description: "How Parliament conducts its business day to day — debates, votes, committees, and scrutiny"
+    icon: gavel
+    order: 2
+    folder: parliamentary-procedure
+
+  - id: law-and-legislation
+    title: "Law and Legislation"
+    description: "How laws are made, debated, and passed in the UK"
+    icon: scroll
+    order: 3
+    folder: law-and-legislation
+
+  - id: elections-and-representation
+    title: "Elections and Representation"
+    description: "How people vote, stand for election, and get represented"
+    icon: ballot-check
+    order: 4
+    folder: elections-and-representation
+
+  - id: government
+    title: "Government"
+    description: "The Prime Minister, Cabinet, and how the UK is governed"
+    icon: building-columns
+    order: 5
+    folder: government
+
+  - id: political-systems
+    title: "Political Systems"
+    description: "Different ways countries can be organised and governed"
+    icon: globe
+    order: 6
+    folder: political-systems
+
+  - id: devolution-and-local-government
+    title: "Devolution and Local Government"
+    description: "How power is shared across the UK's nations, regions, and local councils"
+    icon: map
+    order: 7
+    folder: devolution-and-local-government
+
+  - id: constitution-and-justice
+    title: "Constitution and Justice"
+    description: "The UK's unwritten constitution, the courts, and the protection of rights"
+    icon: scale-balanced
+    order: 8
+    folder: constitution-and-justice

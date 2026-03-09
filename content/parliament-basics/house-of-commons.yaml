@@ -1,0 +1,260 @@
+id: house-of-commons
+title: "The House of Commons"
+slug: house-of-commons
+
+metadata:
+  category: parliament-basics
+  tags: [house-of-commons, mps, constituencies, democracy, legislation, scrutiny, elections]
+  last_updated: 2026-03-09
+  status: published
+  order: 2
+
+related_topics:
+  - id: what-is-parliament
+    relationship: prerequisite
+  - id: house-of-lords
+    relationship: contrast
+  - id: elections-and-voting
+    relationship: subtopic
+  - id: how-laws-are-made
+    relationship: see-also
+  - id: debates-and-questions
+    relationship: see-also
+  - id: select-committees
+    relationship: see-also
+  - id: parliamentary-voting
+    relationship: see-also
+
+explanations:
+  child:
+    summary: "The House of Commons is where elected people called MPs meet to discuss and decide the rules for our country."
+    body: |
+      The House of Commons is a very important place in London where people called Members of Parliament, or MPs for short, meet to talk about how the country should be run.
+
+      There are 650 MPs in the House of Commons. Each one is chosen by the people who live in their local area, called a constituency. When there is an election, grown-ups go to a polling station and vote for the person they want to be their MP. The person who gets the most votes wins. This is called First Past the Post, a bit like winning a race.
+
+      The MPs sit on green benches in a big room called the Chamber. The government sits on one side, and the opposition sits on the other side. They talk about new laws, ask questions, and try to make the country a better place.
+
+      There is a person called the Speaker who is in charge of the Chamber. The Speaker makes sure everyone takes turns to talk and follows the rules. The current Speaker is Sir Lindsay Hoyle. MPs choose the Speaker by voting. Once someone becomes Speaker, they have to stop being part of any political party so they can be fair to everyone.
+
+      The Chamber itself is quite small. The government sits on one side and the opposition sits on the other. In between them, on the table, sits a big golden stick called the Mace. The Mace is very important because it shows that Parliament has the power to make laws. Without the Mace in the Chamber, Parliament cannot meet.
+
+      MPs who are ministers sit on the front benches, closest to the middle. They are called frontbenchers. The MPs who sit behind them are called backbenchers. Backbenchers do not have a job in the government, but they still vote on laws and speak up for the people in their area.
+
+      Every Wednesday at noon, something exciting happens called Prime Minister's Questions, or PMQs. This is when MPs get to ask the Prime Minister questions about what the government is doing. It can get quite noisy!
+    reading_age: 8
+  teenager:
+    summary: "The House of Commons is the elected chamber of the UK Parliament, made up of 650 MPs who represent constituencies across the country."
+    body: |
+      The House of Commons is the elected chamber of the UK Parliament and is the primary law-making body in the country. It is made up of 650 Members of Parliament (MPs), each representing a geographical area known as a constituency. The UK uses the First Past the Post (FPTP) voting system, meaning that in each constituency the candidate with the most votes wins the seat, even if they do not receive a majority of the total votes cast.
+
+      The most recent general election was held on 4 July 2024. Labour won 411 seats, the Conservatives won 121, the Liberal Democrats won 72, the Scottish National Party won 9, Reform UK won 5, and the Green Party won 4.
+
+      The House of Commons has several key functions. It debates and votes on new legislation (Bills), scrutinises the work of the government, controls taxation and government spending, and represents the views of constituents. MPs debate in the Chamber, which has a distinctive layout with the government and opposition benches facing each other.
+
+      The Speaker of the House, currently Sir Lindsay Hoyle (elected in November 2019), chairs debates, maintains order, and ensures fair representation of all parties and viewpoints. The Speaker must remain politically impartial and gives up all party ties upon election to the role. When a new Speaker is needed, any MP can stand for election. MPs vote by secret ballot, and candidates are eliminated one by one until someone wins more than half the votes. Three Deputy Speakers assist the Speaker in chairing debates; they come from different parties to ensure balance.
+
+      The layout of the Chamber reflects the adversarial nature of UK politics. Government MPs sit on the benches to the Speaker's right, with opposition MPs facing them on the left. Ministers and shadow ministers sit on the front benches, while MPs without a government or shadow role sit behind them and are known as backbenchers. The ceremonial Mace, a gilded staff resting on the Table of the House, symbolises the authority of the Crown in Parliament. The House cannot sit or pass laws without the Mace present.
+
+      Select Committees play a crucial role in holding the government to account. There is a select committee for each government department, with up to 11 members each. These committees examine government spending, policies, and administration. Most select committee chairs are now elected by MPs, which strengthens their independence. Committees gather written and oral evidence, publish reports, and the government normally has 60 days to respond.
+
+      Prime Minister's Questions (PMQs) takes place every Wednesday at noon and lasts at least 30 minutes. It is an opportunity for MPs to directly question the Prime Minister. The Leader of the Opposition is allowed up to six questions. PMQs begins with an "open question" about the PM's engagements, which allows follow-up questions on any subject.
+
+      The right to vote for MPs has expanded significantly over the centuries. The Great Reform Act of 1832 extended the vote beyond wealthy landowners. The 1867 Reform Act gave urban working-class men the vote. Women over 30 gained the vote in 1918, and equal voting rights for men and women at age 21 came in 1928. The voting age was lowered to 18 in 1969.
+    reading_age: 14
+  adult:
+    summary: "The House of Commons is the democratically elected lower chamber of the UK Parliament, comprising 650 MPs elected via First Past the Post, responsible for legislation, government scrutiny, and representing constituents."
+    body: |
+      The House of Commons is the lower house of the Parliament of the United Kingdom and the pre-eminent chamber in the country's legislative process. Comprising 650 Members of Parliament, each elected to represent a single parliamentary constituency, the Commons derives its authority from being the only directly elected component of Parliament. Members are elected using the First Past the Post (FPTP) system, a plurality voting method in which the candidate receiving the highest number of votes in each constituency is returned, irrespective of whether they secure an absolute majority.
+
+      The most recent general election took place on 4 July 2024, resulting in a Labour government with 411 seats. The Conservatives were reduced to 121 seats (down 244 from their 2019 total of 365), while the Liberal Democrats won 72 seats, the SNP 9, Reform UK 5, and the Green Party 4.
+
+      The House of Commons performs several constitutional functions. Primarily, it is the principal legislative chamber: Bills must pass through multiple readings, a committee stage, and a report stage in the Commons before proceeding to the House of Lords. The Commons controls the power of the purse through Supply, meaning only the Commons can authorise taxation and approve government expenditure. Under the Parliament Acts of 1911 and 1949, the Commons can ultimately pass legislation without the Lords' consent, establishing its legislative supremacy.
+
+      The Speaker of the House of Commons presides over the Chamber and is the highest authority within it. The current Speaker, the Rt Hon Sir Lindsay Hoyle MP (Member for Chorley, Lancashire), was first elected to the role on 4 November 2019 and has been re-elected three times. The Speaker is elected by secret ballot under Standing Order No. 1B, using an exhaustive ballot system in which the candidate with the fewest votes is eliminated in each round until one candidate secures an absolute majority. Upon election, the Speaker renounces all party-political affiliations and is expected to act with complete impartiality. The Speaker determines which members may speak, rules on points of order, and has the casting vote in the event of a tie, which by convention is exercised to maintain the status quo. Three Deputy Speakers — the Chairman and two Deputy Chairmen of Ways and Means — assist the Speaker and are drawn from more than one party to maintain balance.
+
+      The physical layout of the Commons Chamber is constitutionally significant. The rectangular, opposing-benches design (unlike the semicircular arrangements common in continental legislatures) reinforces the adversarial two-party dynamic. Ministers and shadow ministers occupy the front benches, while backbenchers — MPs who hold no ministerial or shadow ministerial office — sit behind them. The ceremonial Mace, a gilded staff placed on the Table of the House during sittings, symbolises royal authority delegated to Parliament. The House cannot conduct business without the Mace present; its removal by an MP (as occurred notably in 1930 and 2018) is treated as a serious breach of order.
+
+      The select committee system is a vital mechanism of parliamentary scrutiny. Departmental select committees shadow each government department, examining spending, policies, and administration. Each committee typically has up to 11 members. Since reforms recommended by the Wright Committee in 2010, most select committee chairs are elected by the whole House through a secret ballot, enhancing their democratic mandate and independence. The Liaison Committee, composed of all select committee chairs, provides strategic oversight and occasionally takes direct evidence from the Prime Minister. Committees publish reports containing findings and recommendations, to which the government customarily responds within 60 days.
+
+      Prime Minister's Questions (PMQs) takes place every Wednesday at noon and lasts at least 30 minutes. It evolved into its current weekly format in 1997 under Tony Blair, replacing the twice-weekly 15-minute sessions that had existed since 1961. The Leader of the Opposition is permitted up to six questions, while other opposition party leaders and backbenchers may also be called. Questions typically begin as "open" engagements questions, enabling supplementary questions on any topic of the member's choosing.
+
+      The expansion of the parliamentary franchise is central to understanding the democratic legitimacy of the Commons. Before 1832, fewer than one in ten adults could vote. The Great Reform Act of 1832 standardised property qualifications and extended representation to industrial cities. The 1867 Reform Act enfranchised urban working-class men, roughly doubling the electorate. The Third Reform Act of 1884 extended household suffrage to the counties. The Representation of the People Act 1918 was transformational: it established near-universal male suffrage based on residence rather than property and granted the vote to women over 30 who met a property qualification. The Equal Franchise Act of 1928 equalised the voting age at 21 for both sexes. The Representation of the People Act 1969 lowered the voting age to 18, and overseas voters were enfranchised in 1985.
+    reading_age: 18
+  researcher:
+    summary: "The House of Commons is the elected lower chamber of the bicameral Parliament of the United Kingdom, exercising legislative supremacy, budgetary control, and executive scrutiny through 650 constituency MPs returned under plurality voting."
+    body: |
+      The House of Commons constitutes the elected lower house of the bicameral Parliament of the United Kingdom, sitting at the Palace of Westminster. Its 650 members are returned from single-member constituencies across England (543), Scotland (57), Wales (32), and Northern Ireland (18) using the simple plurality (First Past the Post) electoral system. The chamber's democratic mandate, rooted in direct election, underpins the conventions of responsible government: the Prime Minister and Cabinet must command the confidence of the Commons, and the loss of a vote of no confidence conventionally triggers resignation or dissolution.
+
+      Legislative supremacy of the Commons over the Lords was formalised by the Parliament Act 1911, which removed the Lords' veto over Money Bills and replaced it with a two-year (subsequently reduced to one year by the Parliament Act 1949) suspensory veto over other public Bills. The Salisbury Convention further constrains the upper house from rejecting at second reading any legislation that gives effect to a manifesto commitment of the governing party. The Commons' exclusive control over Supply (taxation and expenditure) dates from the late seventeenth century and is enshrined in Standing Order No. 48 (formerly S.O. No. 46), which reserves financial initiative to the Crown acting through Ministers.
+
+      The Speakership of the House of Commons is one of the oldest offices in the English constitutional tradition, traceable to Sir Thomas Hungerford in 1377 (the first to bear the title). The current Speaker, the Rt Hon Sir Lindsay Hoyle MP, was elected on 4 November 2019 following the resignation of John Bercow. The election procedure, codified in Standing Order No. 1B following the 2001 reforms and further amended in 2009, employs an exhaustive ballot: candidates who receive fewer than 5% of votes cast are eliminated, the lowest-placed remaining candidate drops out, and voting continues until one candidate achieves an absolute majority. By convention, the Speaker severs all party affiliations, stands unopposed in their constituency at general elections (though this convention has not always been observed), and exercises the casting vote according to Speaker Denison's Rule, which seeks to preserve the status quo and avoid deciding issues on a casting vote wherever possible. The three Deputy Speakers (the Chairman of Ways and Means and two deputies) chair proceedings when the Speaker is absent and preside over Committees of the Whole House; by convention they are drawn from more than one party.
+
+      The rectangular chamber layout, a feature preserved by Churchill's insistence after the 1941 Blitz destruction, is constitutionally significant. As Churchill argued in the 1943 rebuilding debate, the opposing-benches arrangement sustains the two-party system and prevents the "group" politics characteristic of semicircular chambers. The front benches are occupied by ministers (Government front bench) and shadow ministers (Opposition front bench), while backbenchers — a term first recorded in the 1870s — sit behind. The Mace, a gilded staff symbolising the authority of the Crown in Parliament, must be on the Table for the House to sit; when the House resolves into Committee of the Whole House, the Mace is placed on brackets below the Table to signify that the Speaker is not presiding.
+
+      The departmental select committee system was established in its modern form in 1979, following a motion by Norman St John-Stevas, Leader of the House. The system was substantially reformed following the report of the Select Committee on Reform of the House of Commons (the Wright Committee) in 2009. Since the 2010 Parliament, chairs of most departmental select committees have been elected by the whole House by secret ballot using the alternative vote, while committee members are elected by their respective parliamentary parties. Each departmental committee typically comprises 11 members and examines the expenditure, administration, and policy of its corresponding department and associated public bodies. The Liaison Committee, comprising all select committee chairs, takes oral evidence from the Prime Minister approximately twice per session.
+
+      Prime Minister's Questions evolved from a convention of the mid-twentieth century. From 1961, the Prime Minister answered oral questions twice weekly (Tuesdays and Thursdays) for approximately 15 minutes. In 1997, Tony Blair consolidated PMQs into a single weekly session each Wednesday at noon, lasting approximately 30 minutes. The format centres on "open" engagements questions (formally asking the Prime Minister to list their official engagements for the day), allowing supplementary questions on any topic. The Leader of the Opposition is permitted up to six questions, and leaders of the third largest party are typically called for two.
+
+      The history of the parliamentary franchise illustrates the incremental democratisation of the Commons. The Forty Shilling Freeholder franchise, established by statute in 1432 (10 Hen. VI c. 2), confined the county electorate to owners of freehold land valued at forty shillings or above. Borough franchises were diverse, ranging from scot and lot boroughs to potwalloper and burgage franchises, creating a patchwork of widely varying electorates. The Representation of the People Act 1832 disfranchised rotten boroughs, redistributed seats to industrial centres, and standardised borough qualifications around the ten-pound householder franchise, increasing the electorate from approximately 400,000 to 650,000. The 1867 Act extended household suffrage to boroughs, enfranchising significant numbers of urban working-class men and approximately doubling the electorate to some 2.5 million. The 1884 Act applied equivalent household qualifications to the counties. The Representation of the People Act 1918 was the single most transformative measure: it enfranchised virtually all men aged 21 and over on a residential qualification and, for the first time, granted the parliamentary vote to women aged 30 and over who met a property qualification (or whose husbands did), tripling the electorate to approximately 21 million. The Equal Franchise Act 1928 equalised the franchise at age 21 regardless of sex, adding approximately five million women. The Representation of the People Act 1969 lowered the voting age to 18. Subsequent legislation, including the Representation of the People Act 1985, extended the franchise to British citizens resident overseas.
+    reading_age: null
+    sources:
+      - citation: "House of Commons Library, 'The History of the Parliamentary Franchise', Research Paper 13/14, 1 March 2013"
+        url: "https://commonslibrary.parliament.uk/research-briefings/rp13-14/"
+        type: primary
+      - citation: "UK Parliament, 'Select Committees'"
+        url: "https://www.parliament.uk/about/how/committees/select/"
+        type: official
+      - citation: "UK Parliament, 'Prime Minister's Questions'"
+        url: "https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/prime-ministers-questions/"
+        type: official
+      - citation: "UK Parliament, 'The Speaker of the House of Commons'"
+        url: "https://www.parliament.uk/business/commons/the-speaker/"
+        type: official
+      - citation: "House of Commons Library, 'General Election 2024 Results', Research Briefing CBP-10009"
+        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-10009/"
+        type: primary
+      - citation: "Erskine May, 'Parliamentary Practice', 25th edition, LexisNexis, 2019"
+        url: "https://erskinemay.parliament.uk/"
+        type: secondary
+
+glossary:
+  - term: "Constituency"
+    definition_simple: "A local area that elects one MP to represent it in Parliament."
+    definition_full: "A geographically defined electoral district, each returning a single Member of Parliament to the House of Commons. The United Kingdom is divided into 650 constituencies, with boundaries periodically reviewed by independent Boundary Commissions."
+  - term: "First Past the Post"
+    definition_simple: "The voting system where the person who gets the most votes wins, like a race."
+    definition_full: "A plurality voting system in which the candidate receiving the highest number of votes in a constituency is elected, regardless of whether they obtain an absolute majority. Also known as simple plurality or single-member plurality."
+  - term: "The Speaker"
+    definition_simple: "The person in charge of keeping order in the House of Commons and making sure debates are fair."
+    definition_full: "The presiding officer of the House of Commons, elected by fellow MPs, who chairs debates, maintains order, and acts with strict political impartiality. The Speaker has the casting vote in the event of a tie, exercised by convention to maintain the status quo."
+  - term: "Select Committee"
+    definition_simple: "A small group of MPs who check that the government is doing its job properly."
+    definition_full: "A cross-party committee of MPs appointed to examine the expenditure, administration, and policy of a government department and its associated public bodies. Chairs of departmental select committees are elected by the whole House by secret ballot."
+  - term: "Prime Minister's Questions (PMQs)"
+    definition_simple: "A time every Wednesday when MPs get to ask the Prime Minister questions in the House of Commons."
+    definition_full: "A weekly session held each Wednesday at noon in which the Prime Minister answers questions from Members of Parliament for at least 30 minutes. The Leader of the Opposition is permitted up to six questions, and the format centres on open engagements questions allowing supplementary queries on any topic."
+  - term: "Hansard"
+    definition_simple: "The written record of everything that is said in Parliament."
+    definition_full: "The official verbatim report of proceedings in both Houses of Parliament. Named after Thomas Curson Hansard, who published early editions, it provides a substantially verbatim account of debates, questions, and statements."
+
+did_you_know:
+  - fact: "The green benches in the House of Commons are placed two sword-lengths apart, so that opposing MPs could never reach each other with their swords during heated debates!"
+    level: [child, teenager]
+  - fact: "The House of Commons Chamber was destroyed by a German bomb in 1941 during the Blitz and was rebuilt by 1950. Winston Churchill insisted the new Chamber should be the same size as the old one, even though it cannot seat all 650 MPs at once."
+    level: [teenager, adult]
+  - fact: "The Speaker of the House of Commons is traditionally dragged to the Chair upon election, a custom recalling the days when Speakers risked the monarch's displeasure and even execution for delivering unwelcome news."
+    level: [child, teenager, adult]
+  - fact: "The monarch is not permitted to enter the House of Commons. The last monarch to do so was Charles I in 1642, when he attempted to arrest five MPs, provoking the English Civil War."
+    level: [teenager, adult, researcher]
+  - fact: "Before 1832, some constituencies known as rotten boroughs had almost no voters at all. Old Sarum in Wiltshire had just 7 voters but returned two MPs to Parliament."
+    level: [adult, researcher]
+
+key_dates:
+  - year: 1265
+    event: "Simon de Montfort's Parliament"
+    significance: "Often regarded as the first English Parliament to include elected representatives from towns and shires alongside the nobility, establishing the precedent for a representative commons."
+    levels: [teenager, adult, researcher]
+  - year: 1689
+    event: "The Bill of Rights"
+    significance: "Established the supremacy of Parliament over the Crown, guaranteeing free speech in parliamentary debates and regular Parliaments, laying the constitutional foundation for modern parliamentary democracy."
+    levels: [teenager, adult, researcher]
+  - year: 1832
+    event: "The Great Reform Act"
+    significance: "Abolished rotten boroughs, redistributed seats to industrial cities, and standardised voting qualifications, nearly doubling the electorate and beginning the modern era of representative democracy."
+    levels: [teenager, adult, researcher]
+  - year: 1918
+    event: "Representation of the People Act"
+    significance: "Granted the vote to nearly all men over 21 and to women over 30 meeting a property qualification, tripling the electorate to approximately 21 million and marking the most significant single expansion of the franchise."
+    levels: [teenager, adult, researcher]
+  - year: 1928
+    event: "Equal Franchise Act"
+    significance: "Gave women the vote on equal terms with men at age 21, adding approximately five million women to the electoral roll and establishing full universal adult suffrage."
+    levels: [child, teenager, adult, researcher]
+  - year: 1969
+    event: "Voting age lowered to 18"
+    significance: "The Representation of the People Act 1969 reduced the minimum voting age from 21 to 18, recognising the political maturity of younger adults."
+    levels: [teenager, adult, researcher]
+  - year: 2024
+    event: "General election of 4 July 2024"
+    significance: "Labour won 411 seats, ending 14 years of Conservative-led government. The election demonstrated the amplifying effects of the FPTP system, with significant seat changes not always proportional to vote share shifts."
+    levels: [teenager, adult, researcher]
+
+key_figures:
+  - name: "Sir Lindsay Hoyle"
+    role: "Speaker of the House of Commons (2019-present)"
+    description: "The current Speaker, MP for Chorley in Lancashire. First elected Speaker on 4 November 2019, he has been re-elected three times. He maintains impartiality and ensures fair and orderly debate in the Chamber."
+    levels: [child, teenager, adult]
+  - name: "Emmeline Pankhurst"
+    role: "Suffragette leader"
+    description: "Founder of the Women's Social and Political Union (WSPU) in 1903, Pankhurst led the militant campaign for women's suffrage. Her activism was instrumental in securing women's right to vote, first achieved partially in 1918 and fully in 1928."
+    levels: [child, teenager, adult, researcher]
+  - name: "Simon de Montfort"
+    role: "Earl of Leicester and pioneer of parliamentary representation"
+    description: "In 1265, de Montfort summoned a Parliament that included not only barons and clergy but also elected knights from the shires and burgesses from the towns, establishing the principle of broader representation that evolved into the House of Commons."
+    levels: [teenager, adult, researcher]
+  - name: "Charles I"
+    role: "King of England (1625-1649)"
+    description: "His attempt to arrest five MPs in the House of Commons in January 1642 was a pivotal moment in establishing parliamentary independence from the Crown. No monarch has entered the Commons Chamber since."
+    levels: [teenager, adult, researcher]
+  - name: "Tony Blair"
+    role: "Prime Minister (1997-2007)"
+    description: "Modernised the format of Prime Minister's Questions by consolidating the twice-weekly 15-minute sessions into a single 30-minute session every Wednesday at noon, the format still in use today."
+    levels: [adult, researcher]
+
+quizzes:
+  child:
+    - question: "How many MPs are there in the House of Commons?"
+      type: multiple_choice
+      options: ["100", "450", "650", "1000"]
+      answer: "650"
+      explanation: "There are 650 MPs in the House of Commons, one for each constituency (local area) in the United Kingdom."
+    - question: "True or false: The Queen or King is allowed to go into the House of Commons."
+      type: true_false
+      answer: false
+      explanation: "The monarch is not allowed to enter the House of Commons. The last king to do so was Charles I in 1642, and it caused a lot of trouble!"
+    - question: "What is the name of the person who keeps order in the House of Commons?"
+      type: short_answer
+      answer: "The Speaker"
+      explanation: "The Speaker is in charge of making sure everyone follows the rules and takes turns to speak during debates."
+  teenager:
+    - question: "What is the name of the voting system used to elect MPs to the House of Commons?"
+      type: multiple_choice
+      options: ["Proportional Representation", "First Past the Post", "Single Transferable Vote", "Alternative Vote"]
+      answer: "First Past the Post"
+      explanation: "The UK uses First Past the Post, where the candidate with the most votes in each constituency wins the seat, even without a majority of total votes."
+    - question: "True or false: Select committee chairs are appointed by the Prime Minister."
+      type: true_false
+      answer: false
+      explanation: "Since reforms following the Wright Committee report in 2009, most departmental select committee chairs are elected by the whole House of Commons through a secret ballot, giving them greater independence from government."
+    - question: "In which year did women gain the right to vote on equal terms with men?"
+      type: short_answer
+      answer: "1928"
+      explanation: "The Equal Franchise Act 1928 gave women the vote at age 21, the same as men, adding about five million women to the electoral roll."
+  adult:
+    - question: "Which legislation established the supremacy of the House of Commons over the House of Lords in financial matters?"
+      type: multiple_choice
+      options: ["The Bill of Rights 1689", "The Parliament Act 1911", "The Reform Act 1832", "The Representation of the People Act 1918"]
+      answer: "The Parliament Act 1911"
+      explanation: "The Parliament Act 1911 removed the Lords' veto over Money Bills entirely and replaced it with a suspensory veto (later reduced to one year by the 1949 Act) over other public Bills, formally establishing Commons supremacy."
+    - question: "True or false: The Speaker of the House of Commons exercises the casting vote to decide the outcome of close divisions according to personal political preference."
+      type: true_false
+      answer: false
+      explanation: "The Speaker exercises the casting vote according to Speaker Denison's Rule, which seeks to maintain the status quo and avoid deciding substantive issues on a casting vote."
+    - question: "Explain how the Wright Committee reforms of 2009 changed the way select committees operate in the House of Commons."
+      type: short_answer
+      answer: "The Wright Committee recommended that chairs of departmental select committees be elected by the whole House through secret ballot using the alternative vote, rather than being appointed through party whips. Committee members are elected by their respective parliamentary parties. These changes strengthened the independence and democratic legitimacy of select committees."
+      explanation: "Before these reforms, the appointment of select committee chairs and members was heavily influenced by party whips, which could compromise their independence in scrutinising the government."
+  researcher:
+    - question: "Analyse the constitutional significance of the Parliament Acts 1911 and 1949 in relation to the legislative supremacy of the House of Commons, with reference to the Salisbury Convention."
+      type: essay
+      answer: "A strong answer would discuss: the removal of the Lords' absolute veto and its replacement with a suspensory veto (two years in 1911, reduced to one year in 1949); the special status of Money Bills under the 1911 Act; the Salisbury Convention's complementary role in constraining the Lords from rejecting manifesto commitments at second reading; the democratic mandate argument underpinning Commons supremacy; and the limited use of the Parliament Acts in practice (only seven times), suggesting that their constitutional significance lies as much in their deterrent effect as their direct application."
+      explanation: "This question assesses understanding of the interplay between statutory provisions and constitutional conventions in establishing the primacy of the elected chamber."
+    - question: "Critically evaluate the effectiveness of the departmental select committee system as a mechanism for holding the executive to account, considering reforms since 2010."
+      type: essay
+      answer: "A comprehensive response should consider: the post-Wright Committee reforms including elected chairs and members; the enhanced democratic mandate and independence of committees; the scope of committee powers (to send for persons, papers, and records); limitations such as the inability to compel ministers to act on recommendations, the 60-day response convention, and resource constraints; the role of the Liaison Committee in strategic oversight; comparative analysis with committee systems in other legislatures; and empirical evidence of committee impact on government policy."
+      explanation: "This question requires critical analysis of institutional design and its practical effectiveness in the context of executive accountability."
+    - question: "To what extent did the Representation of the People Act 1918 represent a break with the property-based franchise that had characterised parliamentary elections since the fifteenth century?"
+      type: essay
+      answer: "An excellent answer would trace the franchise from the 1432 Forty Shilling Freeholder qualification through the incremental reforms of 1832, 1867, and 1884, demonstrating the persistent link between property and voting rights. It should analyse the 1918 Act's shift to a residential qualification for men, effectively severing the property link for male suffrage, while noting the retention of a property qualification for women voters. The answer should contextualise the reform within the broader social and political upheaval of the First World War and assess the degree of continuity versus rupture in franchise history."
+      explanation: "This question examines the evolution of democratic participation and the transition from a property-based to a residence-based franchise."

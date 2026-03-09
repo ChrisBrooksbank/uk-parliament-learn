@@ -1,0 +1,10 @@
+id: government
+title: "Government"
+description: "The Prime Minister, Cabinet, and how the UK is governed"
+order: 5
+
+topics:
+  - prime-minister-and-cabinet
+  - ministers-and-departments
+  - the-civil-service
+  - coalition-and-minority-government

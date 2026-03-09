@@ -1,0 +1,308 @@
+id: electoral-systems-and-reform
+title: "Electoral Systems and Reform"
+slug: electoral-systems-and-reform
+
+metadata:
+  category: elections-and-representation
+  tags:
+    - electoral-systems
+    - proportional-representation
+    - first-past-the-post
+    - single-transferable-vote
+    - additional-member-system
+    - alternative-vote
+    - electoral-reform
+    - devolution
+    - jenkins-commission
+    - referendum
+  last_updated: 2026-03-09
+  status: published
+  order: 3
+
+related_topics:
+  - id: elections-and-voting
+    relationship: prerequisite
+  - id: political-parties
+    relationship: see-also
+  - id: devolution
+    relationship: see-also
+
+explanations:
+  child:
+    summary: "Different countries use different ways of counting votes to decide who wins an election."
+    body: |
+      When you play a game, there are rules about how you decide who wins. Elections work in a similar way, but different places use different rules. These rules are called electoral systems.
+
+      In the United Kingdom, we mostly use a system called First Past the Post. This means the person who gets the most votes in an area wins, just like a race where the first person across the finish line is the winner. You do not need to get more than half of all the votes -- you just need more than anyone else.
+
+      But not everyone thinks this is the fairest way. Imagine a class vote where three people are standing. One gets 15 votes, another gets 14, and the third gets 11. The person with 15 votes wins, even though 25 people voted for someone else! Some people think a system where more votes count would be better.
+
+      There are other systems used in parts of the United Kingdom. In Scotland and Wales, they use a system where you get two votes -- one for a person in your local area and one for a party. This helps smaller parties win some seats too. In Northern Ireland, voters rank candidates in order, putting a 1 next to their favourite, a 2 next to their second choice, and so on. This is called the Single Transferable Vote.
+
+      In 2011, the whole country voted on whether to change the system used for electing MPs. Most people voted to keep First Past the Post, so the system stayed the same.
+
+      People still talk about whether the way we vote should change. Some think the current system is simple and usually gives the country a strong government. Others think a different system would be fairer and let more people's votes count.
+    reading_age: 8
+  teenager:
+    summary: "The UK uses First Past the Post for Westminster elections but employs proportional and mixed systems for devolved assemblies, with ongoing debate about whether the Westminster system should be reformed."
+    body: |
+      The United Kingdom uses several different electoral systems depending on which election is taking place. Understanding these systems is important because the rules used to count votes can dramatically affect which parties win seats and form governments.
+
+      **First Past the Post (FPTP)**
+
+      FPTP is used for UK general elections. Each of the 650 constituencies elects one MP. Voters mark a single cross next to their preferred candidate, and the candidate with the most votes wins. There is no requirement to win a majority. This system tends to benefit large parties with geographically concentrated support and makes it very difficult for smaller parties to win seats unless their voters are clustered in particular areas. In the 2024 general election, Reform UK won approximately 14.3 per cent of the national vote but secured only 4 seats, while the Liberal Democrats won 72 seats with a smaller vote share.
+
+      **Alternative Vote (AV)**
+
+      Under AV, voters rank candidates in order of preference rather than marking a single cross. If no candidate wins more than half the first-preference votes, the candidate with the fewest votes is eliminated and their voters' second preferences are redistributed. This continues until one candidate has a majority. In 2011, a UK-wide referendum was held on whether to replace FPTP with AV. The result was decisive: 67.9 per cent voted to keep FPTP on a turnout of 42.2 per cent.
+
+      **Additional Member System (AMS)**
+
+      AMS is used for elections to the Scottish Parliament and the Senedd Cymru (Welsh Parliament). Voters get two votes: one for a constituency candidate (elected by FPTP) and one for a regional party list. The list seats are allocated to make the overall result more proportional. This means smaller parties that struggle to win constituency seats can still gain representation through the regional list.
+
+      **Single Transferable Vote (STV)**
+
+      STV is used for Northern Ireland Assembly elections and local elections in Scotland and Northern Ireland. Voters rank candidates in order of preference in multi-member constituencies. To win a seat, a candidate must reach a quota (calculated by dividing the total votes by the number of seats plus one, then adding one). Surplus votes from elected candidates and votes from eliminated candidates are transferred according to voters' preferences. STV produces broadly proportional results and gives voters a choice between candidates of the same party.
+
+      **The Reform Debate**
+
+      The Jenkins Commission, set up by Tony Blair's Government in 1997, recommended replacing FPTP with a system called AV Plus -- a hybrid of AV and a proportional top-up. The recommendation was never implemented. Campaign groups such as the Electoral Reform Society and Make Votes Matter continue to argue that FPTP produces unrepresentative results and that a proportional system would better reflect voters' wishes. Defenders of FPTP argue it provides clear constituency links, decisive election results, and stable single-party government.
+    reading_age: 14
+  adult:
+    summary: "The UK operates multiple electoral systems across its various legislatures and elections, with First Past the Post for Westminster coexisting alongside proportional and preferential systems in devolved institutions, creating an ongoing constitutional debate about representation and democratic legitimacy."
+    body: |
+      The United Kingdom is unusual among established democracies in operating several distinct electoral systems simultaneously. While First Past the Post (FPTP) remains the system for elections to the House of Commons, the devolution settlements of the late 1990s introduced proportional and mixed systems for the new legislatures, creating a patchwork of electoral arrangements that has fuelled sustained debate about reform at Westminster.
+
+      **First Past the Post**
+
+      FPTP (or single-member plurality) is the simplest majoritarian system. Each constituency returns one member; the candidate with the most votes wins regardless of whether they achieve a majority. The system's strengths include simplicity, a clear link between constituents and their representative, and a tendency to produce single-party majority governments. Its weaknesses are equally well documented: significant disproportionality between vote shares and seat shares, the effective disenfranchisement of voters in safe seats, and the phenomenon of "wasted votes" for losing candidates and surplus votes for winning ones. The 2024 general election illustrated these dynamics starkly, with Labour winning 63 per cent of seats on 34 per cent of the vote.
+
+      **Proportional and Mixed Systems in the UK**
+
+      The Additional Member System (AMS), also known internationally as Mixed-Member Proportional (MMP), is used for the Scottish Parliament (73 constituency seats and 56 regional list seats) and the Senedd Cymru (40 constituency seats and 20 regional list seats). The constituency element uses FPTP, while the regional list seats are allocated using the D'Hondt method to produce a more proportional overall result. AMS has consistently produced coalition or minority governments in Scotland and Wales, in contrast to the majoritarian outcomes typical of Westminster.
+
+      The Single Transferable Vote (STV) is used for Northern Ireland Assembly elections (90 members from 18 five-member constituencies), Northern Ireland local elections, and Scottish local elections. STV uses ranked-choice voting in multi-member constituencies, with a Droop quota determining the threshold for election. STV is widely regarded as offering voters the most choice, including between candidates of the same party, and produces proportional outcomes without requiring party lists.
+
+      The London Assembly uses a variant of AMS with 14 constituency members and 11 London-wide list members. The Supplementary Vote system, which was used for London mayoral elections and other directly elected mayors, was replaced by FPTP under the Elections Act 2022.
+
+      **The 2011 AV Referendum**
+
+      The Alternative Vote referendum of 5 May 2011 was a condition of the Conservative-Liberal Democrat coalition agreement. AV is not a proportional system but a preferential one: voters rank candidates, and if no candidate achieves a majority of first preferences, the lowest-polling candidate is eliminated and their second preferences redistributed until a candidate crosses the 50 per cent threshold. The referendum resulted in 67.9 per cent voting No on a turnout of 42.2 per cent. The decisive rejection was attributed to public scepticism about the merits of AV, an effective No campaign, and low enthusiasm from reform advocates who considered AV an inadequate compromise.
+
+      **The Jenkins Commission**
+
+      The Independent Commission on the Voting System, chaired by Lord Jenkins of Hillhead, reported in October 1998. It recommended replacing FPTP with "AV Plus" -- a system combining the Alternative Vote for constituency seats with a proportional top-up of 15 to 20 per cent of seats allocated from open regional lists. The recommendation was never put to a vote. The commission's analysis of FPTP's deficiencies, including "desert island" effects (where supporters of a minority party in a region have no representation) and the "cube law" relationship between votes and seats, remains influential in academic and policy discussions.
+
+      **Arguments For and Against Reform**
+
+      Advocates of reform point to growing disproportionality, declining turnout (which they attribute partly to voters feeling their votes do not count), and the success of proportional systems in the devolved legislatures. Critics argue that FPTP delivers accountable single-party government, maintains the constituency link, and that proportional systems lead to coalition government, backroom deals, and weakened accountability. The debate remains unresolved, with the 2024 election result -- the most disproportionate in UK history -- generating renewed calls for reform from multiple parties and campaign organisations.
+    reading_age: 18
+  researcher:
+    summary: "A critical examination of the UK's electoral system pluralism, the theoretical frameworks underpinning different voting methods, the political dynamics of reform attempts, and the constitutional implications of operating multiple electoral systems within a single state."
+    body: |
+      The United Kingdom's electoral arrangements constitute a natural experiment in comparative electoral systems, with First Past the Post (FPTP) at Westminster coexisting alongside the Additional Member System (AMS) in Scotland and Wales, the Single Transferable Vote (STV) in Northern Ireland, and various systems for mayoral and local elections. This institutional pluralism, largely a product of the 1997-1999 devolution settlements, provides rich empirical material for evaluating the practical effects of different voting methods within a single political culture.
+
+      **Theoretical Foundations**
+
+      The academic study of electoral systems draws on several foundational frameworks. Duverger's law (1951) predicts that plurality systems tend to produce two-party competition, while proportional systems facilitate multi-party politics. Rae's (1967) comparative analysis refined this by identifying district magnitude as the critical variable determining proportionality. Taagepera and Shugart's (1989) work on "Seats and Votes" established mathematical models linking electoral rules to party system fragmentation. Lijphart's (1999) "Patterns of Democracy" placed electoral system choice within a broader framework of majoritarian versus consensus democracy, arguing that proportional systems are associated with higher voter satisfaction, greater policy representation, and better outcomes on measures of democratic quality.
+
+      The UK's experience both confirms and complicates these theoretical predictions. FPTP at Westminster has not prevented multi-party fragmentation at the national level, as Dunleavy (2005) has demonstrated, while the proportional systems in the devolved legislatures have produced the coalition and minority government patterns predicted by theory.
+
+      **First Past the Post: Empirical Performance**
+
+      FPTP's mechanical properties are well understood. The system converts votes to seats through a non-linear function that systematically advantages geographically concentrated parties and disadvantages those with dispersed support. The Gallagher index of disproportionality for UK general elections has trended upward over the post-war period, from values typically in the 10-15 range in the 1950s and 1960s to over 20 in 2015 and 2024. The 2024 election produced one of the most disproportionate results in any established democracy: Labour's 33.7 per cent vote share translated into 63.2 per cent of seats, while Reform UK's 14.3 per cent yielded just 0.6 per cent of seats.
+
+      The system's defenders invoke Schumpeter's (1942) competitive elitism model, arguing that FPTP facilitates alternation of government and clear accountability. Powell (2000) distinguished between "majoritarian" and "proportional" visions of democracy, noting that the former prioritises identifiability of government (voters knowing which party will govern if it wins) and accountability (the ability to "throw the rascals out"), while the latter prioritises accurate translation of preferences into representation.
+
+      **The Devolved Systems in Practice**
+
+      The Additional Member System used in Scotland and Wales represents a compromise between constituency representation and proportionality. The Scottish Parliament's 73/56 constituency-to-list ratio provides greater proportional correction than the Senedd's 40/20 ratio. Curtice (2006) demonstrated that AMS in Scotland produced significantly more proportional outcomes than FPTP would have, while maintaining constituency representation. The system has consistently produced multi-party parliaments, with coalition government (Labour-Liberal Democrat, 1999-2007; SNP-Green, 2021-2024) or minority government (SNP, 2007-2011 and 2024-present) as the norm.
+
+      STV in Northern Ireland serves a distinctive function in a divided society, ensuring cross-community representation in multi-member constituencies. The system was chosen specifically because of its capacity to enable power-sharing between unionist and nationalist communities, consistent with the consociational principles underpinning the Belfast/Good Friday Agreement. Research by Gallagher and Mitchell (2005) confirms that STV in Northern Ireland has facilitated intra-party competition and voter choice to a greater degree than list-based proportional systems.
+
+      The Senedd Cymru (Wales) announced in 2024 its intention to move to a closed-list proportional system with 96 members elected from 16 six-member constituencies from 2026, replacing the current AMS. This represents a significant departure that will provide further comparative data.
+
+      **Reform Attempts and Their Politics**
+
+      The Jenkins Commission (1998) remains the most thorough official examination of electoral reform for Westminster. Jenkins's recommendation of "AV Plus" -- a hybrid system combining the Alternative Vote for approximately 80-85 per cent of seats with a proportional top-up from open regional lists -- was designed to retain the constituency link while correcting FPTP's most egregious disproportionalities. The commission explicitly rejected pure list PR as incompatible with British political culture's emphasis on constituency representation, and rejected STV as requiring unfeasibly large constituencies in non-urban areas.
+
+      The 2011 AV referendum must be understood in its political context. AV is not a proportional system; the Electoral Reform Society itself has described it as only a "small step" from FPTP. The Liberal Democrats accepted AV as a compromise in coalition negotiations despite preferring STV. The No campaign, supported by the Conservative Party and significant Labour figures, effectively framed the question as a choice about Nick Clegg's personal popularity and the cost of a referendum rather than the merits of electoral reform. Academic analysis by Whiteley et al. (2012) found that voters were largely uninformed about the mechanics of AV and that the result reflected partisan cues rather than considered judgment about electoral systems.
+
+      **Constitutional Implications**
+
+      The operation of multiple electoral systems within the UK raises important constitutional questions. The principle of uniform electoral administration is qualified by the distinct systems used for different legislatures. The Elections Act 2022's replacement of the Supplementary Vote with FPTP for English mayoral and Police and Crime Commissioner elections was criticised by the Electoral Commission and the House of Lords Constitution Committee as reducing voter choice without adequate justification. The Act also removed the London Assembly's proportional element for constituency seats while retaining the London-wide list.
+
+      The relationship between electoral systems and constitutional conventions is also significant. The Salisbury Convention, for example, rests on the assumption that a Government's manifesto has democratic legitimacy -- an assumption weakened when a Government can command a two-thirds majority of seats on one-third of the vote. Bogdanor (2009) has argued that electoral reform is a prerequisite for meaningful constitutional reform, as FPTP sustains the executive dominance that characterises the Westminster model.
+
+      The growing salience of electoral reform in public discourse, driven by successive elections producing extreme disproportionality, suggests that the question settled by the 2011 referendum may not remain settled indefinitely. The experience of the devolved legislatures demonstrates that proportional systems can function effectively within British political culture, removing a key objection of reform opponents.
+    reading_age: null
+    sources:
+      - citation: "Jenkins, Lord, The Report of the Independent Commission on the Voting System (Cm 4090), October 1998"
+        url: "https://www.parliament.uk/globalassets/documents/commons/lib/research/rp98/rp98-112.pdf"
+        type: primary
+      - citation: "Electoral Commission, Report on the May 2011 Referendums"
+        url: "https://www.electoralcommission.org.uk/research-reports-and-data/our-reports-and-data-past-elections-and-referendums/report-2011-referendum-voting-system-used-uk-parliamentary-elections"
+        type: official
+      - citation: "Curtice, John, 'Proportional Representation in Scotland: Public Reactions and Consequences for the Party System', Representation, 42(4), 2006"
+        url: "https://doi.org/10.1080/00344890600951956"
+        type: secondary
+      - citation: "Lijphart, Arend, Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries, Yale University Press, 1999"
+        url: "https://yalebooks.yale.edu/book/9780300172027/patterns-of-democracy/"
+        type: primary
+      - citation: "Duverger, Maurice, Les Partis Politiques, 1951"
+        url: "https://archive.org/details/lespartispoliti00duvegoog"
+        type: primary
+      - citation: "House of Commons Library, UK Election Statistics: 1918-2024 (CBP-7529)"
+        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-7529/"
+        type: official
+      - citation: "Gallagher, Michael and Mitchell, Paul (eds.), The Politics of Electoral Systems, Oxford University Press, 2005"
+        url: "https://global.oup.com/academic/product/the-politics-of-electoral-systems-9780199257560"
+        type: primary
+      - citation: "Electoral Reform Society, The 2024 General Election: A Disproportionate Result"
+        url: "https://www.electoral-reform.org.uk/"
+        type: secondary
+      - citation: "Bogdanor, Vernon, The New British Constitution, Hart Publishing, 2009"
+        url: "https://www.bloomsbury.com/uk/new-british-constitution-9781849460194/"
+        type: primary
+      - citation: "UK Parliament, Voting Systems in the UK"
+        url: "https://www.parliament.uk/about/how/elections-and-voting/voting-systems/"
+        type: official
+
+glossary:
+  - term: "Proportional Representation"
+    definition_simple: "A way of running elections so that the number of seats a party wins matches more closely the number of votes it gets."
+    definition_full: "A category of electoral systems designed to produce a close correspondence between parties' shares of the total vote and their shares of seats in the legislature. PR systems include list-based methods, the Single Transferable Vote, and mixed systems with proportional top-ups."
+  - term: "Single Transferable Vote"
+    definition_simple: "A voting system where you rank candidates in order of preference and votes can be transferred between candidates so that fewer votes are wasted."
+    definition_full: "A preferential voting system used in multi-member constituencies in which voters rank candidates in order of preference. Candidates who reach the Droop quota are elected, and surplus votes or votes from eliminated candidates are transferred according to subsequent preferences. Used for Northern Ireland Assembly elections and Scottish local elections."
+  - term: "Additional Member System"
+    definition_simple: "A voting system where you get two votes -- one for a local candidate and one for a party -- so that the overall result is fairer to smaller parties."
+    definition_full: "A mixed electoral system combining single-member constituency seats (elected by FPTP) with regional list seats allocated proportionally to compensate for disproportionality in constituency results. Known internationally as Mixed-Member Proportional (MMP). Used for elections to the Scottish Parliament and the Senedd Cymru."
+  - term: "Alternative Vote"
+    definition_simple: "A voting system where you rank candidates in order, and if no one gets more than half the votes, the person with the fewest votes is knocked out and their supporters' second choices are counted."
+    definition_full: "A preferential voting system used in single-member constituencies in which voters rank candidates. If no candidate achieves an absolute majority of first preferences, the lowest-polling candidate is eliminated and their votes redistributed according to second preferences. The process repeats until a candidate crosses the 50 per cent threshold. Rejected by UK voters in the 2011 referendum."
+  - term: "Mixed-Member Proportional"
+    definition_simple: "Another name for the Additional Member System -- a way of voting where some seats go to local candidates and others go to party lists to make the result more proportional."
+    definition_full: "The international term for the Additional Member System (AMS). A mixed electoral system that combines single-member constituency representation with proportional list seats, using the list allocation to correct for disproportionality generated by the constituency results. Used in Germany and New Zealand as well as in Scotland and Wales."
+  - term: "Supplementary Vote"
+    definition_simple: "A voting system used for some elections where you could pick a first choice and a second choice, and if no one won outright, second choices were counted."
+    definition_full: "A preferential voting system in which voters mark a first and second preference. If no candidate achieves a majority of first preferences, all but the top two candidates are eliminated, and the second preferences of eliminated candidates' voters are redistributed between the remaining two. Formerly used for London mayoral and other directly elected mayoral elections in England, it was replaced by FPTP under the Elections Act 2022."
+
+did_you_know:
+  - fact: "Scotland, Wales, Northern Ireland, and London all use different voting systems from the one used to elect MPs to Westminster. So the UK actually runs four or five different types of election!"
+    level: [child, teenager]
+  - fact: "In the 2011 referendum on the Alternative Vote, 67.9 per cent of voters chose to keep First Past the Post. It was only the second UK-wide referendum in history, after the 1975 vote on EEC membership."
+    level: [teenager, adult]
+  - fact: "The Jenkins Commission in 1998 recommended a system called 'AV Plus' for Westminster elections, but the Government never held the promised referendum on its recommendation."
+    level: [adult, researcher]
+  - fact: "In the 2024 general election, it would have taken roughly 24,000 votes to elect each Labour MP, but approximately 800,000 votes to elect each Reform UK MP -- a striking illustration of how FPTP treats geographically dispersed support."
+    level: [teenager, adult, researcher]
+  - fact: "Northern Ireland has used proportional representation for its Assembly elections since 1998, specifically because the Single Transferable Vote was considered essential for fair cross-community representation in a divided society."
+    level: [adult, researcher]
+
+key_dates:
+  - year: 1998
+    event: "Jenkins Commission reports on electoral reform"
+    significance: "The Independent Commission on the Voting System, chaired by Lord Jenkins, recommended replacing FPTP with 'AV Plus' -- a mixed system combining the Alternative Vote with a proportional top-up. The recommendation was never implemented."
+    levels: [adult, researcher]
+  - year: 1999
+    event: "First elections to the Scottish Parliament and Welsh Assembly"
+    significance: "The first elections using the Additional Member System in the UK, demonstrating that proportional representation could work effectively within the British political context and producing coalition governments in both Scotland and Wales."
+    levels: [teenager, adult, researcher]
+  - year: 2007
+    event: "SNP forms first minority government in Scotland"
+    significance: "The Scottish National Party won one more seat than Labour under AMS and governed as a minority, demonstrating that proportional systems could produce stable minority as well as coalition governments."
+    levels: [adult, researcher]
+  - year: 2011
+    event: "UK-wide referendum on the Alternative Vote"
+    significance: "Voters rejected replacing FPTP with AV by 67.9 per cent to 32.1 per cent on a 42.2 per cent turnout. The result was widely interpreted as closing the door on electoral reform for Westminster, at least for a generation."
+    levels: [teenager, adult, researcher]
+  - year: 2022
+    event: "Elections Act replaces Supplementary Vote with FPTP for English mayors"
+    significance: "The Elections Act 2022 replaced the Supplementary Vote with First Past the Post for directly elected mayors and Police and Crime Commissioners in England, reversing the trend toward preferential voting for executive elections."
+    levels: [adult, researcher]
+
+key_figures:
+  - name: "Lord Jenkins of Hillhead"
+    role: "Chair of the Independent Commission on the Voting System"
+    description: "Roy Jenkins (1920-2003), former Labour Home Secretary and Chancellor, co-founder of the SDP, and later a Liberal Democrat peer, chaired the 1997-1998 commission that recommended AV Plus for Westminster elections. His report remains the most comprehensive official analysis of electoral reform for the House of Commons."
+    levels: [adult, researcher]
+  - name: "Arend Lijphart"
+    role: "Political scientist and comparative democracy scholar"
+    description: "Arend Lijphart (born 1936) is the author of 'Patterns of Democracy' (1999), which systematically compared majoritarian and consensus models of democracy across 36 countries. His work provided the theoretical framework for much of the electoral reform debate, arguing that proportional systems produce superior democratic outcomes."
+    levels: [researcher]
+  - name: "Nick Clegg"
+    role: "Deputy Prime Minister and Liberal Democrat leader (2010-2015)"
+    description: "Nick Clegg (born 1967) negotiated the 2011 AV referendum as a condition of the Conservative-Liberal Democrat coalition agreement. The Liberal Democrats' preferred system was STV, but they accepted AV as a compromise. The referendum's decisive defeat and the party's subsequent electoral collapse marked a significant setback for the reform movement."
+    levels: [teenager, adult, researcher]
+
+quizzes:
+  child:
+    - question: "In First Past the Post, does the winner need to get more than half of all the votes?"
+      type: true_false
+      correct_answer: "False"
+      explanation: "In First Past the Post, the person who gets the most votes wins, even if that is less than half of all the votes. They just need more votes than anyone else."
+    - question: "In Northern Ireland, how do people vote in Assembly elections?"
+      type: multiple_choice
+      options:
+        - "They put a cross next to one name"
+        - "They rank candidates by putting numbers next to names"
+        - "They vote for a party, not a person"
+      correct_answer: "They rank candidates by putting numbers next to names"
+      explanation: "Northern Ireland uses the Single Transferable Vote, where voters write 1 next to their favourite candidate, 2 next to their second choice, and so on."
+    - question: "How many votes do people get in Scottish Parliament elections?"
+      type: multiple_choice
+      options:
+        - "One"
+        - "Two"
+        - "Three"
+      correct_answer: "Two"
+      explanation: "In Scotland, voters get two votes -- one for a local candidate and one for a political party. This is called the Additional Member System."
+  teenager:
+    - question: "What was the result of the 2011 UK referendum on the Alternative Vote?"
+      type: multiple_choice
+      options:
+        - "AV was adopted by a narrow margin"
+        - "Voters rejected AV by 67.9 per cent to 32.1 per cent"
+        - "The referendum was abandoned due to low turnout"
+      correct_answer: "Voters rejected AV by 67.9 per cent to 32.1 per cent"
+      explanation: "The 2011 referendum resulted in a decisive vote to keep First Past the Post, with 67.9 per cent voting No on a turnout of 42.2 per cent."
+    - question: "True or false: The Additional Member System is used for elections to both the Scottish Parliament and the Senedd Cymru."
+      type: true_false
+      correct_answer: "True"
+      explanation: "Both the Scottish Parliament and the Senedd Cymru (Welsh Parliament) use the Additional Member System, where voters have two votes -- one for a constituency candidate and one for a regional party list."
+    - question: "What is the main criticism of First Past the Post?"
+      type: short_answer
+      correct_answer: "It can produce results where a party's share of seats does not match its share of the national vote, meaning many votes are effectively wasted."
+      explanation: "FPTP's main criticism is disproportionality -- parties can win large majorities of seats on a minority of votes, while other parties with significant support spread across the country win very few seats."
+  adult:
+    - question: "What electoral system did the Jenkins Commission recommend for Westminster elections?"
+      type: short_answer
+      correct_answer: "AV Plus -- a hybrid system combining the Alternative Vote for constituency seats with a proportional top-up of 15 to 20 per cent of seats allocated from open regional lists."
+      explanation: "The Jenkins Commission reported in 1998 and recommended AV Plus as a compromise that would retain constituency representation while correcting FPTP's most significant disproportionalities. The recommendation was never implemented."
+    - question: "Which electoral system was replaced by FPTP for English mayoral elections under the Elections Act 2022?"
+      type: multiple_choice
+      options:
+        - "The Additional Member System"
+        - "The Single Transferable Vote"
+        - "The Supplementary Vote"
+        - "The Alternative Vote"
+      correct_answer: "The Supplementary Vote"
+      explanation: "The Supplementary Vote, which allowed voters to mark a first and second preference, was used for London mayoral elections and other directly elected mayors. The Elections Act 2022 replaced it with FPTP."
+    - question: "How does the D'Hondt method work in the context of the Additional Member System?"
+      type: short_answer
+      correct_answer: "The D'Hondt method is a mathematical formula used to allocate the regional list seats in AMS. Each party's total vote is divided by the number of seats it has already won (constituency seats plus any list seats already allocated) plus one. The party with the highest resulting figure wins the next list seat, and the process repeats until all list seats are filled."
+      explanation: "The D'Hondt method ensures that the list seats compensate for disproportionality in the constituency results, making the overall outcome more proportional while still rewarding parties that win constituency seats."
+  researcher:
+    - question: "Evaluate the Jenkins Commission's decision to recommend AV Plus over STV or pure list PR for Westminster elections, considering the trade-offs between proportionality, constituency representation, and political feasibility."
+      type: essay
+      correct_answer: "Jenkins rejected pure list PR as incompatible with the British tradition of constituency representation, and STV as requiring impractically large constituencies outside urban areas. AV Plus was designed as a compromise: the AV element ensured constituency winners had broad support, while the 15-20 per cent proportional top-up from open regional lists would correct the most extreme disproportionalities. Critics argued this was neither proportional enough to satisfy reformers nor simple enough to win public support. The recommendation's failure to be implemented reflects the political difficulty of electoral reform when the beneficiaries of the current system control the legislative agenda."
+      explanation: "This question requires engagement with the commission's reasoning, comparative electoral system design, and the political economy of reform."
+    - question: "Assess the constitutional implications of the UK operating multiple electoral systems for different legislatures, with particular reference to democratic legitimacy and the Salisbury Convention."
+      type: essay
+      correct_answer: "The coexistence of FPTP at Westminster with proportional systems in the devolved legislatures creates an asymmetry in democratic legitimacy. Devolved governments typically rest on broader electoral support than UK governments, raising questions about the relative mandates of different levels of government. The Salisbury Convention assumes that a Government's manifesto has democratic authority, but this assumption is weakened when a Government can command a supermajority of seats on a minority of votes. Bogdanor (2009) argues that electoral reform is a prerequisite for meaningful constitutional reform, as FPTP sustains the executive dominance that characterises the Westminster model."
+      explanation: "This question connects electoral system design to broader constitutional theory, requiring analysis of how institutional design affects democratic legitimacy across the UK's multi-level governance structure."
+    - question: "How does the experience of STV in Northern Ireland inform the broader debate about electoral system choice in divided societies?"
+      type: short_answer
+      correct_answer: "STV was chosen for Northern Ireland specifically because it facilitates cross-community representation in multi-member constituencies, consistent with the consociational principles of the Belfast/Good Friday Agreement. It enables voters to choose between candidates of the same party and across community lines, fostering moderation and intra-party competition. This experience supports Lijphart's argument that proportional systems are particularly important in divided societies, where winner-take-all systems can exclude minority communities from representation."
+      explanation: "Northern Ireland provides a case study in the relationship between electoral systems and conflict resolution, demonstrating that system choice has implications beyond simple proportionality."
