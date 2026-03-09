@@ -4,6 +4,7 @@ import { initRouter } from '@core/router';
 import { renderHomePage } from './pages/home';
 import { renderCategoryPage } from './pages/category';
 import { renderTopicPage } from './pages/topic';
+import { renderGlossaryPage } from './pages/glossary';
 import { Logger } from '@utils/logger';
 import type { Route } from '@core/router';
 
@@ -28,6 +29,8 @@ function renderRoute(app: HTMLElement, route: Route): void {
             renderTopicPage(app, route.params.id);
             break;
         case 'glossary':
+            renderGlossaryPage(app);
+            break;
         case 'search':
         case 'not-found':
             // Placeholder — implemented in later tasks
