@@ -87,3 +87,30 @@ export function loadCategories(): Category[] {
     categoriesCache = [...entries[0]!.categories];
     return categoriesCache;
 }
+
+// --- Typed content API ---
+
+/** Return all loaded topics. */
+export function getTopics(): Topic[] {
+    return loadTopics();
+}
+
+/** Return a single topic by its `id` field, or `undefined` if not found. */
+export function getTopic(id: string): Topic | undefined {
+    return loadTopics().find(t => t.id === id);
+}
+
+/** Return all loaded categories. */
+export function getCategories(): Category[] {
+    return loadCategories();
+}
+
+/** Return a single category by its `id` field, or `undefined` if not found. */
+export function getCategory(id: string): Category | undefined {
+    return loadCategories().find(c => c.id === id);
+}
+
+/** Return the glossary as a keyed lookup map (lowercase term → GlossaryTerm). */
+export function getGlossary(): Map<string, GlossaryTerm> {
+    return loadGlossary();
+}

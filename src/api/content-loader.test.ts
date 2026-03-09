@@ -1,5 +1,15 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { loadTopics, loadCategories, loadGlossary, clearCache } from './content-loader';
+import {
+    loadTopics,
+    loadCategories,
+    loadGlossary,
+    clearCache,
+    getTopics,
+    getTopic,
+    getCategories,
+    getCategory,
+    getGlossary,
+} from './content-loader';
 
 describe('loadTopics', () => {
     beforeEach(() => {
@@ -159,5 +169,81 @@ describe('loadGlossary', () => {
         const second = loadGlossary();
         expect(first).not.toBe(second);
         expect(second.size).toBeGreaterThan(0);
+    });
+});
+
+describe('getTopics', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns all 36 topics', () => {
+        expect(getTopics()).toHaveLength(36);
+    });
+
+    it('returns same array as loadTopics', () => {
+        expect(getTopics()).toBe(loadTopics());
+    });
+});
+
+describe('getTopic', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns a topic by id', () => {
+        const topic = getTopic('what-is-parliament');
+        expect(topic).toBeDefined();
+        expect(topic!.id).toBe('what-is-parliament');
+    });
+
+    it('returns undefined for unknown id', () => {
+        expect(getTopic('non-existent-topic-id')).toBeUndefined();
+    });
+});
+
+describe('getCategories', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns all 8 categories', () => {
+        expect(getCategories()).toHaveLength(8);
+    });
+
+    it('returns same array as loadCategories', () => {
+        expect(getCategories()).toBe(loadCategories());
+    });
+});
+
+describe('getCategory', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns a category by id', () => {
+        const category = getCategory('parliament-basics');
+        expect(category).toBeDefined();
+        expect(category!.id).toBe('parliament-basics');
+    });
+
+    it('returns undefined for unknown id', () => {
+        expect(getCategory('non-existent-category')).toBeUndefined();
+    });
+});
+
+describe('getGlossary', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns the glossary map', () => {
+        const glossary = getGlossary();
+        expect(glossary).toBeInstanceOf(Map);
+        expect(glossary.size).toBe(185);
+    });
+
+    it('returns same map as loadGlossary', () => {
+        expect(getGlossary()).toBe(loadGlossary());
     });
 });
