@@ -217,6 +217,28 @@ key_figures:
     description: "Led the Chinese Communist Party to victory in the Chinese Civil War and proclaimed the People's Republic in 1949. Adapted Marxism-Leninism to Chinese conditions by centring revolution on the peasantry. His campaigns, including the Great Leap Forward and the Cultural Revolution, caused tens of millions of deaths and reshaped Chinese society."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "Capitalism, Communism, & Political Economies: Crash Course Geography #38"
+    url: "https://www.youtube.com/watch?v=X2ZIDALAkXo"
+    source: "CrashCourse"
+    description: "Traces how capitalism and communism shaped the economies of Bulgaria and Germany after World War II, explaining the core differences between the two systems."
+    levels: [teenager, adult]
+  - title: "POLITICAL THEORY - Karl Marx"
+    url: "https://www.youtube.com/watch?v=fSQgCy_iIcc"
+    source: "The School of Life"
+    description: "An animated introduction to Karl Marx's ideas about capitalism, class struggle, and his vision for a communist society."
+    levels: [teenager, adult]
+  - title: "Capitalism and Socialism: Crash Course World History #33"
+    url: "https://www.youtube.com/watch?v=B3u4EFTwprM"
+    source: "CrashCourse"
+    description: "John Green covers how industrial capitalism gave rise to socialism and Marxism, tracing the history of economic thought from the Industrial Revolution onward."
+    levels: [adult, researcher]
+  - title: "The Fall of Communism: Crash Course European History #47"
+    url: "https://www.youtube.com/watch?v=OfJ8Wzanhr4"
+    source: "CrashCourse"
+    description: "Examines the collapse of communist regimes across Eastern Europe after the fall of the Soviet Union, and how former satellite states transitioned away from communist rule."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is the main idea behind communism?"

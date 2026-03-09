@@ -198,6 +198,28 @@ key_figures:
     description: "As Leader of the House, Jacob Rees-Mogg oversaw the passage of the Dissolution and Calling of Parliament Act 2022, which repealed the Fixed-term Parliaments Act and restored the prerogative power of dissolution. The legislation was a direct response to the perceived constitutional difficulties created by the FTPA, including the parliamentary deadlock of 2019."
     levels: [researcher]
 
+video_links:
+  - title: "What happens during the State Opening of Parliament?"
+    url: "https://www.youtube.com/watch?v=8jLOrk23YPw"
+    source: "UK Parliament"
+    description: "Explains the ceremony and traditions of the State Opening of Parliament, which marks the formal start of each new parliamentary session."
+    levels: [child, teenager]
+  - title: "What is prorogation? | House of Lords"
+    url: "https://www.youtube.com/watch?v=CfkAZnVVRjc"
+    source: "House of Lords"
+    description: "Explains what prorogation means, how it ends a parliamentary session, and the constitutional significance of the process."
+    levels: [teenager, adult]
+  - title: "What is the Procedure Committee's role in determining the rules governing House of Commons business?"
+    url: "https://www.youtube.com/watch?v=a6ZGw24c-R0"
+    source: "UK Parliament"
+    description: "An overview of how the Procedure Committee reviews and updates the Standing Orders and rules that govern how the House of Commons conducts its business."
+    levels: [adult, researcher]
+  - title: "UK Parliament Open Lecture - A rule to go by: what is the point of parliamentary procedure?"
+    url: "https://www.youtube.com/watch?v=Onfwnfhuses"
+    source: "UK Parliament"
+    description: "An in-depth academic lecture exploring why parliamentary procedure matters, how Standing Orders evolved, and how procedural rules shape democratic governance."
+    levels: [researcher]
+
 quizzes:
   child:
     - question: "What are Standing Orders?"

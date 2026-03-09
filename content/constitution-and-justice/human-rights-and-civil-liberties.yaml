@@ -208,6 +208,23 @@ key_figures:
     description: "Before entering politics, Keir Starmer served as a human rights barrister and was involved in cases before the European Court of Human Rights. As Director of Public Prosecutions, he oversaw the application of human rights principles within the criminal justice system. His legal career illustrates the practical impact of the HRA on the administration of justice."
     levels: [adult, researcher]
 
+video_links:
+  - title: "Human Rights Explained In A Beautiful Two Minute Animation"
+    url: "https://www.youtube.com/watch?v=pRGhrYmUjU4"
+    source: "EachOther"
+    description: "A beautifully animated two-minute video explaining what human rights are, where they came from, and how the Human Rights Act protects everyone in the UK."
+    levels: [child, teenager]
+  - title: "What are the universal human rights? - Benedetta Berti"
+    url: "https://www.youtube.com/watch?v=nDgIVseTkuE"
+    source: "TED-Ed"
+    description: "A TED-Ed animated lesson tracing the history of human rights from ancient civilisations through to the Universal Declaration of Human Rights and modern protections."
+    levels: [teenager, adult]
+  - title: "Your human rights"
+    url: "https://www.youtube.com/watch?v=VO7oS8PqkJY"
+    source: "Equality and Human Rights Commission"
+    description: "An official video from the UK's Equality and Human Rights Commission explaining the specific rights protected under the Human Rights Act and how they apply in practice."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What does the Human Rights Act protect?"

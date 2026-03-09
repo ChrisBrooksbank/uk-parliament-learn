@@ -208,6 +208,28 @@ key_figures:
     description: "Tom Bingham (1933-2010) served as Master of the Rolls, Lord Chief Justice, and Senior Law Lord. His book 'The Rule of Law' (2010) articulated eight sub-rules that define the principle, and his judicial decisions were instrumental in developing the modern understanding of the rule of law as a substantive constitutional principle in the UK. He has been described as the greatest English judge of his generation."
     levels: [adult, researcher]
 
+video_links:
+  - title: "How is power divided in the United States government? - Belinda Stutzman"
+    url: "https://www.youtube.com/watch?v=HuFR5XBYLfU"
+    source: "TED-Ed"
+    description: "An animated explainer showing how the constitution divides power among three branches of government, with checks and balances to prevent any one branch from becoming too powerful."
+    levels: [child, teenager]
+  - title: "Separation of Powers and Checks and Balances: Crash Course Government and Politics #3"
+    url: "https://www.youtube.com/watch?v=0bf3CwYCxXw"
+    source: "CrashCourse"
+    description: "Explains how the separation of powers between the legislative, executive, and judicial branches works in practice, and how checks and balances safeguard against the abuse of power."
+    levels: [teenager, adult]
+  - title: "Democracy Is Being Tested. Citizen Assemblies Can Help | Ketakandriana Rafitoson"
+    url: "https://www.youtube.com/watch?v=hHYe3O7_TUA"
+    source: "TED"
+    description: "Explores how citizen assemblies empower ordinary people to protect democratic rights, debate civic questions, and strengthen democratic safeguards from the grassroots level."
+    levels: [adult, researcher]
+  - title: "How To Spot Authoritarianism — and Choose Democracy | Ian Bassin"
+    url: "https://www.youtube.com/watch?v=T-vVO3nRFzI"
+    source: "TED"
+    description: "Lawyer Ian Bassin explains the seven steps of the authoritarian playbook and how democratic institutions and safeguards can be defended against erosion."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "Why is it important that judges are independent -- not on anyone's side?"

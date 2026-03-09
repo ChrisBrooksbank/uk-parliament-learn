@@ -185,6 +185,23 @@ key_figures:
     description: "Presided over the Supreme Court's landmark decision in R v Chaytor [2010], which established that parliamentary privilege did not extend to the submission of expense claims by MPs. The decision was significant in defining the boundaries of Article 9 protection and affirming that privilege serves Parliament's legislative and scrutiny functions rather than the personal interests of members."
     levels: [researcher]
 
+video_links:
+  - title: "The Speaker Explains: Keeping Order in the House of Commons"
+    url: "https://www.youtube.com/watch?v=i9EQN-6v43I"
+    source: "UK Parliament"
+    description: "The Speaker of the House of Commons explains how order is maintained in the chamber, including the protections and rules that allow MPs to speak freely during debates."
+    levels: [child, teenager]
+  - title: "1689 Bill of Rights by Ross Sinclair"
+    url: "https://www.youtube.com/watch?v=5uNiYEbQlyk"
+    source: "UK Parliament"
+    description: "An exploration of the 1689 Bill of Rights, which established key parliamentary privileges including Article 9's protection of freedom of speech in Parliament."
+    levels: [teenager, adult]
+  - title: "Parliamentary Privilege and the Bill of Rights"
+    url: "https://www.youtube.com/watch?v=484NelduP3A"
+    source: "Art of Law"
+    description: "A legal analysis of parliamentary privilege, covering its origins in the Bill of Rights 1689, the scope of Article 9 protection, and its modern application."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "Why do MPs have special protection to speak freely in Parliament?"

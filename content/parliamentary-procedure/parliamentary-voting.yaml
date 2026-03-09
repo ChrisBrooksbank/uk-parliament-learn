@@ -187,6 +187,23 @@ key_figures:
     description: "Exercised the casting vote on multiple occasions during the Brexit-related proceedings of 2019, applying Denison's Rule in novel procedural circumstances. His decisions demonstrated the continuing relevance and application of the casting vote convention."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "How do MPs vote in the House of Commons? | Exploring the House of Commons | BBC Teach"
+    url: "https://www.youtube.com/watch?v=J6e_XoSuopo"
+    source: "BBC Bitesize for Teachers"
+    description: "BBC Teach explains how MPs vote by walking through the division lobbies, including the role of tellers and the whip system."
+    levels: [child, teenager]
+  - title: "UK Parliament tour - Bills and Voting"
+    url: "https://www.youtube.com/watch?v=ctrfygrTAQU"
+    source: "UK Parliament"
+    description: "A tour of the UK Parliament focusing on how bills progress through the legislative process and how voting works in the division lobbies."
+    levels: [teenager, adult]
+  - title: "What happens when a vote is tied in the House of Lords?"
+    url: "https://www.youtube.com/watch?v=BecwfYAPsdY"
+    source: "House of Lords"
+    description: "Explains the rules governing tied votes in the House of Lords, where a tied vote means the motion is defeated without the need for a casting vote."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "How do MPs vote in the House of Commons?"

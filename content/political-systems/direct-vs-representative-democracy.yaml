@@ -207,6 +207,23 @@ key_figures:
     description: "Author of 'Participation and Democratic Theory' (1970), which challenged the dominant minimalist model of democracy by arguing that participation in workplace and social institutions builds the civic capacities essential for effective democratic participation at the state level. Her work laid theoretical foundations for citizens' assemblies and participatory budgeting."
     levels: [researcher]
 
+video_links:
+  - title: "Democracy - A short introduction"
+    url: "https://www.youtube.com/watch?v=u6jgWxkbR7A"
+    source: "MinuteVideos"
+    description: "A clear, animated three-minute overview of how democracy works, covering both direct and representative forms of democratic government."
+    levels: [child, teenager]
+  - title: "What did democracy really mean in Athens? - Melissa Schwartzberg"
+    url: "https://www.youtube.com/watch?v=0fivQUlC7-8"
+    source: "TED-Ed"
+    description: "Explores how direct democracy functioned in ancient Athens, where citizens voted on laws themselves, and asks whether a lottery system might benefit modern democracies."
+    levels: [teenager, adult]
+  - title: "Why Socrates Hated Democracy"
+    url: "https://www.youtube.com/watch?v=fLJBzhcSWTk"
+    source: "The School of Life"
+    description: "Examines Socrates' concerns about direct democracy and the risks of uninformed voting, raising questions still debated about representative versus direct systems."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is the main difference between direct democracy and representative democracy?"

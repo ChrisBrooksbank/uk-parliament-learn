@@ -183,6 +183,23 @@ key_figures:
     description: "Became the first Lord Speaker when the role was created in 2006, replacing the centuries-old practice of the Lord Chancellor presiding over the House of Lords."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "A look inside the House of Lords chamber"
+    url: "https://www.youtube.com/watch?v=V7PSkYx-5KM"
+    source: "House of Lords"
+    description: "Official tour of the House of Lords chamber, showing its layout, the Woolsack, the throne, and explaining the traditions of the second chamber."
+    levels: [child, teenager]
+  - title: "How do you become a Lord?"
+    url: "https://www.youtube.com/watch?v=RrQBTvRj0s8"
+    source: "Jay Foreman"
+    description: "Entertaining explanation of the different routes into the House of Lords, including life peers, hereditary peers, and bishops."
+    levels: [teenager, adult]
+  - title: "From debate to law: A bill's journey through the House of Lords"
+    url: "https://www.youtube.com/watch?v=eao0CMk124Y"
+    source: "House of Lords"
+    description: "Official House of Lords video tracing how a bill is debated, amended, and passed through the Lords as part of the legislative process."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What colour are the seats in the House of Lords?"

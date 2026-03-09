@@ -177,6 +177,28 @@ key_figures:
     description: "Played a key role in establishing the post-war machinery of government and the system of Cabinet committees. His work on the organisation of government departments helped shape the modern Whitehall structure."
     levels: [adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation providing an overview of how Parliament and Government work, including the role of ministers and departments."
+    levels: [child, teenager]
+  - title: "BBC The Great Offices of State: 1. The Dark Department"
+    url: "https://www.youtube.com/watch?v=TyGhg8BmECw"
+    source: "BBC"
+    description: "BBC documentary exploring the history and inner workings of the Home Office, one of the oldest and most powerful government departments."
+    levels: [adult, researcher]
+  - title: "BBC The Great Offices of State: 3. The Secret Treasury"
+    url: "https://www.youtube.com/watch?v=NEwdo_AlqKQ"
+    source: "BBC"
+    description: "BBC documentary examining the Treasury, the government department responsible for economic and financial policy, and the role of the Chancellor of the Exchequer."
+    levels: [adult, researcher]
+  - title: "How to be Foreign Secretary"
+    url: "https://www.youtube.com/watch?v=WZCZp44kERg"
+    source: "BBC"
+    description: "BBC documentary examining the role, responsibilities and challenges of serving as Foreign Secretary, one of the Great Offices of State."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is a Secretary of State?"

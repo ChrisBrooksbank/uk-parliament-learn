@@ -189,6 +189,23 @@ key_figures:
     description: "Led the JCHR's scrutiny of the human rights implications of government legislation including the EU Withdrawal Bill, demonstrating the role of joint committees in constitutional scrutiny."
     levels: [adult, researcher]
 
+video_links:
+  - title: "What are select committees?"
+    url: "https://www.youtube.com/watch?v=la_v9tPA00Y"
+    source: "UK Parliament"
+    description: "A brief introduction to what select committees are, how they are formed, and what role they play in holding the government to account."
+    levels: [child, teenager]
+  - title: "How do House of Commons Select Committees work?"
+    url: "https://www.youtube.com/watch?v=o_2RDuDs44c"
+    source: "UK Parliament"
+    description: "A detailed look at how select committees operate, including how they conduct inquiries, take evidence from witnesses, and produce reports that influence government policy."
+    levels: [teenager, adult]
+  - title: "What are select committees and how do they work?"
+    url: "https://www.youtube.com/watch?v=iLvNmMJmD0w"
+    source: "UK Parliament"
+    description: "An in-depth guide to select committees covering their formation, membership, the inquiry process, and their impact on government scrutiny."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is the main job of a select committee?"

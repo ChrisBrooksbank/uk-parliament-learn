@@ -181,6 +181,23 @@ key_figures:
     description: "Led a minority Labour government that relied on the Lib-Lab Pact (1977-1978) and was ultimately brought down by the last successful vote of no confidence in a UK government, losing by a single vote in March 1979."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation introducing how Parliament works, including elections, the formation of government, and how parties need a majority to govern."
+    levels: [child, teenager]
+  - title: "Who's in charge of Britain?"
+    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "An entertaining and educational exploration of who actually runs Britain, covering how government is formed and the complex distribution of power when no single party has full control."
+    levels: [teenager, adult]
+  - title: "Why Your Vote Doesn't Count"
+    url: "https://www.youtube.com/watch?v=s7tWHJfhiyo"
+    source: "CGP Grey"
+    description: "An animated explanation of the problems with First Past the Post voting, including how the system can produce results where no party wins a clear majority, leading to hung parliaments and coalition governments."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "What is a hung parliament?"

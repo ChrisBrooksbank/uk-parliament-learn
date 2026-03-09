@@ -192,6 +192,23 @@ key_figures:
     description: "Created the Nolan Chart in 1969, a two-axis model plotting personal freedom and economic freedom independently. His chart challenged the one-dimensional left-right model and became closely associated with the US Libertarian Party, which Nolan co-founded in 1971."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "Political Ideology: Crash Course Government and Politics #35"
+    url: "https://www.youtube.com/watch?v=j_k_k-bHigM"
+    source: "CrashCourse"
+    description: "Explores the American political spectrum, explaining what it means to be liberal or conservative and how political ideologies are measured and categorised."
+    levels: [teenager, adult]
+  - title: "The moral roots of liberals and conservatives - Jonathan Haidt"
+    url: "https://www.youtube.com/watch?v=8SOQduoLgRw"
+    source: "TED-Ed"
+    description: "Psychologist Jonathan Haidt examines the five moral values that form the basis of political choices across the left-right spectrum, showing why people on different sides see the world so differently."
+    levels: [adult, researcher]
+  - title: "The psychological traits that shape your political beliefs | Dannagal G. Young"
+    url: "https://www.youtube.com/watch?v=ZSJzPB4qrxU"
+    source: "TED"
+    description: "Social psychologist Dannagal G. Young explains how personality types -- those who prioritise openness and flexibility versus those who prefer order and certainty -- map onto the political spectrum."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "Where do the words 'left' and 'right' in politics come from?"

@@ -197,6 +197,23 @@ key_figures:
     description: "One of the leading contemporary scholars of the British constitution, whose works including 'The New British Constitution' (2009) have analysed the transformation of the constitutional order through devolution, human rights legislation, and institutional reform."
     levels: [researcher]
 
+video_links:
+  - title: "The Difference between the United Kingdom, Great Britain and England Explained"
+    url: "https://www.youtube.com/watch?v=rNu8XDBSn10"
+    source: "CGP Grey"
+    description: "An engaging animated explainer about how the UK is structured as a country of countries, providing essential context for understanding the UK's unique constitutional arrangements."
+    levels: [child, teenager]
+  - title: "What are the universal human rights? - Benedetta Berti"
+    url: "https://www.youtube.com/watch?v=nDgIVseTkuE"
+    source: "TED-Ed"
+    description: "A TED-Ed animated lesson explaining the history and principles of universal human rights, which form a key source of the UK's constitutional framework through the Human Rights Act."
+    levels: [teenager, adult]
+  - title: "Your human rights"
+    url: "https://www.youtube.com/watch?v=VO7oS8PqkJY"
+    source: "Equality and Human Rights Commission"
+    description: "An official video from the UK's Equality and Human Rights Commission explaining the rights protected under UK law, which form part of the constitutional framework."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "Does the United Kingdom have one single document that sets out all the rules for running the country?"

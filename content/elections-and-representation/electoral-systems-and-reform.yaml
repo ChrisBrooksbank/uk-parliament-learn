@@ -236,6 +236,28 @@ key_figures:
     description: "Nick Clegg (born 1967) negotiated the 2011 AV referendum as a condition of the Conservative-Liberal Democrat coalition agreement. The Liberal Democrats' preferred system was STV, but they accepted AV as a compromise. The referendum's decisive defeat and the party's subsequent electoral collapse marked a significant setback for the reform movement."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "Why Your Vote Doesn't Count"
+    url: "https://www.youtube.com/watch?v=s7tWHJfhiyo"
+    source: "CGP Grey"
+    description: "An animated explainer on the problems with the First Past the Post voting system, showing how it produces unrepresentative results and encourages two-party dominance."
+    levels: [teenager, adult]
+  - title: "The Mathematically Superior Voting System"
+    url: "https://www.youtube.com/watch?v=3Y3jE3B8HsE"
+    source: "CGP Grey"
+    description: "Explains the Alternative Vote (also known as ranked-choice voting or instant-runoff voting), the system proposed in the UK's 2011 referendum, and how it differs from First Past the Post."
+    levels: [teenager, adult]
+  - title: "The Voting System That Fixes Everything"
+    url: "https://www.youtube.com/watch?v=l8XOZJkozfI"
+    source: "CGP Grey"
+    description: "Explains the Single Transferable Vote (STV), the proportional system used in Northern Ireland and Scottish local elections, and why reformers consider it the gold standard for fair representation."
+    levels: [teenager, adult, researcher]
+  - title: "The UK Election Results Were the Worst in History"
+    url: "https://www.youtube.com/watch?v=r9rGX91rq5I"
+    source: "CGP Grey"
+    description: "Analyses how UK general election results under First Past the Post produced historically disproportionate outcomes, making the case for electoral reform with real data."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "In First Past the Post, does the winner need to get more than half of all the votes?"

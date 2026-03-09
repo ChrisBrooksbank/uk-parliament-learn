@@ -188,6 +188,23 @@ key_figures:
     description: "In his 1995 essay 'Ur-Fascism,' Eco drew on his childhood under Mussolini's regime to identify fourteen properties of 'Eternal Fascism,' arguing that these features form a family of resemblances rather than a systematic doctrine, and that any single feature can serve as a nucleus for fascism to coalesce around."
     levels: [adult, researcher]
 
+video_links:
+  - title: "How did Hitler rise to power? - Alex Gendler and Anthony Hazard"
+    url: "https://www.youtube.com/watch?v=jFICRFKtAc4"
+    source: "TED-Ed"
+    description: "An animated explainer showing how a tyrant rose to power in a democratic country, illustrating the fragility of democracy when fear and propaganda take hold."
+    levels: [teenager, adult]
+  - title: "Economic Depression and Dictators: Crash Course European History #37"
+    url: "https://www.youtube.com/watch?v=Ojo8-GhhQcA"
+    source: "CrashCourse"
+    description: "Covers the rise of fascist dictatorships across Europe during the 1930s, including Mussolini and Hitler, and the economic conditions that allowed them to seize power."
+    levels: [teenager, adult]
+  - title: "Why fascism is so tempting -- and how your data could power it | Yuval Noah Harari"
+    url: "https://www.youtube.com/watch?v=xHHb7R3kx40"
+    source: "TED"
+    description: "Historian Yuval Noah Harari explains the difference between fascism and nationalism, and warns how modern data collection could enable new forms of authoritarian control."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What happens to people's choices in a fascist country?"

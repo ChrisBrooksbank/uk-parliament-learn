@@ -220,6 +220,23 @@ key_figures:
     description: "A long-standing figure in Eurosceptic and right-wing populist politics, Farage led UKIP and the Brexit Party before becoming leader of Reform UK. He was first elected to Parliament in 2024, having previously served as a Member of the European Parliament."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "The official UK Parliament animation introducing how Parliament works, including the role of political parties, the Government and Opposition, and how MPs represent their constituencies."
+    levels: [child, teenager]
+  - title: "Whom should I vote for?"
+    url: "https://www.youtube.com/watch?v=KIrCOfDbL_E"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "A witty guide to understanding what different UK political parties stand for and how to decide which one to support at election time."
+    levels: [teenager, adult]
+  - title: "What is tactical voting?"
+    url: "https://www.youtube.com/watch?v=PQRyGacBRA4"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "Explains how the first past the post system leads to tactical voting, where voters choose a party they do not fully support in order to keep out a party they like even less."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "What are the two biggest political parties in the UK?"

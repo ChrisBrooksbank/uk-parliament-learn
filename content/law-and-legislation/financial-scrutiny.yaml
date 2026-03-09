@@ -268,6 +268,31 @@ key_figures:
     description: "Robert Chote, formerly director of the Institute for Fiscal Studies, served as the first permanent chair of the OBR's Budget Responsibility Committee. He established the OBR's reputation for independence and rigorous analysis, setting institutional norms that have proved durable."
     levels: [adult, researcher]
 
+video_links:
+  - title: "What is the Budget?"
+    url: "https://www.youtube.com/watch?v=7wEBs5hWBiY"
+    source: "UK Parliament"
+    description: "An accessible introduction to the UK Budget, explaining what it is, how the Chancellor presents it to Parliament, and why it matters for public spending and taxation."
+    levels: [child, teenager]
+
+  - title: "Checking government taxation and spending"
+    url: "https://www.youtube.com/watch?v=w5SCMPSs-yI"
+    source: "UK Parliament"
+    description: "Explains how Parliament checks the Government's plans for raising and spending money, covering the role of the House of Commons in approving taxation and expenditure."
+    levels: [teenager, adult]
+
+  - title: "Scrutinising Government"
+    url: "https://www.youtube.com/watch?v=MXXYz8Vu-P8"
+    source: "UK Parliament"
+    description: "An overview of how Parliament holds the Government to account, including the role of select committees, questions, and debates in scrutinising Government policy and spending."
+    levels: [teenager, adult]
+
+  - title: "Chancellor of the Exchequer, Budget Scrutiny 2024 – Treasury Committee"
+    url: "https://www.youtube.com/watch?v=7yEvQLcIPXQ"
+    source: "UK Parliament"
+    description: "Full recording of the Treasury Select Committee questioning the Chancellor of the Exchequer on the 2024 Budget, demonstrating parliamentary financial scrutiny in practice."
+    levels: [researcher]
+
 quizzes:
   child:
     - question: "What is the Budget?"

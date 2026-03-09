@@ -196,6 +196,28 @@ key_figures:
     description: "The first female President of the Supreme Court, who delivered the unanimous judgment in the Miller/Cherry prorogation case (2019). A champion of judicial diversity, she was the first woman appointed to the House of Lords as a Lord of Appeal in Ordinary (2004) and oversaw a period of heightened public attention on the court's constitutional role."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "What is the Supreme Court?"
+    url: "https://www.youtube.com/watch?v=axmP1TxaAkE"
+    source: "UK Supreme Court"
+    description: "An official introductory video from the UK Supreme Court explaining what the court is, what it does, and why it matters."
+    levels: [child, teenager]
+  - title: "Introduction to the Supreme Court"
+    url: "https://www.youtube.com/watch?v=lz1NSeazk7g"
+    source: "UK Supreme Court"
+    description: "A more detailed official introduction to the UK Supreme Court, covering its role, structure, and how it operates as the highest court in the United Kingdom."
+    levels: [teenager, adult]
+  - title: "Independence of the Supreme Court"
+    url: "https://www.youtube.com/watch?v=XclZLhg4j5A"
+    source: "UK Supreme Court"
+    description: "An official video exploring the principle of judicial independence and how the Supreme Court operates separately from Parliament and government."
+    levels: [adult, researcher]
+  - title: "Impact of the UK Supreme Court"
+    url: "https://www.youtube.com/watch?v=jrnKQp2JJwI"
+    source: "UK Supreme Court"
+    description: "An official video examining the wider impact of the Supreme Court's decisions on law, government, and society across the United Kingdom."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is the highest court in the United Kingdom?"

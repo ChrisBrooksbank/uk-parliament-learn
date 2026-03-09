@@ -188,6 +188,23 @@ key_figures:
     description: "Albert Venn Dicey was a Vinerian Professor of English Law at Oxford whose 1885 work 'Introduction to the Study of the Law of the Constitution' defined the orthodox doctrine of parliamentary sovereignty that remains central to British constitutional law."
     levels: [adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation introducing the three parts of Parliament, how laws are made, and how citizens can get involved in democracy."
+    levels: [child, teenager]
+  - title: "Parliament structure explained"
+    url: "https://www.youtube.com/watch?v=SlPSAOa4vR4"
+    source: "UK Parliament"
+    description: "Short explainer from the UK Parliament channel breaking down how the House of Commons, House of Lords, and the Monarch work together."
+    levels: [teenager, adult]
+  - title: "Who's in charge of Britain?"
+    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
+    source: "Jay Foreman"
+    description: "Entertaining and educational look at the fragmented authority structures in British government, from devolved parliaments to local councils."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "How many parts make up Parliament?"

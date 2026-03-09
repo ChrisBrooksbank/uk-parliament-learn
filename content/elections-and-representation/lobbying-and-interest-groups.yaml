@@ -267,6 +267,23 @@ key_figures:
     description: "John Major established the Committee on Standards in Public Life in 1994 in response to the 'cash for questions' scandal, in which MPs were found to have accepted payments from the businessman Mohamed Al-Fayed to ask questions in Parliament. The Committee and the Nolan Principles it established have become central to the regulation of public standards in the UK."
     levels: [adult, researcher]
 
+video_links:
+  - title: "Interest Groups: Crash Course Government and Politics #42"
+    url: "https://www.youtube.com/watch?v=bOvBA7oIIgc"
+    source: "CrashCourse"
+    description: "Explains what interest groups are, how they form, and the methods they use to influence government policy, including lobbying, litigation, and grassroots campaigns."
+    levels: [teenager, adult]
+  - title: "Why don't politicians answer questions?"
+    url: "https://www.youtube.com/watch?v=T8QOE-IWo3I"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "A humorous look at how politicians evade direct questions, exploring the pressures from party whips, the media, and interest groups that shape how MPs communicate."
+    levels: [teenager, adult]
+  - title: "How Does Lobbying REALLY Work?"
+    url: "https://www.youtube.com/watch?v=nhNsb6tVAI0"
+    source: "Above The Noise"
+    description: "Explores what lobbyists actually do, the role of money in political influence, and whether lobbying helps or hinders democracy, with examples from both corporate and non-profit lobbying."
+    levels: [teenager, adult, researcher]
+
 quizzes:
   child:
     - question: "What does lobbying mean?"

@@ -209,6 +209,28 @@ key_figures:
     description: "Led the National Union of Women's Suffrage Societies (NUWSS) and campaigned for women's suffrage through constitutional and peaceful means for over fifty years. Her patient, strategic approach complemented the militant tactics of the suffragettes and was recognised when her statue was unveiled in Parliament Square in 2018."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "Horrible Histories | Epic Magna Carta Rap Battle | CBBC"
+    url: "https://www.youtube.com/watch?v=F_5My8XH-n0"
+    source: "CBBC"
+    description: "Fun musical sketch from Horrible Histories dramatising the confrontation between King John and the Barons that led to the sealing of Magna Carta in 1215."
+    levels: [child, teenager]
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation covering how Parliament began, its evolution over time, and how it works today."
+    levels: [child, teenager]
+  - title: "Who's in charge of Britain?"
+    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
+    source: "Jay Foreman"
+    description: "Explores the layers of authority in Britain today, from Parliament and devolved governments to local councils, providing context for how parliamentary power evolved."
+    levels: [teenager, adult]
+  - title: "Parliament structure explained"
+    url: "https://www.youtube.com/watch?v=SlPSAOa4vR4"
+    source: "UK Parliament"
+    description: "Concise explainer from the UK Parliament channel on how the three parts of Parliament work together in the modern constitutional framework."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What was Magna Carta?"

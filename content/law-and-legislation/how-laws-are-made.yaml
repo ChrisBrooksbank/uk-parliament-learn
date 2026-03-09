@@ -336,6 +336,31 @@ key_figures:
     description: "Championed the Modernisation Committee reforms that introduced pre-legislative scrutiny and Public Bill Committees with evidence-taking powers, significantly enhancing parliamentary scrutiny of legislation."
     levels: [researcher]
 
+video_links:
+  - title: "How laws are made (primary)"
+    url: "https://www.youtube.com/watch?v=sfpHjnkGwmQ"
+    source: "UK Parliament"
+    description: "An animated introduction to how Parliament makes laws, designed for primary school audiences. Covers the basic journey of a Bill through Parliament."
+    levels: [child, teenager]
+
+  - title: "How does a Bill become a Law?"
+    url: "https://www.youtube.com/watch?v=1KFGt9M-j28"
+    source: "UK Parliament"
+    description: "An educational overview of the stages a Bill passes through in both Houses of Parliament before receiving Royal Assent and becoming an Act of Parliament."
+    levels: [teenager, adult]
+
+  - title: "How Do Laws Get Passed In The UK?"
+    url: "https://www.youtube.com/watch?v=g5CJNLRqZXs"
+    source: "TLDR News"
+    description: "An accessible explainer covering the UK legislative process, including the different types of Bills, parliamentary stages, and the role of both Houses."
+    levels: [teenager, adult]
+
+  - title: "What is the passage of a bill?"
+    url: "https://www.youtube.com/watch?v=d36rCcMA2X8"
+    source: "UK Parliament"
+    description: "A detailed look at the formal passage of a Bill through Parliament, explaining each stage from First Reading to Royal Assent and the ping-pong process between the Houses."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is a Bill?"

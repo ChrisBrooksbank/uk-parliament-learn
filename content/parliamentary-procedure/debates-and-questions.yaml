@@ -186,6 +186,28 @@ key_figures:
     description: "Continued the practice of granting urgent questions to ensure government accountability and maintained the expanded role of the Speaker in facilitating scrutiny of the executive."
     levels: [child, teenager, adult]
 
+video_links:
+  - title: "Debating in Parliament"
+    url: "https://www.youtube.com/watch?v=9vsv32GhQ2s"
+    source: "UK Parliament"
+    description: "A short overview of how debates work in Parliament, covering the basics of how MPs discuss and argue about important issues."
+    levels: [child, teenager]
+  - title: "What is Prime Minister's Questions? | Exploring the House of Commons | BBC Teach"
+    url: "https://www.youtube.com/watch?v=vF57tO_F4pY"
+    source: "BBC Bitesize for Teachers"
+    description: "BBC Teach explains how PMQs works, why it matters, and what happens during the weekly clash between the Prime Minister and the Leader of the Opposition."
+    levels: [teenager, adult]
+  - title: "What are oral questions? | House of Commons"
+    url: "https://www.youtube.com/watch?v=0x4NIJzIR8M"
+    source: "UK Parliament"
+    description: "An explainer from the UK Parliament on how oral questions work in the House of Commons, including the process for tabling and asking questions of ministers."
+    levels: [teenager, adult, researcher]
+  - title: "What are Westminster Hall debates? | House of Commons"
+    url: "https://www.youtube.com/watch?v=GcdO07l8RCA"
+    source: "UK Parliament"
+    description: "Explains how Westminster Hall debates provide a parallel debating chamber where MPs can raise constituency issues and discuss select committee reports."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "When does Prime Minister's Questions happen?"

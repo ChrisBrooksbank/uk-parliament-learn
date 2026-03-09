@@ -283,6 +283,31 @@ key_figures:
     description: "Baroness Thomas chaired the DPRRC during a period of intense concern about the breadth of delegated powers, particularly in Brexit-related legislation. Under her chairship, the Committee published the influential 'Democracy Denied?' report in 2021, which drew widespread attention to the constitutional implications of skeleton Bills and Henry VIII powers."
     levels: [researcher]
 
+video_links:
+  - title: "Making laws"
+    url: "https://www.youtube.com/watch?v=Wuk3L3tknwg"
+    source: "UK Parliament"
+    description: "An educational overview of how laws are made in the UK, including the relationship between primary legislation (Acts of Parliament) and the delegated legislation that fills in the detail."
+    levels: [child, teenager]
+
+  - title: "Delegated Legislation | English Legal System"
+    url: "https://www.youtube.com/watch?v=VdUuZbEs93k"
+    source: "The Law Academy"
+    description: "A clear explainer covering the types of delegated legislation, including Statutory Instruments, Orders in Council, and bye-laws, and the reasons why Parliament delegates law-making powers."
+    levels: [teenager, adult]
+
+  - title: "1. Introduction to Delegated Legislation"
+    url: "https://www.youtube.com/watch?v=rIWBbB2yBJA"
+    source: "The Law Bank"
+    description: "An in-depth introduction to delegated legislation in the UK legal system, covering its constitutional basis, the different forms it takes, and the parliamentary procedures for scrutiny."
+    levels: [adult, researcher]
+
+  - title: "Launch of the Delegated Legislation Review - Panel one: Reflections on current scrutiny procedures"
+    url: "https://www.youtube.com/watch?v=bEt_Qv-9fYY"
+    source: "Hansard Society"
+    description: "A panel discussion from the Hansard Society examining the adequacy of current parliamentary scrutiny of delegated legislation, featuring expert analysis of the scrutiny deficit and reform proposals."
+    levels: [researcher]
+
 quizzes:
   child:
     - question: "What is a Statutory Instrument?"

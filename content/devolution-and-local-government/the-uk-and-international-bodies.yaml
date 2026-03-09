@@ -202,6 +202,23 @@ key_figures:
     description: "Hastings Ismay (1887-1965) served as the first Secretary General of NATO from 1952 to 1957. A British military officer and diplomat, he is often credited with describing NATO's purpose as being 'to keep the Soviet Union out, the Americans in, and the Germans down,' a phrase that captured the alliance's Cold War rationale."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "What is the Commonwealth?"
+    url: "https://www.youtube.com/watch?v=aWsvHuuV-qE"
+    source: "BBC What's New"
+    description: "A BBC explainer covering what the Commonwealth is, how it works, and why it matters, aimed at a younger audience."
+    levels: [child, teenager]
+  - title: "The Commonwealth: Helping every voice be heard"
+    url: "https://www.youtube.com/watch?v=PeNlgO7-n68"
+    source: "The Commonwealth"
+    description: "An official Commonwealth Secretariat video explaining the organisation's role in supporting its 56 member states and promoting shared values of democracy and development."
+    levels: [teenager, adult]
+  - title: "How does the United Nations work?"
+    url: "https://www.youtube.com/watch?v=QoIafzc0k74"
+    source: "RMIT University"
+    description: "A clear educational video explaining the structure and role of the United Nations, including the Security Council where the UK holds a permanent seat."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "What is NATO?"

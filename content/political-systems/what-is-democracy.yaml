@@ -210,6 +210,28 @@ key_figures:
     description: "Led Athens during its Golden Age in the mid-5th century BC, when Athenian democracy reached its fullest expression. His Funeral Oration, as recorded by Thucydides, articulated the ideals of democratic citizenship, civic participation, and political equality that influenced democratic thought for millennia."
     levels: [teenager, adult, researcher]
 
+video_links:
+  - title: "Democracy - A short introduction"
+    url: "https://www.youtube.com/watch?v=u6jgWxkbR7A"
+    source: "MinuteVideos"
+    description: "A clear, animated three-minute overview of what democracy is, how it works, and why it matters."
+    levels: [child, teenager]
+  - title: "What did democracy really mean in Athens? - Melissa Schwartzberg"
+    url: "https://www.youtube.com/watch?v=0fivQUlC7-8"
+    source: "TED-Ed"
+    description: "Explores how Athenian democracy actually functioned, including its lottery system for choosing politicians, and asks what modern democracies can learn from it."
+    levels: [teenager, adult]
+  - title: "Why Socrates Hated Democracy"
+    url: "https://www.youtube.com/watch?v=fLJBzhcSWTk"
+    source: "The School of Life"
+    description: "Examines the ancient philosopher's critique of democratic systems and why he believed voting without education could be dangerous."
+    levels: [adult, researcher]
+  - title: "Democracy, Authoritarian Capitalism, and China: Crash Course World History 230"
+    url: "https://www.youtube.com/watch?v=k7dTDjRnBqU"
+    source: "CrashCourse"
+    description: "John Green examines whether western-style democracy is the only path to economic success, exploring how authoritarian capitalism in China and Singapore challenges long-held assumptions."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What does the word 'democracy' mean?"

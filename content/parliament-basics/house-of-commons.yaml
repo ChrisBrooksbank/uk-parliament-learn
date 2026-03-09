@@ -202,6 +202,28 @@ key_figures:
     description: "Modernised the format of Prime Minister's Questions by consolidating the twice-weekly 15-minute sessions into a single 30-minute session every Wednesday at noon, the format still in use today."
     levels: [adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation covering the role of the House of Commons within Parliament, how MPs are elected, and how laws are made."
+    levels: [child, teenager]
+  - title: "Who is the Speaker of the House of Commons?"
+    url: "https://www.youtube.com/watch?v=EqGoJN-zNXk"
+    source: "Jay Foreman"
+    description: "Humorous explainer on the role of the Speaker, why the Speaker's constituency has no party contest, and the traditions of the office."
+    levels: [teenager, adult]
+  - title: "Why do they make that noise in PMQs?"
+    url: "https://www.youtube.com/watch?v=CLSq1h7AvkE"
+    source: "Jay Foreman"
+    description: "Explains the traditions and rules behind the distinctive noises and behaviours during Prime Minister's Questions in the House of Commons."
+    levels: [teenager, adult]
+  - title: "Why don't politicians answer questions?"
+    url: "https://www.youtube.com/watch?v=T8QOE-IWo3I"
+    source: "Jay Foreman"
+    description: "Explores the tactics MPs use to avoid directly answering questions in Parliament and why the system allows it."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "How many MPs are there in the House of Commons?"

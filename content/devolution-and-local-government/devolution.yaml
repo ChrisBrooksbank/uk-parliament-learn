@@ -198,6 +198,23 @@ key_figures:
     description: "Vernon Bogdanor is a leading authority on the UK constitution and devolution. His book 'Devolution in the United Kingdom' (1999) provided the foundational scholarly analysis of the devolution settlements and their constitutional implications. He has argued that devolution has transformed the UK into a 'quasi-federal' state."
     levels: [researcher]
 
+video_links:
+  - title: "The Difference between the United Kingdom, Great Britain and England Explained"
+    url: "https://www.youtube.com/watch?v=rNu8XDBSn10"
+    source: "CGP Grey"
+    description: "An engaging animated explainer covering how the UK is made up of different countries with their own identities, providing essential background for understanding why devolution exists."
+    levels: [child, teenager]
+  - title: "What is the Commonwealth?"
+    url: "https://www.youtube.com/watch?v=aWsvHuuV-qE"
+    source: "BBC What's New"
+    description: "A BBC explainer covering the Commonwealth and how the UK's nations relate to the wider world, with context relevant to understanding devolution within the UK."
+    levels: [child, teenager]
+  - title: "How does the United Nations work?"
+    url: "https://www.youtube.com/watch?v=QoIafzc0k74"
+    source: "RMIT University"
+    description: "An educational video explaining how international organisations work, providing useful context for understanding different levels of governance including devolution."
+    levels: [teenager, adult]
+
 quizzes:
   child:
     - question: "What does devolution mean?"

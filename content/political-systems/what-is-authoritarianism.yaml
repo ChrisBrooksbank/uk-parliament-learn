@@ -195,6 +195,23 @@ key_figures:
     description: "German-born political philosopher whose 'The Origins of Totalitarianism' (1951) provided the seminal analysis of totalitarian rule as a distinctly modern phenomenon. Arendt's work on the nature of totalitarian ideology, terror, and the destruction of the public sphere informed all subsequent efforts -- including Linz's -- to distinguish between different forms of non-democratic governance."
     levels: [adult, researcher]
 
+video_links:
+  - title: "Democracy, Authoritarian Capitalism, and China: Crash Course World History 230"
+    url: "https://www.youtube.com/watch?v=k7dTDjRnBqU"
+    source: "CrashCourse"
+    description: "John Green explores how authoritarian capitalism works in countries like China and Singapore, and examines how it differs from democratic systems of government."
+    levels: [teenager, adult]
+  - title: "How To Spot Authoritarianism — and Choose Democracy | Ian Bassin"
+    url: "https://www.youtube.com/watch?v=T-vVO3nRFzI"
+    source: "TED"
+    description: "Lawyer Ian Bassin details the seven steps of the authoritarian playbook, explaining how to recognise the warning signs of authoritarianism and protect democratic values."
+    levels: [adult, researcher]
+  - title: "How to be fearless in the face of authoritarianism | Sviatlana Tsikhanouskaya"
+    url: "https://www.youtube.com/watch?v=EKBpF2bzpNs"
+    source: "TED"
+    description: "A housewife-turned-politician from Belarus describes her bid to defeat an autocratic leader, sharing lessons about fearlessness and freedom under authoritarian rule."
+    levels: [teenager, adult, researcher]
+
 quizzes:
   child:
     - question: "In an authoritarian country, what happens if people try to speak out against the leader?"

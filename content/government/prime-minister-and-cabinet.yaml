@@ -202,6 +202,23 @@ key_figures:
     description: "Baron Hennessy of Nympsfield is one of the leading scholars of the British premiership and Whitehall. His work 'The Prime Minister: The Office and Its Holders Since 1945' is a foundational text on the evolution of the office and the spectrum between 'command' and 'collegiate' styles of premiership."
     levels: [adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation introducing how Parliament works, including the role of the Prime Minister and Government, aimed at younger audiences."
+    levels: [child, teenager]
+  - title: "Who's in charge of Britain?"
+    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "An entertaining and educational look at who actually runs Britain, covering the Prime Minister, Government, Parliament and the fragmented nature of authority across the UK."
+    levels: [teenager, adult]
+  - title: "Inside 10 Downing Street"
+    url: "https://www.youtube.com/watch?v=r4bAuSgr9oQ"
+    source: "BBC"
+    description: "BBC documentary offering a behind-the-scenes look at the workings of 10 Downing Street, the official residence and office of the Prime Minister."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "Where does the Prime Minister live and work?"

@@ -394,6 +394,23 @@ key_figures:
     description: "The longest-reigning British monarch, who served for 70 years. Her reign exemplified the convention of political neutrality, and she granted Royal Assent to approximately 4,000 Acts of Parliament. Her conduct set the modern standard for the constitutional monarchy."
     levels: [child, teenager, adult, researcher]
 
+video_links:
+  - title: "Could You Become the British Monarch?"
+    url: "https://www.youtube.com/watch?v=BUY6HGqYweQ"
+    source: "CGP Grey"
+    description: "Animated explainer on the rules of royal succession established by Parliament, including the Act of Settlement and how the line of succession works."
+    levels: [child, teenager]
+  - title: "The Royal Family Is Weirder Than You Think"
+    url: "https://www.youtube.com/watch?v=jNgP6d9HraI"
+    source: "CGP Grey"
+    description: "Animated brief history of the British Royal Family from 1066 to the present day, tracing the dynasties and how the crown passed between them."
+    levels: [teenager, adult]
+  - title: "The True Cost of the Royal Family Explained"
+    url: "https://www.youtube.com/watch?v=bhyYgnhhKFw"
+    source: "CGP Grey"
+    description: "Analysis of the financial relationship between the Crown and the state, examining the Sovereign Grant, the Crown Estate, and arguments about the monarchy's cost."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is it called when the King says yes to a new law?"

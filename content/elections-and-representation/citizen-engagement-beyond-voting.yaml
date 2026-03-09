@@ -194,6 +194,23 @@ key_figures:
     description: "Founder of the Women's Social and Political Union (WSPU) in 1903, Pankhurst led the militant campaign for women's suffrage through protests, civil disobedience, and hunger strikes. Her activism demonstrated the power of sustained citizen engagement in achieving democratic reform."
     levels: [child, teenager, adult]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "The official UK Parliament animation for young learners, covering how Parliament works and introducing ways people can get involved and have their voice heard beyond voting."
+    levels: [child, teenager]
+  - title: "Is there a good reason for NOT voting?"
+    url: "https://www.youtube.com/watch?v=_gbDAvK42yA"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "Explores arguments for and against voting, and looks at other ways citizens can engage with politics beyond the ballot box, including contacting MPs and joining campaigns."
+    levels: [teenager, adult]
+  - title: "Democracy Is Being Tested. Citizen Assemblies Can Help"
+    url: "https://www.youtube.com/watch?v=hHYe3O7_TUA"
+    source: "TED"
+    description: "Activist Ketakandriana Rafitoson explains how citizen assemblies empower ordinary people to participate directly in democratic decision-making, debate civic questions, and hold governments to account."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What is an MP surgery?"

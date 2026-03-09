@@ -181,6 +181,23 @@ key_figures:
     description: "A special adviser whose confrontational approach to the civil service machinery and attempts to restructure Whitehall from within No. 10 Downing Street generated significant debate about the boundaries between political advice and executive authority."
     levels: [adult, researcher]
 
+video_links:
+  - title: "An introduction to Parliament"
+    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
+    source: "UK Parliament"
+    description: "Official UK Parliament animation introducing how Parliament and Government work, providing context for the role of the Civil Service within the machinery of government."
+    levels: [child, teenager]
+  - title: "Why don't politicians answer questions?"
+    url: "https://www.youtube.com/watch?v=T8QOE-IWo3I"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "A humorous look at the relationship between politicians and accountability, touching on ministerial responsibility and the role of advisers and officials behind the scenes."
+    levels: [teenager, adult]
+  - title: "The Secret World of Whitehall Episode 1: The Real Sir Humphrey"
+    url: "https://www.youtube.com/watch?v=utDEkUWyQ8Y"
+    source: "BBC"
+    description: "BBC documentary exploring the role of the Cabinet Secretary, the most senior civil servant in the UK, chronicling the historic evolution of the position and the power struggles between top civil servants and prime ministers."
+    levels: [adult, researcher]
+
 quizzes:
   child:
     - question: "What happens to civil servants when a new government is elected?"

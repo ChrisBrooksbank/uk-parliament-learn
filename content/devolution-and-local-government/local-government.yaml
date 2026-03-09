@@ -190,6 +190,18 @@ key_figures:
     description: "Michael Heseltine was a long-standing advocate of strengthening local and regional governance in England. His 2012 report 'No Stone Unturned' argued for significant decentralisation of economic powers to local areas and influenced the government's subsequent devolution deal programme. He also played a key role in urban regeneration initiatives during the 1980s and 1990s."
     levels: [adult, researcher]
 
+video_links:
+  - title: "About Councils and Local Authorities - A Nextdoor Nature Guide"
+    url: "https://www.youtube.com/watch?v=pZDv-ri2GOs"
+    source: "The Wildlife Trusts"
+    description: "A short animation explaining what councils and local authorities are, what they do, and how they make decisions that affect local communities across the UK."
+    levels: [child, teenager]
+  - title: "The Difference between the United Kingdom, Great Britain and England Explained"
+    url: "https://www.youtube.com/watch?v=rNu8XDBSn10"
+    source: "CGP Grey"
+    description: "An animated explainer covering how the UK is structured, providing useful background for understanding how local government fits within the wider system of governance."
+    levels: [child, teenager]
+
 quizzes:
   child:
     - question: "What is a council responsible for?"

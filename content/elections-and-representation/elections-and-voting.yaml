@@ -209,6 +209,23 @@ key_figures:
     description: "Charles Grey, 2nd Earl Grey (1764-1845), served as Prime Minister from 1830 to 1834 and oversaw the passage of the Great Reform Act 1832, which began the process of modernising parliamentary representation by abolishing rotten boroughs and extending the franchise. The act is considered the starting point of Britain's journey toward democratic government."
     levels: [adult, researcher]
 
+video_links:
+  - title: "Who's in charge of Britain?"
+    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
+    source: "Jay and Mark (Jay Foreman)"
+    description: "A humorous and accessible explanation of how the British political system works, covering elections, Parliament, and who really runs the country."
+    levels: [teenager, adult]
+  - title: "General election 2019: The voting system explained"
+    url: "https://www.youtube.com/watch?v=cRxUhGetEPQ"
+    source: "BBC News"
+    description: "BBC News explains how the UK general election voting system works, including constituencies, first past the post, and how a government is formed."
+    levels: [teenager, adult]
+  - title: "Why Your Vote Doesn't Count"
+    url: "https://www.youtube.com/watch?v=s7tWHJfhiyo"
+    source: "CGP Grey"
+    description: "An animated explainer on the problems with the First Past the Post voting system, showing how it can produce unrepresentative results and squeeze out smaller parties."
+    levels: [teenager, adult, researcher]
+
 quizzes:
   child:
     - question: "What do you do on a ballot paper to vote for someone?"
