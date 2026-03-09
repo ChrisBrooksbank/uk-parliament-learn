@@ -1,492 +1,492 @@
 id: the-monarchy
-title: "The Monarchy and Parliament"
+title: 'The Monarchy and Parliament'
 slug: the-monarchy
 
 metadata:
-  category: parliament-basics
-  tags:
-    - monarchy
-    - constitutional-monarchy
-    - royal-assent
-    - king
-    - prerogative-powers
-    - state-opening
-    - kings-speech
-  last_updated: 2026-03-09
-  status: published
-  order: 4
+    category: parliament-basics
+    tags:
+        - monarchy
+        - constitutional-monarchy
+        - royal-assent
+        - king
+        - prerogative-powers
+        - state-opening
+        - kings-speech
+    last_updated: 2026-03-09
+    status: published
+    order: 4
 
 related_topics:
-  - id: what-is-parliament
-    relationship: subtopic
-  - id: house-of-commons
-    relationship: see-also
-  - id: house-of-lords
-    relationship: see-also
-  - id: the-uk-constitution
-    relationship: see-also
-  - id: standing-orders-and-sessions
-    relationship: see-also
-  - id: how-laws-are-made
-    relationship: see-also
+    - id: what-is-parliament
+      relationship: subtopic
+    - id: house-of-commons
+      relationship: see-also
+    - id: house-of-lords
+      relationship: see-also
+    - id: the-uk-constitution
+      relationship: see-also
+    - id: standing-orders-and-sessions
+      relationship: see-also
+    - id: how-laws-are-made
+      relationship: see-also
 
 explanations:
-  child:
-    reading_age: 8
-    summary: "The King or Queen is part of Parliament, but Parliament makes the rules."
-    body: |
-      The United Kingdom has a King. Right now, the King is called King Charles III.
+    child:
+        reading_age: 8
+        summary: 'The King or Queen is part of Parliament, but Parliament makes the rules.'
+        body: |
+            The United Kingdom has a King. Right now, the King is called King Charles III.
 
-      The King is part of Parliament, along with the House of Commons and the House of Lords.
-      But the King does not make the laws himself. That is Parliament's job.
+            The King is part of Parliament, along with the House of Commons and the House of Lords.
+            But the King does not make the laws himself. That is Parliament's job.
 
-      When Parliament agrees on a new law, the King gives it his approval. This is called
-      Royal Assent. It means the King says "yes" to the new law. The King always says yes —
-      it would be very unusual for a King or Queen to say no.
+            When Parliament agrees on a new law, the King gives it his approval. This is called
+            Royal Assent. It means the King says "yes" to the new law. The King always says yes —
+            it would be very unusual for a King or Queen to say no.
 
-      Once a year, the King visits Parliament for a special ceremony called the State Opening
-      of Parliament. He sits on a golden throne in the House of Lords and reads out a speech.
-      The speech tells everyone what the government plans to do. The King does not write the
-      speech himself — the government writes it for him.
+            Once a year, the King visits Parliament for a special ceremony called the State Opening
+            of Parliament. He sits on a golden throne in the House of Lords and reads out a speech.
+            The speech tells everyone what the government plans to do. The King does not write the
+            speech himself — the government writes it for him.
 
-      The King also meets with the Prime Minister every week. They have a private chat about
-      what is happening in the country.
+            The King also meets with the Prime Minister every week. They have a private chat about
+            what is happening in the country.
 
-      The King must not take sides in politics. He cannot say which political party he likes
-      best. His job is to be fair to everyone and to represent the whole country.
+            The King must not take sides in politics. He cannot say which political party he likes
+            best. His job is to be fair to everyone and to represent the whole country.
 
-  teenager:
-    reading_age: 14
-    summary: "The UK is a constitutional monarchy where the monarch plays a formal but essential role in Parliament."
-    body: |
-      The United Kingdom is a constitutional monarchy. This means the country has a King or
-      Queen as head of state, but their powers are limited by law and convention. The real
-      power to govern belongs to Parliament and the elected government.
+    teenager:
+        reading_age: 14
+        summary: 'The UK is a constitutional monarchy where the monarch plays a formal but essential role in Parliament.'
+        body: |
+            The United Kingdom is a constitutional monarchy. This means the country has a King or
+            Queen as head of state, but their powers are limited by law and convention. The real
+            power to govern belongs to Parliament and the elected government.
 
-      King Charles III became King in September 2022, following the death of Queen Elizabeth II.
-      As monarch, he is one of the three parts of Parliament, alongside the House of Commons
-      and the House of Lords.
+            King Charles III became King in September 2022, following the death of Queen Elizabeth II.
+            As monarch, he is one of the three parts of Parliament, alongside the House of Commons
+            and the House of Lords.
 
-      The monarch has several key roles in relation to Parliament:
+            The monarch has several key roles in relation to Parliament:
 
-      **Royal Assent** — Every bill that passes through both Houses of Parliament must receive
-      Royal Assent before it becomes law. This is the monarch's formal approval. In practice,
-      Royal Assent is always given. The last time a monarch refused was in 1708, when Queen
-      Anne withheld assent from the Scottish Militia Bill.
+            **Royal Assent** — Every bill that passes through both Houses of Parliament must receive
+            Royal Assent before it becomes law. This is the monarch's formal approval. In practice,
+            Royal Assent is always given. The last time a monarch refused was in 1708, when Queen
+            Anne withheld assent from the Scottish Militia Bill.
 
-      **The King's Speech** — At the State Opening of Parliament, the monarch travels from
-      Buckingham Palace to the Palace of Westminster in a grand procession. Seated on the
-      throne in the House of Lords, the King reads out a speech written by the government.
-      This speech sets out the government's plans and proposed legislation for the coming
-      parliamentary session. It is the only regular occasion when all three parts of
-      Parliament — the monarch, the Lords, and the Commons — come together.
+            **The King's Speech** — At the State Opening of Parliament, the monarch travels from
+            Buckingham Palace to the Palace of Westminster in a grand procession. Seated on the
+            throne in the House of Lords, the King reads out a speech written by the government.
+            This speech sets out the government's plans and proposed legislation for the coming
+            parliamentary session. It is the only regular occasion when all three parts of
+            Parliament — the monarch, the Lords, and the Commons — come together.
 
-      **Appointing the Prime Minister** — After a general election, the monarch formally
-      appoints the leader of the party that can command a majority in the House of Commons
-      as Prime Minister.
+            **Appointing the Prime Minister** — After a general election, the monarch formally
+            appoints the leader of the party that can command a majority in the House of Commons
+            as Prime Minister.
 
-      **Weekly audiences** — The monarch meets the Prime Minister weekly for a private
-      audience. No record is kept of what is discussed.
+            **Weekly audiences** — The monarch meets the Prime Minister weekly for a private
+            audience. No record is kept of what is discussed.
 
-      A crucial convention is that the monarch must remain politically neutral. The King
-      cannot publicly express political opinions or show favour to any political party.
-      This neutrality is what allows the monarch to serve as a unifying figurehead for the
-      whole nation.
+            A crucial convention is that the monarch must remain politically neutral. The King
+            cannot publicly express political opinions or show favour to any political party.
+            This neutrality is what allows the monarch to serve as a unifying figurehead for the
+            whole nation.
 
-  adult:
-    reading_age: 18
-    summary: "The monarch exercises constitutionally significant but convention-bound powers within the UK's uncodified constitutional framework."
-    body: |
-      The United Kingdom operates as a constitutional monarchy within a parliamentary
-      democracy. The monarch — currently King Charles III, who acceded to the throne on
-      8 September 2022 — serves as head of state and is formally one of the three
-      constituent elements of Parliament (alongside the House of Commons and the House
-      of Lords). However, the monarch's role is overwhelmingly governed by constitutional
-      conventions rather than statute, making it largely ceremonial in practice.
+    adult:
+        reading_age: 18
+        summary: "The monarch exercises constitutionally significant but convention-bound powers within the UK's uncodified constitutional framework."
+        body: |
+            The United Kingdom operates as a constitutional monarchy within a parliamentary
+            democracy. The monarch — currently King Charles III, who acceded to the throne on
+            8 September 2022 — serves as head of state and is formally one of the three
+            constituent elements of Parliament (alongside the House of Commons and the House
+            of Lords). However, the monarch's role is overwhelmingly governed by constitutional
+            conventions rather than statute, making it largely ceremonial in practice.
 
-      **Royal Prerogative Powers**
+            **Royal Prerogative Powers**
 
-      The royal prerogative is a body of customary authority, privilege, and immunity
-      recognised in common law as belonging to the Crown. These powers originated in the
-      medieval period but have been progressively constrained. Key prerogative powers
-      exercised in relation to Parliament and government include:
+            The royal prerogative is a body of customary authority, privilege, and immunity
+            recognised in common law as belonging to the Crown. These powers originated in the
+            medieval period but have been progressively constrained. Key prerogative powers
+            exercised in relation to Parliament and government include:
 
-      - Appointing and dismissing the Prime Minister and other ministers
-      - Summoning, proroguing, and dissolving Parliament (dissolution is now governed by
-        the Dissolution and Calling of Parliament Act 2022, which restored the prerogative
-        power after the Fixed-term Parliaments Act 2011 was repealed)
-      - Granting Royal Assent to bills passed by both Houses
-      - Creating peers (on the advice of the Prime Minister)
+            - Appointing and dismissing the Prime Minister and other ministers
+            - Summoning, proroguing, and dissolving Parliament (dissolution is now governed by
+              the Dissolution and Calling of Parliament Act 2022, which restored the prerogative
+              power after the Fixed-term Parliaments Act 2011 was repealed)
+            - Granting Royal Assent to bills passed by both Houses
+            - Creating peers (on the advice of the Prime Minister)
 
-      In practice, these powers are exercised on ministerial advice. The "Cardinal
-      Convention" requires the monarch to act on the advice of ministers, transferring
-      substantive decision-making to democratically accountable officeholders.
+            In practice, these powers are exercised on ministerial advice. The "Cardinal
+            Convention" requires the monarch to act on the advice of ministers, transferring
+            substantive decision-making to democratically accountable officeholders.
 
-      **Royal Assent**
+            **Royal Assent**
 
-      Royal Assent is the final stage in the legislative process. It has not been refused
-      since Queen Anne withheld assent from the Scottish Militia Bill on 11 March 1708,
-      acting on the advice of her ministers who feared the proposed militia might prove
-      disloyal amid a Franco-Jacobite invasion threat. Today, Royal Assent is considered
-      an automatic formality.
+            Royal Assent is the final stage in the legislative process. It has not been refused
+            since Queen Anne withheld assent from the Scottish Militia Bill on 11 March 1708,
+            acting on the advice of her ministers who feared the proposed militia might prove
+            disloyal amid a Franco-Jacobite invasion threat. Today, Royal Assent is considered
+            an automatic formality.
 
-      Distinct from Royal Assent is King's Consent (formerly Queen's Consent), which must
-      be obtained before Parliament debates bills that would affect the monarch's prerogative
-      or personal interests. This too is a formality, but it has attracted scrutiny as a
-      potential mechanism for monarchical influence over legislation.
+            Distinct from Royal Assent is King's Consent (formerly Queen's Consent), which must
+            be obtained before Parliament debates bills that would affect the monarch's prerogative
+            or personal interests. This too is a formality, but it has attracted scrutiny as a
+            potential mechanism for monarchical influence over legislation.
 
-      **The State Opening and the King's Speech**
+            **The State Opening and the King's Speech**
 
-      The State Opening of Parliament is the most visible expression of the relationship
-      between Crown and Parliament. The monarch processes from Buckingham Palace to the
-      Palace of Westminster, dons the Imperial State Crown, and delivers the King's Speech
-      from the throne in the House of Lords. The speech, written entirely by the government,
-      outlines the legislative programme for the session.
+            The State Opening of Parliament is the most visible expression of the relationship
+            between Crown and Parliament. The monarch processes from Buckingham Palace to the
+            Palace of Westminster, dons the Imperial State Crown, and delivers the King's Speech
+            from the throne in the House of Lords. The speech, written entirely by the government,
+            outlines the legislative programme for the session.
 
-      The ceremony includes the symbolic ritual of Black Rod being sent to summon MPs from
-      the Commons. The door of the Commons chamber is slammed shut in Black Rod's face —
-      a tradition dating from the English Civil War, symbolising the Commons' independence
-      from the Crown.
+            The ceremony includes the symbolic ritual of Black Rod being sent to summon MPs from
+            the Commons. The door of the Commons chamber is slammed shut in Black Rod's face —
+            a tradition dating from the English Civil War, symbolising the Commons' independence
+            from the Crown.
 
-      **Political Neutrality**
+            **Political Neutrality**
 
-      The convention of monarchical political neutrality is considered fundamental to the
-      constitutional settlement. The monarch must not publicly express political views,
-      must accept ministerial advice, and must be seen to be impartial. This convention
-      enables the monarch to function as a unifying national figurehead above partisan
-      politics.
+            The convention of monarchical political neutrality is considered fundamental to the
+            constitutional settlement. The monarch must not publicly express political views,
+            must accept ministerial advice, and must be seen to be impartial. This convention
+            enables the monarch to function as a unifying national figurehead above partisan
+            politics.
 
-      King Charles III, who as Prince of Wales was known for his correspondence with
-      government ministers (the so-called "black spider memos"), has fully embraced this
-      convention since his accession, operating strictly within constitutional parameters.
+            King Charles III, who as Prince of Wales was known for his correspondence with
+            government ministers (the so-called "black spider memos"), has fully embraced this
+            convention since his accession, operating strictly within constitutional parameters.
 
-      **The Tripartite Convention**
+            **The Tripartite Convention**
 
-      Walter Bagehot, in *The English Constitution* (1867), identified three rights of the
-      constitutional monarch: "the right to be consulted, the right to encourage, the right
-      to warn." These rights are exercised during the monarch's weekly private audience with
-      the Prime Minister, of which no official record is kept. This framework remains the
-      most widely cited description of the monarch's residual political function.
+            Walter Bagehot, in *The English Constitution* (1867), identified three rights of the
+            constitutional monarch: "the right to be consulted, the right to encourage, the right
+            to warn." These rights are exercised during the monarch's weekly private audience with
+            the Prime Minister, of which no official record is kept. This framework remains the
+            most widely cited description of the monarch's residual political function.
 
-  researcher:
-    reading_age: null
-    summary: "An analysis of the Crown-in-Parliament doctrine, prerogative powers, and the evolving constitutional conventions governing the British monarchy's role within the legislative and executive framework."
-    body: |
-      The constitutional position of the British monarchy rests on the doctrine of the
-      Crown-in-Parliament: the legal fiction that legislative sovereignty is vested not in
-      Parliament alone but in the "King-in-Parliament" — the tripartite body comprising
-      the Sovereign, the House of Lords, and the House of Commons. This doctrine, rooted
-      in medieval constitutional theory, persists as a formal feature of UK public law
-      even as the substantive locus of political power has shifted decisively to the
-      elected chamber and the executive.
+    researcher:
+        reading_age: null
+        summary: "An analysis of the Crown-in-Parliament doctrine, prerogative powers, and the evolving constitutional conventions governing the British monarchy's role within the legislative and executive framework."
+        body: |
+            The constitutional position of the British monarchy rests on the doctrine of the
+            Crown-in-Parliament: the legal fiction that legislative sovereignty is vested not in
+            Parliament alone but in the "King-in-Parliament" — the tripartite body comprising
+            the Sovereign, the House of Lords, and the House of Commons. This doctrine, rooted
+            in medieval constitutional theory, persists as a formal feature of UK public law
+            even as the substantive locus of political power has shifted decisively to the
+            elected chamber and the executive.
 
-      **Bagehot's Analytical Framework**
+            **Bagehot's Analytical Framework**
 
-      Walter Bagehot's *The English Constitution* (1867) remains the foundational text for
-      understanding the monarchy's constitutional role. Bagehot distinguished between the
-      "dignified" parts of the constitution — those which "excite and preserve the reverence
-      of the population" — and the "efficient" parts — "those by which it, in fact, works
-      and rules." The monarchy, he argued, belonged firmly to the dignified sphere, serving
-      as a "disguise" that lent legitimacy and emotional resonance to government while the
-      real work of governance was conducted by the Cabinet and Commons.
+            Walter Bagehot's *The English Constitution* (1867) remains the foundational text for
+            understanding the monarchy's constitutional role. Bagehot distinguished between the
+            "dignified" parts of the constitution — those which "excite and preserve the reverence
+            of the population" — and the "efficient" parts — "those by which it, in fact, works
+            and rules." The monarchy, he argued, belonged firmly to the dignified sphere, serving
+            as a "disguise" that lent legitimacy and emotional resonance to government while the
+            real work of governance was conducted by the Cabinet and Commons.
 
-      Bagehot's tripartite formulation of the monarch's rights — "the right to be consulted,
-      the right to encourage, the right to warn" — has proved remarkably durable, remaining
-      the standard characterisation of the monarch's residual political function. However,
-      scholars including Vernon Bogdanor (*The Monarchy and the Constitution*, 1995) have
-      argued that Bagehot underestimated the potential significance of these rights,
-      particularly in circumstances of constitutional ambiguity such as a hung parliament
-      or a prime ministerial resignation without a clear successor.
+            Bagehot's tripartite formulation of the monarch's rights — "the right to be consulted,
+            the right to encourage, the right to warn" — has proved remarkably durable, remaining
+            the standard characterisation of the monarch's residual political function. However,
+            scholars including Vernon Bogdanor (*The Monarchy and the Constitution*, 1995) have
+            argued that Bagehot underestimated the potential significance of these rights,
+            particularly in circumstances of constitutional ambiguity such as a hung parliament
+            or a prime ministerial resignation without a clear successor.
 
-      **The Royal Prerogative: Legal Framework and Constitutional Constraints**
+            **The Royal Prerogative: Legal Framework and Constitutional Constraints**
 
-      The royal prerogative comprises those common-law powers, privileges, and immunities
-      inherent to the Crown. Following the constitutional settlement of 1689, prerogative
-      powers have been progressively circumscribed by statute and convention. The Case of
-      Proclamations (1611) established that the monarch could not create new prerogative
-      powers; the Bill of Rights 1689 prohibited the suspension or dispensation of laws
-      without parliamentary consent.
+            The royal prerogative comprises those common-law powers, privileges, and immunities
+            inherent to the Crown. Following the constitutional settlement of 1689, prerogative
+            powers have been progressively circumscribed by statute and convention. The Case of
+            Proclamations (1611) established that the monarch could not create new prerogative
+            powers; the Bill of Rights 1689 prohibited the suspension or dispensation of laws
+            without parliamentary consent.
 
-      In modern practice, prerogative powers fall into two categories: those exercised
-      personally by the monarch (the "personal prerogatives") and those exercised by
-      ministers on behalf of the Crown. The personal prerogatives — appointing the Prime
-      Minister, granting Royal Assent, and dissolving Parliament — are subject to binding
-      constitutional conventions. The Cardinal Convention, as articulated by Jennings and
-      subsequent constitutional scholars, requires the monarch to act on ministerial advice
-      in virtually all circumstances.
+            In modern practice, prerogative powers fall into two categories: those exercised
+            personally by the monarch (the "personal prerogatives") and those exercised by
+            ministers on behalf of the Crown. The personal prerogatives — appointing the Prime
+            Minister, granting Royal Assent, and dissolving Parliament — are subject to binding
+            constitutional conventions. The Cardinal Convention, as articulated by Jennings and
+            subsequent constitutional scholars, requires the monarch to act on ministerial advice
+            in virtually all circumstances.
 
-      The prorogation controversy of 2019, in which the Supreme Court ruled in *R (Miller)
-      v The Prime Minister* [2019] UKSC 41 that the advice tendered to the Queen to prorogue
-      Parliament was unlawful, demonstrated that even prerogative powers exercised on
-      ministerial advice are subject to judicial review. This decision marked a significant
-      extension of the court's supervisory jurisdiction over prerogative acts.
+            The prorogation controversy of 2019, in which the Supreme Court ruled in *R (Miller)
+            v The Prime Minister* [2019] UKSC 41 that the advice tendered to the Queen to prorogue
+            Parliament was unlawful, demonstrated that even prerogative powers exercised on
+            ministerial advice are subject to judicial review. This decision marked a significant
+            extension of the court's supervisory jurisdiction over prerogative acts.
 
-      **Royal Assent and King's Consent**
+            **Royal Assent and King's Consent**
 
-      Royal Assent, governed by the Royal Assent Act 1967, is the final step in the
-      legislative process. The last refusal — Queen Anne's withholding of assent to the
-      Scottish Militia Bill on 11 March 1708 — is generally regarded as the definitive
-      precedent establishing that assent will not be refused. Constitutional convention
-      now treats Royal Assent as an irrevocable formality.
+            Royal Assent, governed by the Royal Assent Act 1967, is the final step in the
+            legislative process. The last refusal — Queen Anne's withholding of assent to the
+            Scottish Militia Bill on 11 March 1708 — is generally regarded as the definitive
+            precedent establishing that assent will not be refused. Constitutional convention
+            now treats Royal Assent as an irrevocable formality.
 
-      King's Consent (distinct from Royal Assent) requires the monarch's consent to be
-      signified before Parliament may debate bills affecting the royal prerogative or the
-      personal property and interests of the Crown. Research by *The Guardian* in 2021
-      revealed that consent had been sought on over 1,000 bills, raising concerns about
-      the opacity of the process and its potential for undue monarchical influence. The
-      House of Commons Procedure Committee has examined the practice but no substantive
-      reform has been enacted.
+            King's Consent (distinct from Royal Assent) requires the monarch's consent to be
+            signified before Parliament may debate bills affecting the royal prerogative or the
+            personal property and interests of the Crown. Research by *The Guardian* in 2021
+            revealed that consent had been sought on over 1,000 bills, raising concerns about
+            the opacity of the process and its potential for undue monarchical influence. The
+            House of Commons Procedure Committee has examined the practice but no substantive
+            reform has been enacted.
 
-      **Political Neutrality and the "Public Service Monarchy"**
+            **Political Neutrality and the "Public Service Monarchy"**
 
-      The convention of political neutrality — termed by some scholars the "cardinal
-      convention" — is the cornerstone of the modern constitutional monarchy. It requires
-      the monarch to refrain from public political expression and to act exclusively on
-      ministerial advice in the exercise of governmental functions.
+            The convention of political neutrality — termed by some scholars the "cardinal
+            convention" — is the cornerstone of the modern constitutional monarchy. It requires
+            the monarch to refrain from public political expression and to act exclusively on
+            ministerial advice in the exercise of governmental functions.
 
-      King Charles III's accession in 2022 tested this convention given his extensive prior
-      advocacy on environmental and architectural matters. His correspondence with ministers
-      (the "black spider memos," disclosed following the *R (Evans) v Attorney General*
-      [2015] UKSC 21 ruling) had raised questions about the boundary between legitimate
-      private counsel and improper political influence. Since acceding, Charles has adhered
-      strictly to the convention, notably accepting Prime Minister Sunak's advice not to
-      attend COP27 in 2022 despite his personal commitment to climate advocacy.
+            King Charles III's accession in 2022 tested this convention given his extensive prior
+            advocacy on environmental and architectural matters. His correspondence with ministers
+            (the "black spider memos," disclosed following the *R (Evans) v Attorney General*
+            [2015] UKSC 21 ruling) had raised questions about the boundary between legitimate
+            private counsel and improper political influence. Since acceding, Charles has adhered
+            strictly to the convention, notably accepting Prime Minister Sunak's advice not to
+            attend COP27 in 2022 despite his personal commitment to climate advocacy.
 
-      **Reserve Powers and Constitutional Crisis**
+            **Reserve Powers and Constitutional Crisis**
 
-      The monarch's reserve powers — the theoretical capacity to act without or against
-      ministerial advice — remain a contested area of constitutional theory. While these
-      powers are dormant in normal circumstances, scholars such as Rodney Brazier
-      (*Constitutional Practice*, 3rd ed., 1999) and Robert Blackburn have argued that
-      they could become operative in exceptional situations: a prime minister refusing to
-      resign after losing a vote of confidence, a request for dissolution designed to
-      frustrate parliamentary accountability, or a bill fundamentally subverting the
-      democratic constitution.
+            The monarch's reserve powers — the theoretical capacity to act without or against
+            ministerial advice — remain a contested area of constitutional theory. While these
+            powers are dormant in normal circumstances, scholars such as Rodney Brazier
+            (*Constitutional Practice*, 3rd ed., 1999) and Robert Blackburn have argued that
+            they could become operative in exceptional situations: a prime minister refusing to
+            resign after losing a vote of confidence, a request for dissolution designed to
+            frustrate parliamentary accountability, or a bill fundamentally subverting the
+            democratic constitution.
 
-      The Lascelles Principles, articulated in a 1950 letter to *The Times* by King
-      George VI's Private Secretary Sir Alan Lascelles, set out three circumstances in
-      which a monarch might legitimately refuse a dissolution: if the existing Parliament
-      was still vital, if an election would be detrimental to the national economy, and
-      if the monarch could find another Prime Minister who could command a majority. While
-      the Dissolution and Calling of Parliament Act 2022 has restored the prerogative of
-      dissolution, the Lascelles Principles continue to inform scholarly debate about the
-      limits of the convention.
-    sources:
-      - citation: "Bagehot, W. (1867). The English Constitution. London: Chapman and Hall."
-        url: "https://en.wikisource.org/wiki/The_English_Constitution_(Bagehot,_1894)"
-        type: primary
-      - citation: "Bogdanor, V. (1995). The Monarchy and the Constitution. Oxford: Oxford University Press."
-        url: "https://global.oup.com/academic/product/the-monarchy-and-the-constitution-9780198293378"
-        type: secondary
-      - citation: "Brazier, R. (1999). Constitutional Practice: The Foundations of British Government (3rd ed.). Oxford: Oxford University Press."
-        url: "https://global.oup.com/academic/product/constitutional-practice-9780198298113"
-        type: secondary
-      - citation: "R (Miller) v The Prime Minister [2019] UKSC 41."
-        url: "https://www.supremecourt.uk/cases/uksc-2019-0192.html"
-        type: primary
-      - citation: "R (Evans) v Attorney General [2015] UKSC 21."
-        url: "https://www.supremecourt.uk/cases/uksc-2014-0137.html"
-        type: primary
-      - citation: "UK Parliament. Royal Assent (official glossary)."
-        url: "https://www.parliament.uk/site-information/glossary/royal-assent/"
-        type: official
-      - citation: "UCL Constitution Unit. What is the role of the monarchy?"
-        url: "https://www.ucl.ac.uk/constitution-unit/explainers/what-role-monarchy"
-        type: secondary
-      - citation: "House of Commons Library. Royal Assent. CBP-9466."
-        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-9466/"
-        type: official
-      - citation: "Blackburn, R. (2023). The Formal Powers of the Royal Head of State. UK Constitutional Law Association."
-        url: "https://ukconstitutionallaw.org/2023/11/23/robert-blackburn-the-formal-powers-of-the-royal-head-of-state-terminology-concepts-and-practice/"
-        type: secondary
+            The Lascelles Principles, articulated in a 1950 letter to *The Times* by King
+            George VI's Private Secretary Sir Alan Lascelles, set out three circumstances in
+            which a monarch might legitimately refuse a dissolution: if the existing Parliament
+            was still vital, if an election would be detrimental to the national economy, and
+            if the monarch could find another Prime Minister who could command a majority. While
+            the Dissolution and Calling of Parliament Act 2022 has restored the prerogative of
+            dissolution, the Lascelles Principles continue to inform scholarly debate about the
+            limits of the convention.
+        sources:
+            - citation: 'Bagehot, W. (1867). The English Constitution. London: Chapman and Hall.'
+              url: 'https://en.wikisource.org/wiki/The_English_Constitution_(Bagehot,_1894)'
+              type: primary
+            - citation: 'Bogdanor, V. (1995). The Monarchy and the Constitution. Oxford: Oxford University Press.'
+              url: 'https://global.oup.com/academic/product/the-monarchy-and-the-constitution-9780198293378'
+              type: secondary
+            - citation: 'Brazier, R. (1999). Constitutional Practice: The Foundations of British Government (3rd ed.). Oxford: Oxford University Press.'
+              url: 'https://global.oup.com/academic/product/constitutional-practice-9780198298113'
+              type: secondary
+            - citation: 'R (Miller) v The Prime Minister [2019] UKSC 41.'
+              url: 'https://www.supremecourt.uk/cases/uksc-2019-0192.html'
+              type: primary
+            - citation: 'R (Evans) v Attorney General [2015] UKSC 21.'
+              url: 'https://www.supremecourt.uk/cases/uksc-2014-0137.html'
+              type: primary
+            - citation: 'UK Parliament. Royal Assent (official glossary).'
+              url: 'https://www.parliament.uk/site-information/glossary/royal-assent/'
+              type: official
+            - citation: 'UCL Constitution Unit. What is the role of the monarchy?'
+              url: 'https://www.ucl.ac.uk/constitution-unit/explainers/what-role-monarchy'
+              type: secondary
+            - citation: 'House of Commons Library. Royal Assent. CBP-9466.'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/cbp-9466/'
+              type: official
+            - citation: 'Blackburn, R. (2023). The Formal Powers of the Royal Head of State. UK Constitutional Law Association.'
+              url: 'https://ukconstitutionallaw.org/2023/11/23/robert-blackburn-the-formal-powers-of-the-royal-head-of-state-terminology-concepts-and-practice/'
+              type: secondary
 
 glossary:
-  - term: "Constitutional Monarchy"
-    definition_simple: "A system where a country has a King or Queen, but their powers are limited by rules and laws. The real power belongs to Parliament and the government."
-    definition_full: "A form of government in which a hereditary monarch serves as head of state within a framework of laws, conventions, and constitutional constraints that vest substantive governing power in elected institutions. In the UK, the monarch reigns but does not rule, exercising formal powers only on ministerial advice."
+    - term: 'Constitutional Monarchy'
+      definition_simple: 'A system where a country has a King or Queen, but their powers are limited by rules and laws. The real power belongs to Parliament and the government.'
+      definition_full: 'A form of government in which a hereditary monarch serves as head of state within a framework of laws, conventions, and constitutional constraints that vest substantive governing power in elected institutions. In the UK, the monarch reigns but does not rule, exercising formal powers only on ministerial advice.'
 
-  - term: "Royal Assent"
-    definition_simple: "The King's formal approval that turns a bill passed by Parliament into a law. The King always gives this approval."
-    definition_full: "The formal signification of the monarch's approval of a bill that has completed its passage through both Houses of Parliament, thereby enacting it as an Act of Parliament. Governed by the Royal Assent Act 1967, it has not been refused since 1708 and is now considered an automatic constitutional formality."
+    - term: 'Royal Assent'
+      definition_simple: "The King's formal approval that turns a bill passed by Parliament into a law. The King always gives this approval."
+      definition_full: "The formal signification of the monarch's approval of a bill that has completed its passage through both Houses of Parliament, thereby enacting it as an Act of Parliament. Governed by the Royal Assent Act 1967, it has not been refused since 1708 and is now considered an automatic constitutional formality."
 
-  - term: "Prerogative Powers"
-    definition_simple: "Special powers that belong to the King, though in practice they are used by the government on the King's behalf."
-    definition_full: "Common-law powers, privileges, and immunities historically vested in the Crown, now largely exercised by ministers on the monarch's behalf. They include appointing the Prime Minister, summoning and proroguing Parliament, and granting Royal Assent. Their exercise is constrained by constitutional convention and, as established in R (Miller) v The Prime Minister [2019], by judicial review."
+    - term: 'Prerogative Powers'
+      definition_simple: "Special powers that belong to the King, though in practice they are used by the government on the King's behalf."
+      definition_full: "Common-law powers, privileges, and immunities historically vested in the Crown, now largely exercised by ministers on the monarch's behalf. They include appointing the Prime Minister, summoning and proroguing Parliament, and granting Royal Assent. Their exercise is constrained by constitutional convention and, as established in R (Miller) v The Prime Minister [2019], by judicial review."
 
-  - term: "King's Speech"
-    definition_simple: "A speech the King reads out at the State Opening of Parliament, telling everyone what the government plans to do. The government writes the speech, not the King."
-    definition_full: "The address delivered by the monarch from the throne in the House of Lords at the State Opening of Parliament, setting out the government's legislative programme for the forthcoming session. Though read by the sovereign, the speech is drafted entirely by the government and represents its policy agenda, not the personal views of the monarch."
+    - term: "King's Speech"
+      definition_simple: 'A speech the King reads out at the State Opening of Parliament, telling everyone what the government plans to do. The government writes the speech, not the King.'
+      definition_full: "The address delivered by the monarch from the throne in the House of Lords at the State Opening of Parliament, setting out the government's legislative programme for the forthcoming session. Though read by the sovereign, the speech is drafted entirely by the government and represents its policy agenda, not the personal views of the monarch."
 
-  - term: "King's Consent"
-    definition_simple: "Special permission the King must give before Parliament can discuss certain bills that affect the King's own powers or property."
-    definition_full: "A parliamentary convention distinct from Royal Assent, requiring the monarch's consent to be signified before either House may debate a bill that would affect the royal prerogative or the personal property and interests of the Crown. Though treated as a formality, it has attracted scrutiny as a potentially opaque mechanism of monarchical influence over the legislative process."
+    - term: "King's Consent"
+      definition_simple: "Special permission the King must give before Parliament can discuss certain bills that affect the King's own powers or property."
+      definition_full: "A parliamentary convention distinct from Royal Assent, requiring the monarch's consent to be signified before either House may debate a bill that would affect the royal prerogative or the personal property and interests of the Crown. Though treated as a formality, it has attracted scrutiny as a potentially opaque mechanism of monarchical influence over the legislative process."
 
 did_you_know:
-  - fact: "The last time a monarch refused Royal Assent was in 1708, when Queen Anne said no to the Scottish Militia Bill. No King or Queen has refused since — that's over 300 years of saying yes!"
-    level: [child, teenager]
+    - fact: "The last time a monarch refused Royal Assent was in 1708, when Queen Anne said no to the Scottish Militia Bill. No King or Queen has refused since — that's over 300 years of saying yes!"
+      level: [child, teenager]
 
-  - fact: "During the State Opening of Parliament, the door of the House of Commons is slammed shut in the face of Black Rod — the monarch's messenger. This tradition dates back to the English Civil War and symbolises that the Commons is independent from the Crown."
-    level: [child, teenager, adult]
+    - fact: "During the State Opening of Parliament, the door of the House of Commons is slammed shut in the face of Black Rod — the monarch's messenger. This tradition dates back to the English Civil War and symbolises that the Commons is independent from the Crown."
+      level: [child, teenager, adult]
 
-  - fact: "The King's Speech at the State Opening is the only regular occasion when all three parts of Parliament — the Sovereign, the House of Lords, and the House of Commons — meet in the same place."
-    level: [teenager, adult]
+    - fact: "The King's Speech at the State Opening is the only regular occasion when all three parts of Parliament — the Sovereign, the House of Lords, and the House of Commons — meet in the same place."
+      level: [teenager, adult]
 
-  - fact: "Before becoming King, Charles III's private letters to government ministers were nicknamed the 'black spider memos' because of his distinctive handwriting. Their disclosure was ordered by the Supreme Court in R (Evans) v Attorney General [2015]."
-    level: [adult, researcher]
+    - fact: "Before becoming King, Charles III's private letters to government ministers were nicknamed the 'black spider memos' because of his distinctive handwriting. Their disclosure was ordered by the Supreme Court in R (Evans) v Attorney General [2015]."
+      level: [adult, researcher]
 
-  - fact: "Walter Bagehot's The English Constitution (1867) described the monarchy as belonging to the 'dignified' rather than the 'efficient' part of the constitution — a distinction that remains central to constitutional analysis over 150 years later."
-    level: [researcher]
+    - fact: "Walter Bagehot's The English Constitution (1867) described the monarchy as belonging to the 'dignified' rather than the 'efficient' part of the constitution — a distinction that remains central to constitutional analysis over 150 years later."
+      level: [researcher]
 
 key_dates:
-  - year: 1215
-    event: "Magna Carta sealed at Runnymede"
-    significance: "Established the principle that the monarch is subject to the law and cannot govern arbitrarily, laying the foundation for constitutional monarchy."
-    levels: [child, teenager, adult, researcher]
+    - year: 1215
+      event: 'Magna Carta sealed at Runnymede'
+      significance: 'Established the principle that the monarch is subject to the law and cannot govern arbitrarily, laying the foundation for constitutional monarchy.'
+      levels: [child, teenager, adult, researcher]
 
-  - year: 1649
-    event: "Execution of King Charles I"
-    significance: "Following the English Civil War, the King was tried and executed by Parliament, demonstrating that the monarch was not above the law and establishing a brief republic (the Commonwealth)."
-    levels: [teenager, adult, researcher]
+    - year: 1649
+      event: 'Execution of King Charles I'
+      significance: 'Following the English Civil War, the King was tried and executed by Parliament, demonstrating that the monarch was not above the law and establishing a brief republic (the Commonwealth).'
+      levels: [teenager, adult, researcher]
 
-  - year: 1689
-    event: "Bill of Rights enacted"
-    significance: "Following the Glorious Revolution, the Bill of Rights prohibited the monarch from suspending laws, levying taxes, or maintaining a standing army without parliamentary consent, decisively shifting power from Crown to Parliament."
-    levels: [child, teenager, adult, researcher]
+    - year: 1689
+      event: 'Bill of Rights enacted'
+      significance: 'Following the Glorious Revolution, the Bill of Rights prohibited the monarch from suspending laws, levying taxes, or maintaining a standing army without parliamentary consent, decisively shifting power from Crown to Parliament.'
+      levels: [child, teenager, adult, researcher]
 
-  - year: 1708
-    event: "Queen Anne withholds Royal Assent from the Scottish Militia Bill"
-    significance: "The last occasion on which a British monarch refused Royal Assent, establishing the convention that assent is automatic."
-    levels: [teenager, adult, researcher]
+    - year: 1708
+      event: 'Queen Anne withholds Royal Assent from the Scottish Militia Bill'
+      significance: 'The last occasion on which a British monarch refused Royal Assent, establishing the convention that assent is automatic.'
+      levels: [teenager, adult, researcher]
 
-  - year: 1867
-    event: "Walter Bagehot publishes The English Constitution"
-    significance: "Bagehot's analysis of the 'dignified' and 'efficient' parts of the constitution provided the enduring theoretical framework for understanding the monarchy's role, including the monarch's rights to be consulted, to encourage, and to warn."
-    levels: [adult, researcher]
+    - year: 1867
+      event: 'Walter Bagehot publishes The English Constitution'
+      significance: "Bagehot's analysis of the 'dignified' and 'efficient' parts of the constitution provided the enduring theoretical framework for understanding the monarchy's role, including the monarch's rights to be consulted, to encourage, and to warn."
+      levels: [adult, researcher]
 
-  - year: 2019
-    event: "Supreme Court rules prorogation unlawful in R (Miller) v The Prime Minister"
-    significance: "The Court held that the advice to prorogue Parliament was justiciable and unlawful, extending judicial review to prerogative powers exercised on ministerial advice and reaffirming parliamentary sovereignty."
-    levels: [adult, researcher]
+    - year: 2019
+      event: 'Supreme Court rules prorogation unlawful in R (Miller) v The Prime Minister'
+      significance: 'The Court held that the advice to prorogue Parliament was justiciable and unlawful, extending judicial review to prerogative powers exercised on ministerial advice and reaffirming parliamentary sovereignty.'
+      levels: [adult, researcher]
 
-  - year: 2022
-    event: "Accession of King Charles III"
-    significance: "Charles III became King on 8 September 2022 following the death of Queen Elizabeth II, the longest-reigning British monarch. His accession renewed debate about the monarchy's role and the convention of political neutrality."
-    levels: [child, teenager, adult, researcher]
+    - year: 2022
+      event: 'Accession of King Charles III'
+      significance: "Charles III became King on 8 September 2022 following the death of Queen Elizabeth II, the longest-reigning British monarch. His accession renewed debate about the monarchy's role and the convention of political neutrality."
+      levels: [child, teenager, adult, researcher]
 
 key_figures:
-  - name: "King Charles III"
-    role: "King of the United Kingdom (2022–present)"
-    description: "The current monarch, who acceded to the throne following the death of Queen Elizabeth II. As head of state, he performs constitutional duties including granting Royal Assent, opening Parliament, and holding weekly audiences with the Prime Minister."
-    levels: [child, teenager, adult, researcher]
+    - name: 'King Charles III'
+      role: 'King of the United Kingdom (2022–present)'
+      description: 'The current monarch, who acceded to the throne following the death of Queen Elizabeth II. As head of state, he performs constitutional duties including granting Royal Assent, opening Parliament, and holding weekly audiences with the Prime Minister.'
+      levels: [child, teenager, adult, researcher]
 
-  - name: "Walter Bagehot"
-    role: "Constitutional theorist and journalist (1826–1877)"
-    description: "Author of The English Constitution (1867), which distinguished between the 'dignified' and 'efficient' parts of the constitution and defined the monarch's three rights: to be consulted, to encourage, and to warn. His framework remains central to constitutional scholarship."
-    levels: [adult, researcher]
+    - name: 'Walter Bagehot'
+      role: 'Constitutional theorist and journalist (1826–1877)'
+      description: "Author of The English Constitution (1867), which distinguished between the 'dignified' and 'efficient' parts of the constitution and defined the monarch's three rights: to be consulted, to encourage, and to warn. His framework remains central to constitutional scholarship."
+      levels: [adult, researcher]
 
-  - name: "Queen Anne"
-    role: "Queen of Great Britain (1702–1714)"
-    description: "The last British monarch to withhold Royal Assent, refusing to approve the Scottish Militia Bill in 1708 on the advice of her ministers. This precedent established the convention that Royal Assent is not refused."
-    levels: [teenager, adult, researcher]
+    - name: 'Queen Anne'
+      role: 'Queen of Great Britain (1702–1714)'
+      description: 'The last British monarch to withhold Royal Assent, refusing to approve the Scottish Militia Bill in 1708 on the advice of her ministers. This precedent established the convention that Royal Assent is not refused.'
+      levels: [teenager, adult, researcher]
 
-  - name: "Queen Elizabeth II"
-    role: "Queen of the United Kingdom (1952–2022)"
-    description: "The longest-reigning British monarch, who served for 70 years. Her reign exemplified the convention of political neutrality, and she granted Royal Assent to approximately 4,000 Acts of Parliament. Her conduct set the modern standard for the constitutional monarchy."
-    levels: [child, teenager, adult, researcher]
+    - name: 'Queen Elizabeth II'
+      role: 'Queen of the United Kingdom (1952–2022)'
+      description: 'The longest-reigning British monarch, who served for 70 years. Her reign exemplified the convention of political neutrality, and she granted Royal Assent to approximately 4,000 Acts of Parliament. Her conduct set the modern standard for the constitutional monarchy.'
+      levels: [child, teenager, adult, researcher]
 
 video_links:
-  - title: "Could You Become the British Monarch?"
-    url: "https://www.youtube.com/watch?v=BUY6HGqYweQ"
-    source: "CGP Grey"
-    description: "Animated explainer on the rules of royal succession established by Parliament, including the Act of Settlement and how the line of succession works."
-    levels: [child, teenager]
-  - title: "The Royal Family Is Weirder Than You Think"
-    url: "https://www.youtube.com/watch?v=jNgP6d9HraI"
-    source: "CGP Grey"
-    description: "Animated brief history of the British Royal Family from 1066 to the present day, tracing the dynasties and how the crown passed between them."
-    levels: [teenager, adult]
-  - title: "The True Cost of the Royal Family Explained"
-    url: "https://www.youtube.com/watch?v=bhyYgnhhKFw"
-    source: "CGP Grey"
-    description: "Analysis of the financial relationship between the Crown and the state, examining the Sovereign Grant, the Crown Estate, and arguments about the monarchy's cost."
-    levels: [adult, researcher]
+    - title: 'Could You Become the British Monarch?'
+      url: 'https://www.youtube.com/watch?v=BUY6HGqYweQ'
+      source: 'CGP Grey'
+      description: 'Animated explainer on the rules of royal succession established by Parliament, including the Act of Settlement and how the line of succession works.'
+      levels: [child, teenager]
+    - title: 'The Royal Family Is Weirder Than You Think'
+      url: 'https://www.youtube.com/watch?v=jNgP6d9HraI'
+      source: 'CGP Grey'
+      description: 'Animated brief history of the British Royal Family from 1066 to the present day, tracing the dynasties and how the crown passed between them.'
+      levels: [teenager, adult]
+    - title: 'The True Cost of the Royal Family Explained'
+      url: 'https://www.youtube.com/watch?v=bhyYgnhhKFw'
+      source: 'CGP Grey'
+      description: "Analysis of the financial relationship between the Crown and the state, examining the Sovereign Grant, the Crown Estate, and arguments about the monarchy's cost."
+      levels: [adult, researcher]
 
 quizzes:
-  child:
-    - question: "What is it called when the King says yes to a new law?"
-      type: multiple_choice
-      options:
-        - "Royal Assent"
-        - "Royal Permission"
-        - "King's Order"
-        - "Royal Stamp"
-      correct_answer: "Royal Assent"
-      explanation: "Royal Assent is the King's formal approval that turns a bill into a law. The King always gives this approval."
+    child:
+        - question: 'What is it called when the King says yes to a new law?'
+          type: multiple_choice
+          options:
+              - 'Royal Assent'
+              - 'Royal Permission'
+              - "King's Order"
+              - 'Royal Stamp'
+          correct_answer: 'Royal Assent'
+          explanation: "Royal Assent is the King's formal approval that turns a bill into a law. The King always gives this approval."
 
-    - question: "True or false: The King writes his own speech for the State Opening of Parliament."
-      type: true_false
-      correct_answer: "False"
-      explanation: "The government writes the King's Speech. The King reads it out, but the words are the government's plans, not the King's own ideas."
+        - question: 'True or false: The King writes his own speech for the State Opening of Parliament.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: "The government writes the King's Speech. The King reads it out, but the words are the government's plans, not the King's own ideas."
 
-    - question: "The King must not take sides in politics. Why do you think this is important?"
-      type: short_answer
-      correct_answer: "The King represents the whole country, not just one group. If the King took sides, some people might feel he did not represent them."
-      explanation: "The King is meant to be a figurehead for everyone in the country. Staying neutral means all people can feel represented by the monarchy, no matter which political party they support."
+        - question: 'The King must not take sides in politics. Why do you think this is important?'
+          type: short_answer
+          correct_answer: 'The King represents the whole country, not just one group. If the King took sides, some people might feel he did not represent them.'
+          explanation: 'The King is meant to be a figurehead for everyone in the country. Staying neutral means all people can feel represented by the monarchy, no matter which political party they support.'
 
-  teenager:
-    - question: "When was Royal Assent last refused by a British monarch?"
-      type: multiple_choice
-      options:
-        - "1649"
-        - "1689"
-        - "1708"
-        - "1867"
-      correct_answer: "1708"
-      explanation: "Queen Anne withheld Royal Assent from the Scottish Militia Bill in 1708. No monarch has refused since, making it a constitutional convention that assent is always given."
+    teenager:
+        - question: 'When was Royal Assent last refused by a British monarch?'
+          type: multiple_choice
+          options:
+              - '1649'
+              - '1689'
+              - '1708'
+              - '1867'
+          correct_answer: '1708'
+          explanation: 'Queen Anne withheld Royal Assent from the Scottish Militia Bill in 1708. No monarch has refused since, making it a constitutional convention that assent is always given.'
 
-    - question: "True or false: The State Opening of Parliament is the only regular occasion when the monarch, the House of Lords, and the House of Commons all meet together."
-      type: true_false
-      correct_answer: "True"
-      explanation: "The State Opening is the one regular event that brings together all three constituent parts of Parliament: the Sovereign, the Lords, and the Commons."
+        - question: 'True or false: The State Opening of Parliament is the only regular occasion when the monarch, the House of Lords, and the House of Commons all meet together.'
+          type: true_false
+          correct_answer: 'True'
+          explanation: 'The State Opening is the one regular event that brings together all three constituent parts of Parliament: the Sovereign, the Lords, and the Commons.'
 
-    - question: "Explain why the door of the House of Commons is shut in the face of Black Rod during the State Opening of Parliament."
-      type: short_answer
-      correct_answer: "It symbolises the independence of the House of Commons from the Crown. The tradition dates back to the English Civil War and represents the right of the Commons to debate without royal interference."
-      explanation: "This centuries-old tradition is a powerful symbol of parliamentary independence. It reminds everyone that the elected House of Commons has the right to conduct its business free from monarchical control."
+        - question: 'Explain why the door of the House of Commons is shut in the face of Black Rod during the State Opening of Parliament.'
+          type: short_answer
+          correct_answer: 'It symbolises the independence of the House of Commons from the Crown. The tradition dates back to the English Civil War and represents the right of the Commons to debate without royal interference.'
+          explanation: 'This centuries-old tradition is a powerful symbol of parliamentary independence. It reminds everyone that the elected House of Commons has the right to conduct its business free from monarchical control.'
 
-  adult:
-    - question: "Which of the following best describes the 'Cardinal Convention' in relation to the monarchy?"
-      type: multiple_choice
-      options:
-        - "The monarch must open each session of Parliament in person"
-        - "The monarch must act on the advice of ministers"
-        - "The monarch must grant Royal Assent within 30 days"
-        - "The monarch must remain resident in the United Kingdom"
-      correct_answer: "The monarch must act on the advice of ministers"
-      explanation: "The Cardinal Convention is the fundamental constitutional convention requiring the monarch to act on ministerial advice, thereby ensuring that substantive political power rests with democratically accountable officeholders rather than the hereditary sovereign."
+    adult:
+        - question: "Which of the following best describes the 'Cardinal Convention' in relation to the monarchy?"
+          type: multiple_choice
+          options:
+              - 'The monarch must open each session of Parliament in person'
+              - 'The monarch must act on the advice of ministers'
+              - 'The monarch must grant Royal Assent within 30 days'
+              - 'The monarch must remain resident in the United Kingdom'
+          correct_answer: 'The monarch must act on the advice of ministers'
+          explanation: 'The Cardinal Convention is the fundamental constitutional convention requiring the monarch to act on ministerial advice, thereby ensuring that substantive political power rests with democratically accountable officeholders rather than the hereditary sovereign.'
 
-    - question: "How did the Supreme Court's decision in R (Miller) v The Prime Minister [2019] change the constitutional understanding of prerogative powers?"
-      type: short_answer
-      correct_answer: "The Court ruled that prerogative powers exercised on ministerial advice — specifically the prorogation of Parliament — are justiciable and subject to judicial review. This established that the courts can examine the lawfulness of advice given to the monarch."
-      explanation: "The Miller/Cherry prorogation case was a landmark ruling that extended the principle of judicial review to prerogative acts carried out on ministerial advice, reinforcing parliamentary sovereignty and constraining executive use of the royal prerogative."
+        - question: "How did the Supreme Court's decision in R (Miller) v The Prime Minister [2019] change the constitutional understanding of prerogative powers?"
+          type: short_answer
+          correct_answer: 'The Court ruled that prerogative powers exercised on ministerial advice — specifically the prorogation of Parliament — are justiciable and subject to judicial review. This established that the courts can examine the lawfulness of advice given to the monarch.'
+          explanation: 'The Miller/Cherry prorogation case was a landmark ruling that extended the principle of judicial review to prerogative acts carried out on ministerial advice, reinforcing parliamentary sovereignty and constraining executive use of the royal prerogative.'
 
-    - question: "True or false: King's Consent and Royal Assent are the same thing."
-      type: true_false
-      correct_answer: "False"
-      explanation: "They are distinct. Royal Assent is given after a bill has passed both Houses, enacting it as law. King's Consent must be obtained before Parliament debates bills affecting the monarch's prerogative or personal interests. Both are formalities, but they operate at different stages of the legislative process."
+        - question: "True or false: King's Consent and Royal Assent are the same thing."
+          type: true_false
+          correct_answer: 'False'
+          explanation: "They are distinct. Royal Assent is given after a bill has passed both Houses, enacting it as law. King's Consent must be obtained before Parliament debates bills affecting the monarch's prerogative or personal interests. Both are formalities, but they operate at different stages of the legislative process."
 
-  researcher:
-    - question: "Critically assess Bagehot's classification of the monarchy as belonging to the 'dignified' rather than the 'efficient' part of the constitution. To what extent does this distinction remain analytically useful?"
-      type: essay
-      correct_answer: "A strong answer would argue that while the dignified/efficient distinction captures the monarchy's primarily symbolic and ceremonial function, it understates the monarch's residual political significance in moments of constitutional ambiguity (e.g., hung parliaments, disputed dissolutions). Scholars such as Bogdanor have argued that the reserve powers, though dormant, represent a latent 'efficient' capacity. The 2019 prorogation crisis further complicated the distinction by demonstrating that formally 'dignified' acts can have profoundly 'efficient' consequences."
-      explanation: "Bagehot's framework has proved remarkably durable but requires qualification. The boundary between dignified and efficient is more permeable than Bagehot suggested, particularly in constitutional crises where the monarch's reserve powers could become operative."
+    researcher:
+        - question: "Critically assess Bagehot's classification of the monarchy as belonging to the 'dignified' rather than the 'efficient' part of the constitution. To what extent does this distinction remain analytically useful?"
+          type: essay
+          correct_answer: "A strong answer would argue that while the dignified/efficient distinction captures the monarchy's primarily symbolic and ceremonial function, it understates the monarch's residual political significance in moments of constitutional ambiguity (e.g., hung parliaments, disputed dissolutions). Scholars such as Bogdanor have argued that the reserve powers, though dormant, represent a latent 'efficient' capacity. The 2019 prorogation crisis further complicated the distinction by demonstrating that formally 'dignified' acts can have profoundly 'efficient' consequences."
+          explanation: "Bagehot's framework has proved remarkably durable but requires qualification. The boundary between dignified and efficient is more permeable than Bagehot suggested, particularly in constitutional crises where the monarch's reserve powers could become operative."
 
-    - question: "Evaluate the constitutional significance of the distinction between Royal Assent and King's Consent. Does the latter represent a meaningful check on parliamentary sovereignty?"
-      type: essay
-      correct_answer: "An effective response would note that Royal Assent is a post-legislative formality with no discretionary element, while King's Consent operates pre-legislatively and has been sought on over 1,000 bills. The opacity of the consent process — conducted through private channels — raises questions about accountability. However, consent has never been refused in modern times and is given on ministerial advice, suggesting it functions as a convention-bound formality rather than a substantive veto. The scholarly debate centres on whether the process could theoretically be used to influence the drafting of legislation before it reaches Parliament."
-      explanation: "The distinction matters because King's Consent operates at an earlier, less transparent stage of the legislative process. While both are conventional formalities, the consent mechanism's opacity has led constitutional scholars and journalists to question whether it provides a channel for monarchical influence that sits uneasily with parliamentary sovereignty."
+        - question: "Evaluate the constitutional significance of the distinction between Royal Assent and King's Consent. Does the latter represent a meaningful check on parliamentary sovereignty?"
+          type: essay
+          correct_answer: "An effective response would note that Royal Assent is a post-legislative formality with no discretionary element, while King's Consent operates pre-legislatively and has been sought on over 1,000 bills. The opacity of the consent process — conducted through private channels — raises questions about accountability. However, consent has never been refused in modern times and is given on ministerial advice, suggesting it functions as a convention-bound formality rather than a substantive veto. The scholarly debate centres on whether the process could theoretically be used to influence the drafting of legislation before it reaches Parliament."
+          explanation: "The distinction matters because King's Consent operates at an earlier, less transparent stage of the legislative process. While both are conventional formalities, the consent mechanism's opacity has led constitutional scholars and journalists to question whether it provides a channel for monarchical influence that sits uneasily with parliamentary sovereignty."
 
-    - question: "Analyse the Lascelles Principles in light of the Dissolution and Calling of Parliament Act 2022. Do these principles retain constitutional relevance?"
-      type: short_answer
-      correct_answer: "The 2022 Act restored the prerogative of dissolution, making the Lascelles Principles potentially relevant again. The Principles — articulated in 1950 — set out circumstances in which a monarch might refuse a dissolution request. While no monarch has tested them, they remain the most cited framework for analysing the limits of the dissolution prerogative and the circumstances in which the monarch might legitimately exercise independent judgment."
-      explanation: "The repeal of the Fixed-term Parliaments Act 2011 and the restoration of the dissolution prerogative by the 2022 Act revived scholarly interest in the Lascelles Principles, which had seemed academic during the fixed-term parliament era. They remain the leading authority on the theoretical limits of the monarch's obligation to accept dissolution advice."
+        - question: 'Analyse the Lascelles Principles in light of the Dissolution and Calling of Parliament Act 2022. Do these principles retain constitutional relevance?'
+          type: short_answer
+          correct_answer: 'The 2022 Act restored the prerogative of dissolution, making the Lascelles Principles potentially relevant again. The Principles — articulated in 1950 — set out circumstances in which a monarch might refuse a dissolution request. While no monarch has tested them, they remain the most cited framework for analysing the limits of the dissolution prerogative and the circumstances in which the monarch might legitimately exercise independent judgment.'
+          explanation: "The repeal of the Fixed-term Parliaments Act 2011 and the restoration of the dissolution prerogative by the 2022 Act revived scholarly interest in the Lascelles Principles, which had seemed academic during the fixed-term parliament era. They remain the leading authority on the theoretical limits of the monarch's obligation to accept dissolution advice."

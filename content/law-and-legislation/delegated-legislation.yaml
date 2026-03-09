@@ -1,381 +1,381 @@
 id: delegated-legislation
-title: "Delegated Legislation"
+title: 'Delegated Legislation'
 slug: delegated-legislation
 
 metadata:
-  category: law-and-legislation
-  tags:
-    - delegated-legislation
-    - secondary-legislation
-    - statutory-instruments
-    - henry-viii-powers
-    - affirmative-procedure
-    - negative-procedure
-    - orders-in-council
-    - parliamentary-scrutiny
-    - skeleton-bills
-    - regulatory-reform
-  last_updated: 2026-03-09
-  status: published
-  order: 3
+    category: law-and-legislation
+    tags:
+        - delegated-legislation
+        - secondary-legislation
+        - statutory-instruments
+        - henry-viii-powers
+        - affirmative-procedure
+        - negative-procedure
+        - orders-in-council
+        - parliamentary-scrutiny
+        - skeleton-bills
+        - regulatory-reform
+    last_updated: 2026-03-09
+    status: published
+    order: 3
 
 related_topics:
-  - id: how-laws-are-made
-    relationship: prerequisite
-  - id: select-committees
-    relationship: see-also
-  - id: the-uk-constitution
-    relationship: see-also
+    - id: how-laws-are-made
+      relationship: prerequisite
+    - id: select-committees
+      relationship: see-also
+    - id: the-uk-constitution
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Parliament gives Government ministers the power to make detailed rules without having to pass a whole new law every time."
-    body: |
-      You know how at school there are big rules, like "be kind to each other," and then smaller, more detailed rules, like "walk on the left in the corridor"? Laws in the United Kingdom work in a similar way.
+    child:
+        summary: 'Parliament gives Government ministers the power to make detailed rules without having to pass a whole new law every time.'
+        body: |
+            You know how at school there are big rules, like "be kind to each other," and then smaller, more detailed rules, like "walk on the left in the corridor"? Laws in the United Kingdom work in a similar way.
 
-      Parliament makes the big laws. These are called Acts of Parliament. But Acts often need lots of detailed rules to make them work properly. It would take far too long if Parliament had to debate and vote on every single small rule. So instead, Parliament gives ministers in the Government the power to fill in the details themselves. These detailed rules are called delegated legislation, because Parliament is delegating -- or handing over -- some of its power to make rules.
+            Parliament makes the big laws. These are called Acts of Parliament. But Acts often need lots of detailed rules to make them work properly. It would take far too long if Parliament had to debate and vote on every single small rule. So instead, Parliament gives ministers in the Government the power to fill in the details themselves. These detailed rules are called delegated legislation, because Parliament is delegating -- or handing over -- some of its power to make rules.
 
-      The most common type of delegated legislation is called a Statutory Instrument, or SI for short. Every year, ministers make around 3,000 Statutory Instruments. That is a huge number compared to the 25 to 35 Acts of Parliament that are passed each year!
+            The most common type of delegated legislation is called a Statutory Instrument, or SI for short. Every year, ministers make around 3,000 Statutory Instruments. That is a huge number compared to the 25 to 35 Acts of Parliament that are passed each year!
 
-      Even though ministers make these rules, Parliament still keeps an eye on them. There are two main ways Parliament checks these rules:
+            Even though ministers make these rules, Parliament still keeps an eye on them. There are two main ways Parliament checks these rules:
 
-      The first way is called the affirmative procedure. This means the rule does not come into force until Parliament votes to approve it. Both the House of Commons and the House of Lords must say yes.
+            The first way is called the affirmative procedure. This means the rule does not come into force until Parliament votes to approve it. Both the House of Commons and the House of Lords must say yes.
 
-      The second way is called the negative procedure. This means the rule automatically becomes law unless Parliament votes to stop it within a certain number of days. Most rules go through the negative procedure.
+            The second way is called the negative procedure. This means the rule automatically becomes law unless Parliament votes to stop it within a certain number of days. Most rules go through the negative procedure.
 
-      There is also a special type of rule called an Order in Council. This is made by the King on the advice of ministers and the Privy Council, and is used for important matters.
+            There is also a special type of rule called an Order in Council. This is made by the King on the advice of ministers and the Privy Council, and is used for important matters.
 
-      Parliament has special committees that check these rules to make sure they are properly made and do not go beyond the powers Parliament gave. This helps make sure that ministers do not use their rule-making powers unfairly.
-    reading_age: 8
-  teenager:
-    summary: "Delegated legislation allows ministers to make detailed laws using powers granted by Acts of Parliament, subject to parliamentary scrutiny through affirmative and negative procedures."
-    body: |
-      When Parliament passes an Act (also called primary legislation), it often sets out the broad framework of a new law but leaves the detailed rules to be filled in later by Government ministers. These detailed rules are called delegated legislation, or secondary legislation, because the power to make them has been delegated from Parliament to the executive.
+            Parliament has special committees that check these rules to make sure they are properly made and do not go beyond the powers Parliament gave. This helps make sure that ministers do not use their rule-making powers unfairly.
+        reading_age: 8
+    teenager:
+        summary: 'Delegated legislation allows ministers to make detailed laws using powers granted by Acts of Parliament, subject to parliamentary scrutiny through affirmative and negative procedures.'
+        body: |
+            When Parliament passes an Act (also called primary legislation), it often sets out the broad framework of a new law but leaves the detailed rules to be filled in later by Government ministers. These detailed rules are called delegated legislation, or secondary legislation, because the power to make them has been delegated from Parliament to the executive.
 
-      **Why Does Delegated Legislation Exist?**
+            **Why Does Delegated Legislation Exist?**
 
-      There are several practical reasons. First, Parliament does not have time to debate every technical detail of every law. An Act dealing with food safety, for example, might set out general principles, while ministers later specify exact hygiene standards and permitted ingredients through delegated legislation. Second, delegated legislation allows rules to be updated quickly in response to changing circumstances without needing a whole new Act. Third, some matters require technical expertise that is better handled by ministers and their departments.
+            There are several practical reasons. First, Parliament does not have time to debate every technical detail of every law. An Act dealing with food safety, for example, might set out general principles, while ministers later specify exact hygiene standards and permitted ingredients through delegated legislation. Second, delegated legislation allows rules to be updated quickly in response to changing circumstances without needing a whole new Act. Third, some matters require technical expertise that is better handled by ministers and their departments.
 
-      **Statutory Instruments**
+            **Statutory Instruments**
 
-      The most common form of delegated legislation is the Statutory Instrument (SI), governed by the Statutory Instruments Act 1946. Around 3,000 SIs are made each year, vastly outnumbering the 25 to 35 Acts passed annually. SIs can take the form of orders, regulations, or rules.
+            The most common form of delegated legislation is the Statutory Instrument (SI), governed by the Statutory Instruments Act 1946. Around 3,000 SIs are made each year, vastly outnumbering the 25 to 35 Acts passed annually. SIs can take the form of orders, regulations, or rules.
 
-      **Parliamentary Scrutiny**
+            **Parliamentary Scrutiny**
 
-      SIs are subject to one of two procedures depending on what the parent Act specifies:
+            SIs are subject to one of two procedures depending on what the parent Act specifies:
 
-      - **Affirmative procedure**: The SI must be actively approved by a vote in both Houses before it can come into force (or, in some cases, within a set period after it is made). This is used for more significant or controversial measures.
-      - **Negative procedure**: The SI automatically becomes law unless either House passes a motion to annul it within 40 sitting days. The vast majority of SIs go through the negative procedure, and most receive no parliamentary debate at all.
+            - **Affirmative procedure**: The SI must be actively approved by a vote in both Houses before it can come into force (or, in some cases, within a set period after it is made). This is used for more significant or controversial measures.
+            - **Negative procedure**: The SI automatically becomes law unless either House passes a motion to annul it within 40 sitting days. The vast majority of SIs go through the negative procedure, and most receive no parliamentary debate at all.
 
-      Importantly, Parliament cannot amend an SI -- it can only approve or reject it in its entirety. This is a significant limitation on parliamentary scrutiny.
+            Importantly, Parliament cannot amend an SI -- it can only approve or reject it in its entirety. This is a significant limitation on parliamentary scrutiny.
 
-      **Scrutiny Committees**
+            **Scrutiny Committees**
 
-      Several committees examine delegated legislation:
+            Several committees examine delegated legislation:
 
-      - The **Joint Committee on Statutory Instruments** (JCSI) checks whether SIs have been properly made from a legal and technical standpoint.
-      - The **Delegated Powers and Regulatory Reform Committee** (in the Lords) examines Bills before Parliament to assess whether the delegated powers they contain are appropriate.
-      - The **Secondary Legislation Scrutiny Committee** (in the Lords) considers the policy merits of SIs and draws the attention of the House to instruments of interest.
+            - The **Joint Committee on Statutory Instruments** (JCSI) checks whether SIs have been properly made from a legal and technical standpoint.
+            - The **Delegated Powers and Regulatory Reform Committee** (in the Lords) examines Bills before Parliament to assess whether the delegated powers they contain are appropriate.
+            - The **Secondary Legislation Scrutiny Committee** (in the Lords) considers the policy merits of SIs and draws the attention of the House to instruments of interest.
 
-      **Henry VIII Powers**
+            **Henry VIII Powers**
 
-      Some Acts give ministers particularly wide powers, including the ability to amend or even repeal existing Acts of Parliament through an SI. These are known as Henry VIII powers, named after King Henry VIII, who in 1539 obtained the Statute of Proclamations, which gave royal proclamations the same force as Acts of Parliament. Henry VIII powers are controversial because they allow the executive to change primary legislation without full parliamentary debate.
+            Some Acts give ministers particularly wide powers, including the ability to amend or even repeal existing Acts of Parliament through an SI. These are known as Henry VIII powers, named after King Henry VIII, who in 1539 obtained the Statute of Proclamations, which gave royal proclamations the same force as Acts of Parliament. Henry VIII powers are controversial because they allow the executive to change primary legislation without full parliamentary debate.
 
-      **Skeleton Bills**
+            **Skeleton Bills**
 
-      A growing concern is the use of "skeleton Bills" -- Acts that set out only a bare framework, leaving almost all the substantive detail to be filled in by delegated legislation. Critics argue this undermines parliamentary sovereignty because Parliament is approving laws without knowing what they will actually say in practice.
+            A growing concern is the use of "skeleton Bills" -- Acts that set out only a bare framework, leaving almost all the substantive detail to be filled in by delegated legislation. Critics argue this undermines parliamentary sovereignty because Parliament is approving laws without knowing what they will actually say in practice.
 
-      **Orders in Council**
+            **Orders in Council**
 
-      Orders in Council are a special form of delegated legislation made by the Sovereign on the advice of the Privy Council. They are used for a range of purposes, from transferring powers under devolution to extending UK legislation to Crown Dependencies.
-    reading_age: 14
-  adult:
-    summary: "Delegated legislation -- principally Statutory Instruments -- constitutes the bulk of UK law-making, raising fundamental questions about parliamentary scrutiny, executive power, and the constitutional balance between primary and secondary legislation."
-    body: |
-      Delegated (or secondary) legislation is law made by ministers or other authorised bodies under powers conferred by an Act of Parliament (the "parent" or "enabling" Act). It is the mechanism by which the broad policy frameworks established in primary legislation are given detailed legal effect. While essential to the functioning of a modern state, the volume, scope, and scrutiny of delegated legislation raise significant constitutional questions about the balance of power between Parliament and the executive.
+            Orders in Council are a special form of delegated legislation made by the Sovereign on the advice of the Privy Council. They are used for a range of purposes, from transferring powers under devolution to extending UK legislation to Crown Dependencies.
+        reading_age: 14
+    adult:
+        summary: 'Delegated legislation -- principally Statutory Instruments -- constitutes the bulk of UK law-making, raising fundamental questions about parliamentary scrutiny, executive power, and the constitutional balance between primary and secondary legislation.'
+        body: |
+            Delegated (or secondary) legislation is law made by ministers or other authorised bodies under powers conferred by an Act of Parliament (the "parent" or "enabling" Act). It is the mechanism by which the broad policy frameworks established in primary legislation are given detailed legal effect. While essential to the functioning of a modern state, the volume, scope, and scrutiny of delegated legislation raise significant constitutional questions about the balance of power between Parliament and the executive.
 
-      **Scale and Significance**
+            **Scale and Significance**
 
-      The volume of delegated legislation dwarfs primary legislation. In any given parliamentary session, approximately 25 to 35 Acts receive Royal Assent, while over 3,000 Statutory Instruments (SIs) are made. SIs range from routine technical adjustments (updating benefit rates or amending regulatory thresholds) to measures of major political significance (implementing sanctions regimes or amending retained EU law). The Statutory Instruments Act 1946 provides the procedural framework for SIs, defining their numbering, publication, and parliamentary procedure.
+            The volume of delegated legislation dwarfs primary legislation. In any given parliamentary session, approximately 25 to 35 Acts receive Royal Assent, while over 3,000 Statutory Instruments (SIs) are made. SIs range from routine technical adjustments (updating benefit rates or amending regulatory thresholds) to measures of major political significance (implementing sanctions regimes or amending retained EU law). The Statutory Instruments Act 1946 provides the procedural framework for SIs, defining their numbering, publication, and parliamentary procedure.
 
-      Other forms of delegated legislation include Orders in Council (made by the Sovereign on the advice of the Privy Council), regulatory rules and codes of practice, and legislative reform orders under the Legislative and Regulatory Reform Act 2006.
+            Other forms of delegated legislation include Orders in Council (made by the Sovereign on the advice of the Privy Council), regulatory rules and codes of practice, and legislative reform orders under the Legislative and Regulatory Reform Act 2006.
 
-      **Parliamentary Procedures**
+            **Parliamentary Procedures**
 
-      The parent Act determines which parliamentary procedure applies to each SI:
+            The parent Act determines which parliamentary procedure applies to each SI:
 
-      **Affirmative procedure**: The SI requires active approval by resolution of each House (or the Commons alone for financial measures). It cannot come into force until approved, or in some cases must be approved within a specified period after being made. Approximately 10 to 15 per cent of SIs are subject to the affirmative procedure.
+            **Affirmative procedure**: The SI requires active approval by resolution of each House (or the Commons alone for financial measures). It cannot come into force until approved, or in some cases must be approved within a specified period after being made. Approximately 10 to 15 per cent of SIs are subject to the affirmative procedure.
 
-      **Negative procedure**: The SI is laid before Parliament and automatically comes into force unless either House passes a prayer for annulment within 40 sitting days. The overwhelming majority of SIs are subject to this procedure. In practice, prayers for annulment are rarely tabled and almost never succeed -- the House of Lords last successfully annulled an SI in 2000 (the Greater London Authority (Election Expenses) Order), and such action in the Commons is even rarer.
+            **Negative procedure**: The SI is laid before Parliament and automatically comes into force unless either House passes a prayer for annulment within 40 sitting days. The overwhelming majority of SIs are subject to this procedure. In practice, prayers for annulment are rarely tabled and almost never succeed -- the House of Lords last successfully annulled an SI in 2000 (the Greater London Authority (Election Expenses) Order), and such action in the Commons is even rarer.
 
-      **Made affirmative and made negative**: Some SIs come into force immediately but require subsequent approval (made affirmative) or are subject to annulment after taking effect (made negative).
+            **Made affirmative and made negative**: Some SIs come into force immediately but require subsequent approval (made affirmative) or are subject to annulment after taking effect (made negative).
 
-      A critical limitation is that Parliament cannot amend SIs. Unlike primary legislation, where Bills can be altered clause by clause through the amendment process, an SI must be accepted or rejected in its entirety. This binary choice significantly constrains parliamentary scrutiny, particularly for complex instruments that may contain both acceptable and problematic provisions.
+            A critical limitation is that Parliament cannot amend SIs. Unlike primary legislation, where Bills can be altered clause by clause through the amendment process, an SI must be accepted or rejected in its entirety. This binary choice significantly constrains parliamentary scrutiny, particularly for complex instruments that may contain both acceptable and problematic provisions.
 
-      **Scrutiny Committees**
+            **Scrutiny Committees**
 
-      The House of Lords Delegated Powers and Regulatory Reform Committee examines Bills before Parliament and assesses whether the delegated powers they seek are appropriate. It advises the House on whether powers are too broad, whether the proposed scrutiny procedure is adequate, and whether "Henry VIII powers" are justified. Its reports are influential and have occasionally led to Government concessions at the committee or report stage.
+            The House of Lords Delegated Powers and Regulatory Reform Committee examines Bills before Parliament and assesses whether the delegated powers they seek are appropriate. It advises the House on whether powers are too broad, whether the proposed scrutiny procedure is adequate, and whether "Henry VIII powers" are justified. Its reports are influential and have occasionally led to Government concessions at the committee or report stage.
 
-      The Joint Committee on Statutory Instruments (JCSI) scrutinises SIs on technical and legal grounds. It examines whether an SI has been properly made within the scope of the parent Act, whether it contains unusual or unexpected provisions, whether it is clearly drafted, and whether it imposes charges on public revenue. The JCSI does not consider the policy merits of instruments.
+            The Joint Committee on Statutory Instruments (JCSI) scrutinises SIs on technical and legal grounds. It examines whether an SI has been properly made within the scope of the parent Act, whether it contains unusual or unexpected provisions, whether it is clearly drafted, and whether it imposes charges on public revenue. The JCSI does not consider the policy merits of instruments.
 
-      The Secondary Legislation Scrutiny Committee (SLSC) in the Lords examines the policy merits of SIs subject to parliamentary procedure. It draws the House's attention to instruments that are politically or legally important, that may inadequately implement Government policy, or that appear to represent an inappropriate use of delegated powers.
+            The Secondary Legislation Scrutiny Committee (SLSC) in the Lords examines the policy merits of SIs subject to parliamentary procedure. It draws the House's attention to instruments that are politically or legally important, that may inadequately implement Government policy, or that appear to represent an inappropriate use of delegated powers.
 
-      **Henry VIII Powers**
+            **Henry VIII Powers**
 
-      Henry VIII powers -- provisions in Acts that authorise ministers to amend or repeal primary legislation by SI -- represent the most constitutionally significant form of delegated power. The name derives from the Statute of Proclamations 1539, which gave Henry VIII the power to make proclamations with the force of statute. Modern examples include the power to amend retained EU law under the European Union (Withdrawal) Act 2018 and the Retained EU Law (Revocation and Reform) Act 2023.
+            Henry VIII powers -- provisions in Acts that authorise ministers to amend or repeal primary legislation by SI -- represent the most constitutionally significant form of delegated power. The name derives from the Statute of Proclamations 1539, which gave Henry VIII the power to make proclamations with the force of statute. Modern examples include the power to amend retained EU law under the European Union (Withdrawal) Act 2018 and the Retained EU Law (Revocation and Reform) Act 2023.
 
-      The Delegated Powers and Regulatory Reform Committee and the House of Lords Constitution Committee have consistently expressed concern about the breadth of Henry VIII powers, arguing that they transfer legislative authority from Parliament to the executive in ways that undermine parliamentary sovereignty. The Committee's position is that Henry VIII powers should be used only when there is a clear justification and should be subject to the affirmative procedure at minimum.
+            The Delegated Powers and Regulatory Reform Committee and the House of Lords Constitution Committee have consistently expressed concern about the breadth of Henry VIII powers, arguing that they transfer legislative authority from Parliament to the executive in ways that undermine parliamentary sovereignty. The Committee's position is that Henry VIII powers should be used only when there is a clear justification and should be subject to the affirmative procedure at minimum.
 
-      **Skeleton Bills**
+            **Skeleton Bills**
 
-      The use of skeleton Bills -- primary legislation that establishes only a broad framework, with substantive policy detail to be determined later through delegated legislation -- has attracted growing criticism. The Delegated Powers and Regulatory Reform Committee described the trend as "a shift of power from Parliament to the executive" in its 2021 report "Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive." The concern is that Parliament is being asked to approve Bills without knowing what the resulting law will actually say, effectively giving ministers a blank cheque.
+            The use of skeleton Bills -- primary legislation that establishes only a broad framework, with substantive policy detail to be determined later through delegated legislation -- has attracted growing criticism. The Delegated Powers and Regulatory Reform Committee described the trend as "a shift of power from Parliament to the executive" in its 2021 report "Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive." The concern is that Parliament is being asked to approve Bills without knowing what the resulting law will actually say, effectively giving ministers a blank cheque.
 
-      **Orders in Council**
+            **Orders in Council**
 
-      Orders in Council are made by the Sovereign at a meeting of the Privy Council, on the advice of ministers. They are used for a variety of purposes, including giving effect to resolutions of the United Nations Security Council, extending legislation to Crown Dependencies and British Overseas Territories, and transferring functions between Government departments. Some Orders in Council are made under prerogative powers rather than statutory authority, placing them outside the normal framework of parliamentary scrutiny.
+            Orders in Council are made by the Sovereign at a meeting of the Privy Council, on the advice of ministers. They are used for a variety of purposes, including giving effect to resolutions of the United Nations Security Council, extending legislation to Crown Dependencies and British Overseas Territories, and transferring functions between Government departments. Some Orders in Council are made under prerogative powers rather than statutory authority, placing them outside the normal framework of parliamentary scrutiny.
 
-      **Constitutional Implications**
+            **Constitutional Implications**
 
-      The growth of delegated legislation raises fundamental questions about the nature of parliamentary sovereignty. While Parliament formally retains the power to reject any SI, the practical constraints -- limited debating time, the binary approve/reject choice, and the convention against the Lords defeating SIs -- mean that most delegated legislation receives minimal scrutiny. The result is a significant transfer of effective law-making power from Parliament to the executive, even as the formal constitutional framework remains intact.
-    reading_age: 18
-  researcher:
-    summary: "A critical analysis of the constitutional implications of delegated legislation in the UK, examining the growth of executive law-making power, the adequacy of parliamentary scrutiny mechanisms, the controversies surrounding Henry VIII powers and skeleton Bills, and the structural tension between legislative efficiency and democratic accountability."
-    body: |
-      Delegated legislation occupies a paradoxical position in the UK constitution. It is simultaneously indispensable to modern governance -- no legislature could plausibly consider the volume of detailed regulation required by a complex state -- and constitutionally problematic, representing a systematic transfer of law-making power from Parliament to the executive. The tension between these realities has generated sustained academic, parliamentary, and judicial scrutiny, particularly in the context of the post-Brexit legislative programme.
+            The growth of delegated legislation raises fundamental questions about the nature of parliamentary sovereignty. While Parliament formally retains the power to reject any SI, the practical constraints -- limited debating time, the binary approve/reject choice, and the convention against the Lords defeating SIs -- mean that most delegated legislation receives minimal scrutiny. The result is a significant transfer of effective law-making power from Parliament to the executive, even as the formal constitutional framework remains intact.
+        reading_age: 18
+    researcher:
+        summary: 'A critical analysis of the constitutional implications of delegated legislation in the UK, examining the growth of executive law-making power, the adequacy of parliamentary scrutiny mechanisms, the controversies surrounding Henry VIII powers and skeleton Bills, and the structural tension between legislative efficiency and democratic accountability.'
+        body: |
+            Delegated legislation occupies a paradoxical position in the UK constitution. It is simultaneously indispensable to modern governance -- no legislature could plausibly consider the volume of detailed regulation required by a complex state -- and constitutionally problematic, representing a systematic transfer of law-making power from Parliament to the executive. The tension between these realities has generated sustained academic, parliamentary, and judicial scrutiny, particularly in the context of the post-Brexit legislative programme.
 
-      **Historical Development**
+            **Historical Development**
 
-      The practice of delegating legislative authority from Parliament to the executive has deep historical roots. The Committee on Ministers' Powers (the Donoughmore Committee, 1932) conducted the first systematic examination of delegated legislation, concluding that it was a "necessity" but warning against excessive delegation. The Statutory Instruments Act 1946 standardised the procedural framework, replacing the earlier inconsistent arrangements for what had previously been known as statutory rules and orders.
+            The practice of delegating legislative authority from Parliament to the executive has deep historical roots. The Committee on Ministers' Powers (the Donoughmore Committee, 1932) conducted the first systematic examination of delegated legislation, concluding that it was a "necessity" but warning against excessive delegation. The Statutory Instruments Act 1946 standardised the procedural framework, replacing the earlier inconsistent arrangements for what had previously been known as statutory rules and orders.
 
-      The growth of delegated legislation has been exponential. Allen's (1927) "Law and Orders" documented early concerns about the volume of ministerial regulation. By the post-war period, the ratio of SIs to Acts was already significant; by the twenty-first century, it had become overwhelming. The Hansard Society's annual audit of secondary legislation has tracked this growth, documenting both the quantitative expansion (from approximately 2,000 SIs per year in the 1980s to over 3,000 in recent years) and the qualitative shift toward broader and more constitutionally significant delegated powers.
+            The growth of delegated legislation has been exponential. Allen's (1927) "Law and Orders" documented early concerns about the volume of ministerial regulation. By the post-war period, the ratio of SIs to Acts was already significant; by the twenty-first century, it had become overwhelming. The Hansard Society's annual audit of secondary legislation has tracked this growth, documenting both the quantitative expansion (from approximately 2,000 SIs per year in the 1980s to over 3,000 in recent years) and the qualitative shift toward broader and more constitutionally significant delegated powers.
 
-      **The Scrutiny Deficit**
+            **The Scrutiny Deficit**
 
-      The academic consensus, reflected in the work of Fox and Blackwell (2014), Page (2001), and the Hansard Society (2014), is that parliamentary scrutiny of delegated legislation is inadequate. The structural weaknesses are well documented:
+            The academic consensus, reflected in the work of Fox and Blackwell (2014), Page (2001), and the Hansard Society (2014), is that parliamentary scrutiny of delegated legislation is inadequate. The structural weaknesses are well documented:
 
-      First, the negative procedure -- to which the majority of SIs are subject -- provides minimal scrutiny. Most negative SIs receive no debate and no vote. The House of Lords' annulment of the Greater London Authority (Election Expenses) Order in 2000 provoked a constitutional controversy that reinforced the convention against the Lords defeating SIs, effectively removing one of the two chambers from meaningful scrutiny of negative instruments.
+            First, the negative procedure -- to which the majority of SIs are subject -- provides minimal scrutiny. Most negative SIs receive no debate and no vote. The House of Lords' annulment of the Greater London Authority (Election Expenses) Order in 2000 provoked a constitutional controversy that reinforced the convention against the Lords defeating SIs, effectively removing one of the two chambers from meaningful scrutiny of negative instruments.
 
-      Second, the inability to amend SIs creates a binary choice between approval and rejection. Since rejection of a Government SI would be treated as a confidence issue or at least a major political event, the practical effect is near-automatic approval. Hayhurst and Wallington (1988) argued that this "take it or leave it" approach is fundamentally incompatible with effective legislative scrutiny.
+            Second, the inability to amend SIs creates a binary choice between approval and rejection. Since rejection of a Government SI would be treated as a confidence issue or at least a major political event, the practical effect is near-automatic approval. Hayhurst and Wallington (1988) argued that this "take it or leave it" approach is fundamentally incompatible with effective legislative scrutiny.
 
-      Third, the scrutiny committees, while expert and diligent, operate within significant constraints. The JCSI examines only technical and legal questions, not policy merits. The SLSC considers policy but has limited capacity to examine the volume of instruments laid. The Delegated Powers and Regulatory Reform Committee's influential work on scrutinising delegated powers in Bills operates upstream (at the primary legislation stage) but cannot affect the content of SIs subsequently made under those powers.
+            Third, the scrutiny committees, while expert and diligent, operate within significant constraints. The JCSI examines only technical and legal questions, not policy merits. The SLSC considers policy but has limited capacity to examine the volume of instruments laid. The Delegated Powers and Regulatory Reform Committee's influential work on scrutinising delegated powers in Bills operates upstream (at the primary legislation stage) but cannot affect the content of SIs subsequently made under those powers.
 
-      **Henry VIII Powers: Constitutional Controversy**
+            **Henry VIII Powers: Constitutional Controversy**
 
-      Henry VIII powers represent the most constitutionally contentious form of delegated legislation, as they permit the executive to amend or repeal primary legislation -- the highest form of domestic law -- through secondary instruments. The constitutional objection is fundamental: if parliamentary sovereignty means that only Parliament can make and unmake law, then powers allowing ministers to alter Acts of Parliament by SI transfer sovereignty from the legislature to the executive.
+            Henry VIII powers represent the most constitutionally contentious form of delegated legislation, as they permit the executive to amend or repeal primary legislation -- the highest form of domestic law -- through secondary instruments. The constitutional objection is fundamental: if parliamentary sovereignty means that only Parliament can make and unmake law, then powers allowing ministers to alter Acts of Parliament by SI transfer sovereignty from the legislature to the executive.
 
-      The European Union (Withdrawal) Act 2018 granted ministers exceptionally wide Henry VIII powers to "correct" deficiencies in retained EU law arising from Brexit. The breadth of these powers was criticised by the Delegated Powers and Regulatory Reform Committee, the Constitution Committee, and academic commentators including Elliott (2018) and Craig (2018). The subsequent Retained EU Law (Revocation and Reform) Act 2023 went further, originally proposing a "sunset clause" that would automatically revoke all remaining retained EU law unless specifically preserved by ministerial decision -- effectively requiring ministers to use delegated legislation to preserve, amend, or revoke thousands of legal instruments with minimal parliamentary oversight.
+            The European Union (Withdrawal) Act 2018 granted ministers exceptionally wide Henry VIII powers to "correct" deficiencies in retained EU law arising from Brexit. The breadth of these powers was criticised by the Delegated Powers and Regulatory Reform Committee, the Constitution Committee, and academic commentators including Elliott (2018) and Craig (2018). The subsequent Retained EU Law (Revocation and Reform) Act 2023 went further, originally proposing a "sunset clause" that would automatically revoke all remaining retained EU law unless specifically preserved by ministerial decision -- effectively requiring ministers to use delegated legislation to preserve, amend, or revoke thousands of legal instruments with minimal parliamentary oversight.
 
-      Judicial scrutiny of Henry VIII powers has been limited but significant. In R (Public Law Project) v Lord Chancellor [2016] UKSC 39, the Supreme Court struck down a ministerial order that would have restricted access to judicial review, holding that it exceeded the scope of the parent Act. The case illustrates the courts' role as a constitutional backstop, but the high threshold for judicial review of delegated legislation (Wednesbury unreasonableness or ultra vires) means that many exercises of Henry VIII powers will never be judicially challenged.
+            Judicial scrutiny of Henry VIII powers has been limited but significant. In R (Public Law Project) v Lord Chancellor [2016] UKSC 39, the Supreme Court struck down a ministerial order that would have restricted access to judicial review, holding that it exceeded the scope of the parent Act. The case illustrates the courts' role as a constitutional backstop, but the high threshold for judicial review of delegated legislation (Wednesbury unreasonableness or ultra vires) means that many exercises of Henry VIII powers will never be judicially challenged.
 
-      **Skeleton Bills and the "Democracy Denied" Critique**
+            **Skeleton Bills and the "Democracy Denied" Critique**
 
-      The Delegated Powers and Regulatory Reform Committee's 2021 report "Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive" represents the most authoritative parliamentary statement of concern about the trend toward skeleton legislation. The Committee identified a pattern of Bills that "set out no more than broad principles" with "almost all the detail left to delegated legislation made under the Bill," concluding that this practice "represents a fundamental shift of power from Parliament to the executive."
+            The Delegated Powers and Regulatory Reform Committee's 2021 report "Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive" represents the most authoritative parliamentary statement of concern about the trend toward skeleton legislation. The Committee identified a pattern of Bills that "set out no more than broad principles" with "almost all the detail left to delegated legislation made under the Bill," concluding that this practice "represents a fundamental shift of power from Parliament to the executive."
 
-      Barber and Young (2003) analysed the constitutional implications of skeleton Bills within the framework of the rule of law, arguing that legislation whose content is effectively determined by the executive undermines both parliamentary sovereignty and legal certainty. The problem is compounded when skeleton Bills confer Henry VIII powers, creating a double delegation: Parliament approves a framework Bill that grants ministers the power to make detailed regulations, including regulations that can amend other Acts of Parliament.
+            Barber and Young (2003) analysed the constitutional implications of skeleton Bills within the framework of the rule of law, arguing that legislation whose content is effectively determined by the executive undermines both parliamentary sovereignty and legal certainty. The problem is compounded when skeleton Bills confer Henry VIII powers, creating a double delegation: Parliament approves a framework Bill that grants ministers the power to make detailed regulations, including regulations that can amend other Acts of Parliament.
 
-      **Orders in Council and Prerogative Legislation**
+            **Orders in Council and Prerogative Legislation**
 
-      Orders in Council occupy a distinctive position in the hierarchy of delegated legislation. Those made under statutory authority follow the normal framework of parliamentary scrutiny. Those made under the royal prerogative, however, operate outside the statutory framework and are subject only to judicial review. The scope of prerogative Orders in Council was significantly curtailed by the Constitutional Reform and Governance Act 2010, which placed the civil service and treaty ratification on a statutory footing, but significant prerogative powers remain, including in relation to Crown Dependencies and British Overseas Territories.
+            Orders in Council occupy a distinctive position in the hierarchy of delegated legislation. Those made under statutory authority follow the normal framework of parliamentary scrutiny. Those made under the royal prerogative, however, operate outside the statutory framework and are subject only to judicial review. The scope of prerogative Orders in Council was significantly curtailed by the Constitutional Reform and Governance Act 2010, which placed the civil service and treaty ratification on a statutory footing, but significant prerogative powers remain, including in relation to Crown Dependencies and British Overseas Territories.
 
-      The GCHQ case (Council of Civil Service Unions v Minister for the Civil Service [1985] AC 374) established that prerogative Orders in Council are amenable to judicial review, though the court may decline to review exercises of prerogative power in areas involving high policy, national security, or foreign affairs. The Bancoult (No 2) case (R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs [2008] UKHL 61), in which the House of Lords upheld an Order in Council that effectively exiled the Chagos Islanders, illustrated both the breadth of prerogative legislative power and the limits of judicial willingness to intervene.
+            The GCHQ case (Council of Civil Service Unions v Minister for the Civil Service [1985] AC 374) established that prerogative Orders in Council are amenable to judicial review, though the court may decline to review exercises of prerogative power in areas involving high policy, national security, or foreign affairs. The Bancoult (No 2) case (R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs [2008] UKHL 61), in which the House of Lords upheld an Order in Council that effectively exiled the Chagos Islanders, illustrated both the breadth of prerogative legislative power and the limits of judicial willingness to intervene.
 
-      **Reform Proposals**
+            **Reform Proposals**
 
-      The principal reform proposals include: enhancing parliamentary scrutiny through dedicated delegated legislation committees with power to recommend annulment or amendment; introducing a "sifting" mechanism (as piloted for Brexit-related SIs under the EU (Withdrawal) Act 2018) to ensure that significant instruments receive the affirmative procedure; establishing a presumption against Henry VIII powers unless explicitly justified; and creating a formal mechanism for parliamentary amendment of SIs, as recommended by the Hansard Society and supported by the Constitution Committee. The practical challenge is that any reform that significantly slows the production of delegated legislation risks creating a regulatory bottleneck that could impair the functioning of government.
-    reading_age: null
-    sources:
-      - citation: "Statutory Instruments Act 1946"
-        url: "https://www.legislation.gov.uk/ukpga/Geo6/9-10/36/contents"
-        type: primary
-      - citation: "House of Lords Delegated Powers and Regulatory Reform Committee, Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive (HL Paper 106, 2021)"
-        url: "https://publications.parliament.uk/pa/ld5802/ldselect/lddelreg/106/106.pdf"
-        type: official
-      - citation: "House of Lords Secondary Legislation Scrutiny Committee, Government by Diktat: A Call to Return Power to Parliament (HL Paper 105, 2021)"
-        url: "https://publications.parliament.uk/pa/ld5802/ldselect/ldsecleg/105/105.pdf"
-        type: official
-      - citation: "Hansard Society, The Devil is in the Detail: Parliament and Delegated Legislation, 2014"
-        url: "https://www.hansardsociety.org.uk/publications/reports/the-devil-is-in-the-detail-parliament-and-delegated-legislation"
-        type: secondary
-      - citation: "House of Commons Library, Statutory Instruments (CBP-6509)"
-        url: "https://commonslibrary.parliament.uk/research-briefings/sn06509/"
-        type: official
-      - citation: "R (Public Law Project) v Lord Chancellor [2016] UKSC 39"
-        url: "https://www.supremecourt.uk/cases/uksc-2015-0061.html"
-        type: primary
-      - citation: "UK Parliament, Joint Committee on Statutory Instruments"
-        url: "https://committees.parliament.uk/committee/148/statutory-instruments-joint-committee/"
-        type: official
-      - citation: "Fox, Ruth and Blackwell, Joel, 'The Devil is in the Detail: Parliament and Delegated Legislation', Hansard Society, 2014"
-        url: "https://www.hansardsociety.org.uk/publications/reports/the-devil-is-in-the-detail-parliament-and-delegated-legislation"
-        type: secondary
-      - citation: "Craig, Paul, 'The Withdrawal Agreement, the Withdrawal Act and Delegated Powers', UK Constitutional Law Blog, 2018"
-        url: "https://ukconstitutionallaw.org/"
-        type: secondary
-      - citation: "House of Lords Constitution Committee, The Legislative Process: The Delegation of Powers (HL Paper 225, 2018)"
-        url: "https://publications.parliament.uk/pa/ld201719/ldselect/ldconst/225/225.pdf"
-        type: official
+            The principal reform proposals include: enhancing parliamentary scrutiny through dedicated delegated legislation committees with power to recommend annulment or amendment; introducing a "sifting" mechanism (as piloted for Brexit-related SIs under the EU (Withdrawal) Act 2018) to ensure that significant instruments receive the affirmative procedure; establishing a presumption against Henry VIII powers unless explicitly justified; and creating a formal mechanism for parliamentary amendment of SIs, as recommended by the Hansard Society and supported by the Constitution Committee. The practical challenge is that any reform that significantly slows the production of delegated legislation risks creating a regulatory bottleneck that could impair the functioning of government.
+        reading_age: null
+        sources:
+            - citation: 'Statutory Instruments Act 1946'
+              url: 'https://www.legislation.gov.uk/ukpga/Geo6/9-10/36/contents'
+              type: primary
+            - citation: 'House of Lords Delegated Powers and Regulatory Reform Committee, Democracy Denied? The Urgent Need to Rebalance Power Between Parliament and the Executive (HL Paper 106, 2021)'
+              url: 'https://publications.parliament.uk/pa/ld5802/ldselect/lddelreg/106/106.pdf'
+              type: official
+            - citation: 'House of Lords Secondary Legislation Scrutiny Committee, Government by Diktat: A Call to Return Power to Parliament (HL Paper 105, 2021)'
+              url: 'https://publications.parliament.uk/pa/ld5802/ldselect/ldsecleg/105/105.pdf'
+              type: official
+            - citation: 'Hansard Society, The Devil is in the Detail: Parliament and Delegated Legislation, 2014'
+              url: 'https://www.hansardsociety.org.uk/publications/reports/the-devil-is-in-the-detail-parliament-and-delegated-legislation'
+              type: secondary
+            - citation: 'House of Commons Library, Statutory Instruments (CBP-6509)'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/sn06509/'
+              type: official
+            - citation: 'R (Public Law Project) v Lord Chancellor [2016] UKSC 39'
+              url: 'https://www.supremecourt.uk/cases/uksc-2015-0061.html'
+              type: primary
+            - citation: 'UK Parliament, Joint Committee on Statutory Instruments'
+              url: 'https://committees.parliament.uk/committee/148/statutory-instruments-joint-committee/'
+              type: official
+            - citation: "Fox, Ruth and Blackwell, Joel, 'The Devil is in the Detail: Parliament and Delegated Legislation', Hansard Society, 2014"
+              url: 'https://www.hansardsociety.org.uk/publications/reports/the-devil-is-in-the-detail-parliament-and-delegated-legislation'
+              type: secondary
+            - citation: "Craig, Paul, 'The Withdrawal Agreement, the Withdrawal Act and Delegated Powers', UK Constitutional Law Blog, 2018"
+              url: 'https://ukconstitutionallaw.org/'
+              type: secondary
+            - citation: 'House of Lords Constitution Committee, The Legislative Process: The Delegation of Powers (HL Paper 225, 2018)'
+              url: 'https://publications.parliament.uk/pa/ld201719/ldselect/ldconst/225/225.pdf'
+              type: official
 
 glossary:
-  - term: "Statutory Instrument"
-    definition_simple: "A detailed rule made by a Government minister using powers given by an Act of Parliament, without needing a whole new law."
-    definition_full: "The most common form of delegated (secondary) legislation in the UK, governed by the Statutory Instruments Act 1946. SIs are made by ministers under powers conferred by a parent Act and take the form of orders, regulations, or rules. Approximately 3,000 SIs are made each year, subject to parliamentary scrutiny through affirmative or negative procedures."
-  - term: "Henry VIII Power"
-    definition_simple: "A special power that lets a Government minister change or remove parts of an existing law without Parliament having to pass a new Act."
-    definition_full: "A provision in an Act of Parliament that authorises ministers to amend or repeal primary legislation through delegated legislation (typically a Statutory Instrument). Named after the Statute of Proclamations 1539, which gave Henry VIII the power to make proclamations with the force of statute. Henry VIII powers are constitutionally controversial because they allow the executive to alter Acts of Parliament without full parliamentary debate."
-  - term: "Affirmative Procedure"
-    definition_simple: "A rule that says a Statutory Instrument can only become law if Parliament votes to approve it."
-    definition_full: "A parliamentary procedure requiring that a Statutory Instrument be actively approved by resolution of each House (or the Commons alone for financial instruments) before it can come into force or remain in force. Used for more significant or controversial measures, the affirmative procedure provides stronger parliamentary scrutiny than the negative procedure."
-  - term: "Negative Procedure"
-    definition_simple: "A rule that says a Statutory Instrument automatically becomes law unless Parliament votes to cancel it within a set number of days."
-    definition_full: "A parliamentary procedure under which a Statutory Instrument is laid before Parliament and automatically comes into force unless either House passes a prayer for annulment within 40 sitting days. The majority of SIs are subject to the negative procedure, and most receive no parliamentary debate."
-  - term: "Skeleton Bill"
-    definition_simple: "A law that only sets out the basic idea, leaving almost all the important details to be filled in later by Government ministers through delegated legislation."
-    definition_full: "Primary legislation that establishes only a broad framework, with substantive policy detail to be determined later through delegated legislation. Skeleton Bills have been criticised by the Delegated Powers and Regulatory Reform Committee and the Constitution Committee as undermining parliamentary sovereignty, since Parliament approves legislation without knowing what the resulting law will actually say."
-  - term: "Order in Council"
-    definition_simple: "A special type of law made by the King on the advice of senior ministers, used for important matters like implementing international decisions."
-    definition_full: "A form of legislation made by the Sovereign at a meeting of the Privy Council, on the advice of ministers. Orders in Council may be made under statutory authority (and subject to normal parliamentary scrutiny) or under the royal prerogative (and subject only to judicial review). They are used for purposes including implementing UN Security Council resolutions, extending legislation to Crown Dependencies, and transferring functions between departments."
+    - term: 'Statutory Instrument'
+      definition_simple: 'A detailed rule made by a Government minister using powers given by an Act of Parliament, without needing a whole new law.'
+      definition_full: 'The most common form of delegated (secondary) legislation in the UK, governed by the Statutory Instruments Act 1946. SIs are made by ministers under powers conferred by a parent Act and take the form of orders, regulations, or rules. Approximately 3,000 SIs are made each year, subject to parliamentary scrutiny through affirmative or negative procedures.'
+    - term: 'Henry VIII Power'
+      definition_simple: 'A special power that lets a Government minister change or remove parts of an existing law without Parliament having to pass a new Act.'
+      definition_full: 'A provision in an Act of Parliament that authorises ministers to amend or repeal primary legislation through delegated legislation (typically a Statutory Instrument). Named after the Statute of Proclamations 1539, which gave Henry VIII the power to make proclamations with the force of statute. Henry VIII powers are constitutionally controversial because they allow the executive to alter Acts of Parliament without full parliamentary debate.'
+    - term: 'Affirmative Procedure'
+      definition_simple: 'A rule that says a Statutory Instrument can only become law if Parliament votes to approve it.'
+      definition_full: 'A parliamentary procedure requiring that a Statutory Instrument be actively approved by resolution of each House (or the Commons alone for financial instruments) before it can come into force or remain in force. Used for more significant or controversial measures, the affirmative procedure provides stronger parliamentary scrutiny than the negative procedure.'
+    - term: 'Negative Procedure'
+      definition_simple: 'A rule that says a Statutory Instrument automatically becomes law unless Parliament votes to cancel it within a set number of days.'
+      definition_full: 'A parliamentary procedure under which a Statutory Instrument is laid before Parliament and automatically comes into force unless either House passes a prayer for annulment within 40 sitting days. The majority of SIs are subject to the negative procedure, and most receive no parliamentary debate.'
+    - term: 'Skeleton Bill'
+      definition_simple: 'A law that only sets out the basic idea, leaving almost all the important details to be filled in later by Government ministers through delegated legislation.'
+      definition_full: 'Primary legislation that establishes only a broad framework, with substantive policy detail to be determined later through delegated legislation. Skeleton Bills have been criticised by the Delegated Powers and Regulatory Reform Committee and the Constitution Committee as undermining parliamentary sovereignty, since Parliament approves legislation without knowing what the resulting law will actually say.'
+    - term: 'Order in Council'
+      definition_simple: 'A special type of law made by the King on the advice of senior ministers, used for important matters like implementing international decisions.'
+      definition_full: 'A form of legislation made by the Sovereign at a meeting of the Privy Council, on the advice of ministers. Orders in Council may be made under statutory authority (and subject to normal parliamentary scrutiny) or under the royal prerogative (and subject only to judicial review). They are used for purposes including implementing UN Security Council resolutions, extending legislation to Crown Dependencies, and transferring functions between departments.'
 
 did_you_know:
-  - fact: "Every year, the Government makes around 3,000 Statutory Instruments but only passes about 25 to 35 Acts of Parliament. That means the vast majority of new laws are made without a full debate and vote!"
-    level: [child, teenager]
-  - fact: "Henry VIII powers are named after King Henry VIII, who in 1539 persuaded Parliament to give him the power to make proclamations that had the same force as laws passed by Parliament itself."
-    level: [teenager, adult]
-  - fact: "Parliament cannot change the wording of a Statutory Instrument -- it can only accept or reject the whole thing. This means even if MPs disagree with just one part, they must either approve all of it or vote down the entire instrument."
-    level: [teenager, adult, researcher]
-  - fact: "The House of Lords has successfully voted to annul a Statutory Instrument only once in the twenty-first century -- the Greater London Authority (Election Expenses) Order in 2000 -- and even this provoked a constitutional controversy about whether the unelected Lords should block secondary legislation."
-    level: [adult, researcher]
-  - fact: "The Delegated Powers and Regulatory Reform Committee described the trend toward skeleton Bills as a 'fundamental shift of power from Parliament to the executive' in its landmark 2021 report 'Democracy Denied?'"
-    level: [researcher]
+    - fact: 'Every year, the Government makes around 3,000 Statutory Instruments but only passes about 25 to 35 Acts of Parliament. That means the vast majority of new laws are made without a full debate and vote!'
+      level: [child, teenager]
+    - fact: 'Henry VIII powers are named after King Henry VIII, who in 1539 persuaded Parliament to give him the power to make proclamations that had the same force as laws passed by Parliament itself.'
+      level: [teenager, adult]
+    - fact: 'Parliament cannot change the wording of a Statutory Instrument -- it can only accept or reject the whole thing. This means even if MPs disagree with just one part, they must either approve all of it or vote down the entire instrument.'
+      level: [teenager, adult, researcher]
+    - fact: 'The House of Lords has successfully voted to annul a Statutory Instrument only once in the twenty-first century -- the Greater London Authority (Election Expenses) Order in 2000 -- and even this provoked a constitutional controversy about whether the unelected Lords should block secondary legislation.'
+      level: [adult, researcher]
+    - fact: "The Delegated Powers and Regulatory Reform Committee described the trend toward skeleton Bills as a 'fundamental shift of power from Parliament to the executive' in its landmark 2021 report 'Democracy Denied?'"
+      level: [researcher]
 
 key_dates:
-  - year: 1539
-    event: "Statute of Proclamations"
-    significance: "Gave Henry VIII the power to make royal proclamations with the force of Acts of Parliament, establishing the historical precedent for what are now known as 'Henry VIII powers.' The statute was repealed after Henry's death in 1547."
-    levels: [teenager, adult, researcher]
-  - year: 1946
-    event: "Statutory Instruments Act"
-    significance: "Established the modern procedural framework for delegated legislation, defining Statutory Instruments and standardising their numbering, publication, and parliamentary scrutiny procedures."
-    levels: [adult, researcher]
-  - year: 1973
-    event: "Joint Committee on Statutory Instruments established"
-    significance: "Created a dedicated parliamentary committee to examine SIs on technical and legal grounds, providing systematic scrutiny of whether instruments had been properly made within the scope of their parent Acts."
-    levels: [researcher]
-  - year: 2018
-    event: "European Union (Withdrawal) Act grants sweeping Henry VIII powers"
-    significance: "The Act granted ministers exceptionally wide powers to amend retained EU law through Statutory Instruments, prompting sustained criticism from the Delegated Powers and Regulatory Reform Committee, the Constitution Committee, and constitutional scholars."
-    levels: [adult, researcher]
-  - year: 2021
-    event: "'Democracy Denied?' report published"
-    significance: "The Delegated Powers and Regulatory Reform Committee published its landmark report warning that skeleton Bills and broad Henry VIII powers represented a fundamental shift of legislative power from Parliament to the executive."
-    levels: [researcher]
+    - year: 1539
+      event: 'Statute of Proclamations'
+      significance: "Gave Henry VIII the power to make royal proclamations with the force of Acts of Parliament, establishing the historical precedent for what are now known as 'Henry VIII powers.' The statute was repealed after Henry's death in 1547."
+      levels: [teenager, adult, researcher]
+    - year: 1946
+      event: 'Statutory Instruments Act'
+      significance: 'Established the modern procedural framework for delegated legislation, defining Statutory Instruments and standardising their numbering, publication, and parliamentary scrutiny procedures.'
+      levels: [adult, researcher]
+    - year: 1973
+      event: 'Joint Committee on Statutory Instruments established'
+      significance: 'Created a dedicated parliamentary committee to examine SIs on technical and legal grounds, providing systematic scrutiny of whether instruments had been properly made within the scope of their parent Acts.'
+      levels: [researcher]
+    - year: 2018
+      event: 'European Union (Withdrawal) Act grants sweeping Henry VIII powers'
+      significance: 'The Act granted ministers exceptionally wide powers to amend retained EU law through Statutory Instruments, prompting sustained criticism from the Delegated Powers and Regulatory Reform Committee, the Constitution Committee, and constitutional scholars.'
+      levels: [adult, researcher]
+    - year: 2021
+      event: "'Democracy Denied?' report published"
+      significance: 'The Delegated Powers and Regulatory Reform Committee published its landmark report warning that skeleton Bills and broad Henry VIII powers represented a fundamental shift of legislative power from Parliament to the executive.'
+      levels: [researcher]
 
 key_figures:
-  - name: "Henry VIII"
-    role: "King of England (1509-1547)"
-    description: "Henry VIII obtained the Statute of Proclamations in 1539, giving royal proclamations the force of statute. The term 'Henry VIII powers' is now used to describe any legislative provision that allows ministers to amend or repeal Acts of Parliament through delegated legislation, reflecting the historical precedent of executive law-making authority that bypasses full parliamentary process."
-    levels: [teenager, adult, researcher]
-  - name: "Lord Donoughmore"
-    role: "Chair of the Committee on Ministers' Powers (1932)"
-    description: "The Earl of Donoughmore chaired the Committee on Ministers' Powers, which conducted the first systematic examination of delegated legislation in the UK. The committee concluded that delegation was a necessity of modern government but warned against excessive or inadequately scrutinised ministerial powers, establishing themes that remain central to the debate nearly a century later."
-    levels: [researcher]
-  - name: "Baroness Thomas of Winchester"
-    role: "Chair of the Delegated Powers and Regulatory Reform Committee (2017-2021)"
-    description: "Baroness Thomas chaired the DPRRC during a period of intense concern about the breadth of delegated powers, particularly in Brexit-related legislation. Under her chairship, the Committee published the influential 'Democracy Denied?' report in 2021, which drew widespread attention to the constitutional implications of skeleton Bills and Henry VIII powers."
-    levels: [researcher]
+    - name: 'Henry VIII'
+      role: 'King of England (1509-1547)'
+      description: "Henry VIII obtained the Statute of Proclamations in 1539, giving royal proclamations the force of statute. The term 'Henry VIII powers' is now used to describe any legislative provision that allows ministers to amend or repeal Acts of Parliament through delegated legislation, reflecting the historical precedent of executive law-making authority that bypasses full parliamentary process."
+      levels: [teenager, adult, researcher]
+    - name: 'Lord Donoughmore'
+      role: "Chair of the Committee on Ministers' Powers (1932)"
+      description: "The Earl of Donoughmore chaired the Committee on Ministers' Powers, which conducted the first systematic examination of delegated legislation in the UK. The committee concluded that delegation was a necessity of modern government but warned against excessive or inadequately scrutinised ministerial powers, establishing themes that remain central to the debate nearly a century later."
+      levels: [researcher]
+    - name: 'Baroness Thomas of Winchester'
+      role: 'Chair of the Delegated Powers and Regulatory Reform Committee (2017-2021)'
+      description: "Baroness Thomas chaired the DPRRC during a period of intense concern about the breadth of delegated powers, particularly in Brexit-related legislation. Under her chairship, the Committee published the influential 'Democracy Denied?' report in 2021, which drew widespread attention to the constitutional implications of skeleton Bills and Henry VIII powers."
+      levels: [researcher]
 
 video_links:
-  - title: "Making laws"
-    url: "https://www.youtube.com/watch?v=Wuk3L3tknwg"
-    source: "UK Parliament"
-    description: "An educational overview of how laws are made in the UK, including the relationship between primary legislation (Acts of Parliament) and the delegated legislation that fills in the detail."
-    levels: [child, teenager]
+    - title: 'Making laws'
+      url: 'https://www.youtube.com/watch?v=Wuk3L3tknwg'
+      source: 'UK Parliament'
+      description: 'An educational overview of how laws are made in the UK, including the relationship between primary legislation (Acts of Parliament) and the delegated legislation that fills in the detail.'
+      levels: [child, teenager]
 
-  - title: "Delegated Legislation | English Legal System"
-    url: "https://www.youtube.com/watch?v=VdUuZbEs93k"
-    source: "The Law Academy"
-    description: "A clear explainer covering the types of delegated legislation, including Statutory Instruments, Orders in Council, and bye-laws, and the reasons why Parliament delegates law-making powers."
-    levels: [teenager, adult]
+    - title: 'Delegated Legislation | English Legal System'
+      url: 'https://www.youtube.com/watch?v=VdUuZbEs93k'
+      source: 'The Law Academy'
+      description: 'A clear explainer covering the types of delegated legislation, including Statutory Instruments, Orders in Council, and bye-laws, and the reasons why Parliament delegates law-making powers.'
+      levels: [teenager, adult]
 
-  - title: "1. Introduction to Delegated Legislation"
-    url: "https://www.youtube.com/watch?v=rIWBbB2yBJA"
-    source: "The Law Bank"
-    description: "An in-depth introduction to delegated legislation in the UK legal system, covering its constitutional basis, the different forms it takes, and the parliamentary procedures for scrutiny."
-    levels: [adult, researcher]
+    - title: '1. Introduction to Delegated Legislation'
+      url: 'https://www.youtube.com/watch?v=rIWBbB2yBJA'
+      source: 'The Law Bank'
+      description: 'An in-depth introduction to delegated legislation in the UK legal system, covering its constitutional basis, the different forms it takes, and the parliamentary procedures for scrutiny.'
+      levels: [adult, researcher]
 
-  - title: "Launch of the Delegated Legislation Review - Panel one: Reflections on current scrutiny procedures"
-    url: "https://www.youtube.com/watch?v=bEt_Qv-9fYY"
-    source: "Hansard Society"
-    description: "A panel discussion from the Hansard Society examining the adequacy of current parliamentary scrutiny of delegated legislation, featuring expert analysis of the scrutiny deficit and reform proposals."
-    levels: [researcher]
+    - title: 'Launch of the Delegated Legislation Review - Panel one: Reflections on current scrutiny procedures'
+      url: 'https://www.youtube.com/watch?v=bEt_Qv-9fYY'
+      source: 'Hansard Society'
+      description: 'A panel discussion from the Hansard Society examining the adequacy of current parliamentary scrutiny of delegated legislation, featuring expert analysis of the scrutiny deficit and reform proposals.'
+      levels: [researcher]
 
 quizzes:
-  child:
-    - question: "What is a Statutory Instrument?"
-      type: multiple_choice
-      options:
-        - "A musical instrument played in Parliament"
-        - "A detailed rule made by a minister using powers from an Act of Parliament"
-        - "A tool used to measure how long a debate lasts"
-      correct_answer: "A detailed rule made by a minister using powers from an Act of Parliament"
-      explanation: "A Statutory Instrument is a type of law that a Government minister can make without needing a full debate and vote in Parliament, using powers given by an Act of Parliament."
-    - question: "True or false: Parliament makes about 3,000 Acts of Parliament every year."
-      type: true_false
-      correct_answer: "False"
-      explanation: "Parliament only passes about 25 to 35 Acts each year. But ministers make around 3,000 Statutory Instruments, which is why delegated legislation is so important."
-    - question: "What does the affirmative procedure mean?"
-      type: multiple_choice
-      options:
-        - "The rule becomes law automatically unless someone objects"
-        - "The rule needs Parliament to vote yes before it becomes law"
-        - "The rule is sent back to the minister to try again"
-      correct_answer: "The rule needs Parliament to vote yes before it becomes law"
-      explanation: "Under the affirmative procedure, a Statutory Instrument does not become law until Parliament votes to approve it."
-  teenager:
-    - question: "Why are Henry VIII powers considered controversial?"
-      type: short_answer
-      correct_answer: "Because they allow Government ministers to change or remove parts of existing Acts of Parliament through Statutory Instruments, without needing a full parliamentary debate and vote on a new Bill. This effectively transfers law-making power from Parliament to the executive."
-      explanation: "Henry VIII powers are controversial because Acts of Parliament are the highest form of UK law, and the power to change them by SI -- with limited scrutiny -- raises serious questions about parliamentary sovereignty."
-    - question: "What is the difference between the affirmative and negative procedures?"
-      type: multiple_choice
-      options:
-        - "Affirmative requires a vote to approve; negative becomes law unless Parliament objects"
-        - "Affirmative applies to the Commons; negative applies to the Lords"
-        - "Affirmative is for important laws; negative is for unimportant laws"
-        - "There is no real difference between them"
-      correct_answer: "Affirmative requires a vote to approve; negative becomes law unless Parliament objects"
-      explanation: "Under the affirmative procedure, Parliament must actively vote to approve an SI. Under the negative procedure, the SI automatically becomes law unless Parliament objects within 40 sitting days."
-    - question: "True or false: Parliament can amend the wording of a Statutory Instrument during the scrutiny process."
-      type: true_false
-      correct_answer: "False"
-      explanation: "Parliament cannot amend SIs -- it can only approve or reject them in their entirety. This is a major limitation on parliamentary scrutiny of delegated legislation."
-  adult:
-    - question: "What is the role of the Delegated Powers and Regulatory Reform Committee?"
-      type: short_answer
-      correct_answer: "The Committee examines Bills before Parliament and assesses whether the delegated powers they seek are appropriate. It advises the House of Lords on whether powers are too broad, whether the proposed scrutiny procedure is adequate, and whether Henry VIII powers are justified."
-      explanation: "The DPRRC operates upstream in the legislative process, scrutinising delegated powers at the Bill stage rather than examining individual SIs after they are made."
-    - question: "What is a skeleton Bill, and why has this practice been criticised?"
-      type: short_answer
-      correct_answer: "A skeleton Bill is primary legislation that sets out only a broad framework, leaving almost all substantive policy detail to be determined through delegated legislation. It has been criticised because Parliament is effectively approving laws without knowing what they will actually say, transferring effective legislative power to the executive."
-      explanation: "The DPRRC's 2021 report 'Democracy Denied?' described skeleton Bills as representing a 'fundamental shift of power from Parliament to the executive.'"
-    - question: "How do Orders in Council differ from ordinary Statutory Instruments?"
-      type: multiple_choice
-      options:
-        - "Orders in Council are made by the Sovereign on the advice of the Privy Council, rather than by individual ministers"
-        - "Orders in Council are always subject to the affirmative procedure"
-        - "Orders in Council can only deal with foreign affairs"
-        - "There is no difference -- they are the same thing"
-      correct_answer: "Orders in Council are made by the Sovereign on the advice of the Privy Council, rather than by individual ministers"
-      explanation: "Orders in Council are a distinct form of delegated legislation made by the Sovereign at a Privy Council meeting. Some are made under statutory authority, while others are made under the royal prerogative."
-  researcher:
-    - question: "Critically assess the argument made in the DPRRC's 'Democracy Denied?' report that skeleton Bills represent a fundamental shift of power from Parliament to the executive, with reference to the constitutional principles of parliamentary sovereignty and the rule of law."
-      type: essay
-      correct_answer: "The DPRRC's argument rests on the proposition that parliamentary sovereignty requires Parliament to know what it is legislating. When a skeleton Bill leaves substantive policy to delegated legislation, Parliament approves a framework without knowing the resulting law's content. This undermines both parliamentary sovereignty (Parliament is formally consenting to law it has not seen) and the rule of law (citizens cannot anticipate their legal obligations from the parent Act alone). Barber and Young's analysis supports this critique, arguing that delegation becomes constitutionally objectionable when it transfers effective legislative choice rather than merely technical detail. However, defenders of skeleton legislation invoke practical necessity: modern regulatory complexity requires flexibility that primary legislation cannot provide, and the scrutiny committees provide some oversight of the resulting SIs."
-      explanation: "This question requires engagement with both the parliamentary and academic critiques of skeleton legislation and the practical arguments for executive flexibility in a complex regulatory state."
-    - question: "Evaluate the effectiveness of the Joint Committee on Statutory Instruments and the Secondary Legislation Scrutiny Committee as mechanisms for parliamentary oversight of delegated legislation."
-      type: essay
-      correct_answer: "The JCSI provides valuable technical scrutiny, identifying SIs that are defectively drafted, that exceed the scope of the parent Act, or that impose unexpected charges. However, its remit is limited to legal and technical questions; it cannot consider policy merits. The SLSC fills this gap for the Lords but faces capacity constraints given the volume of SIs. Both committees suffer from the fundamental limitation that Parliament cannot amend SIs, and their reports may come too late to affect instruments already in force under the negative procedure. Fox and Blackwell's (2014) analysis concluded that the scrutiny system is structurally inadequate to the scale and significance of modern delegated legislation, a view reinforced by the Hansard Society's ongoing monitoring."
-      explanation: "This question requires detailed knowledge of the scrutiny committees' remits, powers, and limitations, and an assessment of whether institutional reform could meaningfully enhance parliamentary oversight."
-    - question: "Analyse the constitutional significance of R (Public Law Project) v Lord Chancellor [2016] in relation to the judicial review of Henry VIII powers."
-      type: short_answer
-      correct_answer: "In this case, the Supreme Court struck down a ministerial order that would have restricted access to legal aid for judicial review cases, holding that the order exceeded the scope of the parent Act. The case is significant because it demonstrates the courts' role as a constitutional check on the exercise of Henry VIII powers, applying the ultra vires doctrine to prevent ministers from using delegated powers beyond their intended scope. However, the high threshold for judicial review means the courts can only catch exercises of power that clearly exceed statutory authority, not those that are merely unwise or controversial."
-      explanation: "The case illustrates both the potential and the limits of judicial scrutiny of delegated legislation, highlighting the courts' role as a backstop rather than a substitute for effective parliamentary oversight."
+    child:
+        - question: 'What is a Statutory Instrument?'
+          type: multiple_choice
+          options:
+              - 'A musical instrument played in Parliament'
+              - 'A detailed rule made by a minister using powers from an Act of Parliament'
+              - 'A tool used to measure how long a debate lasts'
+          correct_answer: 'A detailed rule made by a minister using powers from an Act of Parliament'
+          explanation: 'A Statutory Instrument is a type of law that a Government minister can make without needing a full debate and vote in Parliament, using powers given by an Act of Parliament.'
+        - question: 'True or false: Parliament makes about 3,000 Acts of Parliament every year.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'Parliament only passes about 25 to 35 Acts each year. But ministers make around 3,000 Statutory Instruments, which is why delegated legislation is so important.'
+        - question: 'What does the affirmative procedure mean?'
+          type: multiple_choice
+          options:
+              - 'The rule becomes law automatically unless someone objects'
+              - 'The rule needs Parliament to vote yes before it becomes law'
+              - 'The rule is sent back to the minister to try again'
+          correct_answer: 'The rule needs Parliament to vote yes before it becomes law'
+          explanation: 'Under the affirmative procedure, a Statutory Instrument does not become law until Parliament votes to approve it.'
+    teenager:
+        - question: 'Why are Henry VIII powers considered controversial?'
+          type: short_answer
+          correct_answer: 'Because they allow Government ministers to change or remove parts of existing Acts of Parliament through Statutory Instruments, without needing a full parliamentary debate and vote on a new Bill. This effectively transfers law-making power from Parliament to the executive.'
+          explanation: 'Henry VIII powers are controversial because Acts of Parliament are the highest form of UK law, and the power to change them by SI -- with limited scrutiny -- raises serious questions about parliamentary sovereignty.'
+        - question: 'What is the difference between the affirmative and negative procedures?'
+          type: multiple_choice
+          options:
+              - 'Affirmative requires a vote to approve; negative becomes law unless Parliament objects'
+              - 'Affirmative applies to the Commons; negative applies to the Lords'
+              - 'Affirmative is for important laws; negative is for unimportant laws'
+              - 'There is no real difference between them'
+          correct_answer: 'Affirmative requires a vote to approve; negative becomes law unless Parliament objects'
+          explanation: 'Under the affirmative procedure, Parliament must actively vote to approve an SI. Under the negative procedure, the SI automatically becomes law unless Parliament objects within 40 sitting days.'
+        - question: 'True or false: Parliament can amend the wording of a Statutory Instrument during the scrutiny process.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'Parliament cannot amend SIs -- it can only approve or reject them in their entirety. This is a major limitation on parliamentary scrutiny of delegated legislation.'
+    adult:
+        - question: 'What is the role of the Delegated Powers and Regulatory Reform Committee?'
+          type: short_answer
+          correct_answer: 'The Committee examines Bills before Parliament and assesses whether the delegated powers they seek are appropriate. It advises the House of Lords on whether powers are too broad, whether the proposed scrutiny procedure is adequate, and whether Henry VIII powers are justified.'
+          explanation: 'The DPRRC operates upstream in the legislative process, scrutinising delegated powers at the Bill stage rather than examining individual SIs after they are made.'
+        - question: 'What is a skeleton Bill, and why has this practice been criticised?'
+          type: short_answer
+          correct_answer: 'A skeleton Bill is primary legislation that sets out only a broad framework, leaving almost all substantive policy detail to be determined through delegated legislation. It has been criticised because Parliament is effectively approving laws without knowing what they will actually say, transferring effective legislative power to the executive.'
+          explanation: "The DPRRC's 2021 report 'Democracy Denied?' described skeleton Bills as representing a 'fundamental shift of power from Parliament to the executive.'"
+        - question: 'How do Orders in Council differ from ordinary Statutory Instruments?'
+          type: multiple_choice
+          options:
+              - 'Orders in Council are made by the Sovereign on the advice of the Privy Council, rather than by individual ministers'
+              - 'Orders in Council are always subject to the affirmative procedure'
+              - 'Orders in Council can only deal with foreign affairs'
+              - 'There is no difference -- they are the same thing'
+          correct_answer: 'Orders in Council are made by the Sovereign on the advice of the Privy Council, rather than by individual ministers'
+          explanation: 'Orders in Council are a distinct form of delegated legislation made by the Sovereign at a Privy Council meeting. Some are made under statutory authority, while others are made under the royal prerogative.'
+    researcher:
+        - question: "Critically assess the argument made in the DPRRC's 'Democracy Denied?' report that skeleton Bills represent a fundamental shift of power from Parliament to the executive, with reference to the constitutional principles of parliamentary sovereignty and the rule of law."
+          type: essay
+          correct_answer: "The DPRRC's argument rests on the proposition that parliamentary sovereignty requires Parliament to know what it is legislating. When a skeleton Bill leaves substantive policy to delegated legislation, Parliament approves a framework without knowing the resulting law's content. This undermines both parliamentary sovereignty (Parliament is formally consenting to law it has not seen) and the rule of law (citizens cannot anticipate their legal obligations from the parent Act alone). Barber and Young's analysis supports this critique, arguing that delegation becomes constitutionally objectionable when it transfers effective legislative choice rather than merely technical detail. However, defenders of skeleton legislation invoke practical necessity: modern regulatory complexity requires flexibility that primary legislation cannot provide, and the scrutiny committees provide some oversight of the resulting SIs."
+          explanation: 'This question requires engagement with both the parliamentary and academic critiques of skeleton legislation and the practical arguments for executive flexibility in a complex regulatory state.'
+        - question: 'Evaluate the effectiveness of the Joint Committee on Statutory Instruments and the Secondary Legislation Scrutiny Committee as mechanisms for parliamentary oversight of delegated legislation.'
+          type: essay
+          correct_answer: "The JCSI provides valuable technical scrutiny, identifying SIs that are defectively drafted, that exceed the scope of the parent Act, or that impose unexpected charges. However, its remit is limited to legal and technical questions; it cannot consider policy merits. The SLSC fills this gap for the Lords but faces capacity constraints given the volume of SIs. Both committees suffer from the fundamental limitation that Parliament cannot amend SIs, and their reports may come too late to affect instruments already in force under the negative procedure. Fox and Blackwell's (2014) analysis concluded that the scrutiny system is structurally inadequate to the scale and significance of modern delegated legislation, a view reinforced by the Hansard Society's ongoing monitoring."
+          explanation: "This question requires detailed knowledge of the scrutiny committees' remits, powers, and limitations, and an assessment of whether institutional reform could meaningfully enhance parliamentary oversight."
+        - question: 'Analyse the constitutional significance of R (Public Law Project) v Lord Chancellor [2016] in relation to the judicial review of Henry VIII powers.'
+          type: short_answer
+          correct_answer: "In this case, the Supreme Court struck down a ministerial order that would have restricted access to legal aid for judicial review cases, holding that the order exceeded the scope of the parent Act. The case is significant because it demonstrates the courts' role as a constitutional check on the exercise of Henry VIII powers, applying the ultra vires doctrine to prevent ministers from using delegated powers beyond their intended scope. However, the high threshold for judicial review means the courts can only catch exercises of power that clearly exceed statutory authority, not those that are merely unwise or controversial."
+          explanation: "The case illustrates both the potential and the limits of judicial scrutiny of delegated legislation, highlighting the courts' role as a backstop rather than a substitute for effective parliamentary oversight."

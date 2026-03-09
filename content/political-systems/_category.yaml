@@ -1,13 +1,13 @@
 id: political-systems
-title: "Political Systems"
-description: "Different ways countries can be organised and governed"
+title: 'Political Systems'
+description: 'Different ways countries can be organised and governed'
 order: 6
 
 topics:
-  - what-is-democracy
-  - what-is-fascism
-  - what-is-authoritarianism
-  - what-is-communism
-  - direct-vs-representative-democracy
-  - democratic-safeguards
-  - political-spectrum
+    - what-is-democracy
+    - what-is-fascism
+    - what-is-authoritarianism
+    - what-is-communism
+    - direct-vs-representative-democracy
+    - democratic-safeguards
+    - political-spectrum

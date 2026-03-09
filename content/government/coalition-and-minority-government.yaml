@@ -1,262 +1,262 @@
 id: coalition-and-minority-government
-title: "Coalition and Minority Government"
+title: 'Coalition and Minority Government'
 slug: coalition-and-minority-government
 
 metadata:
-  category: government
-  tags:
-    - coalition
-    - minority-government
-    - confidence-and-supply
-    - hung-parliament
-    - fixed-term-parliaments
-    - coalition-agreement
-    - vote-of-no-confidence
-  last_updated: 2026-03-09
-  status: published
-  order: 4
+    category: government
+    tags:
+        - coalition
+        - minority-government
+        - confidence-and-supply
+        - hung-parliament
+        - fixed-term-parliaments
+        - coalition-agreement
+        - vote-of-no-confidence
+    last_updated: 2026-03-09
+    status: published
+    order: 4
 
 related_topics:
-  - id: prime-minister-and-cabinet
-    relationship: prerequisite
-  - id: elections-and-voting
-    relationship: see-also
-  - id: political-parties
-    relationship: see-also
+    - id: prime-minister-and-cabinet
+      relationship: prerequisite
+    - id: elections-and-voting
+      relationship: see-also
+    - id: political-parties
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Sometimes no single political party wins enough seats to run the country on its own, so parties have to work together or try to govern without a majority."
-    body: |
-      In a general election, people across the country vote for the person they want to represent their area in Parliament. The political party that wins the most seats usually gets to form the government. But sometimes, no party wins enough seats to have more than half of all the MPs. When this happens, it is called a hung parliament.
+    child:
+        summary: 'Sometimes no single political party wins enough seats to run the country on its own, so parties have to work together or try to govern without a majority.'
+        body: |
+            In a general election, people across the country vote for the person they want to represent their area in Parliament. The political party that wins the most seats usually gets to form the government. But sometimes, no party wins enough seats to have more than half of all the MPs. When this happens, it is called a hung parliament.
 
-      If there is a hung parliament, the parties have to decide what to do. One option is for two or more parties to join together and form a team called a coalition government. In a coalition, the parties agree to share power and work together. They write down what they have agreed to do in a document called a coalition agreement.
+            If there is a hung parliament, the parties have to decide what to do. One option is for two or more parties to join together and form a team called a coalition government. In a coalition, the parties agree to share power and work together. They write down what they have agreed to do in a document called a coalition agreement.
 
-      This happened in 2010, when the Conservative Party and the Liberal Democrats formed a coalition government together. David Cameron from the Conservatives became Prime Minister, and Nick Clegg from the Liberal Democrats became Deputy Prime Minister. They shared out the ministerial jobs between them.
+            This happened in 2010, when the Conservative Party and the Liberal Democrats formed a coalition government together. David Cameron from the Conservatives became Prime Minister, and Nick Clegg from the Liberal Democrats became Deputy Prime Minister. They shared out the ministerial jobs between them.
 
-      Another option is for the biggest party to try to run the government on its own, even without having more than half the seats. This is called a minority government. It is harder because the government has to persuade other parties to support its plans every time there is an important vote. Sometimes a smaller party agrees to help by voting with the government on important things like the budget, without actually joining the government. This is called confidence and supply.
+            Another option is for the biggest party to try to run the government on its own, even without having more than half the seats. This is called a minority government. It is harder because the government has to persuade other parties to support its plans every time there is an important vote. Sometimes a smaller party agrees to help by voting with the government on important things like the budget, without actually joining the government. This is called confidence and supply.
 
-      If the government loses a really important vote, called a vote of no confidence, it might have to leave office and there could be a new election.
-    reading_age: 8
-  teenager:
-    summary: "When no party wins an overall majority in a general election, the result is a hung parliament, which can lead to a coalition government, a confidence-and-supply arrangement, or a minority government."
-    body: |
-      The UK's first-past-the-post electoral system usually produces a clear winner, with one party gaining an overall majority of seats in the House of Commons (at least 326 out of 650). But this does not always happen. When no single party reaches that threshold, the result is called a hung parliament.
+            If the government loses a really important vote, called a vote of no confidence, it might have to leave office and there could be a new election.
+        reading_age: 8
+    teenager:
+        summary: 'When no party wins an overall majority in a general election, the result is a hung parliament, which can lead to a coalition government, a confidence-and-supply arrangement, or a minority government.'
+        body: |
+            The UK's first-past-the-post electoral system usually produces a clear winner, with one party gaining an overall majority of seats in the House of Commons (at least 326 out of 650). But this does not always happen. When no single party reaches that threshold, the result is called a hung parliament.
 
-      A hung parliament presents several options. The first is a coalition government, where two or more parties formally agree to govern together. The most recent example was the Conservative-Liberal Democrat coalition of 2010-2015. The two parties negotiated a detailed coalition agreement setting out their shared programme for government, and Liberal Democrat ministers served alongside Conservatives in the Cabinet. David Laws and Danny Alexander held senior positions, and Nick Clegg became Deputy Prime Minister -- the first formal coalition since the wartime government of Winston Churchill.
+            A hung parliament presents several options. The first is a coalition government, where two or more parties formally agree to govern together. The most recent example was the Conservative-Liberal Democrat coalition of 2010-2015. The two parties negotiated a detailed coalition agreement setting out their shared programme for government, and Liberal Democrat ministers served alongside Conservatives in the Cabinet. David Laws and Danny Alexander held senior positions, and Nick Clegg became Deputy Prime Minister -- the first formal coalition since the wartime government of Winston Churchill.
 
-      The second option is a confidence-and-supply arrangement, where a smaller party agrees to support the government on votes of confidence (which determine whether the government stays in office) and supply (the budget), but does not join the government itself. This happened in 2017 when Theresa May's Conservative government, which had lost its majority in a snap election, secured a confidence-and-supply agreement with the Democratic Unionist Party (DUP) of Northern Ireland.
+            The second option is a confidence-and-supply arrangement, where a smaller party agrees to support the government on votes of confidence (which determine whether the government stays in office) and supply (the budget), but does not join the government itself. This happened in 2017 when Theresa May's Conservative government, which had lost its majority in a snap election, secured a confidence-and-supply agreement with the Democratic Unionist Party (DUP) of Northern Ireland.
 
-      The third option is a minority government, where the largest party governs alone without any formal agreement, relying on ad hoc support from other parties for each vote. Minority governments are inherently fragile and often short-lived, as they can be defeated on key legislation.
+            The third option is a minority government, where the largest party governs alone without any formal agreement, relying on ad hoc support from other parties for each vote. Minority governments are inherently fragile and often short-lived, as they can be defeated on key legislation.
 
-      A critical mechanism is the vote of no confidence. If the House of Commons passes a motion of no confidence in the government, the government is expected to resign. Under the Fixed-term Parliaments Act 2011, a no-confidence vote triggered a 14-day period in which an alternative government could be formed; if none could, an early election was called. However, that Act was repealed by the Dissolution and Calling of Parliament Act 2022, which restored the PM's power to request a dissolution from the Monarch at any time. The convention that a government defeated on a confidence motion must resign remains, but the specific statutory mechanism no longer applies.
+            A critical mechanism is the vote of no confidence. If the House of Commons passes a motion of no confidence in the government, the government is expected to resign. Under the Fixed-term Parliaments Act 2011, a no-confidence vote triggered a 14-day period in which an alternative government could be formed; if none could, an early election was called. However, that Act was repealed by the Dissolution and Calling of Parliament Act 2022, which restored the PM's power to request a dissolution from the Monarch at any time. The convention that a government defeated on a confidence motion must resign remains, but the specific statutory mechanism no longer applies.
 
-      Coalition government raises important constitutional questions. Cabinet collective responsibility still applies, but within a framework of agreed compromises. Coalition partners may have to defend policies they would not have chosen independently. The coalition agreement serves as a political contract, but it has no legal force -- its effectiveness depends on trust and political will.
-    reading_age: 14
-  adult:
-    summary: "Hung parliaments produce coalition, confidence-and-supply, or minority governments, each raising distinct constitutional questions about collective responsibility, legitimacy, and the exercise of prerogative powers including dissolution."
-    body: |
-      The UK's single-member plurality electoral system has historically favoured the production of single-party majority governments, but this outcome is not guaranteed. When no party commands an overall majority in the House of Commons (326 of 650 seats), the resulting hung parliament requires political negotiation to determine who will govern and on what basis.
+            Coalition government raises important constitutional questions. Cabinet collective responsibility still applies, but within a framework of agreed compromises. Coalition partners may have to defend policies they would not have chosen independently. The coalition agreement serves as a political contract, but it has no legal force -- its effectiveness depends on trust and political will.
+        reading_age: 14
+    adult:
+        summary: 'Hung parliaments produce coalition, confidence-and-supply, or minority governments, each raising distinct constitutional questions about collective responsibility, legitimacy, and the exercise of prerogative powers including dissolution.'
+        body: |
+            The UK's single-member plurality electoral system has historically favoured the production of single-party majority governments, but this outcome is not guaranteed. When no party commands an overall majority in the House of Commons (326 of 650 seats), the resulting hung parliament requires political negotiation to determine who will govern and on what basis.
 
-      The 2010 general election produced the first hung parliament since February 1974. The Conservative Party, with 306 seats, entered negotiations with the Liberal Democrats (57 seats), producing a formal coalition government -- the first peacetime coalition since the 1930s National Government. The coalition was underpinned by a detailed programme for government, published as "The Coalition: Our Programme for Government," which set out agreed policies across all major areas. Institutionally, the coalition created a Coalition Committee and a Coalition Operation and Strategic Planning Group to manage the relationship. The Deputy Prime Minister, Nick Clegg, was given a formal role in government with a dedicated office and staff.
+            The 2010 general election produced the first hung parliament since February 1974. The Conservative Party, with 306 seats, entered negotiations with the Liberal Democrats (57 seats), producing a formal coalition government -- the first peacetime coalition since the 1930s National Government. The coalition was underpinned by a detailed programme for government, published as "The Coalition: Our Programme for Government," which set out agreed policies across all major areas. Institutionally, the coalition created a Coalition Committee and a Coalition Operation and Strategic Planning Group to manage the relationship. The Deputy Prime Minister, Nick Clegg, was given a formal role in government with a dedicated office and staff.
 
-      Coalition government tests the convention of collective Cabinet responsibility in distinctive ways. Ministers from different parties must defend agreed coalition policies even when they contradict their party's manifesto. The coalition agreement serves as the governing document, but it cannot anticipate every issue. Where the agreement was silent or ambiguous, tensions arose -- most notably on electoral reform, House of Lords reform, and tuition fees, where the Liberal Democrats supported a policy (tripling tuition fees) that directly contradicted a prominent election pledge.
+            Coalition government tests the convention of collective Cabinet responsibility in distinctive ways. Ministers from different parties must defend agreed coalition policies even when they contradict their party's manifesto. The coalition agreement serves as the governing document, but it cannot anticipate every issue. Where the agreement was silent or ambiguous, tensions arose -- most notably on electoral reform, House of Lords reform, and tuition fees, where the Liberal Democrats supported a policy (tripling tuition fees) that directly contradicted a prominent election pledge.
 
-      Confidence-and-supply arrangements represent a less formal alternative. Following the 2017 general election, in which the Conservatives lost their majority, Theresa May secured the support of the DUP through a confidence-and-supply agreement backed by a financial package of approximately one billion pounds for Northern Ireland. The DUP agreed to support the government on confidence motions and budgets, but remained free to vote against it on other matters. The arrangement proved fragile, particularly over Brexit, and the government was repeatedly defeated on key votes.
+            Confidence-and-supply arrangements represent a less formal alternative. Following the 2017 general election, in which the Conservatives lost their majority, Theresa May secured the support of the DUP through a confidence-and-supply agreement backed by a financial package of approximately one billion pounds for Northern Ireland. The DUP agreed to support the government on confidence motions and budgets, but remained free to vote against it on other matters. The arrangement proved fragile, particularly over Brexit, and the government was repeatedly defeated on key votes.
 
-      Minority government -- governing without any formal support arrangement -- is the most precarious option. Harold Wilson's Labour government of 1974-1976 and James Callaghan's government of 1976-1979 (which relied on the Lib-Lab Pact) illustrate the difficulties. Minority governments must constantly negotiate support, are vulnerable to defeat on legislation, and may struggle to pass budgets.
+            Minority government -- governing without any formal support arrangement -- is the most precarious option. Harold Wilson's Labour government of 1974-1976 and James Callaghan's government of 1976-1979 (which relied on the Lib-Lab Pact) illustrate the difficulties. Minority governments must constantly negotiate support, are vulnerable to defeat on legislation, and may struggle to pass budgets.
 
-      The dissolution power is central to the dynamics of hung parliaments. The Fixed-term Parliaments Act 2011 (FTPA), passed as a coalition agreement commitment, fixed parliamentary terms at five years and required either a two-thirds supermajority or a vote of no confidence followed by a 14-day period for an alternative government to trigger an early election. The FTPA was widely criticised for creating rigidity and confusion, particularly during the Brexit parliamentary deadlocks of 2019. The Dissolution and Calling of Parliament Act 2022 repealed the FTPA and restored the prerogative power of dissolution, enabling the PM to advise the Monarch to dissolve Parliament at a time of their choosing. This restoration has implications for coalition and minority governments, as the PM once again holds the unilateral threat of dissolution -- a significant bargaining chip in negotiations with coalition partners or supporting parties.
+            The dissolution power is central to the dynamics of hung parliaments. The Fixed-term Parliaments Act 2011 (FTPA), passed as a coalition agreement commitment, fixed parliamentary terms at five years and required either a two-thirds supermajority or a vote of no confidence followed by a 14-day period for an alternative government to trigger an early election. The FTPA was widely criticised for creating rigidity and confusion, particularly during the Brexit parliamentary deadlocks of 2019. The Dissolution and Calling of Parliament Act 2022 repealed the FTPA and restored the prerogative power of dissolution, enabling the PM to advise the Monarch to dissolve Parliament at a time of their choosing. This restoration has implications for coalition and minority governments, as the PM once again holds the unilateral threat of dissolution -- a significant bargaining chip in negotiations with coalition partners or supporting parties.
 
-      The Cabinet Manual (2011) sets out the conventions governing government formation after a hung parliament, including the incumbent PM's right to remain in office until it is clear they cannot command the confidence of the Commons, the Monarch's role in inviting a new PM, and the expectation that the political parties will resolve the situation without drawing the Crown into political controversy. These provisions, while descriptive and non-binding, provided the framework for the 2010 transition.
-    reading_age: 18
-  researcher:
-    summary: "A constitutional analysis of coalition and minority government in the UK, examining the 2010 coalition as a case study, the evolution of confidence conventions, the impact of the Fixed-term Parliaments Act 2011 and its repeal, and the implications for prerogative powers, collective responsibility, and government formation."
-    body: |
-      The formation of the Conservative-Liberal Democrat coalition in May 2010 was a constitutional event of considerable significance: the first formal peacetime coalition since the 1930s, negotiated under intense media scrutiny and in the shadow of financial crisis. Its formation, operation, and dissolution provide a rich case study for analysing the UK constitution's capacity to accommodate multi-party government within a system designed around single-party majority rule.
+            The Cabinet Manual (2011) sets out the conventions governing government formation after a hung parliament, including the incumbent PM's right to remain in office until it is clear they cannot command the confidence of the Commons, the Monarch's role in inviting a new PM, and the expectation that the political parties will resolve the situation without drawing the Crown into political controversy. These provisions, while descriptive and non-binding, provided the framework for the 2010 transition.
+        reading_age: 18
+    researcher:
+        summary: 'A constitutional analysis of coalition and minority government in the UK, examining the 2010 coalition as a case study, the evolution of confidence conventions, the impact of the Fixed-term Parliaments Act 2011 and its repeal, and the implications for prerogative powers, collective responsibility, and government formation.'
+        body: |
+            The formation of the Conservative-Liberal Democrat coalition in May 2010 was a constitutional event of considerable significance: the first formal peacetime coalition since the 1930s, negotiated under intense media scrutiny and in the shadow of financial crisis. Its formation, operation, and dissolution provide a rich case study for analysing the UK constitution's capacity to accommodate multi-party government within a system designed around single-party majority rule.
 
-      The constitutional conventions governing government formation after a hung parliament were, in 2010, imperfectly understood and incompletely documented. The Cabinet Manual, published in draft in 2010 and in final form in October 2011, sought to codify existing practice. Its key provisions included the incumbent PM's right and duty to remain in office until it became clear they could not command the confidence of the House; the expectation that political parties would resolve the situation without involving the Monarch in political decisions; and the caretaker convention, which constrained the incumbent government from making major policy decisions or commitments during the interregnum. Robert Hazell and Akash Paun's "Making Minority Government Work" (2009), published by the Institute for Government and the Constitution Unit before the election, proved prescient in mapping the constitutional terrain, and their subsequent analysis in "Constitutional Conventions and Ministerial Resignations" deepened understanding of the conventions in play.
+            The constitutional conventions governing government formation after a hung parliament were, in 2010, imperfectly understood and incompletely documented. The Cabinet Manual, published in draft in 2010 and in final form in October 2011, sought to codify existing practice. Its key provisions included the incumbent PM's right and duty to remain in office until it became clear they could not command the confidence of the House; the expectation that political parties would resolve the situation without involving the Monarch in political decisions; and the caretaker convention, which constrained the incumbent government from making major policy decisions or commitments during the interregnum. Robert Hazell and Akash Paun's "Making Minority Government Work" (2009), published by the Institute for Government and the Constitution Unit before the election, proved prescient in mapping the constitutional terrain, and their subsequent analysis in "Constitutional Conventions and Ministerial Resignations" deepened understanding of the conventions in play.
 
-      The coalition agreement -- "The Coalition: Our Programme for Government" -- was a political, not legal, document. It bound the parties politically but had no legal enforceability. As Vernon Bogdanor argued in "The Coalition and the Constitution" (2011), the agreement represented a new form of political contract in British politics, creating obligations that sat uncomfortably alongside the conventions of collective responsibility and individual party manifestos. The coalition's institutional architecture included a Coalition Committee (co-chaired by the PM and Deputy PM), the "quad" (an informal group of Cameron, Clegg, Osborne, and Alexander), and departmental ministers paired across parties to manage potential conflicts.
+            The coalition agreement -- "The Coalition: Our Programme for Government" -- was a political, not legal, document. It bound the parties politically but had no legal enforceability. As Vernon Bogdanor argued in "The Coalition and the Constitution" (2011), the agreement represented a new form of political contract in British politics, creating obligations that sat uncomfortably alongside the conventions of collective responsibility and individual party manifestos. The coalition's institutional architecture included a Coalition Committee (co-chaired by the PM and Deputy PM), the "quad" (an informal group of Cameron, Clegg, Osborne, and Alexander), and departmental ministers paired across parties to manage potential conflicts.
 
-      The Fixed-term Parliaments Act 2011 was itself a product of coalition politics, designed to prevent either coalition partner from calling an election to gain advantage over the other. By removing the PM's prerogative power to advise dissolution, the FTPA fundamentally altered the balance of power within the coalition and between the executive and Parliament. Under the FTPA, an early election could occur only through a two-thirds supermajority vote in the Commons or through a vote of no confidence followed by a 14-day period in which an alternative government could be formed. The latter mechanism was never tested in practice, and academic commentary -- notably by Robert Craig in "Zombie Parliament: The Fixed-term Parliaments Act 2011" and Petra Schleiter and Valerie Belu's comparative analysis -- criticised the Act for creating ambiguity about the role of the Monarch and the status of caretaker governments during the 14-day window.
+            The Fixed-term Parliaments Act 2011 was itself a product of coalition politics, designed to prevent either coalition partner from calling an election to gain advantage over the other. By removing the PM's prerogative power to advise dissolution, the FTPA fundamentally altered the balance of power within the coalition and between the executive and Parliament. Under the FTPA, an early election could occur only through a two-thirds supermajority vote in the Commons or through a vote of no confidence followed by a 14-day period in which an alternative government could be formed. The latter mechanism was never tested in practice, and academic commentary -- notably by Robert Craig in "Zombie Parliament: The Fixed-term Parliaments Act 2011" and Petra Schleiter and Valerie Belu's comparative analysis -- criticised the Act for creating ambiguity about the role of the Monarch and the status of caretaker governments during the 14-day window.
 
-      The 2017-2019 Parliament demonstrated the constitutional difficulties arising from minority government under the FTPA. Theresa May's confidence-and-supply arrangement with the DUP provided a working majority on paper, but Brexit-related divisions -- both within the Conservative Party and across the House -- rendered the government unable to pass its central legislative programme. The paradox of the FTPA became acute: the government could not govern effectively, but neither could it secure the two-thirds supermajority needed to call an early election, and the opposition declined to support a no-confidence motion that might lead to a general election on unfavourable terms. The impasse was eventually resolved by the Early Parliamentary General Election Act 2019, which circumvented the FTPA's supermajority requirement.
+            The 2017-2019 Parliament demonstrated the constitutional difficulties arising from minority government under the FTPA. Theresa May's confidence-and-supply arrangement with the DUP provided a working majority on paper, but Brexit-related divisions -- both within the Conservative Party and across the House -- rendered the government unable to pass its central legislative programme. The paradox of the FTPA became acute: the government could not govern effectively, but neither could it secure the two-thirds supermajority needed to call an early election, and the opposition declined to support a no-confidence motion that might lead to a general election on unfavourable terms. The impasse was eventually resolved by the Early Parliamentary General Election Act 2019, which circumvented the FTPA's supermajority requirement.
 
-      The Dissolution and Calling of Parliament Act 2022 repealed the FTPA and sought to restore the prerogative power of dissolution on the advice of the PM. Controversially, it included an ouster clause (Section 3) attempting to place the exercise of the dissolution power beyond judicial review. The constitutional implications of this restoration are significant for coalition and minority governments: the PM once again holds the threat of dissolution as a disciplinary and strategic tool, altering the bargaining dynamics with coalition partners and supporting parties. The Joint Committee on the Fixed-term Parliaments Act (2021) considered the arguments for and against repeal and examined the Lascelles Principles -- the convention (articulated in a 1950 letter to The Times by the King's Private Secretary, Sir Alan Lascelles, writing pseudonymously) that the Monarch could refuse a dissolution if the existing Parliament was still viable, an alternative government could be formed, and a general election would be detrimental to the economy.
+            The Dissolution and Calling of Parliament Act 2022 repealed the FTPA and sought to restore the prerogative power of dissolution on the advice of the PM. Controversially, it included an ouster clause (Section 3) attempting to place the exercise of the dissolution power beyond judicial review. The constitutional implications of this restoration are significant for coalition and minority governments: the PM once again holds the threat of dissolution as a disciplinary and strategic tool, altering the bargaining dynamics with coalition partners and supporting parties. The Joint Committee on the Fixed-term Parliaments Act (2021) considered the arguments for and against repeal and examined the Lascelles Principles -- the convention (articulated in a 1950 letter to The Times by the King's Private Secretary, Sir Alan Lascelles, writing pseudonymously) that the Monarch could refuse a dissolution if the existing Parliament was still viable, an alternative government could be formed, and a general election would be detrimental to the economy.
 
-      Collective responsibility in a coalition context raises distinctive challenges. The 2010 coalition adopted an "agreement to differ" mechanism for specific pre-agreed issues (most notably, the referendum on the Alternative Vote, where the two parties actively campaigned against each other). Beyond these carved-out areas, ministers were bound by standard collective responsibility, requiring Liberal Democrat ministers to defend Conservative-led policies and vice versa. The tensions this created -- exemplified by Vince Cable's widely reported comments to undercover reporters about his capacity to bring down the government, and by the Liberal Democrats' difficulty in claiming credit for coalition achievements while distancing themselves from unpopular decisions -- illustrate the political costs of collective responsibility in a multi-party executive.
-    reading_age: null
-    sources:
-      - citation: "Bogdanor, Vernon, The Coalition and the Constitution, Hart Publishing, 2011"
-        url: "https://www.bloomsbury.com/uk/coalition-and-the-constitution-9781849461658/"
-        type: secondary
-      - citation: "Hazell, Robert and Paun, Akash, Making Minority Government Work, Institute for Government / Constitution Unit, 2009"
-        url: "https://www.instituteforgovernment.org.uk/publication/making-minority-government-work"
-        type: secondary
-      - citation: "Cabinet Office, The Cabinet Manual, 1st Edition, October 2011"
-        url: "https://www.gov.uk/government/publications/cabinet-manual"
-        type: official
-      - citation: "HM Government, The Coalition: Our Programme for Government, May 2010"
-        url: "https://www.gov.uk/government/publications/the-coalition-documentation"
-        type: official
-      - citation: "House of Commons Library, Hung Parliaments, Research Briefing CBP-04951"
-        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-04951/"
-        type: official
-      - citation: "Fixed-term Parliaments Act 2011 (repealed)"
-        url: "https://www.legislation.gov.uk/ukpga/2011/14/contents"
-        type: primary
-      - citation: "Dissolution and Calling of Parliament Act 2022"
-        url: "https://www.legislation.gov.uk/ukpga/2022/11/contents"
-        type: primary
-      - citation: "Joint Committee on the Fixed-term Parliaments Act, Final Report, HL Paper 253 / HC 1046, March 2021"
-        url: "https://committees.parliament.uk/committee/440/fixedterm-parliaments-act-joint-committee/publications/"
-        type: official
-      - citation: "Craig, Robert, Zombie Parliament: The Fixed-term Parliaments Act 2011, The Political Quarterly, 2018"
-        url: "https://onlinelibrary.wiley.com/doi/10.1111/1467-923X.12468"
-        type: secondary
+            Collective responsibility in a coalition context raises distinctive challenges. The 2010 coalition adopted an "agreement to differ" mechanism for specific pre-agreed issues (most notably, the referendum on the Alternative Vote, where the two parties actively campaigned against each other). Beyond these carved-out areas, ministers were bound by standard collective responsibility, requiring Liberal Democrat ministers to defend Conservative-led policies and vice versa. The tensions this created -- exemplified by Vince Cable's widely reported comments to undercover reporters about his capacity to bring down the government, and by the Liberal Democrats' difficulty in claiming credit for coalition achievements while distancing themselves from unpopular decisions -- illustrate the political costs of collective responsibility in a multi-party executive.
+        reading_age: null
+        sources:
+            - citation: 'Bogdanor, Vernon, The Coalition and the Constitution, Hart Publishing, 2011'
+              url: 'https://www.bloomsbury.com/uk/coalition-and-the-constitution-9781849461658/'
+              type: secondary
+            - citation: 'Hazell, Robert and Paun, Akash, Making Minority Government Work, Institute for Government / Constitution Unit, 2009'
+              url: 'https://www.instituteforgovernment.org.uk/publication/making-minority-government-work'
+              type: secondary
+            - citation: 'Cabinet Office, The Cabinet Manual, 1st Edition, October 2011'
+              url: 'https://www.gov.uk/government/publications/cabinet-manual'
+              type: official
+            - citation: 'HM Government, The Coalition: Our Programme for Government, May 2010'
+              url: 'https://www.gov.uk/government/publications/the-coalition-documentation'
+              type: official
+            - citation: 'House of Commons Library, Hung Parliaments, Research Briefing CBP-04951'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/cbp-04951/'
+              type: official
+            - citation: 'Fixed-term Parliaments Act 2011 (repealed)'
+              url: 'https://www.legislation.gov.uk/ukpga/2011/14/contents'
+              type: primary
+            - citation: 'Dissolution and Calling of Parliament Act 2022'
+              url: 'https://www.legislation.gov.uk/ukpga/2022/11/contents'
+              type: primary
+            - citation: 'Joint Committee on the Fixed-term Parliaments Act, Final Report, HL Paper 253 / HC 1046, March 2021'
+              url: 'https://committees.parliament.uk/committee/440/fixedterm-parliaments-act-joint-committee/publications/'
+              type: official
+            - citation: 'Craig, Robert, Zombie Parliament: The Fixed-term Parliaments Act 2011, The Political Quarterly, 2018'
+              url: 'https://onlinelibrary.wiley.com/doi/10.1111/1467-923X.12468'
+              type: secondary
 
 glossary:
-  - term: "Coalition Government"
-    definition_simple: "When two or more political parties join together to run the country because no single party won enough seats on its own."
-    definition_full: "A government formed by two or more political parties that agree to share executive power, typically following a general election in which no single party has won an overall majority. Coalition governments are governed by a coalition agreement and by the convention of collective Cabinet responsibility, though the latter may be modified by agreed 'agreements to differ' on specific issues."
-  - term: "Confidence and Supply"
-    definition_simple: "When a smaller party agrees to support the government on important votes like the budget without actually joining the government."
-    definition_full: "An arrangement whereby a party outside government agrees to support the government on votes of confidence (which determine whether the government remains in office) and supply (the budget and financial legislation), while retaining freedom to vote independently on other matters. Unlike a coalition, the supporting party does not receive ministerial positions."
-  - term: "Hung Parliament"
-    definition_simple: "When no single political party wins enough seats in a general election to have more than half the MPs in the House of Commons."
-    definition_full: "A parliamentary situation in which no single party commands an overall majority of seats in the House of Commons (currently 326 of 650). A hung parliament requires political negotiation to determine the formation of government, whether through coalition, confidence-and-supply, or minority administration."
-  - term: "Coalition Agreement"
-    definition_simple: "A written plan that parties in a coalition agree to follow, setting out what policies they will work on together."
-    definition_full: "A political document negotiated between coalition partners setting out their agreed programme for government, the allocation of ministerial portfolios, and the mechanisms for managing the relationship. Coalition agreements are politically binding but have no legal enforceability; their effectiveness depends on trust, institutional structures, and political incentives."
-  - term: "Vote of No Confidence"
-    definition_simple: "A vote in Parliament where MPs decide whether they still trust the government to do its job. If the government loses, it might have to resign."
-    definition_full: "A motion in the House of Commons expressing that the House no longer has confidence in Her Majesty's Government. If passed, the convention requires the government to resign. Following repeal of the Fixed-term Parliaments Act 2011, the specific statutory mechanism (a 14-day window for forming an alternative government) no longer applies, and the prerogative power of dissolution has been restored to the Crown on the PM's advice."
+    - term: 'Coalition Government'
+      definition_simple: 'When two or more political parties join together to run the country because no single party won enough seats on its own.'
+      definition_full: "A government formed by two or more political parties that agree to share executive power, typically following a general election in which no single party has won an overall majority. Coalition governments are governed by a coalition agreement and by the convention of collective Cabinet responsibility, though the latter may be modified by agreed 'agreements to differ' on specific issues."
+    - term: 'Confidence and Supply'
+      definition_simple: 'When a smaller party agrees to support the government on important votes like the budget without actually joining the government.'
+      definition_full: 'An arrangement whereby a party outside government agrees to support the government on votes of confidence (which determine whether the government remains in office) and supply (the budget and financial legislation), while retaining freedom to vote independently on other matters. Unlike a coalition, the supporting party does not receive ministerial positions.'
+    - term: 'Hung Parliament'
+      definition_simple: 'When no single political party wins enough seats in a general election to have more than half the MPs in the House of Commons.'
+      definition_full: 'A parliamentary situation in which no single party commands an overall majority of seats in the House of Commons (currently 326 of 650). A hung parliament requires political negotiation to determine the formation of government, whether through coalition, confidence-and-supply, or minority administration.'
+    - term: 'Coalition Agreement'
+      definition_simple: 'A written plan that parties in a coalition agree to follow, setting out what policies they will work on together.'
+      definition_full: 'A political document negotiated between coalition partners setting out their agreed programme for government, the allocation of ministerial portfolios, and the mechanisms for managing the relationship. Coalition agreements are politically binding but have no legal enforceability; their effectiveness depends on trust, institutional structures, and political incentives.'
+    - term: 'Vote of No Confidence'
+      definition_simple: 'A vote in Parliament where MPs decide whether they still trust the government to do its job. If the government loses, it might have to resign.'
+      definition_full: "A motion in the House of Commons expressing that the House no longer has confidence in Her Majesty's Government. If passed, the convention requires the government to resign. Following repeal of the Fixed-term Parliaments Act 2011, the specific statutory mechanism (a 14-day window for forming an alternative government) no longer applies, and the prerogative power of dissolution has been restored to the Crown on the PM's advice."
 
 did_you_know:
-  - fact: "The 2010 Conservative-Liberal Democrat coalition was the first formal peacetime coalition government in the UK since the 1930s!"
-    level: [child, teenager]
-  - fact: "During the 2010 coalition negotiations, the talks between the Conservatives and Liberal Democrats took five days, while the country was temporarily governed by Gordon Brown as caretaker Prime Minister."
-    level: [teenager, adult]
-  - fact: "The DUP's confidence-and-supply agreement with the Conservatives in 2017 included approximately one billion pounds of additional funding for Northern Ireland in exchange for the DUP's parliamentary support."
-    level: [teenager, adult, researcher]
-  - fact: "The Fixed-term Parliaments Act 2011 was specifically designed to prevent either coalition partner from calling a snap election to gain advantage over the other -- it was one of the Liberal Democrats' key negotiating demands."
-    level: [adult, researcher]
-  - fact: "The last successful vote of no confidence in a UK government was in 1979, when James Callaghan's Labour government was defeated by a single vote -- 311 to 310."
-    level: [teenager, adult, researcher]
+    - fact: 'The 2010 Conservative-Liberal Democrat coalition was the first formal peacetime coalition government in the UK since the 1930s!'
+      level: [child, teenager]
+    - fact: 'During the 2010 coalition negotiations, the talks between the Conservatives and Liberal Democrats took five days, while the country was temporarily governed by Gordon Brown as caretaker Prime Minister.'
+      level: [teenager, adult]
+    - fact: "The DUP's confidence-and-supply agreement with the Conservatives in 2017 included approximately one billion pounds of additional funding for Northern Ireland in exchange for the DUP's parliamentary support."
+      level: [teenager, adult, researcher]
+    - fact: "The Fixed-term Parliaments Act 2011 was specifically designed to prevent either coalition partner from calling a snap election to gain advantage over the other -- it was one of the Liberal Democrats' key negotiating demands."
+      level: [adult, researcher]
+    - fact: "The last successful vote of no confidence in a UK government was in 1979, when James Callaghan's Labour government was defeated by a single vote -- 311 to 310."
+      level: [teenager, adult, researcher]
 
 key_dates:
-  - year: 1974
-    event: "Two general elections produce a hung parliament and then a narrow majority"
-    significance: "The February 1974 election produced a hung parliament, leading to Harold Wilson forming a minority Labour government. A second election in October 1974 gave Labour a slim majority of three seats, which eroded through by-election losses."
-    levels: [teenager, adult, researcher]
-  - year: 1979
-    event: "Vote of no confidence defeats Callaghan's government"
-    significance: "The House of Commons passed a motion of no confidence in James Callaghan's Labour government by 311 votes to 310 -- the last successful no-confidence motion in a UK government, triggering the general election that brought Margaret Thatcher to power."
-    levels: [teenager, adult, researcher]
-  - year: 2010
-    event: "Conservative-Liberal Democrat coalition formed"
-    significance: "The first formal peacetime coalition since the 1930s, formed after a hung parliament. The coalition governed for a full five-year term, producing a detailed coalition agreement and creating institutional mechanisms for multi-party government."
-    levels: [child, teenager, adult, researcher]
-  - year: 2011
-    event: "Fixed-term Parliaments Act passed"
-    significance: "Removed the PM's prerogative power to advise dissolution, fixing parliamentary terms at five years and creating specific mechanisms for early elections, fundamentally altering the constitutional relationship between executive and legislature."
-    levels: [adult, researcher]
-  - year: 2022
-    event: "Dissolution and Calling of Parliament Act repeals the FTPA"
-    significance: "Restored the PM's power to advise the Monarch to dissolve Parliament, removing the fixed five-year term and the statutory mechanisms for no-confidence motions introduced by the FTPA."
-    levels: [adult, researcher]
+    - year: 1974
+      event: 'Two general elections produce a hung parliament and then a narrow majority'
+      significance: 'The February 1974 election produced a hung parliament, leading to Harold Wilson forming a minority Labour government. A second election in October 1974 gave Labour a slim majority of three seats, which eroded through by-election losses.'
+      levels: [teenager, adult, researcher]
+    - year: 1979
+      event: "Vote of no confidence defeats Callaghan's government"
+      significance: "The House of Commons passed a motion of no confidence in James Callaghan's Labour government by 311 votes to 310 -- the last successful no-confidence motion in a UK government, triggering the general election that brought Margaret Thatcher to power."
+      levels: [teenager, adult, researcher]
+    - year: 2010
+      event: 'Conservative-Liberal Democrat coalition formed'
+      significance: 'The first formal peacetime coalition since the 1930s, formed after a hung parliament. The coalition governed for a full five-year term, producing a detailed coalition agreement and creating institutional mechanisms for multi-party government.'
+      levels: [child, teenager, adult, researcher]
+    - year: 2011
+      event: 'Fixed-term Parliaments Act passed'
+      significance: "Removed the PM's prerogative power to advise dissolution, fixing parliamentary terms at five years and creating specific mechanisms for early elections, fundamentally altering the constitutional relationship between executive and legislature."
+      levels: [adult, researcher]
+    - year: 2022
+      event: 'Dissolution and Calling of Parliament Act repeals the FTPA'
+      significance: "Restored the PM's power to advise the Monarch to dissolve Parliament, removing the fixed five-year term and the statutory mechanisms for no-confidence motions introduced by the FTPA."
+      levels: [adult, researcher]
 
 key_figures:
-  - name: "David Cameron"
-    role: "Prime Minister (2010-2016)"
-    description: "Led the Conservative Party into coalition with the Liberal Democrats in 2010, becoming the first PM to head a formal peacetime coalition since the 1930s. Navigated the challenges of multi-party government for a full parliamentary term."
-    levels: [child, teenager, adult, researcher]
-  - name: "Nick Clegg"
-    role: "Deputy Prime Minister (2010-2015)"
-    description: "Leader of the Liberal Democrats who entered coalition with the Conservatives, serving as Deputy Prime Minister with a formal role in government. The coalition proved politically costly for the Liberal Democrats, who lost the majority of their seats in the 2015 election."
-    levels: [teenager, adult, researcher]
-  - name: "James Callaghan"
-    role: "Prime Minister (1976-1979)"
-    description: "Led a minority Labour government that relied on the Lib-Lab Pact (1977-1978) and was ultimately brought down by the last successful vote of no confidence in a UK government, losing by a single vote in March 1979."
-    levels: [teenager, adult, researcher]
+    - name: 'David Cameron'
+      role: 'Prime Minister (2010-2016)'
+      description: 'Led the Conservative Party into coalition with the Liberal Democrats in 2010, becoming the first PM to head a formal peacetime coalition since the 1930s. Navigated the challenges of multi-party government for a full parliamentary term.'
+      levels: [child, teenager, adult, researcher]
+    - name: 'Nick Clegg'
+      role: 'Deputy Prime Minister (2010-2015)'
+      description: 'Leader of the Liberal Democrats who entered coalition with the Conservatives, serving as Deputy Prime Minister with a formal role in government. The coalition proved politically costly for the Liberal Democrats, who lost the majority of their seats in the 2015 election.'
+      levels: [teenager, adult, researcher]
+    - name: 'James Callaghan'
+      role: 'Prime Minister (1976-1979)'
+      description: 'Led a minority Labour government that relied on the Lib-Lab Pact (1977-1978) and was ultimately brought down by the last successful vote of no confidence in a UK government, losing by a single vote in March 1979.'
+      levels: [teenager, adult, researcher]
 
 video_links:
-  - title: "An introduction to Parliament"
-    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
-    source: "UK Parliament"
-    description: "Official UK Parliament animation introducing how Parliament works, including elections, the formation of government, and how parties need a majority to govern."
-    levels: [child, teenager]
-  - title: "Who's in charge of Britain?"
-    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
-    source: "Jay and Mark (Jay Foreman)"
-    description: "An entertaining and educational exploration of who actually runs Britain, covering how government is formed and the complex distribution of power when no single party has full control."
-    levels: [teenager, adult]
-  - title: "Why Your Vote Doesn't Count"
-    url: "https://www.youtube.com/watch?v=s7tWHJfhiyo"
-    source: "CGP Grey"
-    description: "An animated explanation of the problems with First Past the Post voting, including how the system can produce results where no party wins a clear majority, leading to hung parliaments and coalition governments."
-    levels: [teenager, adult]
+    - title: 'An introduction to Parliament'
+      url: 'https://www.youtube.com/watch?v=RAMbIz3Y2JA'
+      source: 'UK Parliament'
+      description: 'Official UK Parliament animation introducing how Parliament works, including elections, the formation of government, and how parties need a majority to govern.'
+      levels: [child, teenager]
+    - title: "Who's in charge of Britain?"
+      url: 'https://www.youtube.com/watch?v=rMXJOKhf_AA'
+      source: 'Jay and Mark (Jay Foreman)'
+      description: 'An entertaining and educational exploration of who actually runs Britain, covering how government is formed and the complex distribution of power when no single party has full control.'
+      levels: [teenager, adult]
+    - title: "Why Your Vote Doesn't Count"
+      url: 'https://www.youtube.com/watch?v=s7tWHJfhiyo'
+      source: 'CGP Grey'
+      description: 'An animated explanation of the problems with First Past the Post voting, including how the system can produce results where no party wins a clear majority, leading to hung parliaments and coalition governments.'
+      levels: [teenager, adult]
 
 quizzes:
-  child:
-    - question: "What is a hung parliament?"
-      type: multiple_choice
-      options:
-        - "When Parliament is closed for repairs"
-        - "When no party wins enough seats to have more than half the MPs"
-        - "When the Prime Minister resigns"
-      correct_answer: "When no party wins enough seats to have more than half the MPs"
-      explanation: "A hung parliament happens when no single party wins enough seats to have a majority. The parties then have to work out who will form the government."
-    - question: "True or false: In the 2010 coalition, the Conservatives and Liberal Democrats shared out the ministerial jobs between them."
-      type: true_false
-      correct_answer: "True"
-      explanation: "In the 2010 coalition, ministers came from both the Conservative Party and the Liberal Democrats. Nick Clegg, the Liberal Democrat leader, became Deputy Prime Minister."
-    - question: "What happens if the government loses a vote of no confidence?"
-      type: multiple_choice
-      options:
-        - "Nothing changes"
-        - "The government might have to resign and there could be a new election"
-        - "The Prime Minister gets a pay rise"
-      correct_answer: "The government might have to resign and there could be a new election"
-      explanation: "If Parliament votes that it no longer has confidence in the government, the government is expected to resign, which could lead to a new election or a different government being formed."
-  teenager:
-    - question: "What is the difference between a coalition government and a confidence-and-supply arrangement?"
-      type: short_answer
-      correct_answer: "In a coalition, two or more parties formally join to govern together and share ministerial posts. In a confidence-and-supply arrangement, a smaller party agrees to support the government on confidence votes and budgets but does not join the government or receive ministerial positions."
-      explanation: "Coalition involves shared executive power with ministers from multiple parties; confidence and supply is a looser arrangement where the supporting party retains independence on non-budgetary votes."
-    - question: "Why was the Fixed-term Parliaments Act 2011 passed, and why was it later repealed?"
-      type: short_answer
-      correct_answer: "It was passed to prevent either coalition partner from calling a snap election for political advantage, by fixing terms at five years. It was repealed by the Dissolution and Calling of Parliament Act 2022 because it was widely criticised for creating rigidity and confusion, particularly during the Brexit parliamentary deadlocks of 2019."
-      explanation: "The FTPA was a product of coalition politics, specifically a Liberal Democrat demand. Its repeal restored the PM's prerogative to advise dissolution, which supporters argued was essential for effective governance."
-    - question: "True or false: A coalition agreement is legally binding on the parties that sign it."
-      type: true_false
-      correct_answer: "False"
-      explanation: "A coalition agreement is a political document, not a legal contract. It binds the parties politically but has no legal enforceability. Its effectiveness depends on trust, institutional structures, and political incentives."
-  adult:
-    - question: "How did the Cabinet Manual (2011) seek to clarify the conventions governing government formation after a hung parliament?"
-      type: short_answer
-      correct_answer: "The Cabinet Manual set out that the incumbent PM has the right and duty to remain in office until it is clear they cannot command the confidence of the Commons; that political parties are expected to resolve the situation without involving the Monarch; and that the caretaker convention constrains the incumbent government from making major decisions during the interregnum."
-      explanation: "The Manual was published partly in response to the 2010 experience, aiming to provide transparency about conventions that had previously been poorly documented. However, it is descriptive and non-binding."
-    - question: "Explain the Lascelles Principles and their relevance to the dissolution power."
-      type: short_answer
-      correct_answer: "The Lascelles Principles, articulated in a 1950 letter to The Times, suggested the Monarch could refuse a dissolution if the existing Parliament was still viable, an alternative government could be formed, and an election would be detrimental to the national economy. They are relevant because they suggest the Monarch retains a residual discretion to refuse a PM's request for dissolution, though this has never been tested in modern practice."
-      explanation: "Named after Sir Alan Lascelles, the King's Private Secretary, who wrote pseudonymously, the Principles represent the most detailed articulation of potential limits on the PM's dissolution power. The Dissolution and Calling of Parliament Act 2022 sought to restore the prerogative but included an ouster clause limiting judicial review."
-    - question: "What constitutional difficulties did the 2017-2019 Parliament reveal about minority government under the FTPA?"
-      type: multiple_choice
-      options:
-        - "The government could not raise taxes without a supermajority"
-        - "The government could not govern effectively but could not secure an early election, creating parliamentary deadlock"
-        - "The opposition was able to form an alternative government within the 14-day window"
-        - "The Speaker was able to dissolve Parliament unilaterally"
-      correct_answer: "The government could not govern effectively but could not secure an early election, creating parliamentary deadlock"
-      explanation: "The FTPA's requirement for a two-thirds supermajority for early dissolution trapped a government that could not pass its central legislation but could not call an election. The opposition declined to support either a no-confidence motion or an early election motion, creating a prolonged impasse resolved only by the ad hoc Early Parliamentary General Election Act 2019."
-  researcher:
-    - question: "Analyse the constitutional implications of the Dissolution and Calling of Parliament Act 2022's ouster clause for the relationship between the executive, the judiciary, and the Crown."
-      type: essay
-      correct_answer: "Section 3 of the 2022 Act attempts to place the exercise of the dissolution power beyond judicial review, reviving a prerogative power while seeking to insulate it from judicial scrutiny. This raises fundamental questions about parliamentary sovereignty (can Parliament effectively prevent the courts from reviewing executive action?), the rule of law (is there a constitutional limit on ouster clauses, as suggested by the Supreme Court in Privacy International [2019]?), and the Monarch's role (does the restoration of the prerogative revive any genuine royal discretion, or is dissolution now entirely a matter for the PM?)."
-      explanation: "The essay should engage with the constitutional debate over ouster clauses, the Miller/Cherry prorogation case (2019), the academic literature on the prerogative, and the practical implications for coalition and minority governments of the PM holding an unrestricted dissolution power."
-    - question: "Evaluate the 2010 coalition as a constitutional experiment, considering its institutional innovations, its impact on collective responsibility, and its lessons for future multi-party government in the UK."
-      type: essay
-      correct_answer: "The 2010 coalition introduced institutional innovations (the coalition agreement, the Coalition Committee, the 'quad') that adapted single-party conventions to multi-party governance. Collective responsibility was maintained but modified by agreed 'agreements to differ.' Bogdanor (2011) argued it demonstrated the constitution's adaptability; critics noted the political costs for the junior partner and the democratic deficit of a government programme not endorsed by voters. The coalition's full five-year term, facilitated by the FTPA, suggests that institutional architecture matters more than ideological proximity."
-      explanation: "The analysis should draw on Bogdanor, Hazell and Paun, and the empirical record to assess the coalition's constitutional legacy, including its impact on conventions, party politics, and public attitudes towards multi-party government."
+    child:
+        - question: 'What is a hung parliament?'
+          type: multiple_choice
+          options:
+              - 'When Parliament is closed for repairs'
+              - 'When no party wins enough seats to have more than half the MPs'
+              - 'When the Prime Minister resigns'
+          correct_answer: 'When no party wins enough seats to have more than half the MPs'
+          explanation: 'A hung parliament happens when no single party wins enough seats to have a majority. The parties then have to work out who will form the government.'
+        - question: 'True or false: In the 2010 coalition, the Conservatives and Liberal Democrats shared out the ministerial jobs between them.'
+          type: true_false
+          correct_answer: 'True'
+          explanation: 'In the 2010 coalition, ministers came from both the Conservative Party and the Liberal Democrats. Nick Clegg, the Liberal Democrat leader, became Deputy Prime Minister.'
+        - question: 'What happens if the government loses a vote of no confidence?'
+          type: multiple_choice
+          options:
+              - 'Nothing changes'
+              - 'The government might have to resign and there could be a new election'
+              - 'The Prime Minister gets a pay rise'
+          correct_answer: 'The government might have to resign and there could be a new election'
+          explanation: 'If Parliament votes that it no longer has confidence in the government, the government is expected to resign, which could lead to a new election or a different government being formed.'
+    teenager:
+        - question: 'What is the difference between a coalition government and a confidence-and-supply arrangement?'
+          type: short_answer
+          correct_answer: 'In a coalition, two or more parties formally join to govern together and share ministerial posts. In a confidence-and-supply arrangement, a smaller party agrees to support the government on confidence votes and budgets but does not join the government or receive ministerial positions.'
+          explanation: 'Coalition involves shared executive power with ministers from multiple parties; confidence and supply is a looser arrangement where the supporting party retains independence on non-budgetary votes.'
+        - question: 'Why was the Fixed-term Parliaments Act 2011 passed, and why was it later repealed?'
+          type: short_answer
+          correct_answer: 'It was passed to prevent either coalition partner from calling a snap election for political advantage, by fixing terms at five years. It was repealed by the Dissolution and Calling of Parliament Act 2022 because it was widely criticised for creating rigidity and confusion, particularly during the Brexit parliamentary deadlocks of 2019.'
+          explanation: "The FTPA was a product of coalition politics, specifically a Liberal Democrat demand. Its repeal restored the PM's prerogative to advise dissolution, which supporters argued was essential for effective governance."
+        - question: 'True or false: A coalition agreement is legally binding on the parties that sign it.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'A coalition agreement is a political document, not a legal contract. It binds the parties politically but has no legal enforceability. Its effectiveness depends on trust, institutional structures, and political incentives.'
+    adult:
+        - question: 'How did the Cabinet Manual (2011) seek to clarify the conventions governing government formation after a hung parliament?'
+          type: short_answer
+          correct_answer: 'The Cabinet Manual set out that the incumbent PM has the right and duty to remain in office until it is clear they cannot command the confidence of the Commons; that political parties are expected to resolve the situation without involving the Monarch; and that the caretaker convention constrains the incumbent government from making major decisions during the interregnum.'
+          explanation: 'The Manual was published partly in response to the 2010 experience, aiming to provide transparency about conventions that had previously been poorly documented. However, it is descriptive and non-binding.'
+        - question: 'Explain the Lascelles Principles and their relevance to the dissolution power.'
+          type: short_answer
+          correct_answer: "The Lascelles Principles, articulated in a 1950 letter to The Times, suggested the Monarch could refuse a dissolution if the existing Parliament was still viable, an alternative government could be formed, and an election would be detrimental to the national economy. They are relevant because they suggest the Monarch retains a residual discretion to refuse a PM's request for dissolution, though this has never been tested in modern practice."
+          explanation: "Named after Sir Alan Lascelles, the King's Private Secretary, who wrote pseudonymously, the Principles represent the most detailed articulation of potential limits on the PM's dissolution power. The Dissolution and Calling of Parliament Act 2022 sought to restore the prerogative but included an ouster clause limiting judicial review."
+        - question: 'What constitutional difficulties did the 2017-2019 Parliament reveal about minority government under the FTPA?'
+          type: multiple_choice
+          options:
+              - 'The government could not raise taxes without a supermajority'
+              - 'The government could not govern effectively but could not secure an early election, creating parliamentary deadlock'
+              - 'The opposition was able to form an alternative government within the 14-day window'
+              - 'The Speaker was able to dissolve Parliament unilaterally'
+          correct_answer: 'The government could not govern effectively but could not secure an early election, creating parliamentary deadlock'
+          explanation: "The FTPA's requirement for a two-thirds supermajority for early dissolution trapped a government that could not pass its central legislation but could not call an election. The opposition declined to support either a no-confidence motion or an early election motion, creating a prolonged impasse resolved only by the ad hoc Early Parliamentary General Election Act 2019."
+    researcher:
+        - question: "Analyse the constitutional implications of the Dissolution and Calling of Parliament Act 2022's ouster clause for the relationship between the executive, the judiciary, and the Crown."
+          type: essay
+          correct_answer: "Section 3 of the 2022 Act attempts to place the exercise of the dissolution power beyond judicial review, reviving a prerogative power while seeking to insulate it from judicial scrutiny. This raises fundamental questions about parliamentary sovereignty (can Parliament effectively prevent the courts from reviewing executive action?), the rule of law (is there a constitutional limit on ouster clauses, as suggested by the Supreme Court in Privacy International [2019]?), and the Monarch's role (does the restoration of the prerogative revive any genuine royal discretion, or is dissolution now entirely a matter for the PM?)."
+          explanation: 'The essay should engage with the constitutional debate over ouster clauses, the Miller/Cherry prorogation case (2019), the academic literature on the prerogative, and the practical implications for coalition and minority governments of the PM holding an unrestricted dissolution power.'
+        - question: 'Evaluate the 2010 coalition as a constitutional experiment, considering its institutional innovations, its impact on collective responsibility, and its lessons for future multi-party government in the UK.'
+          type: essay
+          correct_answer: "The 2010 coalition introduced institutional innovations (the coalition agreement, the Coalition Committee, the 'quad') that adapted single-party conventions to multi-party governance. Collective responsibility was maintained but modified by agreed 'agreements to differ.' Bogdanor (2011) argued it demonstrated the constitution's adaptability; critics noted the political costs for the junior partner and the democratic deficit of a government programme not endorsed by voters. The coalition's full five-year term, facilitated by the FTPA, suggests that institutional architecture matters more than ideological proximity."
+          explanation: "The analysis should draw on Bogdanor, Hazell and Paun, and the empirical record to assess the coalition's constitutional legacy, including its impact on conventions, party politics, and public attitudes towards multi-party government."

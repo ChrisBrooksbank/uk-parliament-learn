@@ -1,281 +1,281 @@
 id: the-uk-constitution
-title: "The UK Constitution"
+title: 'The UK Constitution'
 slug: the-uk-constitution
 
 metadata:
-  category: constitution-and-justice
-  tags:
-    - constitution
-    - uncodified
-    - convention
-    - common-law
-    - statute-law
-    - royal-prerogative
-    - constitutional-reform
-    - authoritative-works
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: constitution-and-justice
+    tags:
+        - constitution
+        - uncodified
+        - convention
+        - common-law
+        - statute-law
+        - royal-prerogative
+        - constitutional-reform
+        - authoritative-works
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: what-is-parliament
-    relationship: prerequisite
-  - id: the-monarchy
-    relationship: see-also
-  - id: democratic-safeguards
-    relationship: see-also
-  - id: parliamentary-privilege
-    relationship: see-also
+    - id: what-is-parliament
+      relationship: prerequisite
+    - id: the-monarchy
+      relationship: see-also
+    - id: democratic-safeguards
+      relationship: see-also
+    - id: parliamentary-privilege
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "The UK does not have its rules for running the country written down in one single document like many other countries -- instead, the rules come from many different places."
-    body: |
-      Most countries have a special book or document called a constitution that sets out the main rules for how the country is run. It says things like what the government can and cannot do, and what rights people have. The United States, for example, has a famous written constitution that starts with the words "We the People."
+    child:
+        summary: 'The UK does not have its rules for running the country written down in one single document like many other countries -- instead, the rules come from many different places.'
+        body: |
+            Most countries have a special book or document called a constitution that sets out the main rules for how the country is run. It says things like what the government can and cannot do, and what rights people have. The United States, for example, has a famous written constitution that starts with the words "We the People."
 
-      The United Kingdom is different. It does not have one single document that contains all the rules. Instead, the UK's constitution is made up of rules that come from many different places. Some rules are written down in laws passed by Parliament, called Acts of Parliament. Others are traditions that everyone has followed for so long that they have become accepted rules, even though they are not actual laws. These traditions are called conventions.
+            The United Kingdom is different. It does not have one single document that contains all the rules. Instead, the UK's constitution is made up of rules that come from many different places. Some rules are written down in laws passed by Parliament, called Acts of Parliament. Others are traditions that everyone has followed for so long that they have become accepted rules, even though they are not actual laws. These traditions are called conventions.
 
-      Some rules come from decisions made by judges over hundreds of years. This is called common law. And some rules come from very old powers that originally belonged to the King or Queen, called the royal prerogative. These powers are now mostly used by the Prime Minister and ministers.
+            Some rules come from decisions made by judges over hundreds of years. This is called common law. And some rules come from very old powers that originally belonged to the King or Queen, called the royal prerogative. These powers are now mostly used by the Prime Minister and ministers.
 
-      There are also important books written by experts that help explain how the constitution works. These are called authoritative works. People look to these books to understand what the rules mean, even though the books are not laws themselves.
+            There are also important books written by experts that help explain how the constitution works. These are called authoritative works. People look to these books to understand what the rules mean, even though the books are not laws themselves.
 
-      Because the UK's constitution is not all in one place, it is very flexible. Parliament can change the rules by passing a new law, without needing a special process. This makes it different from countries like the United States, where changing the constitution is very difficult and requires special votes. Some people think the UK's flexible system is a good thing because it can adapt easily. Others think it would be better to have everything written down in one place so everyone knows exactly what the rules are.
-    reading_age: 8
-  teenager:
-    summary: "The UK has an uncodified constitution drawn from multiple sources -- statute, convention, common law, prerogative powers, and authoritative works -- making it uniquely flexible but also less certain than codified constitutions."
-    body: |
-      Unlike most democratic countries, the United Kingdom does not have a single, written constitutional document. Instead, the UK has what is known as an uncodified constitution -- its constitutional rules and principles are drawn from a variety of sources and are not collected in one place. This makes the UK, along with Israel and New Zealand, one of a very small number of democracies without a codified constitution.
+            Because the UK's constitution is not all in one place, it is very flexible. Parliament can change the rules by passing a new law, without needing a special process. This makes it different from countries like the United States, where changing the constitution is very difficult and requires special votes. Some people think the UK's flexible system is a good thing because it can adapt easily. Others think it would be better to have everything written down in one place so everyone knows exactly what the rules are.
+        reading_age: 8
+    teenager:
+        summary: 'The UK has an uncodified constitution drawn from multiple sources -- statute, convention, common law, prerogative powers, and authoritative works -- making it uniquely flexible but also less certain than codified constitutions.'
+        body: |
+            Unlike most democratic countries, the United Kingdom does not have a single, written constitutional document. Instead, the UK has what is known as an uncodified constitution -- its constitutional rules and principles are drawn from a variety of sources and are not collected in one place. This makes the UK, along with Israel and New Zealand, one of a very small number of democracies without a codified constitution.
 
-      The first and most important source of the UK constitution is statute law -- Acts of Parliament. Key constitutional statutes include the Magna Carta (1215), the Bill of Rights (1689), the Parliament Acts (1911 and 1949), the Human Rights Act (1998), and the Constitutional Reform Act (2005). These Acts establish fundamental principles such as the rule of law, the sovereignty of Parliament, and the protection of individual rights. However, because the UK Parliament is sovereign, it can amend or repeal any of these Acts through the normal legislative process -- there is no special procedure for changing constitutional law.
+            The first and most important source of the UK constitution is statute law -- Acts of Parliament. Key constitutional statutes include the Magna Carta (1215), the Bill of Rights (1689), the Parliament Acts (1911 and 1949), the Human Rights Act (1998), and the Constitutional Reform Act (2005). These Acts establish fundamental principles such as the rule of law, the sovereignty of Parliament, and the protection of individual rights. However, because the UK Parliament is sovereign, it can amend or repeal any of these Acts through the normal legislative process -- there is no special procedure for changing constitutional law.
 
-      The second source is constitutional convention -- unwritten rules that are considered politically binding even though they are not legally enforceable. Conventions include the principle that the Monarch acts on ministerial advice, that the PM must command the confidence of the House of Commons, and that collective Cabinet responsibility requires all ministers to support agreed Government policy. Conventions are crucial because much of the UK's system of government operates through them rather than through law.
+            The second source is constitutional convention -- unwritten rules that are considered politically binding even though they are not legally enforceable. Conventions include the principle that the Monarch acts on ministerial advice, that the PM must command the confidence of the House of Commons, and that collective Cabinet responsibility requires all ministers to support agreed Government policy. Conventions are crucial because much of the UK's system of government operates through them rather than through law.
 
-      Common law, the third source, consists of legal principles developed by judges through their decisions over centuries. Important constitutional principles established through common law include the rule of law, the presumption that Parliament does not intend to remove fundamental rights without clear words, and aspects of the royal prerogative.
+            Common law, the third source, consists of legal principles developed by judges through their decisions over centuries. Important constitutional principles established through common law include the rule of law, the presumption that Parliament does not intend to remove fundamental rights without clear words, and aspects of the royal prerogative.
 
-      The royal prerogative -- the residual powers of the Crown, now exercised almost entirely by ministers -- is the fourth source. Prerogative powers include the power to declare war, conduct foreign policy, grant honours, and (since the repeal of the Fixed-term Parliaments Act) dissolve Parliament.
+            The royal prerogative -- the residual powers of the Crown, now exercised almost entirely by ministers -- is the fourth source. Prerogative powers include the power to declare war, conduct foreign policy, grant honours, and (since the repeal of the Fixed-term Parliaments Act) dissolve Parliament.
 
-      Finally, authoritative works by constitutional scholars serve as a guide to understanding the constitution. Walter Bagehot's "The English Constitution" (1867) and A.V. Dicey's "Introduction to the Study of the Law of the Constitution" (1885) remain influential, though their analyses have been updated by modern scholarship.
+            Finally, authoritative works by constitutional scholars serve as a guide to understanding the constitution. Walter Bagehot's "The English Constitution" (1867) and A.V. Dicey's "Introduction to the Study of the Law of the Constitution" (1885) remain influential, though their analyses have been updated by modern scholarship.
 
-      The flexibility of the UK constitution is both its greatest strength and its most significant criticism. Supporters argue it allows the system to evolve organically and respond to new challenges without the rigidity of a codified document. Critics contend that the lack of a single authoritative text creates uncertainty, makes it difficult for citizens to know their rights, and leaves important principles vulnerable to being changed by a simple parliamentary majority.
-    reading_age: 14
-  adult:
-    summary: "The UK's uncodified constitution derives from statute, convention, common law, royal prerogative, and authoritative works, embodying parliamentary sovereignty and constitutional flexibility while generating persistent debate about codification, entrenchment, and the protection of fundamental rights."
-    body: |
-      The United Kingdom possesses one of the most distinctive constitutional arrangements among modern democracies: an uncodified constitution that has evolved organically over centuries rather than being established at a single constitutional moment. While it is commonly described as "unwritten," this is misleading -- much of the constitution is written down, but it is dispersed across statutes, judicial decisions, conventions, prerogative powers, and scholarly works rather than consolidated in a single supreme legal document.
+            The flexibility of the UK constitution is both its greatest strength and its most significant criticism. Supporters argue it allows the system to evolve organically and respond to new challenges without the rigidity of a codified document. Critics contend that the lack of a single authoritative text creates uncertainty, makes it difficult for citizens to know their rights, and leaves important principles vulnerable to being changed by a simple parliamentary majority.
+        reading_age: 14
+    adult:
+        summary: "The UK's uncodified constitution derives from statute, convention, common law, royal prerogative, and authoritative works, embodying parliamentary sovereignty and constitutional flexibility while generating persistent debate about codification, entrenchment, and the protection of fundamental rights."
+        body: |
+            The United Kingdom possesses one of the most distinctive constitutional arrangements among modern democracies: an uncodified constitution that has evolved organically over centuries rather than being established at a single constitutional moment. While it is commonly described as "unwritten," this is misleading -- much of the constitution is written down, but it is dispersed across statutes, judicial decisions, conventions, prerogative powers, and scholarly works rather than consolidated in a single supreme legal document.
 
-      Statute law provides the constitution's most authoritative written elements. Constitutional statutes span from the Magna Carta (1215) -- which established the principle that the King was subject to law -- through the Bill of Rights (1689) -- which established parliamentary supremacy over the Crown after the Glorious Revolution -- to modern legislation including the European Communities Act (1972, repealed 2020), the Human Rights Act (1998), the Scotland Act (1998), the Government of Wales Act (1998), the Freedom of Information Act (2000), and the Constitutional Reform Act (2005). The question of whether certain statutes enjoy a special "constitutional" status that makes them harder to impliedly repeal was addressed by the Divisional Court in Thoburn v Sunderland City Council (2002), where Laws LJ identified a category of "constitutional statutes" that cannot be impliedly repealed but can be expressly repealed by Parliament.
+            Statute law provides the constitution's most authoritative written elements. Constitutional statutes span from the Magna Carta (1215) -- which established the principle that the King was subject to law -- through the Bill of Rights (1689) -- which established parliamentary supremacy over the Crown after the Glorious Revolution -- to modern legislation including the European Communities Act (1972, repealed 2020), the Human Rights Act (1998), the Scotland Act (1998), the Government of Wales Act (1998), the Freedom of Information Act (2000), and the Constitutional Reform Act (2005). The question of whether certain statutes enjoy a special "constitutional" status that makes them harder to impliedly repeal was addressed by the Divisional Court in Thoburn v Sunderland City Council (2002), where Laws LJ identified a category of "constitutional statutes" that cannot be impliedly repealed but can be expressly repealed by Parliament.
 
-      Constitutional conventions constitute the unwritten rules that regulate the exercise of legal powers. They are politically but not legally binding: breach of a convention may provoke a political crisis but not a legal remedy. The Supreme Court addressed this distinction in Miller/Cherry (2019), where the prorogation of Parliament was found to be justiciable, though the court framed its analysis in terms of legality and constitutional principle rather than convention per se. Key conventions include: the Monarch acts on ministerial advice; the PM commands the confidence of the Commons; collective Cabinet responsibility binds all ministers; the Salisbury convention restrains the Lords from rejecting manifesto commitments.
+            Constitutional conventions constitute the unwritten rules that regulate the exercise of legal powers. They are politically but not legally binding: breach of a convention may provoke a political crisis but not a legal remedy. The Supreme Court addressed this distinction in Miller/Cherry (2019), where the prorogation of Parliament was found to be justiciable, though the court framed its analysis in terms of legality and constitutional principle rather than convention per se. Key conventions include: the Monarch acts on ministerial advice; the PM commands the confidence of the Commons; collective Cabinet responsibility binds all ministers; the Salisbury convention restrains the Lords from rejecting manifesto commitments.
 
-      Common law contributes foundational constitutional principles through judicial development. The rule of law -- the principle that government power must be exercised lawfully, that everyone is equal before the law, and that fundamental rights are protected unless clearly overridden by statute -- is perhaps the most important common law constitutional principle, famously articulated by A.V. Dicey. The presumption of legality (that Parliament does not intend to override fundamental rights without express provision) and the principles of natural justice are also common law contributions to the constitutional order.
+            Common law contributes foundational constitutional principles through judicial development. The rule of law -- the principle that government power must be exercised lawfully, that everyone is equal before the law, and that fundamental rights are protected unless clearly overridden by statute -- is perhaps the most important common law constitutional principle, famously articulated by A.V. Dicey. The presumption of legality (that Parliament does not intend to override fundamental rights without express provision) and the principles of natural justice are also common law contributions to the constitutional order.
 
-      The royal prerogative -- the residual discretionary powers of the Crown -- provides the executive with authority in areas not covered by statute. The scope and limits of prerogative powers have been progressively defined by the courts, most notably in the Case of Proclamations (1611), the GCHQ case (Council of Civil Service Unions v Minister for the Civil Service, 1985), and the Miller cases (2017 and 2019). The general trend has been towards greater judicial review of prerogative powers, though some -- such as the conduct of foreign affairs and the deployment of armed forces -- remain largely non-justiciable.
+            The royal prerogative -- the residual discretionary powers of the Crown -- provides the executive with authority in areas not covered by statute. The scope and limits of prerogative powers have been progressively defined by the courts, most notably in the Case of Proclamations (1611), the GCHQ case (Council of Civil Service Unions v Minister for the Civil Service, 1985), and the Miller cases (2017 and 2019). The general trend has been towards greater judicial review of prerogative powers, though some -- such as the conduct of foreign affairs and the deployment of armed forces -- remain largely non-justiciable.
 
-      Authoritative works by scholars such as Bagehot, Dicey, Erskine May, and Jennings have historically served as guides to the constitution. While they have no legal force, they are frequently cited by courts, parliamentarians, and officials. Dicey's articulation of parliamentary sovereignty -- that Parliament has the right to make or unmake any law, and no body has the right to override or set aside parliamentary legislation -- remains the foundational doctrine, though it has been qualified by EU membership (now ended), the devolution settlements, the Human Rights Act, and judicial assertions of the rule of law.
+            Authoritative works by scholars such as Bagehot, Dicey, Erskine May, and Jennings have historically served as guides to the constitution. While they have no legal force, they are frequently cited by courts, parliamentarians, and officials. Dicey's articulation of parliamentary sovereignty -- that Parliament has the right to make or unmake any law, and no body has the right to override or set aside parliamentary legislation -- remains the foundational doctrine, though it has been qualified by EU membership (now ended), the devolution settlements, the Human Rights Act, and judicial assertions of the rule of law.
 
-      The debate over whether the UK should adopt a codified constitution has intensified in recent decades. Proponents -- including the Institute for Public Policy Research, Charter 88 (now Unlock Democracy), and various parliamentary committees -- argue that codification would provide greater clarity, protect fundamental rights from erosion by simple parliamentary majorities, and enhance public understanding of the constitutional framework. Opponents, including many parliamentarians and traditionalists, argue that the uncodified constitution's flexibility has served the UK well, enabling adaptation without the rigidity and political difficulty of formal amendment procedures. The Constitutional Reform Act 2005, which created the Supreme Court, reformed the office of Lord Chancellor, and established the Judicial Appointments Commission, represented significant constitutional change achieved without codification.
-    reading_age: 18
-  researcher:
-    summary: "A critical analysis of the UK's uncodified constitution, examining the interplay of its five sources, the doctrine of parliamentary sovereignty, the evolving judicial role in constitutional adjudication, and the ongoing debate over codification and entrenchment."
-    body: |
-      The UK constitution is a palimpsest: a layered accretion of statute, convention, common law, prerogative power, and authoritative commentary, shaped by centuries of political conflict, institutional evolution, and judicial interpretation. Its uncodified character -- shared in the democratic world only with Israel and New Zealand -- reflects a constitutional tradition that privileges continuity, flexibility, and parliamentary sovereignty over the certainties of a supreme constitutional text. As Anthony King observed in "The British Constitution" (2007), the UK does not have "a" constitution in the sense of a single authoritative document; rather, it has constitutional arrangements that are "indeterminate at the edges" and dependent on political practice as much as legal rules.
+            The debate over whether the UK should adopt a codified constitution has intensified in recent decades. Proponents -- including the Institute for Public Policy Research, Charter 88 (now Unlock Democracy), and various parliamentary committees -- argue that codification would provide greater clarity, protect fundamental rights from erosion by simple parliamentary majorities, and enhance public understanding of the constitutional framework. Opponents, including many parliamentarians and traditionalists, argue that the uncodified constitution's flexibility has served the UK well, enabling adaptation without the rigidity and political difficulty of formal amendment procedures. The Constitutional Reform Act 2005, which created the Supreme Court, reformed the office of Lord Chancellor, and established the Judicial Appointments Commission, represented significant constitutional change achieved without codification.
+        reading_age: 18
+    researcher:
+        summary: "A critical analysis of the UK's uncodified constitution, examining the interplay of its five sources, the doctrine of parliamentary sovereignty, the evolving judicial role in constitutional adjudication, and the ongoing debate over codification and entrenchment."
+        body: |
+            The UK constitution is a palimpsest: a layered accretion of statute, convention, common law, prerogative power, and authoritative commentary, shaped by centuries of political conflict, institutional evolution, and judicial interpretation. Its uncodified character -- shared in the democratic world only with Israel and New Zealand -- reflects a constitutional tradition that privileges continuity, flexibility, and parliamentary sovereignty over the certainties of a supreme constitutional text. As Anthony King observed in "The British Constitution" (2007), the UK does not have "a" constitution in the sense of a single authoritative document; rather, it has constitutional arrangements that are "indeterminate at the edges" and dependent on political practice as much as legal rules.
 
-      The doctrine of parliamentary sovereignty, as classically formulated by A.V. Dicey in "Introduction to the Study of the Law of the Constitution" (1885), holds three propositions: Parliament can make or unmake any law; no Parliament can bind its successors; and no body (including the courts) can question the validity of an Act of Parliament. This doctrine has been the constitution's foundational principle, but it has been subjected to sustained academic and judicial challenge. Sir Ivor Jennings, in "The Law and the Constitution" (1933), criticised Dicey's formulation as overly positivist, arguing that sovereignty was a legal concept that depended on political conditions. The "manner and form" thesis -- that Parliament can alter the procedures required for legislating, even if it cannot bind successors substantively -- has been debated extensively, with the Parliament Acts 1911 and 1949 (considered in Jackson v Attorney General, 2005) providing the most significant case study. In Jackson, Lord Steyn and Baroness Hale suggested obiter that parliamentary sovereignty might not be absolute, raising the possibility that the courts might refuse to enforce legislation that sought to abolish fundamental constitutional rights -- a position that remains controversial.
+            The doctrine of parliamentary sovereignty, as classically formulated by A.V. Dicey in "Introduction to the Study of the Law of the Constitution" (1885), holds three propositions: Parliament can make or unmake any law; no Parliament can bind its successors; and no body (including the courts) can question the validity of an Act of Parliament. This doctrine has been the constitution's foundational principle, but it has been subjected to sustained academic and judicial challenge. Sir Ivor Jennings, in "The Law and the Constitution" (1933), criticised Dicey's formulation as overly positivist, arguing that sovereignty was a legal concept that depended on political conditions. The "manner and form" thesis -- that Parliament can alter the procedures required for legislating, even if it cannot bind successors substantively -- has been debated extensively, with the Parliament Acts 1911 and 1949 (considered in Jackson v Attorney General, 2005) providing the most significant case study. In Jackson, Lord Steyn and Baroness Hale suggested obiter that parliamentary sovereignty might not be absolute, raising the possibility that the courts might refuse to enforce legislation that sought to abolish fundamental constitutional rights -- a position that remains controversial.
 
-      The relationship between statute law and constitutional convention is one of the most complex features of the UK constitution. Conventions regulate the exercise of legal powers but are not enforceable by the courts, creating a dual constitutional order in which political rules operate alongside legal rules. The Supreme Court's judgment in Miller v Secretary of State for Exiting the European Union (2017) affirmed that the Sewel Convention (that the UK Parliament will not normally legislate on devolved matters without consent) was a convention, not a legal rule, and therefore could not be judicially enforced -- even though it had been recognised in statute (the Scotland Act 2016). This distinction was further tested in R (Miller) v The Prime Minister (2019), where the Supreme Court found the prorogation of Parliament to be justiciable, holding that it was unlawful because it had the effect of frustrating Parliament's ability to carry out its constitutional functions. The prorogation case expanded the boundaries of judicial review into territory previously considered political, raising fundamental questions about the role of the courts in constitutional adjudication.
+            The relationship between statute law and constitutional convention is one of the most complex features of the UK constitution. Conventions regulate the exercise of legal powers but are not enforceable by the courts, creating a dual constitutional order in which political rules operate alongside legal rules. The Supreme Court's judgment in Miller v Secretary of State for Exiting the European Union (2017) affirmed that the Sewel Convention (that the UK Parliament will not normally legislate on devolved matters without consent) was a convention, not a legal rule, and therefore could not be judicially enforced -- even though it had been recognised in statute (the Scotland Act 2016). This distinction was further tested in R (Miller) v The Prime Minister (2019), where the Supreme Court found the prorogation of Parliament to be justiciable, holding that it was unlawful because it had the effect of frustrating Parliament's ability to carry out its constitutional functions. The prorogation case expanded the boundaries of judicial review into territory previously considered political, raising fundamental questions about the role of the courts in constitutional adjudication.
 
-      Common law constitutionalism -- the theory that the common law recognises fundamental constitutional principles that constrain even Parliament -- has gained intellectual traction through the work of scholars such as Sir John Laws ("Law and Democracy," 1995), T.R.S. Allan ("Constitutional Justice," 2001), and Lord Steyn. The principle of legality, as articulated by Lord Hoffmann in R v Secretary of State for the Home Department, ex parte Simms (2000), holds that Parliament is presumed not to intend to override fundamental rights unless it does so in express terms. This interpretive principle operates as a de facto constraint on parliamentary sovereignty, creating a hierarchy of norms without formally challenging the doctrine of supremacy. The tension between parliamentary sovereignty and the rule of law -- whether they are complementary (as Dicey believed) or potentially in conflict (as suggested by Lord Steyn in Jackson and by Lord Reed in the context of access to justice in UNISON v Lord Chancellor, 2017) -- remains one of the central questions of UK constitutional law.
+            Common law constitutionalism -- the theory that the common law recognises fundamental constitutional principles that constrain even Parliament -- has gained intellectual traction through the work of scholars such as Sir John Laws ("Law and Democracy," 1995), T.R.S. Allan ("Constitutional Justice," 2001), and Lord Steyn. The principle of legality, as articulated by Lord Hoffmann in R v Secretary of State for the Home Department, ex parte Simms (2000), holds that Parliament is presumed not to intend to override fundamental rights unless it does so in express terms. This interpretive principle operates as a de facto constraint on parliamentary sovereignty, creating a hierarchy of norms without formally challenging the doctrine of supremacy. The tension between parliamentary sovereignty and the rule of law -- whether they are complementary (as Dicey believed) or potentially in conflict (as suggested by Lord Steyn in Jackson and by Lord Reed in the context of access to justice in UNISON v Lord Chancellor, 2017) -- remains one of the central questions of UK constitutional law.
 
-      The royal prerogative has been progressively circumscribed by statute and judicial review. The Case of Proclamations (1611) established that the Crown cannot create new prerogative powers; the GCHQ case (1985) confirmed that prerogative powers are in principle subject to judicial review (though some, relating to national security and foreign affairs, may be non-justiciable); and Miller (2017) held that the prerogative cannot be used to frustrate the purpose of a statute. The Dissolution and Calling of Parliament Act 2022, which restored the dissolution prerogative, represents a rare modern instance of Parliament deliberately re-expanding prerogative power, raising novel questions about the interaction between statute and prerogative.
+            The royal prerogative has been progressively circumscribed by statute and judicial review. The Case of Proclamations (1611) established that the Crown cannot create new prerogative powers; the GCHQ case (1985) confirmed that prerogative powers are in principle subject to judicial review (though some, relating to national security and foreign affairs, may be non-justiciable); and Miller (2017) held that the prerogative cannot be used to frustrate the purpose of a statute. The Dissolution and Calling of Parliament Act 2022, which restored the dissolution prerogative, represents a rare modern instance of Parliament deliberately re-expanding prerogative power, raising novel questions about the interaction between statute and prerogative.
 
-      The debate over codification has produced a substantial literature. Vernon Bogdanor, in "The New British Constitution" (2009), argued that a series of major reforms -- devolution, the Human Rights Act, the Supreme Court, the Freedom of Information Act -- had already created a "new" constitution that was substantially different from Dicey's model, even without formal codification. The House of Lords Constitution Committee has conducted multiple inquiries into the process of constitutional change, concluding that ad hoc reform without an overarching constitutional framework risks incoherence. The Political and Constitutional Reform Committee of the House of Commons published a draft written constitution for the UK in 2015 as a discussion document, but no government has taken up the cause of comprehensive codification. The case for codification rests on clarity, accessibility, and the entrenchment of fundamental rights; the case against rests on the virtues of flexibility, the difficulty of achieving consensus on a constitutional text, and the argument that the common law and conventions have proved adaptable enough to protect constitutional values over time.
-    reading_age: null
-    sources:
-      - citation: "Dicey, A.V., Introduction to the Study of the Law of the Constitution, 1885 (10th ed., Macmillan, 1959)"
-        url: "https://archive.org/details/introductiontost0000dice"
-        type: secondary
-      - citation: "Bogdanor, Vernon, The New British Constitution, Hart Publishing, 2009"
-        url: "https://www.bloomsbury.com/uk/new-british-constitution-9781849460064/"
-        type: secondary
-      - citation: "King, Anthony, The British Constitution, Oxford University Press, 2007"
-        url: "https://global.oup.com/academic/product/the-british-constitution-9780199576456"
-        type: secondary
-      - citation: "R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5"
-        url: "https://www.supremecourt.uk/cases/uksc-2016-0196.html"
-        type: primary
-      - citation: "R (Miller) v The Prime Minister [2019] UKSC 41"
-        url: "https://www.supremecourt.uk/cases/uksc-2019-0192.html"
-        type: primary
-      - citation: "House of Lords Constitution Committee, The Process of Constitutional Change, HL Paper 177, 2010-12"
-        url: "https://publications.parliament.uk/pa/ld201012/ldselect/ldconst/177/177.pdf"
-        type: official
-      - citation: "Jennings, Sir Ivor, The Law and the Constitution, 5th ed., University of London Press, 1959"
-        url: "https://archive.org/details/lawconstitution0000jenn"
-        type: secondary
-      - citation: "Jackson v Attorney General [2005] UKHL 56"
-        url: "https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd051013/jack-1.htm"
-        type: primary
-      - citation: "Bagehot, Walter, The English Constitution, 1867 (Oxford World's Classics, 2001)"
-        url: "https://global.oup.com/academic/product/the-english-constitution-9780199538652"
-        type: secondary
-      - citation: "House of Commons Political and Constitutional Reform Committee, A New Magna Carta? A Written Constitution for the UK, HC 463, 2014-15"
-        url: "https://publications.parliament.uk/pa/cm201415/cmselect/cmpolcon/463/463.pdf"
-        type: official
+            The debate over codification has produced a substantial literature. Vernon Bogdanor, in "The New British Constitution" (2009), argued that a series of major reforms -- devolution, the Human Rights Act, the Supreme Court, the Freedom of Information Act -- had already created a "new" constitution that was substantially different from Dicey's model, even without formal codification. The House of Lords Constitution Committee has conducted multiple inquiries into the process of constitutional change, concluding that ad hoc reform without an overarching constitutional framework risks incoherence. The Political and Constitutional Reform Committee of the House of Commons published a draft written constitution for the UK in 2015 as a discussion document, but no government has taken up the cause of comprehensive codification. The case for codification rests on clarity, accessibility, and the entrenchment of fundamental rights; the case against rests on the virtues of flexibility, the difficulty of achieving consensus on a constitutional text, and the argument that the common law and conventions have proved adaptable enough to protect constitutional values over time.
+        reading_age: null
+        sources:
+            - citation: 'Dicey, A.V., Introduction to the Study of the Law of the Constitution, 1885 (10th ed., Macmillan, 1959)'
+              url: 'https://archive.org/details/introductiontost0000dice'
+              type: secondary
+            - citation: 'Bogdanor, Vernon, The New British Constitution, Hart Publishing, 2009'
+              url: 'https://www.bloomsbury.com/uk/new-british-constitution-9781849460064/'
+              type: secondary
+            - citation: 'King, Anthony, The British Constitution, Oxford University Press, 2007'
+              url: 'https://global.oup.com/academic/product/the-british-constitution-9780199576456'
+              type: secondary
+            - citation: 'R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5'
+              url: 'https://www.supremecourt.uk/cases/uksc-2016-0196.html'
+              type: primary
+            - citation: 'R (Miller) v The Prime Minister [2019] UKSC 41'
+              url: 'https://www.supremecourt.uk/cases/uksc-2019-0192.html'
+              type: primary
+            - citation: 'House of Lords Constitution Committee, The Process of Constitutional Change, HL Paper 177, 2010-12'
+              url: 'https://publications.parliament.uk/pa/ld201012/ldselect/ldconst/177/177.pdf'
+              type: official
+            - citation: 'Jennings, Sir Ivor, The Law and the Constitution, 5th ed., University of London Press, 1959'
+              url: 'https://archive.org/details/lawconstitution0000jenn'
+              type: secondary
+            - citation: 'Jackson v Attorney General [2005] UKHL 56'
+              url: 'https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd051013/jack-1.htm'
+              type: primary
+            - citation: "Bagehot, Walter, The English Constitution, 1867 (Oxford World's Classics, 2001)"
+              url: 'https://global.oup.com/academic/product/the-english-constitution-9780199538652'
+              type: secondary
+            - citation: 'House of Commons Political and Constitutional Reform Committee, A New Magna Carta? A Written Constitution for the UK, HC 463, 2014-15'
+              url: 'https://publications.parliament.uk/pa/cm201415/cmselect/cmpolcon/463/463.pdf'
+              type: official
 
 glossary:
-  - term: "Uncodified Constitution"
-    definition_simple: "A set of rules for running a country that are not written down in one single document but come from many different places like laws, traditions, and court decisions."
-    definition_full: "A constitutional order in which the fundamental rules and principles governing the state are not consolidated in a single authoritative document but are derived from multiple sources including statute law, constitutional conventions, common law, royal prerogative, and authoritative works. The UK, Israel, and New Zealand are the principal examples among modern democracies."
-  - term: "Constitutional Convention"
-    definition_simple: "An unwritten rule about how the government should behave that everyone agrees to follow, even though it is not an actual law."
-    definition_full: "A non-legal rule of constitutional practice that is regarded as binding by those to whom it applies, but which is not enforceable by the courts. Conventions regulate the exercise of legal powers; their breach provokes political rather than legal consequences. Key examples include the Monarch acting on ministerial advice, collective Cabinet responsibility, and the Sewel Convention on devolution."
-  - term: "Common Law"
-    definition_simple: "Rules and principles that have been developed by judges through their decisions over hundreds of years, rather than being written down in Acts of Parliament."
-    definition_full: "The body of law developed by the courts through judicial decisions, as distinct from statute law enacted by Parliament. In constitutional terms, common law has established principles including the rule of law, the presumption of legality, natural justice, and aspects of the royal prerogative. Common law constitutional principles serve as interpretive guides and, through the principle of legality, as de facto constraints on legislative power."
-  - term: "Statute Law"
-    definition_simple: "Laws that have been officially made by Parliament, also called Acts of Parliament."
-    definition_full: "Law enacted by Parliament through Acts (primary legislation) or by ministers under powers delegated by Parliament (secondary legislation). Statute law is the supreme source of the UK constitution, as parliamentary sovereignty means that an Act of Parliament can override any other source of law. Constitutional statutes -- such as the Bill of Rights 1689, the Parliament Acts, and the Human Rights Act 1998 -- establish fundamental principles but are not formally entrenched."
-  - term: "Royal Prerogative"
-    definition_simple: "Special powers that originally belonged to the King or Queen but are now mostly used by the Prime Minister and ministers on their behalf."
-    definition_full: "The residue of discretionary powers legally vested in the Crown, exercised almost entirely on the advice of ministers. Prerogative powers include the conduct of foreign affairs, the deployment of armed forces, the granting of honours, and (following the Dissolution and Calling of Parliament Act 2022) the dissolution of Parliament. The scope of the prerogative has been progressively limited by statute and judicial review."
-  - term: "Constitutional Reform"
-    definition_simple: "Changes made to the rules about how the country is governed, like creating a new court or changing how the government works."
-    definition_full: "The process of altering the UK's constitutional arrangements through legislation, institutional change, or evolving conventions. Major recent reforms include devolution (1998-), the Human Rights Act 1998, the creation of the Supreme Court (Constitutional Reform Act 2005), and the reform of the House of Lords. The UK's uncodified constitution allows reform through ordinary legislation, without the special amendment procedures required in codified systems."
-  - term: "Authoritative Works"
-    definition_simple: "Important books written by experts that help explain how the UK constitution works, even though the books are not laws themselves."
-    definition_full: "Scholarly works on constitutional law and practice that serve as guides to the understanding and interpretation of the UK constitution. While they have no legal force, they are cited by courts, parliamentarians, and officials. Key works include Bagehot's 'The English Constitution' (1867), Dicey's 'Introduction to the Study of the Law of the Constitution' (1885), Jennings' 'The Law and the Constitution' (1933), and Erskine May's 'Parliamentary Practice.'"
+    - term: 'Uncodified Constitution'
+      definition_simple: 'A set of rules for running a country that are not written down in one single document but come from many different places like laws, traditions, and court decisions.'
+      definition_full: 'A constitutional order in which the fundamental rules and principles governing the state are not consolidated in a single authoritative document but are derived from multiple sources including statute law, constitutional conventions, common law, royal prerogative, and authoritative works. The UK, Israel, and New Zealand are the principal examples among modern democracies.'
+    - term: 'Constitutional Convention'
+      definition_simple: 'An unwritten rule about how the government should behave that everyone agrees to follow, even though it is not an actual law.'
+      definition_full: 'A non-legal rule of constitutional practice that is regarded as binding by those to whom it applies, but which is not enforceable by the courts. Conventions regulate the exercise of legal powers; their breach provokes political rather than legal consequences. Key examples include the Monarch acting on ministerial advice, collective Cabinet responsibility, and the Sewel Convention on devolution.'
+    - term: 'Common Law'
+      definition_simple: 'Rules and principles that have been developed by judges through their decisions over hundreds of years, rather than being written down in Acts of Parliament.'
+      definition_full: 'The body of law developed by the courts through judicial decisions, as distinct from statute law enacted by Parliament. In constitutional terms, common law has established principles including the rule of law, the presumption of legality, natural justice, and aspects of the royal prerogative. Common law constitutional principles serve as interpretive guides and, through the principle of legality, as de facto constraints on legislative power.'
+    - term: 'Statute Law'
+      definition_simple: 'Laws that have been officially made by Parliament, also called Acts of Parliament.'
+      definition_full: 'Law enacted by Parliament through Acts (primary legislation) or by ministers under powers delegated by Parliament (secondary legislation). Statute law is the supreme source of the UK constitution, as parliamentary sovereignty means that an Act of Parliament can override any other source of law. Constitutional statutes -- such as the Bill of Rights 1689, the Parliament Acts, and the Human Rights Act 1998 -- establish fundamental principles but are not formally entrenched.'
+    - term: 'Royal Prerogative'
+      definition_simple: 'Special powers that originally belonged to the King or Queen but are now mostly used by the Prime Minister and ministers on their behalf.'
+      definition_full: 'The residue of discretionary powers legally vested in the Crown, exercised almost entirely on the advice of ministers. Prerogative powers include the conduct of foreign affairs, the deployment of armed forces, the granting of honours, and (following the Dissolution and Calling of Parliament Act 2022) the dissolution of Parliament. The scope of the prerogative has been progressively limited by statute and judicial review.'
+    - term: 'Constitutional Reform'
+      definition_simple: 'Changes made to the rules about how the country is governed, like creating a new court or changing how the government works.'
+      definition_full: "The process of altering the UK's constitutional arrangements through legislation, institutional change, or evolving conventions. Major recent reforms include devolution (1998-), the Human Rights Act 1998, the creation of the Supreme Court (Constitutional Reform Act 2005), and the reform of the House of Lords. The UK's uncodified constitution allows reform through ordinary legislation, without the special amendment procedures required in codified systems."
+    - term: 'Authoritative Works'
+      definition_simple: 'Important books written by experts that help explain how the UK constitution works, even though the books are not laws themselves.'
+      definition_full: "Scholarly works on constitutional law and practice that serve as guides to the understanding and interpretation of the UK constitution. While they have no legal force, they are cited by courts, parliamentarians, and officials. Key works include Bagehot's 'The English Constitution' (1867), Dicey's 'Introduction to the Study of the Law of the Constitution' (1885), Jennings' 'The Law and the Constitution' (1933), and Erskine May's 'Parliamentary Practice.'"
 
 did_you_know:
-  - fact: "The UK is one of only three democracies in the world that does not have a single written constitution -- the others are Israel and New Zealand!"
-    level: [child, teenager]
-  - fact: "The Magna Carta, sealed in 1215, is over 800 years old and is one of the earliest documents in the UK's constitutional history. Only four original copies survive."
-    level: [child, teenager, adult]
-  - fact: "The UK constitution can be changed by a simple Act of Parliament -- unlike the US Constitution, which requires approval by two-thirds of Congress and three-quarters of state legislatures."
-    level: [teenager, adult]
-  - fact: "In the 2019 prorogation case, the Supreme Court ruled unanimously that Boris Johnson's advice to the Queen to prorogue Parliament was unlawful -- the first time the courts had ever struck down a prorogation."
-    level: [teenager, adult, researcher]
-  - fact: "A.V. Dicey, whose work on parliamentary sovereignty published in 1885 remains foundational, was also a fierce opponent of Irish Home Rule and women's suffrage, illustrating how constitutional scholarship is shaped by its political context."
-    level: [adult, researcher]
+    - fact: 'The UK is one of only three democracies in the world that does not have a single written constitution -- the others are Israel and New Zealand!'
+      level: [child, teenager]
+    - fact: "The Magna Carta, sealed in 1215, is over 800 years old and is one of the earliest documents in the UK's constitutional history. Only four original copies survive."
+      level: [child, teenager, adult]
+    - fact: 'The UK constitution can be changed by a simple Act of Parliament -- unlike the US Constitution, which requires approval by two-thirds of Congress and three-quarters of state legislatures.'
+      level: [teenager, adult]
+    - fact: "In the 2019 prorogation case, the Supreme Court ruled unanimously that Boris Johnson's advice to the Queen to prorogue Parliament was unlawful -- the first time the courts had ever struck down a prorogation."
+      level: [teenager, adult, researcher]
+    - fact: "A.V. Dicey, whose work on parliamentary sovereignty published in 1885 remains foundational, was also a fierce opponent of Irish Home Rule and women's suffrage, illustrating how constitutional scholarship is shaped by its political context."
+      level: [adult, researcher]
 
 key_dates:
-  - year: 1215
-    event: "Magna Carta sealed at Runnymede"
-    significance: "Established the principle that the King was subject to law and could not levy taxes without the consent of his barons. Though most of its provisions have been repealed, it remains a foundational symbol of constitutional government and the rule of law."
-    levels: [child, teenager, adult, researcher]
-  - year: 1689
-    event: "Bill of Rights enacted"
-    significance: "Established parliamentary supremacy over the Crown following the Glorious Revolution, guaranteeing free speech in Parliament, prohibiting the Crown from suspending laws without parliamentary consent, and setting the constitutional foundation for modern parliamentary democracy."
-    levels: [teenager, adult, researcher]
-  - year: 1885
-    event: "Dicey publishes Introduction to the Study of the Law of the Constitution"
-    significance: "Articulated the doctrines of parliamentary sovereignty and the rule of law that have shaped constitutional understanding for over a century, establishing the analytical framework within which the UK constitution is still debated."
-    levels: [adult, researcher]
-  - year: 1998
-    event: "Human Rights Act passed"
-    significance: "Incorporated the European Convention on Human Rights into UK domestic law, enabling individuals to enforce Convention rights in UK courts and requiring courts to interpret legislation compatibly with Convention rights where possible."
-    levels: [teenager, adult, researcher]
-  - year: 2005
-    event: "Constitutional Reform Act passed"
-    significance: "Created the Supreme Court as a separate institution from the House of Lords, reformed the office of Lord Chancellor, and established the Judicial Appointments Commission, representing the most significant structural constitutional reform in a generation."
-    levels: [teenager, adult, researcher]
+    - year: 1215
+      event: 'Magna Carta sealed at Runnymede'
+      significance: 'Established the principle that the King was subject to law and could not levy taxes without the consent of his barons. Though most of its provisions have been repealed, it remains a foundational symbol of constitutional government and the rule of law.'
+      levels: [child, teenager, adult, researcher]
+    - year: 1689
+      event: 'Bill of Rights enacted'
+      significance: 'Established parliamentary supremacy over the Crown following the Glorious Revolution, guaranteeing free speech in Parliament, prohibiting the Crown from suspending laws without parliamentary consent, and setting the constitutional foundation for modern parliamentary democracy.'
+      levels: [teenager, adult, researcher]
+    - year: 1885
+      event: 'Dicey publishes Introduction to the Study of the Law of the Constitution'
+      significance: 'Articulated the doctrines of parliamentary sovereignty and the rule of law that have shaped constitutional understanding for over a century, establishing the analytical framework within which the UK constitution is still debated.'
+      levels: [adult, researcher]
+    - year: 1998
+      event: 'Human Rights Act passed'
+      significance: 'Incorporated the European Convention on Human Rights into UK domestic law, enabling individuals to enforce Convention rights in UK courts and requiring courts to interpret legislation compatibly with Convention rights where possible.'
+      levels: [teenager, adult, researcher]
+    - year: 2005
+      event: 'Constitutional Reform Act passed'
+      significance: 'Created the Supreme Court as a separate institution from the House of Lords, reformed the office of Lord Chancellor, and established the Judicial Appointments Commission, representing the most significant structural constitutional reform in a generation.'
+      levels: [teenager, adult, researcher]
 
 key_figures:
-  - name: "A.V. Dicey"
-    role: "Constitutional scholar (1835-1922)"
-    description: "Vinerian Professor of English Law at Oxford, whose 'Introduction to the Study of the Law of the Constitution' (1885) established the doctrines of parliamentary sovereignty and the rule of law as the twin pillars of the UK constitution. His framework remains foundational, though it has been extensively critiqued and qualified."
-    levels: [teenager, adult, researcher]
-  - name: "Walter Bagehot"
-    role: "Journalist and constitutional commentator (1826-1877)"
-    description: "Author of 'The English Constitution' (1867), which distinguished between the 'dignified' parts of the constitution (the Monarchy and the Lords) that command public reverence and the 'efficient' parts (the Cabinet and the Commons) that actually govern. His analysis remains widely cited."
-    levels: [adult, researcher]
-  - name: "Sir Ivor Jennings"
-    role: "Constitutional scholar (1903-1965)"
-    description: "Author of 'The Law and the Constitution' (1933), which challenged Dicey's positivist approach and developed a more nuanced understanding of conventions, sovereignty, and the relationship between law and politics in the constitution."
-    levels: [adult, researcher]
-  - name: "Vernon Bogdanor"
-    role: "Constitutional scholar and Professor of Government"
-    description: "One of the leading contemporary scholars of the British constitution, whose works including 'The New British Constitution' (2009) have analysed the transformation of the constitutional order through devolution, human rights legislation, and institutional reform."
-    levels: [researcher]
+    - name: 'A.V. Dicey'
+      role: 'Constitutional scholar (1835-1922)'
+      description: "Vinerian Professor of English Law at Oxford, whose 'Introduction to the Study of the Law of the Constitution' (1885) established the doctrines of parliamentary sovereignty and the rule of law as the twin pillars of the UK constitution. His framework remains foundational, though it has been extensively critiqued and qualified."
+      levels: [teenager, adult, researcher]
+    - name: 'Walter Bagehot'
+      role: 'Journalist and constitutional commentator (1826-1877)'
+      description: "Author of 'The English Constitution' (1867), which distinguished between the 'dignified' parts of the constitution (the Monarchy and the Lords) that command public reverence and the 'efficient' parts (the Cabinet and the Commons) that actually govern. His analysis remains widely cited."
+      levels: [adult, researcher]
+    - name: 'Sir Ivor Jennings'
+      role: 'Constitutional scholar (1903-1965)'
+      description: "Author of 'The Law and the Constitution' (1933), which challenged Dicey's positivist approach and developed a more nuanced understanding of conventions, sovereignty, and the relationship between law and politics in the constitution."
+      levels: [adult, researcher]
+    - name: 'Vernon Bogdanor'
+      role: 'Constitutional scholar and Professor of Government'
+      description: "One of the leading contemporary scholars of the British constitution, whose works including 'The New British Constitution' (2009) have analysed the transformation of the constitutional order through devolution, human rights legislation, and institutional reform."
+      levels: [researcher]
 
 video_links:
-  - title: "The Difference between the United Kingdom, Great Britain and England Explained"
-    url: "https://www.youtube.com/watch?v=rNu8XDBSn10"
-    source: "CGP Grey"
-    description: "An engaging animated explainer about how the UK is structured as a country of countries, providing essential context for understanding the UK's unique constitutional arrangements."
-    levels: [child, teenager]
-  - title: "What are the universal human rights? - Benedetta Berti"
-    url: "https://www.youtube.com/watch?v=nDgIVseTkuE"
-    source: "TED-Ed"
-    description: "A TED-Ed animated lesson explaining the history and principles of universal human rights, which form a key source of the UK's constitutional framework through the Human Rights Act."
-    levels: [teenager, adult]
-  - title: "Your human rights"
-    url: "https://www.youtube.com/watch?v=VO7oS8PqkJY"
-    source: "Equality and Human Rights Commission"
-    description: "An official video from the UK's Equality and Human Rights Commission explaining the rights protected under UK law, which form part of the constitutional framework."
-    levels: [teenager, adult]
+    - title: 'The Difference between the United Kingdom, Great Britain and England Explained'
+      url: 'https://www.youtube.com/watch?v=rNu8XDBSn10'
+      source: 'CGP Grey'
+      description: "An engaging animated explainer about how the UK is structured as a country of countries, providing essential context for understanding the UK's unique constitutional arrangements."
+      levels: [child, teenager]
+    - title: 'What are the universal human rights? - Benedetta Berti'
+      url: 'https://www.youtube.com/watch?v=nDgIVseTkuE'
+      source: 'TED-Ed'
+      description: "A TED-Ed animated lesson explaining the history and principles of universal human rights, which form a key source of the UK's constitutional framework through the Human Rights Act."
+      levels: [teenager, adult]
+    - title: 'Your human rights'
+      url: 'https://www.youtube.com/watch?v=VO7oS8PqkJY'
+      source: 'Equality and Human Rights Commission'
+      description: "An official video from the UK's Equality and Human Rights Commission explaining the rights protected under UK law, which form part of the constitutional framework."
+      levels: [teenager, adult]
 
 quizzes:
-  child:
-    - question: "Does the United Kingdom have one single document that sets out all the rules for running the country?"
-      type: multiple_choice
-      options:
-        - "Yes, it is called the British Constitution"
-        - "No, the rules come from many different places"
-        - "Yes, it is kept in the Tower of London"
-      correct_answer: "No, the rules come from many different places"
-      explanation: "The UK does not have a single written constitution. Instead, the rules come from laws passed by Parliament, traditions, court decisions, and other sources."
-    - question: "True or false: The Magna Carta was signed over 800 years ago."
-      type: true_false
-      correct_answer: "True"
-      explanation: "The Magna Carta was sealed in 1215, making it over 800 years old. It is one of the oldest and most famous documents in the history of the UK's constitution."
-    - question: "What is a convention?"
-      type: multiple_choice
-      options:
-        - "A big meeting where politicians give speeches"
-        - "A tradition or rule that everyone follows even though it is not a law"
-        - "A type of law passed by Parliament"
-      correct_answer: "A tradition or rule that everyone follows even though it is not a law"
-      explanation: "A constitutional convention is an unwritten rule that everyone agrees to follow. For example, the rule that the Monarch always follows the Prime Minister's advice is a convention, not a law."
-  teenager:
-    - question: "What are the five main sources of the UK constitution?"
-      type: short_answer
-      correct_answer: "Statute law (Acts of Parliament), constitutional conventions, common law, royal prerogative, and authoritative works."
-      explanation: "The UK constitution is drawn from these five sources rather than being contained in a single document. Each source contributes different types of rules and principles."
-    - question: "Why is the UK constitution described as 'uncodified' rather than 'unwritten'?"
-      type: multiple_choice
-      options:
-        - "Because it is written in code"
-        - "Because much of it is written down, but it is not collected in a single document"
-        - "Because it has never been translated from Latin"
-      correct_answer: "Because much of it is written down, but it is not collected in a single document"
-      explanation: "The term 'unwritten' is misleading because many constitutional rules are written down in Acts of Parliament, court judgments, and other documents. 'Uncodified' is more accurate because it means the rules have not been brought together in one single constitutional text."
-    - question: "True or false: Constitutional conventions can be enforced by the courts."
-      type: true_false
-      correct_answer: "False"
-      explanation: "Conventions are politically binding but not legally enforceable. The Supreme Court confirmed this in the Miller case (2017), ruling that the Sewel Convention could not be judicially enforced even though it had been recognised in statute."
-  adult:
-    - question: "What did Laws LJ establish in Thoburn v Sunderland City Council (2002) regarding constitutional statutes?"
-      type: short_answer
-      correct_answer: "Laws LJ identified a category of 'constitutional statutes' -- including the Magna Carta, the Bill of Rights 1689, and the European Communities Act 1972 -- that cannot be impliedly repealed by later legislation but can be expressly repealed by Parliament."
-      explanation: "This distinction introduced a hierarchy within statute law, recognising that certain statutes have a special constitutional status that protects them from inadvertent repeal while preserving parliamentary sovereignty to repeal them expressly."
-    - question: "How does the principle of legality operate as a de facto constraint on parliamentary sovereignty?"
-      type: short_answer
-      correct_answer: "The principle of legality, as articulated by Lord Hoffmann in ex parte Simms (2000), holds that Parliament is presumed not to intend to override fundamental rights unless it does so in express and unambiguous terms. This creates an interpretive presumption that constrains the practical effect of legislation without formally challenging parliamentary sovereignty."
-      explanation: "The principle operates through statutory interpretation rather than judicial review of legislation. Courts will read statutes as compatible with fundamental rights unless Parliament has clearly and expressly provided otherwise, creating a practical protection for rights within the framework of parliamentary sovereignty."
-    - question: "What are the main arguments for and against codifying the UK constitution?"
-      type: multiple_choice
-      options:
-        - "For: greater clarity, rights protection, accessibility. Against: loss of flexibility, difficulty of consensus, adequacy of existing arrangements"
-        - "For: it would make the UK more like France. Against: it would make the UK less like France"
-        - "For: it would reduce the power of the courts. Against: it would increase the power of the courts"
-      correct_answer: "For: greater clarity, rights protection, accessibility. Against: loss of flexibility, difficulty of consensus, adequacy of existing arrangements"
-      explanation: "The codification debate balances the values of clarity, entrenchment, and public understanding against the virtues of constitutional flexibility, the difficulty of achieving political consensus on a constitutional text, and the argument that the existing uncodified arrangements have proved adaptable and resilient."
-  researcher:
-    - question: "Critically evaluate the extent to which the doctrine of parliamentary sovereignty, as formulated by Dicey, accurately describes the contemporary UK constitutional order."
-      type: essay
-      correct_answer: "Dicey's formulation faces multiple challenges: EU membership (now ended but precedent-setting) demonstrated that Parliament could bind itself to external legal orders; the devolution settlements have created politically entrenched sub-national legislatures; the Human Rights Act requires courts to interpret legislation compatibly with Convention rights; and judicial dicta in Jackson suggested that sovereignty might not be absolute. However, Parliament retains the formal legal power to repeal any statute, and the UK's exit from the EU affirmed the practical reality of parliamentary sovereignty. The doctrine remains the foundational principle but operates in a constitutional landscape significantly more complex than Dicey envisaged."
-      explanation: "The essay should engage with Dicey's original formulation, Jennings' critique, the impact of EU membership and withdrawal, the devolution settlements, the Human Rights Act, Jackson v Attorney General, and contemporary scholarly debate (Bogdanor, King, Allan) to assess whether Dicey's theory remains descriptively accurate."
-    - question: "Analyse the significance of the Miller/Cherry prorogation case (2019) for the relationship between the courts, the executive, and the royal prerogative in the UK constitution."
-      type: essay
-      correct_answer: "Miller/Cherry expanded judicial review into the previously non-justiciable area of prorogation, holding that the PM's advice to the Queen was unlawful because it frustrated Parliament's constitutional role. The judgment raised fundamental questions about the proper role of the courts in policing constitutional boundaries, the scope of the prerogative, and the balance between legal and political accountability. Critics argued the court entered political territory; supporters contended it upheld the rule of law against executive overreach."
-      explanation: "The analysis should consider the legal reasoning (the principle that prorogation cannot be used to frustrate Parliament's ability to perform its constitutional functions), the distinction between legality and convention, the implications for the scope of judicial review, and the broader constitutional context of the Brexit crisis."
+    child:
+        - question: 'Does the United Kingdom have one single document that sets out all the rules for running the country?'
+          type: multiple_choice
+          options:
+              - 'Yes, it is called the British Constitution'
+              - 'No, the rules come from many different places'
+              - 'Yes, it is kept in the Tower of London'
+          correct_answer: 'No, the rules come from many different places'
+          explanation: 'The UK does not have a single written constitution. Instead, the rules come from laws passed by Parliament, traditions, court decisions, and other sources.'
+        - question: 'True or false: The Magna Carta was signed over 800 years ago.'
+          type: true_false
+          correct_answer: 'True'
+          explanation: "The Magna Carta was sealed in 1215, making it over 800 years old. It is one of the oldest and most famous documents in the history of the UK's constitution."
+        - question: 'What is a convention?'
+          type: multiple_choice
+          options:
+              - 'A big meeting where politicians give speeches'
+              - 'A tradition or rule that everyone follows even though it is not a law'
+              - 'A type of law passed by Parliament'
+          correct_answer: 'A tradition or rule that everyone follows even though it is not a law'
+          explanation: "A constitutional convention is an unwritten rule that everyone agrees to follow. For example, the rule that the Monarch always follows the Prime Minister's advice is a convention, not a law."
+    teenager:
+        - question: 'What are the five main sources of the UK constitution?'
+          type: short_answer
+          correct_answer: 'Statute law (Acts of Parliament), constitutional conventions, common law, royal prerogative, and authoritative works.'
+          explanation: 'The UK constitution is drawn from these five sources rather than being contained in a single document. Each source contributes different types of rules and principles.'
+        - question: "Why is the UK constitution described as 'uncodified' rather than 'unwritten'?"
+          type: multiple_choice
+          options:
+              - 'Because it is written in code'
+              - 'Because much of it is written down, but it is not collected in a single document'
+              - 'Because it has never been translated from Latin'
+          correct_answer: 'Because much of it is written down, but it is not collected in a single document'
+          explanation: "The term 'unwritten' is misleading because many constitutional rules are written down in Acts of Parliament, court judgments, and other documents. 'Uncodified' is more accurate because it means the rules have not been brought together in one single constitutional text."
+        - question: 'True or false: Constitutional conventions can be enforced by the courts.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'Conventions are politically binding but not legally enforceable. The Supreme Court confirmed this in the Miller case (2017), ruling that the Sewel Convention could not be judicially enforced even though it had been recognised in statute.'
+    adult:
+        - question: 'What did Laws LJ establish in Thoburn v Sunderland City Council (2002) regarding constitutional statutes?'
+          type: short_answer
+          correct_answer: "Laws LJ identified a category of 'constitutional statutes' -- including the Magna Carta, the Bill of Rights 1689, and the European Communities Act 1972 -- that cannot be impliedly repealed by later legislation but can be expressly repealed by Parliament."
+          explanation: 'This distinction introduced a hierarchy within statute law, recognising that certain statutes have a special constitutional status that protects them from inadvertent repeal while preserving parliamentary sovereignty to repeal them expressly.'
+        - question: 'How does the principle of legality operate as a de facto constraint on parliamentary sovereignty?'
+          type: short_answer
+          correct_answer: 'The principle of legality, as articulated by Lord Hoffmann in ex parte Simms (2000), holds that Parliament is presumed not to intend to override fundamental rights unless it does so in express and unambiguous terms. This creates an interpretive presumption that constrains the practical effect of legislation without formally challenging parliamentary sovereignty.'
+          explanation: 'The principle operates through statutory interpretation rather than judicial review of legislation. Courts will read statutes as compatible with fundamental rights unless Parliament has clearly and expressly provided otherwise, creating a practical protection for rights within the framework of parliamentary sovereignty.'
+        - question: 'What are the main arguments for and against codifying the UK constitution?'
+          type: multiple_choice
+          options:
+              - 'For: greater clarity, rights protection, accessibility. Against: loss of flexibility, difficulty of consensus, adequacy of existing arrangements'
+              - 'For: it would make the UK more like France. Against: it would make the UK less like France'
+              - 'For: it would reduce the power of the courts. Against: it would increase the power of the courts'
+          correct_answer: 'For: greater clarity, rights protection, accessibility. Against: loss of flexibility, difficulty of consensus, adequacy of existing arrangements'
+          explanation: 'The codification debate balances the values of clarity, entrenchment, and public understanding against the virtues of constitutional flexibility, the difficulty of achieving political consensus on a constitutional text, and the argument that the existing uncodified arrangements have proved adaptable and resilient.'
+    researcher:
+        - question: 'Critically evaluate the extent to which the doctrine of parliamentary sovereignty, as formulated by Dicey, accurately describes the contemporary UK constitutional order.'
+          type: essay
+          correct_answer: "Dicey's formulation faces multiple challenges: EU membership (now ended but precedent-setting) demonstrated that Parliament could bind itself to external legal orders; the devolution settlements have created politically entrenched sub-national legislatures; the Human Rights Act requires courts to interpret legislation compatibly with Convention rights; and judicial dicta in Jackson suggested that sovereignty might not be absolute. However, Parliament retains the formal legal power to repeal any statute, and the UK's exit from the EU affirmed the practical reality of parliamentary sovereignty. The doctrine remains the foundational principle but operates in a constitutional landscape significantly more complex than Dicey envisaged."
+          explanation: "The essay should engage with Dicey's original formulation, Jennings' critique, the impact of EU membership and withdrawal, the devolution settlements, the Human Rights Act, Jackson v Attorney General, and contemporary scholarly debate (Bogdanor, King, Allan) to assess whether Dicey's theory remains descriptively accurate."
+        - question: 'Analyse the significance of the Miller/Cherry prorogation case (2019) for the relationship between the courts, the executive, and the royal prerogative in the UK constitution.'
+          type: essay
+          correct_answer: "Miller/Cherry expanded judicial review into the previously non-justiciable area of prorogation, holding that the PM's advice to the Queen was unlawful because it frustrated Parliament's constitutional role. The judgment raised fundamental questions about the proper role of the courts in policing constitutional boundaries, the scope of the prerogative, and the balance between legal and political accountability. Critics argued the court entered political territory; supporters contended it upheld the rule of law against executive overreach."
+          explanation: "The analysis should consider the legal reasoning (the principle that prorogation cannot be used to frustrate Parliament's ability to perform its constitutional functions), the distinction between legality and convention, the implications for the scope of judicial review, and the broader constitutional context of the Brexit crisis."

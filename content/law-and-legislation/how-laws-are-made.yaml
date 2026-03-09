@@ -1,447 +1,447 @@
 id: how-laws-are-made
-title: "How Laws Are Made"
+title: 'How Laws Are Made'
 slug: how-laws-are-made
 
 metadata:
-  category: law-and-legislation
-  tags:
-    - legislation
-    - bills
-    - acts of parliament
-    - lawmaking
-    - royal assent
-    - parliamentary procedure
-    - delegated legislation
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: law-and-legislation
+    tags:
+        - legislation
+        - bills
+        - acts of parliament
+        - lawmaking
+        - royal assent
+        - parliamentary procedure
+        - delegated legislation
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: what-is-parliament
-    relationship: prerequisite
-  - id: house-of-commons
-    relationship: see-also
-  - id: house-of-lords
-    relationship: see-also
-  - id: the-monarchy
-    relationship: see-also
-  - id: delegated-legislation
-    relationship: subtopic
-  - id: financial-scrutiny
-    relationship: see-also
-  - id: parliamentary-voting
-    relationship: see-also
+    - id: what-is-parliament
+      relationship: prerequisite
+    - id: house-of-commons
+      relationship: see-also
+    - id: house-of-lords
+      relationship: see-also
+    - id: the-monarchy
+      relationship: see-also
+    - id: delegated-legislation
+      relationship: subtopic
+    - id: financial-scrutiny
+      relationship: see-also
+    - id: parliamentary-voting
+      relationship: see-also
 
 explanations:
-  child:
-    reading_age: 8
-    summary: "An idea goes through several steps in Parliament before it can become a law that everyone must follow."
-    body: |
-      Have you ever wondered how the rules that everyone in the country follows are made? These rules are called laws, and they are made in a place called Parliament.
+    child:
+        reading_age: 8
+        summary: 'An idea goes through several steps in Parliament before it can become a law that everyone must follow.'
+        body: |
+            Have you ever wondered how the rules that everyone in the country follows are made? These rules are called laws, and they are made in a place called Parliament.
 
-      When someone has an idea for a new law, it is written down in a document called a Bill. Think of a Bill like a rough draft of a new rule.
+            When someone has an idea for a new law, it is written down in a document called a Bill. Think of a Bill like a rough draft of a new rule.
 
-      The Bill then goes on a journey through Parliament. Parliament has two main parts: the House of Commons and the House of Lords. The Bill must be approved by both of them before it can become a law.
+            The Bill then goes on a journey through Parliament. Parliament has two main parts: the House of Commons and the House of Lords. The Bill must be approved by both of them before it can become a law.
 
-      Here is what happens step by step:
+            Here is what happens step by step:
 
-      1. The Bill is introduced. Its name is read out, but nobody discusses it yet. This is called the First Reading.
-      2. Then comes the Second Reading, where MPs or Lords talk about whether the idea behind the Bill is a good one. They debate it and then vote.
-      3. Next is the Committee Stage. A smaller group of MPs looks at the Bill very carefully, line by line, and suggests changes.
-      4. At the Report Stage, the whole House looks at the changes the committee suggested.
-      5. Finally, at the Third Reading, everyone gets one last chance to discuss the Bill and vote on it.
+            1. The Bill is introduced. Its name is read out, but nobody discusses it yet. This is called the First Reading.
+            2. Then comes the Second Reading, where MPs or Lords talk about whether the idea behind the Bill is a good one. They debate it and then vote.
+            3. Next is the Committee Stage. A smaller group of MPs looks at the Bill very carefully, line by line, and suggests changes.
+            4. At the Report Stage, the whole House looks at the changes the committee suggested.
+            5. Finally, at the Third Reading, everyone gets one last chance to discuss the Bill and vote on it.
 
-      After the Bill passes through one part of Parliament, it goes to the other part and the same steps happen all over again.
+            After the Bill passes through one part of Parliament, it goes to the other part and the same steps happen all over again.
 
-      Once both parts of Parliament agree on exactly the same words in the Bill, it goes to the King. When the King gives approval, called Royal Assent, the Bill becomes an Act of Parliament. That means it is now a real law!
+            Once both parts of Parliament agree on exactly the same words in the Bill, it goes to the King. When the King gives approval, called Royal Assent, the Bill becomes an Act of Parliament. That means it is now a real law!
 
-      Most laws that affect the whole country start as ideas from the Government. But sometimes ordinary MPs can suggest new laws too. These are called Private Members' Bills.
+            Most laws that affect the whole country start as ideas from the Government. But sometimes ordinary MPs can suggest new laws too. These are called Private Members' Bills.
 
-  teenager:
-    reading_age: 14
-    summary: "Bills pass through multiple debating and scrutiny stages in both Houses of Parliament before receiving Royal Assent to become Acts of Parliament."
-    body: |
-      Laws in the United Kingdom are made through a structured process in Parliament. A proposal for a new law is called a Bill. Once it completes its journey through Parliament and receives Royal Assent, it becomes an Act of Parliament, which is binding law.
+    teenager:
+        reading_age: 14
+        summary: 'Bills pass through multiple debating and scrutiny stages in both Houses of Parliament before receiving Royal Assent to become Acts of Parliament.'
+        body: |
+            Laws in the United Kingdom are made through a structured process in Parliament. A proposal for a new law is called a Bill. Once it completes its journey through Parliament and receives Royal Assent, it becomes an Act of Parliament, which is binding law.
 
-      **Types of Bills**
+            **Types of Bills**
 
-      There are several types of Bills:
-      - Public Bills change the law as it applies to the general population. Most are introduced by Government ministers.
-      - Private Members' Bills are Public Bills introduced by MPs or Lords who are not ministers. MPs can introduce these through a ballot, the Ten Minute Rule, or by simple presentation.
-      - Private Bills affect only specific people, organisations, or areas rather than the general public.
-      - Hybrid Bills mix characteristics of Public and Private Bills, proposing changes that affect the general public but have a greater impact on particular groups.
+            There are several types of Bills:
+            - Public Bills change the law as it applies to the general population. Most are introduced by Government ministers.
+            - Private Members' Bills are Public Bills introduced by MPs or Lords who are not ministers. MPs can introduce these through a ballot, the Ten Minute Rule, or by simple presentation.
+            - Private Bills affect only specific people, organisations, or areas rather than the general public.
+            - Hybrid Bills mix characteristics of Public and Private Bills, proposing changes that affect the general public but have a greater impact on particular groups.
 
-      **The Stages of a Bill**
+            **The Stages of a Bill**
 
-      A Bill must pass through five main stages in each House of Parliament:
+            A Bill must pass through five main stages in each House of Parliament:
 
-      1. **First Reading** -- A formality. The title of the Bill is read out and a date is set for Second Reading. There is no debate.
-      2. **Second Reading** -- The first real debate. MPs or Lords discuss the general principles of the Bill. At the end, they vote on whether it should proceed.
-      3. **Committee Stage** -- Detailed examination. In the Commons, a Public Bill Committee typically goes through the Bill clause by clause, considering amendments. In the Lords, this usually takes place in a Committee of the Whole House.
-      4. **Report Stage** -- The whole House reviews changes made in committee and can propose further amendments.
-      5. **Third Reading** -- A final debate on the Bill. In the Commons, no further amendments can be made. In the Lords, amendments are still possible.
+            1. **First Reading** -- A formality. The title of the Bill is read out and a date is set for Second Reading. There is no debate.
+            2. **Second Reading** -- The first real debate. MPs or Lords discuss the general principles of the Bill. At the end, they vote on whether it should proceed.
+            3. **Committee Stage** -- Detailed examination. In the Commons, a Public Bill Committee typically goes through the Bill clause by clause, considering amendments. In the Lords, this usually takes place in a Committee of the Whole House.
+            4. **Report Stage** -- The whole House reviews changes made in committee and can propose further amendments.
+            5. **Third Reading** -- A final debate on the Bill. In the Commons, no further amendments can be made. In the Lords, amendments are still possible.
 
-      **Ping-Pong**
+            **Ping-Pong**
 
-      If the second House makes changes (amendments) to the Bill, it is sent back to the first House. If the first House disagrees, it can reject the changes or propose alternatives. The Bill goes back and forth between the two Houses until they agree on the exact same text. This process is informally called "ping-pong." If agreement cannot be reached by the end of the parliamentary session, the Bill usually falls.
+            If the second House makes changes (amendments) to the Bill, it is sent back to the first House. If the first House disagrees, it can reject the changes or propose alternatives. The Bill goes back and forth between the two Houses until they agree on the exact same text. This process is informally called "ping-pong." If agreement cannot be reached by the end of the parliamentary session, the Bill usually falls.
 
-      **Royal Assent**
+            **Royal Assent**
 
-      Once both Houses agree on the final text, the Bill is presented to the monarch for Royal Assent. This is the formal approval that turns a Bill into an Act of Parliament. Royal Assent has not been refused since 1708, when Queen Anne withheld it from the Scottish Militia Bill. Today it is considered a constitutional formality.
+            Once both Houses agree on the final text, the Bill is presented to the monarch for Royal Assent. This is the formal approval that turns a Bill into an Act of Parliament. Royal Assent has not been refused since 1708, when Queen Anne withheld it from the Scottish Militia Bill. Today it is considered a constitutional formality.
 
-      **Delegated Legislation**
+            **Delegated Legislation**
 
-      Not all law is made directly by Parliament. Acts of Parliament often give ministers the power to make more detailed rules called delegated (or secondary) legislation, such as Statutory Instruments. You can learn much more about this in the topic on delegated legislation.
+            Not all law is made directly by Parliament. Acts of Parliament often give ministers the power to make more detailed rules called delegated (or secondary) legislation, such as Statutory Instruments. You can learn much more about this in the topic on delegated legislation.
 
-  adult:
-    reading_age: 18
-    summary: "The UK legislative process involves Bills passing through prescribed parliamentary stages in both Houses, with mechanisms for resolving disagreements, Royal Assent, and supplementary powers for delegated legislation."
-    body: |
-      The legislative process in the United Kingdom is governed by parliamentary convention, Standing Orders, and statute. A Bill is a formal proposal for legislation that must be approved in identical form by both Houses of Parliament before receiving Royal Assent to become an Act of Parliament.
+    adult:
+        reading_age: 18
+        summary: 'The UK legislative process involves Bills passing through prescribed parliamentary stages in both Houses, with mechanisms for resolving disagreements, Royal Assent, and supplementary powers for delegated legislation.'
+        body: |
+            The legislative process in the United Kingdom is governed by parliamentary convention, Standing Orders, and statute. A Bill is a formal proposal for legislation that must be approved in identical form by both Houses of Parliament before receiving Royal Assent to become an Act of Parliament.
 
-      **Classification of Bills**
+            **Classification of Bills**
 
-      Bills are classified into four categories:
+            Bills are classified into four categories:
 
-      - **Public Bills** affect the general public and the law of the land. Government Bills are introduced by ministers and form the core of the Government's legislative programme. They are announced in the King's Speech at the State Opening of Parliament.
-      - **Private Members' Bills** are a subset of Public Bills, introduced by backbench MPs or peers. In the Commons, there are three methods of introduction: the Ballot (a draw held at the start of each session, with the top 20 MPs allocated debating time), the Ten Minute Rule (allowing a brief speech for and against the proposal), and Presentation Bills (introduced without debate). Private Members' Bills face significant procedural hurdles and most do not become law, though some have led to major social reforms.
-      - **Private Bills** are promoted by organisations such as local authorities or companies to acquire powers beyond the general law. They follow a distinct quasi-judicial procedure involving petitions from affected parties.
-      - **Hybrid Bills** combine features of Public and Private Bills. They propose changes to the general law but disproportionately affect particular individuals or bodies. The High Speed Rail (London - West Midlands) Act 2017 is a recent example. Hybrid Bills follow Public Bill procedure with an additional petitioning stage.
+            - **Public Bills** affect the general public and the law of the land. Government Bills are introduced by ministers and form the core of the Government's legislative programme. They are announced in the King's Speech at the State Opening of Parliament.
+            - **Private Members' Bills** are a subset of Public Bills, introduced by backbench MPs or peers. In the Commons, there are three methods of introduction: the Ballot (a draw held at the start of each session, with the top 20 MPs allocated debating time), the Ten Minute Rule (allowing a brief speech for and against the proposal), and Presentation Bills (introduced without debate). Private Members' Bills face significant procedural hurdles and most do not become law, though some have led to major social reforms.
+            - **Private Bills** are promoted by organisations such as local authorities or companies to acquire powers beyond the general law. They follow a distinct quasi-judicial procedure involving petitions from affected parties.
+            - **Hybrid Bills** combine features of Public and Private Bills. They propose changes to the general law but disproportionately affect particular individuals or bodies. The High Speed Rail (London - West Midlands) Act 2017 is a recent example. Hybrid Bills follow Public Bill procedure with an additional petitioning stage.
 
-      **Parliamentary Stages**
+            **Parliamentary Stages**
 
-      A Bill may be introduced in either House (except Money Bills, which must originate in the Commons). The stages are:
+            A Bill may be introduced in either House (except Money Bills, which must originate in the Commons). The stages are:
 
-      1. **First Reading** -- Formal introduction. In the Commons, the short title is read and the Bill is ordered to be printed. No debate occurs.
-      2. **Second Reading** -- Debate on the Bill's general principles and policy objectives. A vote (division) is taken. Government Bills at Second Reading are very rarely defeated in the Commons; a defeat would be a major political event.
-      3. **Committee Stage** -- Line-by-line scrutiny. In the Commons, most Bills are sent to a Public Bill Committee (previously called Standing Committees), which may take oral and written evidence. Constitutional Bills of major importance may be considered by a Committee of the Whole House. In the Lords, Committee of the Whole House is the default, though some Bills go to a Grand Committee.
-      4. **Report Stage** -- The full House considers the Bill as amended in committee. Further amendments may be tabled and voted upon. This stage allows Members who were not on the committee to propose changes.
-      5. **Third Reading** -- Final consideration. In the Commons, this usually follows immediately after Report Stage and no amendments are permitted. In the Lords, amendments may still be moved at Third Reading.
+            1. **First Reading** -- Formal introduction. In the Commons, the short title is read and the Bill is ordered to be printed. No debate occurs.
+            2. **Second Reading** -- Debate on the Bill's general principles and policy objectives. A vote (division) is taken. Government Bills at Second Reading are very rarely defeated in the Commons; a defeat would be a major political event.
+            3. **Committee Stage** -- Line-by-line scrutiny. In the Commons, most Bills are sent to a Public Bill Committee (previously called Standing Committees), which may take oral and written evidence. Constitutional Bills of major importance may be considered by a Committee of the Whole House. In the Lords, Committee of the Whole House is the default, though some Bills go to a Grand Committee.
+            4. **Report Stage** -- The full House considers the Bill as amended in committee. Further amendments may be tabled and voted upon. This stage allows Members who were not on the committee to propose changes.
+            5. **Third Reading** -- Final consideration. In the Commons, this usually follows immediately after Report Stage and no amendments are permitted. In the Lords, amendments may still be moved at Third Reading.
 
-      **Consideration of Amendments (Ping-Pong)**
+            **Consideration of Amendments (Ping-Pong)**
 
-      When the second House passes the Bill with amendments, the Bill returns to the originating House for consideration. That House may accept, reject, or amend the changes. The Bill may pass between the Houses multiple times. This process continues until both Houses agree on identical text, or the Bill is lost through double insistence (where both Houses refuse to give way) or the end of the parliamentary session.
+            When the second House passes the Bill with amendments, the Bill returns to the originating House for consideration. That House may accept, reject, or amend the changes. The Bill may pass between the Houses multiple times. This process continues until both Houses agree on identical text, or the Bill is lost through double insistence (where both Houses refuse to give way) or the end of the parliamentary session.
 
-      Under the Salisbury Convention, the House of Lords does not vote down at Second Reading any Government Bill that was in the governing party's election manifesto.
+            Under the Salisbury Convention, the House of Lords does not vote down at Second Reading any Government Bill that was in the governing party's election manifesto.
 
-      **The Parliament Acts 1911 and 1949**
+            **The Parliament Acts 1911 and 1949**
 
-      If the Lords repeatedly block a Public Bill that originated in the Commons, the Parliament Acts provide a mechanism for the Commons to bypass the Lords. The Parliament Act 1911 removed the Lords' veto over Money Bills entirely and replaced the general veto with a power of delay (originally two years over three sessions). The Parliament Act 1949 reduced the delay to one year over two sessions. The Acts have been used to pass legislation only seven times, most recently for the Hunting Act 2004.
+            If the Lords repeatedly block a Public Bill that originated in the Commons, the Parliament Acts provide a mechanism for the Commons to bypass the Lords. The Parliament Act 1911 removed the Lords' veto over Money Bills entirely and replaced the general veto with a power of delay (originally two years over three sessions). The Parliament Act 1949 reduced the delay to one year over two sessions. The Acts have been used to pass legislation only seven times, most recently for the Hunting Act 2004.
 
-      **Royal Assent**
+            **Royal Assent**
 
-      Royal Assent is the final step. Since the Royal Assent Act 1967, it is normally signified by Letters Patent rather than by the monarch attending Parliament in person. The last refusal of Royal Assent was in 1708 when Queen Anne withheld assent from the Scottish Militia Bill on the advice of her ministers. Royal Assent is now regarded as a constitutional convention that the monarch will always grant it.
+            Royal Assent is the final step. Since the Royal Assent Act 1967, it is normally signified by Letters Patent rather than by the monarch attending Parliament in person. The last refusal of Royal Assent was in 1708 when Queen Anne withheld assent from the Scottish Militia Bill on the advice of her ministers. Royal Assent is now regarded as a constitutional convention that the monarch will always grant it.
 
-      **Delegated (Secondary) Legislation**
+            **Delegated (Secondary) Legislation**
 
-      Acts of Parliament frequently confer powers on ministers to make detailed regulations without requiring a new Act. The principal vehicle is the Statutory Instrument (SI), governed by the Statutory Instruments Act 1946. Delegated legislation is examined in detail in a separate topic; a brief summary is included here for context. Approximately 3,000 SIs are made each year. SIs are subject to affirmative procedure (requiring active approval) or negative procedure (taking effect unless Parliament objects). The Delegated Powers and Regulatory Reform Committee in the Lords and the Joint Committee on Statutory Instruments play key roles in scrutiny.
+            Acts of Parliament frequently confer powers on ministers to make detailed regulations without requiring a new Act. The principal vehicle is the Statutory Instrument (SI), governed by the Statutory Instruments Act 1946. Delegated legislation is examined in detail in a separate topic; a brief summary is included here for context. Approximately 3,000 SIs are made each year. SIs are subject to affirmative procedure (requiring active approval) or negative procedure (taking effect unless Parliament objects). The Delegated Powers and Regulatory Reform Committee in the Lords and the Joint Committee on Statutory Instruments play key roles in scrutiny.
 
-      **Consolidation Bills and Law Commission Bills**
+            **Consolidation Bills and Law Commission Bills**
 
-      Consolidation Bills re-enact existing statutory provisions in a single, updated Act without changing the substance of the law. They are introduced in the House of Lords and considered by the Joint Committee on Consolidation Bills. Law Commission Bills implement recommendations of the Law Commission, the independent statutory body charged with keeping the law under review. Since 2010, an expedited procedure for uncontroversial Law Commission Bills has operated in the House of Lords, enabling faster passage of technical legal reforms.
+            Consolidation Bills re-enact existing statutory provisions in a single, updated Act without changing the substance of the law. They are introduced in the House of Lords and considered by the Joint Committee on Consolidation Bills. Law Commission Bills implement recommendations of the Law Commission, the independent statutory body charged with keeping the law under review. Since 2010, an expedited procedure for uncontroversial Law Commission Bills has operated in the House of Lords, enabling faster passage of technical legal reforms.
 
-      **Pre-Legislative Scrutiny**
+            **Pre-Legislative Scrutiny**
 
-      Before formal introduction, the Government may publish Bills in draft form for pre-legislative scrutiny by a select committee or a joint committee of both Houses. It may also publish a Green Paper (a consultation document setting out ideas for discussion) or a White Paper (a firmer statement of policy intent). This process allows for wider input and can improve the quality of legislation.
+            Before formal introduction, the Government may publish Bills in draft form for pre-legislative scrutiny by a select committee or a joint committee of both Houses. It may also publish a Green Paper (a consultation document setting out ideas for discussion) or a White Paper (a firmer statement of policy intent). This process allows for wider input and can improve the quality of legislation.
 
-  researcher:
-    reading_age: null
-    summary: "An analysis of UK primary and secondary legislative processes, constitutional conventions, and the evolving balance of power between the Crown, Commons, and Lords in lawmaking."
-    body: |
-      The legislative process of the United Kingdom Parliament is a product of centuries of constitutional evolution, shaped by statute, convention, and parliamentary procedure. Unlike codified constitutional systems, the UK's legislative framework relies on a combination of written rules (Standing Orders, Acts of Parliament) and unwritten conventions that together define how law is made.
+    researcher:
+        reading_age: null
+        summary: 'An analysis of UK primary and secondary legislative processes, constitutional conventions, and the evolving balance of power between the Crown, Commons, and Lords in lawmaking.'
+        body: |
+            The legislative process of the United Kingdom Parliament is a product of centuries of constitutional evolution, shaped by statute, convention, and parliamentary procedure. Unlike codified constitutional systems, the UK's legislative framework relies on a combination of written rules (Standing Orders, Acts of Parliament) and unwritten conventions that together define how law is made.
 
-      **Constitutional Foundations**
+            **Constitutional Foundations**
 
-      Parliamentary sovereignty, as articulated by A.V. Dicey in "Introduction to the Study of the Law of the Constitution" (1885), holds that Parliament has the right to make or unmake any law, and no body has the right to override or set aside the legislation of Parliament. This doctrine underpins the entire legislative process, though it has been qualified in practice by devolution settlements, the retained EU law framework post-Brexit, and the Human Rights Act 1998 (which allows courts to issue declarations of incompatibility under Section 4, though without the power to strike down primary legislation).
+            Parliamentary sovereignty, as articulated by A.V. Dicey in "Introduction to the Study of the Law of the Constitution" (1885), holds that Parliament has the right to make or unmake any law, and no body has the right to override or set aside the legislation of Parliament. This doctrine underpins the entire legislative process, though it has been qualified in practice by devolution settlements, the retained EU law framework post-Brexit, and the Human Rights Act 1998 (which allows courts to issue declarations of incompatibility under Section 4, though without the power to strike down primary legislation).
 
-      The Queen-in-Parliament (now King-in-Parliament) is the formal sovereign legislature, comprising the Monarch, the House of Lords, and the House of Commons. The requirement for tricameral agreement is modified by the Parliament Acts 1911 and 1949, which enable the Commons to legislate without the Lords' consent in defined circumstances.
+            The Queen-in-Parliament (now King-in-Parliament) is the formal sovereign legislature, comprising the Monarch, the House of Lords, and the House of Commons. The requirement for tricameral agreement is modified by the Parliament Acts 1911 and 1949, which enable the Commons to legislate without the Lords' consent in defined circumstances.
 
-      **Taxonomy of Bills**
+            **Taxonomy of Bills**
 
-      The classification of Bills as Public, Private, or Hybrid is governed by Erskine May (the authoritative treatise on parliamentary procedure) and the rulings of the Speaker and the Chairman of Committees. The distinction is procedurally significant: Private Bills follow quasi-judicial proceedings with petitioning rights for affected parties, while Hybrid Bills trigger additional procedures under Standing Order No. 224 (in the Lords) and Standing Order No. 63 (in the Commons).
+            The classification of Bills as Public, Private, or Hybrid is governed by Erskine May (the authoritative treatise on parliamentary procedure) and the rulings of the Speaker and the Chairman of Committees. The distinction is procedurally significant: Private Bills follow quasi-judicial proceedings with petitioning rights for affected parties, while Hybrid Bills trigger additional procedures under Standing Order No. 224 (in the Lords) and Standing Order No. 63 (in the Commons).
 
-      Government Bills form the core of the legislative programme, announced in the King's Speech. The choice of originating House is strategic: contentious Bills may be introduced in the Commons to invoke the Parliament Acts if needed, while less controversial or technically complex Bills may begin in the Lords to balance the workload between the two chambers.
+            Government Bills form the core of the legislative programme, announced in the King's Speech. The choice of originating House is strategic: contentious Bills may be introduced in the Commons to invoke the Parliament Acts if needed, while less controversial or technically complex Bills may begin in the Lords to balance the workload between the two chambers.
 
-      Private Members' Bills have historically served as vehicles for social reform on matters where Governments prefer to allow a free vote. Notable examples include the Murder (Abolition of Death Penalty) Act 1965 (sponsored by Sydney Silverman), the Abortion Act 1967 (David Steel), and the Marriage (Same Sex Couples) Act 2013 (though the latter was a Government Bill). The procedural constraints on Private Members' Bills are considerable: limited debating time (thirteen Fridays per session), vulnerability to filibustering, and the requirement for Government cooperation to secure parliamentary time for later stages.
+            Private Members' Bills have historically served as vehicles for social reform on matters where Governments prefer to allow a free vote. Notable examples include the Murder (Abolition of Death Penalty) Act 1965 (sponsored by Sydney Silverman), the Abortion Act 1967 (David Steel), and the Marriage (Same Sex Couples) Act 2013 (though the latter was a Government Bill). The procedural constraints on Private Members' Bills are considerable: limited debating time (thirteen Fridays per session), vulnerability to filibustering, and the requirement for Government cooperation to secure parliamentary time for later stages.
 
-      **Legislative Stages: Procedure and Practice**
+            **Legislative Stages: Procedure and Practice**
 
-      The five-stage model (First Reading, Second Reading, Committee, Report, Third Reading) provides the framework, but significant procedural variations exist:
+            The five-stage model (First Reading, Second Reading, Committee, Report, Third Reading) provides the framework, but significant procedural variations exist:
 
-      - Programme motions (introduced in 1997 and made permanent in 2004) impose timetables on Government Bills in the Commons, allocating time for each stage. Critics argue these limit scrutiny; proponents contend they ensure legislative efficiency.
-      - Carry-over motions allow a Bill to be suspended at the end of a session and resumed in the next, overcoming the sessional rule that would otherwise cause it to fall.
-      - Money resolutions and ways and means resolutions are required for Bills involving public expenditure or taxation, authorised under Standing Order No. 48 (formerly the Crown's financial initiative).
+            - Programme motions (introduced in 1997 and made permanent in 2004) impose timetables on Government Bills in the Commons, allocating time for each stage. Critics argue these limit scrutiny; proponents contend they ensure legislative efficiency.
+            - Carry-over motions allow a Bill to be suspended at the end of a session and resumed in the next, overcoming the sessional rule that would otherwise cause it to fall.
+            - Money resolutions and ways and means resolutions are required for Bills involving public expenditure or taxation, authorised under Standing Order No. 48 (formerly the Crown's financial initiative).
 
-      At Committee Stage, the shift from Standing Committees to Public Bill Committees in 2006 was significant: it introduced the power to take written and oral evidence, bringing an element of investigative scrutiny into the legislative process. The Liaison Committee and the Modernisation Committee have periodically reviewed these arrangements.
+            At Committee Stage, the shift from Standing Committees to Public Bill Committees in 2006 was significant: it introduced the power to take written and oral evidence, bringing an element of investigative scrutiny into the legislative process. The Liaison Committee and the Modernisation Committee have periodically reviewed these arrangements.
 
-      In the House of Lords, the absence of programme motions means that any peer may speak at any stage and table amendments. The self-regulatory nature of the Lords relies on the "usual channels" (the party whips and the crossbench convenor) to manage business. The Lords' conventions include the principle that the House will give a Government Bill a Second Reading and that wrecking amendments are considered improper.
+            In the House of Lords, the absence of programme motions means that any peer may speak at any stage and table amendments. The self-regulatory nature of the Lords relies on the "usual channels" (the party whips and the crossbench convenor) to manage business. The Lords' conventions include the principle that the House will give a Government Bill a Second Reading and that wrecking amendments are considered improper.
 
-      **Consideration of Amendments and the Ping-Pong Dynamic**
+            **Consideration of Amendments and the Ping-Pong Dynamic**
 
-      The requirement for textual agreement between the Houses creates a negotiation dynamic. The practice is governed by parliamentary privilege: the Commons' financial privilege means the Lords cannot insist on amendments that have financial implications if the Commons invokes privilege as grounds for disagreement.
+            The requirement for textual agreement between the Houses creates a negotiation dynamic. The practice is governed by parliamentary privilege: the Commons' financial privilege means the Lords cannot insist on amendments that have financial implications if the Commons invokes privilege as grounds for disagreement.
 
-      When disagreement persists, the mechanisms for resolution include:
-      - Reasons Committees, which draft the reasons for the originating House's disagreement with the other House's amendments.
-      - Amendments in lieu, which offer compromise formulations.
-      - Double insistence, which in theory kills the Bill, though this outcome is extremely rare in practice.
+            When disagreement persists, the mechanisms for resolution include:
+            - Reasons Committees, which draft the reasons for the originating House's disagreement with the other House's amendments.
+            - Amendments in lieu, which offer compromise formulations.
+            - Double insistence, which in theory kills the Bill, though this outcome is extremely rare in practice.
 
-      The Parliament Acts 1911 and 1949 provide the ultimate override mechanism. Their use has been infrequent: the Welsh Church Act 1914, the Government of Ireland Act 1914, the Parliament Act 1949, the War Crimes Act 1991, the European Parliamentary Elections Act 1999, the Sexual Offences (Amendment) Act 2000, and the Hunting Act 2004. The validity of the 1949 Act was challenged in R (Jackson) v Attorney General [2005] UKHL 56, where the House of Lords (in its then judicial capacity) upheld the Act's validity but offered significant obiter dicta on the limits of parliamentary sovereignty.
+            The Parliament Acts 1911 and 1949 provide the ultimate override mechanism. Their use has been infrequent: the Welsh Church Act 1914, the Government of Ireland Act 1914, the Parliament Act 1949, the War Crimes Act 1991, the European Parliamentary Elections Act 1999, the Sexual Offences (Amendment) Act 2000, and the Hunting Act 2004. The validity of the 1949 Act was challenged in R (Jackson) v Attorney General [2005] UKHL 56, where the House of Lords (in its then judicial capacity) upheld the Act's validity but offered significant obiter dicta on the limits of parliamentary sovereignty.
 
-      **The Salisbury-Addison Convention**
+            **The Salisbury-Addison Convention**
 
-      Established in 1945, this convention holds that the House of Lords will not reject at Second Reading any Government legislation that has been foreshadowed in the governing party's election manifesto. The convention was examined by the Joint Committee on Conventions (2006), which concluded it remained a convention rather than a rule and should not be codified. Its scope has been contested, particularly regarding Bills that go beyond manifesto commitments or where manifesto wording is ambiguous.
+            Established in 1945, this convention holds that the House of Lords will not reject at Second Reading any Government legislation that has been foreshadowed in the governing party's election manifesto. The convention was examined by the Joint Committee on Conventions (2006), which concluded it remained a convention rather than a rule and should not be codified. Its scope has been contested, particularly regarding Bills that go beyond manifesto commitments or where manifesto wording is ambiguous.
 
-      **Royal Assent**
+            **Royal Assent**
 
-      Royal Assent has been a formality since 1708 (the Scottish Militia Bill). The Royal Assent Act 1967 modernised the procedure, replacing the Norman French pronouncements ("La Reyne le veult" / "Le Roy le veult") with notification by Letters Patent in most cases, though the ceremonial form is still occasionally used. The Monarch's role is sometimes described as a "constitutional longstop," though constitutional scholars debate whether a theoretical right of refusal survives.
+            Royal Assent has been a formality since 1708 (the Scottish Militia Bill). The Royal Assent Act 1967 modernised the procedure, replacing the Norman French pronouncements ("La Reyne le veult" / "Le Roy le veult") with notification by Letters Patent in most cases, though the ceremonial form is still occasionally used. The Monarch's role is sometimes described as a "constitutional longstop," though constitutional scholars debate whether a theoretical right of refusal survives.
 
-      The related but distinct conventions of Queen's/King's Consent and Prince's/Duke's Consent require the Monarch's or heir's consent to be signalled before Parliament debates Bills affecting the prerogative, Crown interests, or the Duchy of Cornwall. An investigation by The Guardian in 2021 revealed extensive use of Queen's Consent, prompting renewed debate about transparency.
+            The related but distinct conventions of Queen's/King's Consent and Prince's/Duke's Consent require the Monarch's or heir's consent to be signalled before Parliament debates Bills affecting the prerogative, Crown interests, or the Duchy of Cornwall. An investigation by The Guardian in 2021 revealed extensive use of Queen's Consent, prompting renewed debate about transparency.
 
-      **Delegated Legislation**
+            **Delegated Legislation**
 
-      The growth of delegated legislation is one of the most significant developments in modern UK lawmaking. The volume of secondary legislation dwarfs primary legislation: Parliament typically passes 25-35 Acts per session but over 3,000 Statutory Instruments. This topic is examined in depth in a separate entry on delegated legislation.
+            The growth of delegated legislation is one of the most significant developments in modern UK lawmaking. The volume of secondary legislation dwarfs primary legislation: Parliament typically passes 25-35 Acts per session but over 3,000 Statutory Instruments. This topic is examined in depth in a separate entry on delegated legislation.
 
-      **Consolidation Bills and Law Commission Bills**
+            **Consolidation Bills and Law Commission Bills**
 
-      Consolidation Bills re-enact existing statutory provisions in a single, rationalised Act without altering the substance of the law. They are introduced in the House of Lords and examined by the Joint Committee on Consolidation Bills, which verifies that the Bill does not effect substantive changes. Law Commission Bills implement recommendations of the Law Commission (established by the Law Commissions Act 1965). Since 2010, an expedited Lords procedure has operated for uncontroversial Law Commission Bills, introduced following a protocol agreed between the Commission and the Lord Chancellor. This procedure allows technical law reform measures to proceed with reduced debating time, subject to the agreement of the usual channels.
+            Consolidation Bills re-enact existing statutory provisions in a single, rationalised Act without altering the substance of the law. They are introduced in the House of Lords and examined by the Joint Committee on Consolidation Bills, which verifies that the Bill does not effect substantive changes. Law Commission Bills implement recommendations of the Law Commission (established by the Law Commissions Act 1965). Since 2010, an expedited Lords procedure has operated for uncontroversial Law Commission Bills, introduced following a protocol agreed between the Commission and the Lord Chancellor. This procedure allows technical law reform measures to proceed with reduced debating time, subject to the agreement of the usual channels.
 
-      **Post-Legislative Scrutiny**
+            **Post-Legislative Scrutiny**
 
-      Since 2008, following the Law Commission's report "Post-Legislative Scrutiny" (Cm 6945) and the Government's acceptance of its recommendations, departments have been expected to publish memoranda reviewing the operation of their Acts three to five years after enactment. Select committees may then conduct inquiries into how legislation is working in practice. The practice remains inconsistent: some departments produce detailed assessments, while others submit perfunctory memoranda. The Liaison Committee and the Law Commission have both called for a more systematic approach.
+            Since 2008, following the Law Commission's report "Post-Legislative Scrutiny" (Cm 6945) and the Government's acceptance of its recommendations, departments have been expected to publish memoranda reviewing the operation of their Acts three to five years after enactment. Select committees may then conduct inquiries into how legislation is working in practice. The practice remains inconsistent: some departments produce detailed assessments, while others submit perfunctory memoranda. The Liaison Committee and the Law Commission have both called for a more systematic approach.
 
-      **Pre-Legislative Processes**
+            **Pre-Legislative Processes**
 
-      The use of Green Papers (consultation documents) and White Papers (policy statements) varies by Government. Pre-legislative scrutiny, where draft Bills are published and examined by select committees or joint committees before formal introduction, was championed by the Modernisation Committee under Robin Cook and has been endorsed by successive Procedure Committees. Evidence suggests that pre-legislative scrutiny improves the quality of legislation and reduces the need for Government amendments at later stages, though its use remains inconsistent.
-    sources:
-      - citation: "Erskine May: Parliamentary Practice (25th edition, 2019)"
-        url: "https://erskinemay.parliament.uk/"
-        type: primary
-      - citation: "UK Parliament — How Laws Are Made"
-        url: "https://www.parliament.uk/about/how/laws/"
-        type: official
-      - citation: "UK Parliament — Passage of a Bill"
-        url: "https://www.parliament.uk/about/how/laws/passage-bill/"
-        type: official
-      - citation: "UK Parliament — The Parliament Acts"
-        url: "https://www.parliament.uk/about/how/laws/parliamentacts/"
-        type: official
-      - citation: "Institute for Government — The Legislative Process in Parliament"
-        url: "https://www.instituteforgovernment.org.uk/explainer/legislative-process-parliament"
-        type: secondary
-      - citation: "House of Commons Library — Acts and Statutory Instruments: Volume of UK Legislation 1950 to 2024 (CBP-7438)"
-        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-7438/"
-        type: official
-      - citation: "R (Jackson) v Attorney General [2005] UKHL 56"
-        url: "https://www.bailii.org/uk/cases/UKHL/2005/56.html"
-        type: primary
-      - citation: "Joint Committee on Conventions (2006) — Conventions of the UK Parliament, HL Paper 265 / HC 1212"
-        url: "https://publications.parliament.uk/pa/jt200506/jtselect/jtconv/265/265.pdf"
-        type: primary
-      - citation: "Dicey, A.V., Introduction to the Study of the Law of the Constitution (1885; Liberty Fund reprint, 1982)"
-        url: "https://oll.libertyfund.org/titles/dicey-introduction-to-the-study-of-the-law-of-the-constitution-lf-ed"
-        type: primary
-      - citation: "Hansard Society — Making Better Law (2010)"
-        url: "https://www.hansardsociety.org.uk/publications/reports/making-better-law"
-        type: secondary
+            The use of Green Papers (consultation documents) and White Papers (policy statements) varies by Government. Pre-legislative scrutiny, where draft Bills are published and examined by select committees or joint committees before formal introduction, was championed by the Modernisation Committee under Robin Cook and has been endorsed by successive Procedure Committees. Evidence suggests that pre-legislative scrutiny improves the quality of legislation and reduces the need for Government amendments at later stages, though its use remains inconsistent.
+        sources:
+            - citation: 'Erskine May: Parliamentary Practice (25th edition, 2019)'
+              url: 'https://erskinemay.parliament.uk/'
+              type: primary
+            - citation: 'UK Parliament — How Laws Are Made'
+              url: 'https://www.parliament.uk/about/how/laws/'
+              type: official
+            - citation: 'UK Parliament — Passage of a Bill'
+              url: 'https://www.parliament.uk/about/how/laws/passage-bill/'
+              type: official
+            - citation: 'UK Parliament — The Parliament Acts'
+              url: 'https://www.parliament.uk/about/how/laws/parliamentacts/'
+              type: official
+            - citation: 'Institute for Government — The Legislative Process in Parliament'
+              url: 'https://www.instituteforgovernment.org.uk/explainer/legislative-process-parliament'
+              type: secondary
+            - citation: 'House of Commons Library — Acts and Statutory Instruments: Volume of UK Legislation 1950 to 2024 (CBP-7438)'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/cbp-7438/'
+              type: official
+            - citation: 'R (Jackson) v Attorney General [2005] UKHL 56'
+              url: 'https://www.bailii.org/uk/cases/UKHL/2005/56.html'
+              type: primary
+            - citation: 'Joint Committee on Conventions (2006) — Conventions of the UK Parliament, HL Paper 265 / HC 1212'
+              url: 'https://publications.parliament.uk/pa/jt200506/jtselect/jtconv/265/265.pdf'
+              type: primary
+            - citation: 'Dicey, A.V., Introduction to the Study of the Law of the Constitution (1885; Liberty Fund reprint, 1982)'
+              url: 'https://oll.libertyfund.org/titles/dicey-introduction-to-the-study-of-the-law-of-the-constitution-lf-ed'
+              type: primary
+            - citation: 'Hansard Society — Making Better Law (2010)'
+              url: 'https://www.hansardsociety.org.uk/publications/reports/making-better-law'
+              type: secondary
 
 glossary:
-  - term: "Bill"
-    definition_simple: "A written plan for a new law that Parliament discusses and votes on before it can become a real law."
-    definition_full: "A formal proposal for legislation introduced in either House of Parliament. A Bill must pass through prescribed stages in both Houses and receive Royal Assent before it becomes an Act of Parliament."
+    - term: 'Bill'
+      definition_simple: 'A written plan for a new law that Parliament discusses and votes on before it can become a real law.'
+      definition_full: 'A formal proposal for legislation introduced in either House of Parliament. A Bill must pass through prescribed stages in both Houses and receive Royal Assent before it becomes an Act of Parliament.'
 
-  - term: "Act of Parliament"
-    definition_simple: "A Bill that has been approved by Parliament and the King, so it is now an official law that everyone must follow."
-    definition_full: "Primary legislation that has completed all parliamentary stages and received Royal Assent. Acts of Parliament are the highest form of domestic law in the UK and can only be repealed or amended by another Act (or, in limited circumstances, by delegated legislation exercising Henry VIII powers)."
+    - term: 'Act of Parliament'
+      definition_simple: 'A Bill that has been approved by Parliament and the King, so it is now an official law that everyone must follow.'
+      definition_full: 'Primary legislation that has completed all parliamentary stages and received Royal Assent. Acts of Parliament are the highest form of domestic law in the UK and can only be repealed or amended by another Act (or, in limited circumstances, by delegated legislation exercising Henry VIII powers).'
 
-  - term: "Amendment"
-    definition_simple: "A change suggested to a Bill while Parliament is discussing it, like editing a piece of writing."
-    definition_full: "A proposed alteration to the text of a Bill during its passage through Parliament. Amendments may be tabled at Committee Stage, Report Stage, and (in the Lords) Third Reading. They must be selected by the Speaker or Lord Speaker and are subject to rules of admissibility."
+    - term: 'Amendment'
+      definition_simple: 'A change suggested to a Bill while Parliament is discussing it, like editing a piece of writing.'
+      definition_full: 'A proposed alteration to the text of a Bill during its passage through Parliament. Amendments may be tabled at Committee Stage, Report Stage, and (in the Lords) Third Reading. They must be selected by the Speaker or Lord Speaker and are subject to rules of admissibility.'
 
-  - term: "Royal Assent"
-    definition_simple: "The King's approval that turns a Bill into a law. This has not been refused since 1708."
-    definition_full: "The formal approval by the Sovereign that converts a Bill into an Act of Parliament. Governed by the Royal Assent Act 1967, it is now normally signified by Letters Patent. It has not been withheld since Queen Anne refused the Scottish Militia Bill in 1708 and is regarded as a constitutional formality."
+    - term: 'Royal Assent'
+      definition_simple: "The King's approval that turns a Bill into a law. This has not been refused since 1708."
+      definition_full: 'The formal approval by the Sovereign that converts a Bill into an Act of Parliament. Governed by the Royal Assent Act 1967, it is now normally signified by Letters Patent. It has not been withheld since Queen Anne refused the Scottish Militia Bill in 1708 and is regarded as a constitutional formality.'
 
-  - term: "Delegated Legislation"
-    definition_simple: "Rules made by Government ministers using powers given to them by an Act of Parliament, without needing a whole new law."
-    definition_full: "Secondary legislation made by ministers or other bodies under powers conferred by an Act of Parliament (the 'parent' or 'enabling' Act). The most common form is the Statutory Instrument. Delegated legislation is subject to parliamentary scrutiny through affirmative or negative procedures but cannot be amended by Parliament."
+    - term: 'Delegated Legislation'
+      definition_simple: 'Rules made by Government ministers using powers given to them by an Act of Parliament, without needing a whole new law.'
+      definition_full: "Secondary legislation made by ministers or other bodies under powers conferred by an Act of Parliament (the 'parent' or 'enabling' Act). The most common form is the Statutory Instrument. Delegated legislation is subject to parliamentary scrutiny through affirmative or negative procedures but cannot be amended by Parliament."
 
-  - term: "White Paper"
-    definition_simple: "A document where the Government explains its plans for a new law and invites people to give their opinions."
-    definition_full: "A Government policy document that sets out firm proposals for legislation. White Papers typically follow a period of consultation and precede the introduction of a Bill. They are distinct from Green Papers, which present ideas at an earlier, more open-ended stage of policy development."
+    - term: 'White Paper'
+      definition_simple: 'A document where the Government explains its plans for a new law and invites people to give their opinions.'
+      definition_full: 'A Government policy document that sets out firm proposals for legislation. White Papers typically follow a period of consultation and precede the introduction of a Bill. They are distinct from Green Papers, which present ideas at an earlier, more open-ended stage of policy development.'
 
-  - term: "Green Paper"
-    definition_simple: "A document where the Government shares early ideas and asks people what they think before making a plan for a new law."
-    definition_full: "A Government consultation document that sets out proposals at a preliminary stage, inviting responses from interested parties and the public. Green Papers are used to test opinion and gather evidence before the Government commits to a policy position, which may then be set out in a White Paper."
+    - term: 'Green Paper'
+      definition_simple: 'A document where the Government shares early ideas and asks people what they think before making a plan for a new law.'
+      definition_full: 'A Government consultation document that sets out proposals at a preliminary stage, inviting responses from interested parties and the public. Green Papers are used to test opinion and gather evidence before the Government commits to a policy position, which may then be set out in a White Paper.'
 
 did_you_know:
-  - fact: "The last time a monarch refused Royal Assent was in 1708, when Queen Anne blocked the Scottish Militia Bill. No King or Queen has said no to a law since then."
-    level: [child, teenager]
+    - fact: 'The last time a monarch refused Royal Assent was in 1708, when Queen Anne blocked the Scottish Militia Bill. No King or Queen has said no to a law since then.'
+      level: [child, teenager]
 
-  - fact: "Parliament passes around 25 to 35 Acts each year, but ministers make over 3,000 pieces of secondary legislation (Statutory Instruments) in the same period."
-    level: [teenager, adult, researcher]
+    - fact: 'Parliament passes around 25 to 35 Acts each year, but ministers make over 3,000 pieces of secondary legislation (Statutory Instruments) in the same period.'
+      level: [teenager, adult, researcher]
 
-  - fact: "The Parliament Acts have only been used seven times since 1911 to pass laws without the House of Lords' agreement. The most recent was the Hunting Act 2004."
-    level: [adult, researcher]
+    - fact: "The Parliament Acts have only been used seven times since 1911 to pass laws without the House of Lords' agreement. The most recent was the Hunting Act 2004."
+      level: [adult, researcher]
 
-  - fact: "When Royal Assent used to be given in person, the Norman French phrase 'La Reyne le veult' (The Queen wills it) or 'Le Roy le veult' (The King wills it) was used. This form is still occasionally employed for ceremonial purposes."
-    level: [teenager, adult, researcher]
+    - fact: "When Royal Assent used to be given in person, the Norman French phrase 'La Reyne le veult' (The Queen wills it) or 'Le Roy le veult' (The King wills it) was used. This form is still occasionally employed for ceremonial purposes."
+      level: [teenager, adult, researcher]
 
-  - fact: "Private Members' Bills are allocated only thirteen Fridays of debating time per parliamentary session, making it very difficult for them to become law without Government support."
-    level: [adult, researcher]
+    - fact: "Private Members' Bills are allocated only thirteen Fridays of debating time per parliamentary session, making it very difficult for them to become law without Government support."
+      level: [adult, researcher]
 
 key_dates:
-  - year: 1689
-    event: "Bill of Rights established parliamentary supremacy over the Crown"
-    significance: "Confirmed that the Crown could not suspend laws or levy taxes without Parliament's consent, laying the constitutional foundation for the modern legislative process."
-    levels: [adult, researcher]
+    - year: 1689
+      event: 'Bill of Rights established parliamentary supremacy over the Crown'
+      significance: "Confirmed that the Crown could not suspend laws or levy taxes without Parliament's consent, laying the constitutional foundation for the modern legislative process."
+      levels: [adult, researcher]
 
-  - year: 1708
-    event: "Queen Anne withheld Royal Assent from the Scottish Militia Bill"
-    significance: "The last time a British monarch refused to approve a Bill passed by Parliament. Royal Assent has been considered a formality ever since."
-    levels: [teenager, adult, researcher]
+    - year: 1708
+      event: 'Queen Anne withheld Royal Assent from the Scottish Militia Bill'
+      significance: 'The last time a British monarch refused to approve a Bill passed by Parliament. Royal Assent has been considered a formality ever since.'
+      levels: [teenager, adult, researcher]
 
-  - year: 1911
-    event: "Parliament Act 1911 curtailed the House of Lords' veto power"
-    significance: "Replaced the Lords' absolute veto over legislation with a two-year delaying power (later reduced to one year by the 1949 Act), and removed their power to block Money Bills entirely."
-    levels: [teenager, adult, researcher]
+    - year: 1911
+      event: "Parliament Act 1911 curtailed the House of Lords' veto power"
+      significance: "Replaced the Lords' absolute veto over legislation with a two-year delaying power (later reduced to one year by the 1949 Act), and removed their power to block Money Bills entirely."
+      levels: [teenager, adult, researcher]
 
-  - year: 1949
-    event: "Parliament Act 1949 reduced the Lords' delaying power"
-    significance: "Shortened the period the Lords could delay a Bill from two years over three sessions to one year over two sessions, further strengthening the primacy of the elected House of Commons."
-    levels: [adult, researcher]
+    - year: 1949
+      event: "Parliament Act 1949 reduced the Lords' delaying power"
+      significance: 'Shortened the period the Lords could delay a Bill from two years over three sessions to one year over two sessions, further strengthening the primacy of the elected House of Commons.'
+      levels: [adult, researcher]
 
-  - year: 1967
-    event: "Royal Assent Act modernised the assent procedure"
-    significance: "Allowed Royal Assent to be signified by Letters Patent rather than requiring the Sovereign to attend Parliament in person or use Norman French declarations."
-    levels: [adult, researcher]
+    - year: 1967
+      event: 'Royal Assent Act modernised the assent procedure'
+      significance: 'Allowed Royal Assent to be signified by Letters Patent rather than requiring the Sovereign to attend Parliament in person or use Norman French declarations.'
+      levels: [adult, researcher]
 
-  - year: 2005
-    event: "R (Jackson) v Attorney General upheld the validity of the Parliament Act 1949"
-    significance: "The House of Lords (judicial) confirmed that the 1949 Act was validly enacted using the 1911 Act procedure, while offering significant commentary on the nature and limits of parliamentary sovereignty."
-    levels: [researcher]
+    - year: 2005
+      event: 'R (Jackson) v Attorney General upheld the validity of the Parliament Act 1949'
+      significance: 'The House of Lords (judicial) confirmed that the 1949 Act was validly enacted using the 1911 Act procedure, while offering significant commentary on the nature and limits of parliamentary sovereignty.'
+      levels: [researcher]
 
 key_figures:
-  - name: "Herbert Henry Asquith"
-    role: "Prime Minister (1908-1916)"
-    description: "Led the Liberal Government that passed the Parliament Act 1911, fundamentally altering the constitutional relationship between the Commons and the Lords after a prolonged crisis over the People's Budget of 1909."
-    levels: [adult, researcher]
+    - name: 'Herbert Henry Asquith'
+      role: 'Prime Minister (1908-1916)'
+      description: "Led the Liberal Government that passed the Parliament Act 1911, fundamentally altering the constitutional relationship between the Commons and the Lords after a prolonged crisis over the People's Budget of 1909."
+      levels: [adult, researcher]
 
-  - name: "Sydney Silverman"
-    role: "Labour MP for Nelson and Colne"
-    description: "Introduced the Murder (Abolition of Death Penalty) Act 1965 as a Private Member's Bill, demonstrating the potential of backbench legislation to achieve major social reform."
-    levels: [teenager, adult, researcher]
+    - name: 'Sydney Silverman'
+      role: 'Labour MP for Nelson and Colne'
+      description: "Introduced the Murder (Abolition of Death Penalty) Act 1965 as a Private Member's Bill, demonstrating the potential of backbench legislation to achieve major social reform."
+      levels: [teenager, adult, researcher]
 
-  - name: "Robin Cook"
-    role: "Leader of the House of Commons (2001-2003)"
-    description: "Championed the Modernisation Committee reforms that introduced pre-legislative scrutiny and Public Bill Committees with evidence-taking powers, significantly enhancing parliamentary scrutiny of legislation."
-    levels: [researcher]
+    - name: 'Robin Cook'
+      role: 'Leader of the House of Commons (2001-2003)'
+      description: 'Championed the Modernisation Committee reforms that introduced pre-legislative scrutiny and Public Bill Committees with evidence-taking powers, significantly enhancing parliamentary scrutiny of legislation.'
+      levels: [researcher]
 
 video_links:
-  - title: "How laws are made (primary)"
-    url: "https://www.youtube.com/watch?v=sfpHjnkGwmQ"
-    source: "UK Parliament"
-    description: "An animated introduction to how Parliament makes laws, designed for primary school audiences. Covers the basic journey of a Bill through Parliament."
-    levels: [child, teenager]
+    - title: 'How laws are made (primary)'
+      url: 'https://www.youtube.com/watch?v=sfpHjnkGwmQ'
+      source: 'UK Parliament'
+      description: 'An animated introduction to how Parliament makes laws, designed for primary school audiences. Covers the basic journey of a Bill through Parliament.'
+      levels: [child, teenager]
 
-  - title: "How does a Bill become a Law?"
-    url: "https://www.youtube.com/watch?v=1KFGt9M-j28"
-    source: "UK Parliament"
-    description: "An educational overview of the stages a Bill passes through in both Houses of Parliament before receiving Royal Assent and becoming an Act of Parliament."
-    levels: [teenager, adult]
+    - title: 'How does a Bill become a Law?'
+      url: 'https://www.youtube.com/watch?v=1KFGt9M-j28'
+      source: 'UK Parliament'
+      description: 'An educational overview of the stages a Bill passes through in both Houses of Parliament before receiving Royal Assent and becoming an Act of Parliament.'
+      levels: [teenager, adult]
 
-  - title: "How Do Laws Get Passed In The UK?"
-    url: "https://www.youtube.com/watch?v=g5CJNLRqZXs"
-    source: "TLDR News"
-    description: "An accessible explainer covering the UK legislative process, including the different types of Bills, parliamentary stages, and the role of both Houses."
-    levels: [teenager, adult]
+    - title: 'How Do Laws Get Passed In The UK?'
+      url: 'https://www.youtube.com/watch?v=g5CJNLRqZXs'
+      source: 'TLDR News'
+      description: 'An accessible explainer covering the UK legislative process, including the different types of Bills, parliamentary stages, and the role of both Houses.'
+      levels: [teenager, adult]
 
-  - title: "What is the passage of a bill?"
-    url: "https://www.youtube.com/watch?v=d36rCcMA2X8"
-    source: "UK Parliament"
-    description: "A detailed look at the formal passage of a Bill through Parliament, explaining each stage from First Reading to Royal Assent and the ping-pong process between the Houses."
-    levels: [adult, researcher]
+    - title: 'What is the passage of a bill?'
+      url: 'https://www.youtube.com/watch?v=d36rCcMA2X8'
+      source: 'UK Parliament'
+      description: 'A detailed look at the formal passage of a Bill through Parliament, explaining each stage from First Reading to Royal Assent and the ping-pong process between the Houses.'
+      levels: [adult, researcher]
 
 quizzes:
-  child:
-    - question: "What is a Bill?"
-      type: multiple_choice
-      options:
-        - "A law that everyone must follow"
-        - "A plan for a new law that Parliament discusses"
-        - "A letter from the King"
-        - "A type of tax"
-      correct_answer: "A plan for a new law that Parliament discusses"
-      explanation: "A Bill is like a rough draft of a new law. It has to be discussed and approved by Parliament before it becomes a real law."
+    child:
+        - question: 'What is a Bill?'
+          type: multiple_choice
+          options:
+              - 'A law that everyone must follow'
+              - 'A plan for a new law that Parliament discusses'
+              - 'A letter from the King'
+              - 'A type of tax'
+          correct_answer: 'A plan for a new law that Parliament discusses'
+          explanation: 'A Bill is like a rough draft of a new law. It has to be discussed and approved by Parliament before it becomes a real law.'
 
-    - question: "True or false: A Bill must be approved by both the House of Commons and the House of Lords before it can become a law."
-      type: true_false
-      correct_answer: "True"
-      explanation: "Both parts of Parliament need to agree on a Bill before it can be sent to the King for Royal Assent and become a law."
+        - question: 'True or false: A Bill must be approved by both the House of Commons and the House of Lords before it can become a law.'
+          type: true_false
+          correct_answer: 'True'
+          explanation: 'Both parts of Parliament need to agree on a Bill before it can be sent to the King for Royal Assent and become a law.'
 
-    - question: "What is Royal Assent?"
-      type: multiple_choice
-      options:
-        - "When MPs vote on a Bill"
-        - "When the King approves a Bill and it becomes law"
-        - "When a Bill is first introduced"
-        - "When the House of Lords debates a Bill"
-      correct_answer: "When the King approves a Bill and it becomes law"
-      explanation: "Royal Assent is the final step. When the King gives approval, the Bill officially becomes an Act of Parliament -- a real law."
+        - question: 'What is Royal Assent?'
+          type: multiple_choice
+          options:
+              - 'When MPs vote on a Bill'
+              - 'When the King approves a Bill and it becomes law'
+              - 'When a Bill is first introduced'
+              - 'When the House of Lords debates a Bill'
+          correct_answer: 'When the King approves a Bill and it becomes law'
+          explanation: 'Royal Assent is the final step. When the King gives approval, the Bill officially becomes an Act of Parliament -- a real law.'
 
-  teenager:
-    - question: "Which of the following is NOT a stage that a Bill goes through in Parliament?"
-      type: multiple_choice
-      options:
-        - "First Reading"
-        - "Committee Stage"
-        - "Royal Debate"
-        - "Third Reading"
-      correct_answer: "Royal Debate"
-      explanation: "The five stages are First Reading, Second Reading, Committee Stage, Report Stage, and Third Reading. There is no stage called 'Royal Debate.'"
+    teenager:
+        - question: 'Which of the following is NOT a stage that a Bill goes through in Parliament?'
+          type: multiple_choice
+          options:
+              - 'First Reading'
+              - 'Committee Stage'
+              - 'Royal Debate'
+              - 'Third Reading'
+          correct_answer: 'Royal Debate'
+          explanation: "The five stages are First Reading, Second Reading, Committee Stage, Report Stage, and Third Reading. There is no stage called 'Royal Debate.'"
 
-    - question: "What is 'ping-pong' in the context of Parliament?"
-      type: short_answer
-      correct_answer: "The process where a Bill is sent back and forth between the House of Commons and the House of Lords until both Houses agree on the same text."
-      explanation: "When one House makes amendments to a Bill, it must go back to the other House for approval. This back-and-forth continues until both Houses agree on identical wording."
+        - question: "What is 'ping-pong' in the context of Parliament?"
+          type: short_answer
+          correct_answer: 'The process where a Bill is sent back and forth between the House of Commons and the House of Lords until both Houses agree on the same text.'
+          explanation: 'When one House makes amendments to a Bill, it must go back to the other House for approval. This back-and-forth continues until both Houses agree on identical wording.'
 
-    - question: "True or false: The last time Royal Assent was refused was in 1952."
-      type: true_false
-      correct_answer: "False"
-      explanation: "The last refusal was in 1708, when Queen Anne withheld Royal Assent from the Scottish Militia Bill. No monarch has refused since."
+        - question: 'True or false: The last time Royal Assent was refused was in 1952.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'The last refusal was in 1708, when Queen Anne withheld Royal Assent from the Scottish Militia Bill. No monarch has refused since.'
 
-  adult:
-    - question: "Under the Parliament Act 1949, how long can the House of Lords delay a Public Bill that originated in the Commons?"
-      type: multiple_choice
-      options:
-        - "Six months over one session"
-        - "One year over two sessions"
-        - "Two years over three sessions"
-        - "The Lords cannot delay any Bill"
-      correct_answer: "One year over two sessions"
-      explanation: "The Parliament Act 1949 reduced the delaying power from two years over three sessions (as set by the 1911 Act) to one year over two sessions."
+    adult:
+        - question: 'Under the Parliament Act 1949, how long can the House of Lords delay a Public Bill that originated in the Commons?'
+          type: multiple_choice
+          options:
+              - 'Six months over one session'
+              - 'One year over two sessions'
+              - 'Two years over three sessions'
+              - 'The Lords cannot delay any Bill'
+          correct_answer: 'One year over two sessions'
+          explanation: 'The Parliament Act 1949 reduced the delaying power from two years over three sessions (as set by the 1911 Act) to one year over two sessions.'
 
-    - question: "What is the difference between the affirmative and negative procedures for Statutory Instruments?"
-      type: short_answer
-      correct_answer: "Under the affirmative procedure, a Statutory Instrument must be actively approved by a vote in Parliament before it can come into force. Under the negative procedure, the instrument becomes law automatically unless Parliament passes a motion to annul it within a set period."
-      explanation: "The affirmative procedure provides stronger parliamentary oversight because it requires a positive vote. The negative procedure places the burden on Parliament to object, meaning most SIs subject to it pass without debate."
+        - question: 'What is the difference between the affirmative and negative procedures for Statutory Instruments?'
+          type: short_answer
+          correct_answer: 'Under the affirmative procedure, a Statutory Instrument must be actively approved by a vote in Parliament before it can come into force. Under the negative procedure, the instrument becomes law automatically unless Parliament passes a motion to annul it within a set period.'
+          explanation: 'The affirmative procedure provides stronger parliamentary oversight because it requires a positive vote. The negative procedure places the burden on Parliament to object, meaning most SIs subject to it pass without debate.'
 
-    - question: "What is the Salisbury Convention?"
-      type: short_answer
-      correct_answer: "A convention established in 1945 that the House of Lords will not vote down at Second Reading any Government Bill that was in the governing party's election manifesto."
-      explanation: "The Salisbury-Addison Convention reflects the democratic primacy of the elected House of Commons. It ensures that a Government's manifesto commitments cannot be blocked outright by the unelected Lords."
+        - question: 'What is the Salisbury Convention?'
+          type: short_answer
+          correct_answer: "A convention established in 1945 that the House of Lords will not vote down at Second Reading any Government Bill that was in the governing party's election manifesto."
+          explanation: "The Salisbury-Addison Convention reflects the democratic primacy of the elected House of Commons. It ensures that a Government's manifesto commitments cannot be blocked outright by the unelected Lords."
 
-  researcher:
-    - question: "In R (Jackson) v Attorney General [2005], what was the central constitutional question, and what did the Law Lords conclude?"
-      type: essay
-      correct_answer: "The central question was whether the Parliament Act 1949, which was itself enacted using the procedure set out in the Parliament Act 1911, was valid primary legislation. The Law Lords unanimously held that it was valid, reasoning that the 1911 Act created a new, alternative procedure for enacting legislation and that the 1949 Act fell within the scope of that procedure. However, several Law Lords offered significant obiter dicta suggesting that there might be limits to the use of the Parliament Act procedure, for example to extend the life of Parliament or to abolish the House of Lords."
-      explanation: "Jackson is a landmark constitutional case because it addressed the relationship between parliamentary sovereignty and the rule of law, with some Law Lords (notably Baroness Hale and Lord Steyn) suggesting that parliamentary sovereignty might not be absolute."
+    researcher:
+        - question: 'In R (Jackson) v Attorney General [2005], what was the central constitutional question, and what did the Law Lords conclude?'
+          type: essay
+          correct_answer: 'The central question was whether the Parliament Act 1949, which was itself enacted using the procedure set out in the Parliament Act 1911, was valid primary legislation. The Law Lords unanimously held that it was valid, reasoning that the 1911 Act created a new, alternative procedure for enacting legislation and that the 1949 Act fell within the scope of that procedure. However, several Law Lords offered significant obiter dicta suggesting that there might be limits to the use of the Parliament Act procedure, for example to extend the life of Parliament or to abolish the House of Lords.'
+          explanation: 'Jackson is a landmark constitutional case because it addressed the relationship between parliamentary sovereignty and the rule of law, with some Law Lords (notably Baroness Hale and Lord Steyn) suggesting that parliamentary sovereignty might not be absolute.'
 
-    - question: "Critically assess the constitutional implications of the growth of delegated legislation and 'Henry VIII powers' in the UK."
-      type: essay
-      correct_answer: "The proliferation of delegated legislation raises fundamental questions about democratic accountability and the separation of powers. Henry VIII powers, which allow ministers to amend or repeal primary legislation by Statutory Instrument, effectively transfer legislative authority from Parliament to the executive. The negative procedure provides minimal scrutiny, and Parliament cannot amend SIs. The Delegated Powers and Regulatory Reform Committee and the Secondary Legislation Scrutiny Committee have repeatedly expressed concern about the breadth of powers sought. The European Union (Withdrawal) Act 2018 and the Retained EU Law (Revocation and Reform) Act 2023 represent particularly expansive grants of delegated power. Constitutional scholars argue this trend undermines parliamentary sovereignty in practice, even as it remains formally intact."
-      explanation: "This question requires engagement with the tension between legislative efficiency and parliamentary accountability, drawing on reports from the Hansard Society, the House of Lords Constitution Committee, and academic commentary."
+        - question: "Critically assess the constitutional implications of the growth of delegated legislation and 'Henry VIII powers' in the UK."
+          type: essay
+          correct_answer: 'The proliferation of delegated legislation raises fundamental questions about democratic accountability and the separation of powers. Henry VIII powers, which allow ministers to amend or repeal primary legislation by Statutory Instrument, effectively transfer legislative authority from Parliament to the executive. The negative procedure provides minimal scrutiny, and Parliament cannot amend SIs. The Delegated Powers and Regulatory Reform Committee and the Secondary Legislation Scrutiny Committee have repeatedly expressed concern about the breadth of powers sought. The European Union (Withdrawal) Act 2018 and the Retained EU Law (Revocation and Reform) Act 2023 represent particularly expansive grants of delegated power. Constitutional scholars argue this trend undermines parliamentary sovereignty in practice, even as it remains formally intact.'
+          explanation: 'This question requires engagement with the tension between legislative efficiency and parliamentary accountability, drawing on reports from the Hansard Society, the House of Lords Constitution Committee, and academic commentary.'
 
-    - question: "How does the classification of a Bill as Hybrid rather than Public affect its parliamentary passage?"
-      type: short_answer
-      correct_answer: "A Hybrid Bill follows the Public Bill procedure but with an additional petitioning stage that allows individuals or bodies who are specially and directly affected to present petitions against the Bill and have them heard by a select committee. This quasi-judicial process, governed by Standing Orders, can significantly extend the time required for the Bill's passage."
-      explanation: "The Hybrid Bill procedure reflects the need to balance public legislation with the rights of those disproportionately affected, combining elements of the Public and Private Bill processes."
+        - question: 'How does the classification of a Bill as Hybrid rather than Public affect its parliamentary passage?'
+          type: short_answer
+          correct_answer: "A Hybrid Bill follows the Public Bill procedure but with an additional petitioning stage that allows individuals or bodies who are specially and directly affected to present petitions against the Bill and have them heard by a select committee. This quasi-judicial process, governed by Standing Orders, can significantly extend the time required for the Bill's passage."
+          explanation: 'The Hybrid Bill procedure reflects the need to balance public legislation with the rights of those disproportionately affected, combining elements of the Public and Private Bill processes.'

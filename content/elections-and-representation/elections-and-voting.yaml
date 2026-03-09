@@ -1,307 +1,307 @@
 id: elections-and-voting
-title: "Elections and Voting"
+title: 'Elections and Voting'
 slug: elections-and-voting
 
 metadata:
-  category: elections-and-representation
-  tags:
-    - elections
-    - voting
-    - first-past-the-post
-    - general-elections
-    - by-elections
-    - suffragettes
-    - electoral-commission
-    - voter-registration
-    - constituency
-    - democracy
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: elections-and-representation
+    tags:
+        - elections
+        - voting
+        - first-past-the-post
+        - general-elections
+        - by-elections
+        - suffragettes
+        - electoral-commission
+        - voter-registration
+        - constituency
+        - democracy
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: house-of-commons
-    relationship: see-also
-  - id: what-is-democracy
-    relationship: see-also
-  - id: political-parties
-    relationship: see-also
-  - id: electoral-systems-and-reform
-    relationship: see-also
-  - id: citizen-engagement-beyond-voting
-    relationship: see-also
+    - id: house-of-commons
+      relationship: see-also
+    - id: what-is-democracy
+      relationship: see-also
+    - id: political-parties
+      relationship: see-also
+    - id: electoral-systems-and-reform
+      relationship: see-also
+    - id: citizen-engagement-beyond-voting
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Elections are how we choose the people who make decisions for our country."
-    body: |
-      In the United Kingdom, we use elections to pick the people who will represent us in Parliament. These people are called Members of Parliament, or MPs for short.
+    child:
+        summary: 'Elections are how we choose the people who make decisions for our country.'
+        body: |
+            In the United Kingdom, we use elections to pick the people who will represent us in Parliament. These people are called Members of Parliament, or MPs for short.
 
-      The UK is split into 650 areas called constituencies. Each constituency chooses one MP to speak up for the people who live there. It is a bit like choosing a class representative at school, except for a whole neighbourhood.
+            The UK is split into 650 areas called constituencies. Each constituency chooses one MP to speak up for the people who live there. It is a bit like choosing a class representative at school, except for a whole neighbourhood.
 
-      On election day, grown-ups go to a polling station, which is usually a local building like a school or a church hall. They are given a piece of paper called a ballot paper with a list of names on it. They put a cross next to the name of the person they want to be their MP, fold the paper, and put it into a special box called a ballot box.
+            On election day, grown-ups go to a polling station, which is usually a local building like a school or a church hall. They are given a piece of paper called a ballot paper with a list of names on it. They put a cross next to the name of the person they want to be their MP, fold the paper, and put it into a special box called a ballot box.
 
-      When all the votes have been counted, the person with the most votes wins. This way of choosing a winner is called First Past the Post. It is like a race where you only need to be in front of everyone else to win -- you do not need to get more than half of all the votes.
+            When all the votes have been counted, the person with the most votes wins. This way of choosing a winner is called First Past the Post. It is like a race where you only need to be in front of everyone else to win -- you do not need to get more than half of all the votes.
 
-      A general election is when every constituency in the country votes on the same day. The political party whose candidates win the most seats usually forms the Government and their leader becomes the Prime Minister.
+            A general election is when every constituency in the country votes on the same day. The political party whose candidates win the most seats usually forms the Government and their leader becomes the Prime Minister.
 
-      Sometimes an election happens in just one constituency, for example if an MP can no longer do the job. This is called a by-election.
+            Sometimes an election happens in just one constituency, for example if an MP can no longer do the job. This is called a by-election.
 
-      Not everyone was always allowed to vote. A long time ago, only rich men could vote. Over many years, brave people campaigned so that everyone could have a say. Women called suffragettes fought especially hard for women's right to vote. Today, every adult aged 18 or over can vote, as long as they are registered.
-    reading_age: 8
-  teenager:
-    summary: "The UK uses the First Past the Post voting system to elect 650 MPs, a system shaped by centuries of reform from the suffragettes to modern boundary reviews."
-    body: |
-      The United Kingdom elects its Members of Parliament using a voting system called First Past the Post (FPTP). In each of the 650 constituencies across the country, voters mark a cross next to their preferred candidate on a ballot paper, and the candidate with the most votes wins the seat. There is no requirement to win a majority -- a candidate can win with just 25 or 30 per cent of the vote if the remaining votes are split among other candidates.
+            Not everyone was always allowed to vote. A long time ago, only rich men could vote. Over many years, brave people campaigned so that everyone could have a say. Women called suffragettes fought especially hard for women's right to vote. Today, every adult aged 18 or over can vote, as long as they are registered.
+        reading_age: 8
+    teenager:
+        summary: 'The UK uses the First Past the Post voting system to elect 650 MPs, a system shaped by centuries of reform from the suffragettes to modern boundary reviews.'
+        body: |
+            The United Kingdom elects its Members of Parliament using a voting system called First Past the Post (FPTP). In each of the 650 constituencies across the country, voters mark a cross next to their preferred candidate on a ballot paper, and the candidate with the most votes wins the seat. There is no requirement to win a majority -- a candidate can win with just 25 or 30 per cent of the vote if the remaining votes are split among other candidates.
 
-      General elections are held to choose all 650 MPs at once. Under the Dissolution and Calling of Parliament Act 2022, the Prime Minister can request that the Monarch dissolve Parliament and call a general election at a time of their choosing, though a Parliament can last a maximum of five years. The most recent general election was held on 4 July 2024, resulting in a Labour victory with 411 seats. Turnout was 60.0 per cent, the second lowest since universal suffrage was achieved in 1928 -- only the 2001 election had lower turnout at 59.4 per cent.
+            General elections are held to choose all 650 MPs at once. Under the Dissolution and Calling of Parliament Act 2022, the Prime Minister can request that the Monarch dissolve Parliament and call a general election at a time of their choosing, though a Parliament can last a maximum of five years. The most recent general election was held on 4 July 2024, resulting in a Labour victory with 411 seats. Turnout was 60.0 per cent, the second lowest since universal suffrage was achieved in 1928 -- only the 2001 election had lower turnout at 59.4 per cent.
 
-      By-elections take place in individual constituencies when a seat becomes vacant between general elections. This can happen when an MP dies, is disqualified, or wishes to resign. Interestingly, MPs cannot technically resign -- instead, they are appointed to a ceremonial "office of profit under the Crown" (either the Steward of the Chiltern Hundreds or the Steward of the Manor of Northstead), which automatically vacates their seat. Since 2015, voters can also trigger a by-election through a recall petition under the Recall of MPs Act.
+            By-elections take place in individual constituencies when a seat becomes vacant between general elections. This can happen when an MP dies, is disqualified, or wishes to resign. Interestingly, MPs cannot technically resign -- instead, they are appointed to a ceremonial "office of profit under the Crown" (either the Steward of the Chiltern Hundreds or the Steward of the Manor of Northstead), which automatically vacates their seat. Since 2015, voters can also trigger a by-election through a recall petition under the Recall of MPs Act.
 
-      The right to vote was not always universal. In the early 1800s, only a small number of wealthy men could vote. The Reform Acts of 1832, 1867, and 1884 gradually expanded the franchise. The suffragette movement, led by Emmeline Pankhurst and the Women's Social and Political Union (WSPU) from 1903, campaigned militantly for women's right to vote. Suffragettes endured imprisonment, hunger strikes, and force-feeding. In 1913, Emily Wilding Davison died after stepping in front of the King's horse at the Epsom Derby. The Representation of the People Act 1918 gave the vote to women over 30 (with property qualifications) and all men over 21. Full equal suffrage came in 1928, when women gained the vote on the same terms as men at age 21.
+            The right to vote was not always universal. In the early 1800s, only a small number of wealthy men could vote. The Reform Acts of 1832, 1867, and 1884 gradually expanded the franchise. The suffragette movement, led by Emmeline Pankhurst and the Women's Social and Political Union (WSPU) from 1903, campaigned militantly for women's right to vote. Suffragettes endured imprisonment, hunger strikes, and force-feeding. In 1913, Emily Wilding Davison died after stepping in front of the King's horse at the Epsom Derby. The Representation of the People Act 1918 gave the vote to women over 30 (with property qualifications) and all men over 21. Full equal suffrage came in 1928, when women gained the vote on the same terms as men at age 21.
 
-      FPTP tends to produce strong majority governments but can also produce results where a party's share of seats does not match its share of the national vote. In the 2024 election, Labour won 63 per cent of seats with only 33.7 per cent of the vote, while the Liberal Democrats won their highest-ever number of seats. This mismatch is one reason some people campaign for electoral reform.
+            FPTP tends to produce strong majority governments but can also produce results where a party's share of seats does not match its share of the national vote. In the 2024 election, Labour won 63 per cent of seats with only 33.7 per cent of the vote, while the Liberal Democrats won their highest-ever number of seats. This mismatch is one reason some people campaign for electoral reform.
 
-      Today, anyone aged 18 or over who is a British, Irish, or qualifying Commonwealth citizen can vote, provided they are registered. You can register to vote online at gov.uk/register-to-vote using your National Insurance number.
-    reading_age: 14
-  adult:
-    summary: "The UK's First Past the Post electoral system, overseen by the Electoral Commission and shaped by the Boundary Commissions, produces single-member constituency representation with significant implications for party competition and democratic legitimacy."
-    body: |
-      The United Kingdom employs the single-member plurality system, commonly known as First Past the Post (FPTP), for elections to the House of Commons. Each of the 650 constituencies returns one Member of Parliament, elected by simple plurality -- the candidate receiving the most votes wins, regardless of whether they achieve an absolute majority. This system is also used for some local government elections in England and Wales, though other UK elections (Scottish Parliament, Senedd Cymru, Northern Ireland Assembly, and London Assembly) use forms of proportional or mixed representation.
+            Today, anyone aged 18 or over who is a British, Irish, or qualifying Commonwealth citizen can vote, provided they are registered. You can register to vote online at gov.uk/register-to-vote using your National Insurance number.
+        reading_age: 14
+    adult:
+        summary: "The UK's First Past the Post electoral system, overseen by the Electoral Commission and shaped by the Boundary Commissions, produces single-member constituency representation with significant implications for party competition and democratic legitimacy."
+        body: |
+            The United Kingdom employs the single-member plurality system, commonly known as First Past the Post (FPTP), for elections to the House of Commons. Each of the 650 constituencies returns one Member of Parliament, elected by simple plurality -- the candidate receiving the most votes wins, regardless of whether they achieve an absolute majority. This system is also used for some local government elections in England and Wales, though other UK elections (Scottish Parliament, Senedd Cymru, Northern Ireland Assembly, and London Assembly) use forms of proportional or mixed representation.
 
-      The Electoral Commission, established by the Political Parties, Elections and Referendums Act 2000 (PPERA), is the independent regulatory body that oversees elections and regulates political finance in the UK. Its responsibilities include registering political parties and non-party campaigners, providing guidance to Electoral Registration Officers and Returning Officers, regulating donations, loans, and campaign spending, and publishing quarterly financial data on party funding. Unlike general and local elections (which are run by local Returning Officers), the Electoral Commission directly administers referendums, including appointing lead campaigners and designing the ballot paper question.
+            The Electoral Commission, established by the Political Parties, Elections and Referendums Act 2000 (PPERA), is the independent regulatory body that oversees elections and regulates political finance in the UK. Its responsibilities include registering political parties and non-party campaigners, providing guidance to Electoral Registration Officers and Returning Officers, regulating donations, loans, and campaign spending, and publishing quarterly financial data on party funding. Unlike general and local elections (which are run by local Returning Officers), the Electoral Commission directly administers referendums, including appointing lead campaigners and designing the ballot paper question.
 
-      Constituency boundaries are periodically reviewed by the four Boundary Commissions (for England, Scotland, Wales, and Northern Ireland) to ensure roughly equal electorates. Under the Parliamentary Constituencies Act 1986 (as amended), reviews must now take place every eight years using electoral register data. The most recent review, completed in June 2023 and implemented by The Parliamentary Constituencies Order 2023 on 15 November 2023, redistributed seats: England gained 10, Scotland lost 2, and Wales lost 8. These new boundaries were first used at the July 2024 general election.
+            Constituency boundaries are periodically reviewed by the four Boundary Commissions (for England, Scotland, Wales, and Northern Ireland) to ensure roughly equal electorates. Under the Parliamentary Constituencies Act 1986 (as amended), reviews must now take place every eight years using electoral register data. The most recent review, completed in June 2023 and implemented by The Parliamentary Constituencies Order 2023 on 15 November 2023, redistributed seats: England gained 10, Scotland lost 2, and Wales lost 8. These new boundaries were first used at the July 2024 general election.
 
-      Electoral law in the UK is governed by a patchwork of statutes including the Representation of the People Acts 1983 and 2000, PPERA 2000, the Electoral Registration and Administration Act 2013 (which introduced Individual Electoral Registration), and the Elections Act 2022 (which introduced photographic voter ID requirements in Great Britain). Individual Electoral Registration, fully implemented from 2014, requires each person to register individually rather than through a household form, providing their name, address, date of birth, and National Insurance number.
+            Electoral law in the UK is governed by a patchwork of statutes including the Representation of the People Acts 1983 and 2000, PPERA 2000, the Electoral Registration and Administration Act 2013 (which introduced Individual Electoral Registration), and the Elections Act 2022 (which introduced photographic voter ID requirements in Great Britain). Individual Electoral Registration, fully implemented from 2014, requires each person to register individually rather than through a household form, providing their name, address, date of birth, and National Insurance number.
 
-      Voter turnout has varied considerably over time. Post-war turnout peaked at 83.9 per cent in 1950 and declined to a historic low of 59.4 per cent in 2001. The 2024 general election recorded turnout of 60.0 per cent, with significant demographic variation: turnout among 18-24 year olds fell to 37 per cent (down from 47 per cent in 2019), while turnout among owner-occupiers (71 per cent) was nearly double that of renters (38 per cent).
+            Voter turnout has varied considerably over time. Post-war turnout peaked at 83.9 per cent in 1950 and declined to a historic low of 59.4 per cent in 2001. The 2024 general election recorded turnout of 60.0 per cent, with significant demographic variation: turnout among 18-24 year olds fell to 37 per cent (down from 47 per cent in 2019), while turnout among owner-occupiers (71 per cent) was nearly double that of renters (38 per cent).
 
-      By-elections are triggered when a vacancy arises in the House of Commons, whether through death, disqualification, appointment to an office of profit under the Crown (the mechanism by which MPs effectively resign), or a successful recall petition under the Recall of MPs Act 2015. The writ for a by-election is issued after two MPs present the Speaker with a certificate of vacancy, and the election must be held within 21 to 27 working days of the writ being issued.
-    reading_age: 18
-  researcher:
-    summary: "A critical analysis of the UK's single-member plurality electoral system, its constitutional foundations, empirical effects on party competition and representation, and the ongoing academic debate surrounding electoral reform and democratic legitimacy."
-    body: |
-      The United Kingdom's use of single-member plurality (SMP) voting, colloquially known as First Past the Post (FPTP), for elections to the House of Commons represents one of the oldest continuous applications of this electoral method in democratic governance. The system's constitutional basis rests not on a single codifying statute but on an accumulation of legislation -- principally the Representation of the People Acts -- and constitutional convention, administered within a regulatory framework established by the Political Parties, Elections and Referendums Act 2000.
+            By-elections are triggered when a vacancy arises in the House of Commons, whether through death, disqualification, appointment to an office of profit under the Crown (the mechanism by which MPs effectively resign), or a successful recall petition under the Recall of MPs Act 2015. The writ for a by-election is issued after two MPs present the Speaker with a certificate of vacancy, and the election must be held within 21 to 27 working days of the writ being issued.
+        reading_age: 18
+    researcher:
+        summary: "A critical analysis of the UK's single-member plurality electoral system, its constitutional foundations, empirical effects on party competition and representation, and the ongoing academic debate surrounding electoral reform and democratic legitimacy."
+        body: |
+            The United Kingdom's use of single-member plurality (SMP) voting, colloquially known as First Past the Post (FPTP), for elections to the House of Commons represents one of the oldest continuous applications of this electoral method in democratic governance. The system's constitutional basis rests not on a single codifying statute but on an accumulation of legislation -- principally the Representation of the People Acts -- and constitutional convention, administered within a regulatory framework established by the Political Parties, Elections and Referendums Act 2000.
 
-      The mechanical and psychological effects of SMP voting were famously theorised by Maurice Duverger in "Les Partis Politiques" (1951). Duverger's law posits that single-ballot plurality systems tend to produce two-party competition through two reinforcing mechanisms: the "mechanical effect" (whereby third parties win fewer seats than their vote share would suggest under proportional systems) and the "psychological effect" (whereby voters and elites anticipate wasted votes and strategically coordinate around two viable candidates). However, the UK presents a significant deviation from pure Duvergerian predictions. As Patrick Dunleavy has argued, FPTP in the UK has not produced a pure two-party system at national level since at least the 1970s; rather, it has sustained multi-party competition with geographically concentrated parties (notably the SNP and, historically, the Liberal Democrats) able to win substantial seat shares despite modest national vote totals.
+            The mechanical and psychological effects of SMP voting were famously theorised by Maurice Duverger in "Les Partis Politiques" (1951). Duverger's law posits that single-ballot plurality systems tend to produce two-party competition through two reinforcing mechanisms: the "mechanical effect" (whereby third parties win fewer seats than their vote share would suggest under proportional systems) and the "psychological effect" (whereby voters and elites anticipate wasted votes and strategically coordinate around two viable candidates). However, the UK presents a significant deviation from pure Duvergerian predictions. As Patrick Dunleavy has argued, FPTP in the UK has not produced a pure two-party system at national level since at least the 1970s; rather, it has sustained multi-party competition with geographically concentrated parties (notably the SNP and, historically, the Liberal Democrats) able to win substantial seat shares despite modest national vote totals.
 
-      The 2024 general election starkly illustrated the disproportionality inherent in SMP. Labour secured 411 seats (63.2 per cent of the House) with 33.7 per cent of the national vote -- the lowest vote share ever to produce a parliamentary supermajority. The Conservatives were reduced to 121 seats, the Liberal Democrats achieved a record 72 seats, and Reform UK won 4 seats despite securing approximately 14.3 per cent of the national vote. The Gallagher index of disproportionality for the 2024 election was among the highest recorded for any UK general election, reinvigorating scholarly and public debate about the legitimacy of plurality voting.
+            The 2024 general election starkly illustrated the disproportionality inherent in SMP. Labour secured 411 seats (63.2 per cent of the House) with 33.7 per cent of the national vote -- the lowest vote share ever to produce a parliamentary supermajority. The Conservatives were reduced to 121 seats, the Liberal Democrats achieved a record 72 seats, and Reform UK won 4 seats despite securing approximately 14.3 per cent of the national vote. The Gallagher index of disproportionality for the 2024 election was among the highest recorded for any UK general election, reinvigorating scholarly and public debate about the legitimacy of plurality voting.
 
-      The Electoral Commission, as the independent regulatory body established under PPERA 2000, occupies a complex constitutional position. It reports to the Speaker's Committee on the Electoral Commission rather than to ministers, safeguarding its independence from the executive. The Elections Act 2022 introduced a Government-authored strategy and policy statement for the Commission, which critics (including the Commission itself) argued could compromise its regulatory independence. The Commission's regulatory functions span registration of political parties and third-party campaigners, monitoring and enforcement of donation and spending limits, guidance for electoral administrators, and post-election reporting.
+            The Electoral Commission, as the independent regulatory body established under PPERA 2000, occupies a complex constitutional position. It reports to the Speaker's Committee on the Electoral Commission rather than to ministers, safeguarding its independence from the executive. The Elections Act 2022 introduced a Government-authored strategy and policy statement for the Commission, which critics (including the Commission itself) argued could compromise its regulatory independence. The Commission's regulatory functions span registration of political parties and third-party campaigners, monitoring and enforcement of donation and spending limits, guidance for electoral administrators, and post-election reporting.
 
-      The Boundary Commissions' role in constituency delimitation raises fundamental questions about representation and gerrymandering. Unlike many jurisdictions, UK boundary reviews are conducted by independent statutory bodies operating under prescribed rules (principally that constituency electorates must fall within 5 per cent of the electoral quota, with limited exceptions for geographically very large or island constituencies). The 2023 review, which reduced Welsh representation from 40 to 32 seats and increased English seats from 533 to 543, reflected significant population shifts and the removal of previous flexibility in electorate size. The interaction between boundary changes and incumbency effects represents an active area of electoral studies research.
+            The Boundary Commissions' role in constituency delimitation raises fundamental questions about representation and gerrymandering. Unlike many jurisdictions, UK boundary reviews are conducted by independent statutory bodies operating under prescribed rules (principally that constituency electorates must fall within 5 per cent of the electoral quota, with limited exceptions for geographically very large or island constituencies). The 2023 review, which reduced Welsh representation from 40 to 32 seats and increased English seats from 533 to 543, reflected significant population shifts and the removal of previous flexibility in electorate size. The interaction between boundary changes and incumbency effects represents an active area of electoral studies research.
 
-      The historical expansion of the franchise provides essential context for understanding contemporary electoral participation. The Great Reform Act of 1832 eliminated rotten boroughs and extended the vote to approximately 14 per cent of the adult male population. The Second Reform Act of 1867 enfranchised urban working-class men, and the Third Reform Act of 1884 extended similar provisions to rural areas. The campaign for women's suffrage, encompassing both the constitutionalist National Union of Women's Suffrage Societies (NUWSS) under Millicent Fawcett and the militant Women's Social and Political Union (WSPU) under the Pankhursts, culminated in the Representation of the People Act 1918 (partial female suffrage for women over 30 meeting property qualifications) and the Equal Franchise Act 1928 (universal suffrage at 21). The voting age was lowered to 18 by the Representation of the People Act 1969.
+            The historical expansion of the franchise provides essential context for understanding contemporary electoral participation. The Great Reform Act of 1832 eliminated rotten boroughs and extended the vote to approximately 14 per cent of the adult male population. The Second Reform Act of 1867 enfranchised urban working-class men, and the Third Reform Act of 1884 extended similar provisions to rural areas. The campaign for women's suffrage, encompassing both the constitutionalist National Union of Women's Suffrage Societies (NUWSS) under Millicent Fawcett and the militant Women's Social and Political Union (WSPU) under the Pankhursts, culminated in the Representation of the People Act 1918 (partial female suffrage for women over 30 meeting property qualifications) and the Equal Franchise Act 1928 (universal suffrage at 21). The voting age was lowered to 18 by the Representation of the People Act 1969.
 
-      Contemporary turnout decline poses significant questions for democratic legitimacy. The 2024 turnout of 60.0 per cent continued a trend of historically low participation, with particularly sharp declines among younger voters (18-24 turnout fell to 37 per cent) and socioeconomically disadvantaged groups. Research by the British Election Study and Ipsos has identified differential turnout as a significant source of representational inequality, with implications for policy responsiveness that resonate with Arend Lijphart's arguments about compulsory voting as a mechanism for achieving equal political participation.
+            Contemporary turnout decline poses significant questions for democratic legitimacy. The 2024 turnout of 60.0 per cent continued a trend of historically low participation, with particularly sharp declines among younger voters (18-24 turnout fell to 37 per cent) and socioeconomically disadvantaged groups. Research by the British Election Study and Ipsos has identified differential turnout as a significant source of representational inequality, with implications for policy responsiveness that resonate with Arend Lijphart's arguments about compulsory voting as a mechanism for achieving equal political participation.
 
-      The debate over electoral reform remains a central question in UK political science. The 2011 Alternative Vote referendum, in which 67.9 per cent voted to retain FPTP, is often cited as settling the question, but scholars note the low salience of the referendum campaign and the specific limitations of AV as a reform option. The Electoral Reform Society, Make Votes Matter, and other advocacy organisations continue to campaign for proportional representation, pointing to the growing gap between vote shares and seat shares as evidence of systemic democratic deficit.
-    reading_age: null
-    sources:
-      - citation: "Duverger, Maurice, Les Partis Politiques, 1951"
-        url: "https://archive.org/details/lespartispoliti00duvegoog"
-        type: primary
-      - citation: "Dunleavy, Patrick, 'Duverger's Law is a dead parrot', LSE British Politics and Policy blog, 2024"
-        url: "https://blogs.lse.ac.uk/politicsandpolicy/duvergers-law-dead-parrot-dunleavy/"
-        type: secondary
-      - citation: "UK Parliament, First Past the Post, Parliament Glossary"
-        url: "https://www.parliament.uk/site-information/glossary/first-past-the-post/"
-        type: official
-      - citation: "Electoral Commission, Our Role and Responsibilities"
-        url: "https://www.electoralcommission.org.uk/about-us/our-role-and-responsibilities"
-        type: official
-      - citation: "House of Commons Library, General Election 2024: Turnout, Research Briefing"
-        url: "https://commonslibrary.parliament.uk/general-election-2024-turnout/"
-        type: official
-      - citation: "House of Commons Library, Constituency Boundary Reviews and the Number of MPs, Research Briefing SN05929"
-        url: "https://commonslibrary.parliament.uk/research-briefings/sn05929/"
-        type: official
-      - citation: "Lijphart, Arend, 'Unequal Participation: Democracy's Unresolved Dilemma', American Political Science Review, 91(1), 1997"
-        url: "https://doi.org/10.2307/2952255"
-        type: secondary
+            The debate over electoral reform remains a central question in UK political science. The 2011 Alternative Vote referendum, in which 67.9 per cent voted to retain FPTP, is often cited as settling the question, but scholars note the low salience of the referendum campaign and the specific limitations of AV as a reform option. The Electoral Reform Society, Make Votes Matter, and other advocacy organisations continue to campaign for proportional representation, pointing to the growing gap between vote shares and seat shares as evidence of systemic democratic deficit.
+        reading_age: null
+        sources:
+            - citation: 'Duverger, Maurice, Les Partis Politiques, 1951'
+              url: 'https://archive.org/details/lespartispoliti00duvegoog'
+              type: primary
+            - citation: "Dunleavy, Patrick, 'Duverger's Law is a dead parrot', LSE British Politics and Policy blog, 2024"
+              url: 'https://blogs.lse.ac.uk/politicsandpolicy/duvergers-law-dead-parrot-dunleavy/'
+              type: secondary
+            - citation: 'UK Parliament, First Past the Post, Parliament Glossary'
+              url: 'https://www.parliament.uk/site-information/glossary/first-past-the-post/'
+              type: official
+            - citation: 'Electoral Commission, Our Role and Responsibilities'
+              url: 'https://www.electoralcommission.org.uk/about-us/our-role-and-responsibilities'
+              type: official
+            - citation: 'House of Commons Library, General Election 2024: Turnout, Research Briefing'
+              url: 'https://commonslibrary.parliament.uk/general-election-2024-turnout/'
+              type: official
+            - citation: 'House of Commons Library, Constituency Boundary Reviews and the Number of MPs, Research Briefing SN05929'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/sn05929/'
+              type: official
+            - citation: "Lijphart, Arend, 'Unequal Participation: Democracy's Unresolved Dilemma', American Political Science Review, 91(1), 1997"
+              url: 'https://doi.org/10.2307/2952255'
+              type: secondary
 
 glossary:
-  - term: "First Past the Post"
-    definition_simple: "A way of choosing a winner where the person with the most votes wins, even if they do not get more than half of all the votes."
-    definition_full: "A plurality-based electoral system in which the candidate receiving the largest number of votes in a single-member constituency is elected, without any requirement to achieve an absolute majority. Also known as single-member plurality (SMP)."
-  - term: "Constituency"
-    definition_simple: "An area of the country that chooses one person to be its MP in Parliament."
-    definition_full: "A geographically defined electoral district returning one Member of Parliament to the House of Commons. The UK's 650 constituencies are periodically redrawn by the Boundary Commissions to maintain roughly equal electorates, currently within 5 per cent of the electoral quota."
-  - term: "By-election"
-    definition_simple: "A special election held in one area when its MP can no longer do the job, for example if they have died or decided to leave."
-    definition_full: "An election held in a single constituency between general elections to fill a vacancy caused by the death, disqualification, or effective resignation of a sitting MP (via appointment to an office of profit under the Crown) or by a successful recall petition under the Recall of MPs Act 2015."
-  - term: "Universal Suffrage"
-    definition_simple: "The right for all adults to vote, no matter whether they are a man or a woman, rich or poor."
-    definition_full: "The principle that all adult citizens possess the right to vote in elections without restriction by sex, wealth, race, or social status. The UK achieved universal adult suffrage in 1928 with the Equal Franchise Act, which extended the vote to women on the same terms as men at age 21. The voting age was subsequently lowered to 18 in 1969."
-  - term: "Electoral Commission"
-    definition_simple: "An independent organisation that makes sure elections in the UK are run fairly and that political parties follow the rules about money."
-    definition_full: "The independent regulatory body established by the Political Parties, Elections and Referendums Act 2000, responsible for overseeing elections, regulating political finance (including party registration, donation transparency, and campaign spending limits), providing guidance to electoral administrators, and directly administering referendums."
-  - term: "Ballot Paper"
-    definition_simple: "The piece of paper you get at a polling station that lists the candidates. You put a cross next to the person you want to vote for."
-    definition_full: "The official paper issued to voters at a polling station listing the candidates standing in that constituency, along with their party names and emblems. Voters mark a single cross against their preferred candidate. Spoilt ballot papers (those incorrectly marked or left blank) are counted but excluded from candidates' totals."
+    - term: 'First Past the Post'
+      definition_simple: 'A way of choosing a winner where the person with the most votes wins, even if they do not get more than half of all the votes.'
+      definition_full: 'A plurality-based electoral system in which the candidate receiving the largest number of votes in a single-member constituency is elected, without any requirement to achieve an absolute majority. Also known as single-member plurality (SMP).'
+    - term: 'Constituency'
+      definition_simple: 'An area of the country that chooses one person to be its MP in Parliament.'
+      definition_full: "A geographically defined electoral district returning one Member of Parliament to the House of Commons. The UK's 650 constituencies are periodically redrawn by the Boundary Commissions to maintain roughly equal electorates, currently within 5 per cent of the electoral quota."
+    - term: 'By-election'
+      definition_simple: 'A special election held in one area when its MP can no longer do the job, for example if they have died or decided to leave.'
+      definition_full: 'An election held in a single constituency between general elections to fill a vacancy caused by the death, disqualification, or effective resignation of a sitting MP (via appointment to an office of profit under the Crown) or by a successful recall petition under the Recall of MPs Act 2015.'
+    - term: 'Universal Suffrage'
+      definition_simple: 'The right for all adults to vote, no matter whether they are a man or a woman, rich or poor.'
+      definition_full: 'The principle that all adult citizens possess the right to vote in elections without restriction by sex, wealth, race, or social status. The UK achieved universal adult suffrage in 1928 with the Equal Franchise Act, which extended the vote to women on the same terms as men at age 21. The voting age was subsequently lowered to 18 in 1969.'
+    - term: 'Electoral Commission'
+      definition_simple: 'An independent organisation that makes sure elections in the UK are run fairly and that political parties follow the rules about money.'
+      definition_full: 'The independent regulatory body established by the Political Parties, Elections and Referendums Act 2000, responsible for overseeing elections, regulating political finance (including party registration, donation transparency, and campaign spending limits), providing guidance to electoral administrators, and directly administering referendums.'
+    - term: 'Ballot Paper'
+      definition_simple: 'The piece of paper you get at a polling station that lists the candidates. You put a cross next to the person you want to vote for.'
+      definition_full: "The official paper issued to voters at a polling station listing the candidates standing in that constituency, along with their party names and emblems. Voters mark a single cross against their preferred candidate. Spoilt ballot papers (those incorrectly marked or left blank) are counted but excluded from candidates' totals."
 
 did_you_know:
-  - fact: "On election night, counting teams across the country race to announce results first. The constituency of Sunderland South held the record for fastest declaration for many years, often announcing within 45 minutes of polls closing!"
-    level: [child, teenager]
-  - fact: "In the 2024 general election, Labour won 63 per cent of the seats in Parliament with only about 34 per cent of the votes -- showing how First Past the Post can produce very different results from the overall share of votes."
-    level: [teenager, adult, researcher]
-  - fact: "MPs cannot technically resign from the House of Commons. Instead, they are appointed to a ceremonial role called the Steward of the Chiltern Hundreds or the Steward of the Manor of Northstead, which automatically disqualifies them from sitting as an MP."
-    level: [teenager, adult]
-  - fact: "The suffragette Emily Wilding Davison, who died after stepping in front of King George V's horse at the 1913 Epsom Derby, had a return train ticket in her pocket -- suggesting she may not have intended to sacrifice her life."
-    level: [teenager, adult, researcher]
-  - fact: "Turnout among 18-24 year olds in the 2024 general election was just 37 per cent, less than half the turnout among voters aged 65 and over."
-    level: [adult, researcher]
+    - fact: 'On election night, counting teams across the country race to announce results first. The constituency of Sunderland South held the record for fastest declaration for many years, often announcing within 45 minutes of polls closing!'
+      level: [child, teenager]
+    - fact: 'In the 2024 general election, Labour won 63 per cent of the seats in Parliament with only about 34 per cent of the votes -- showing how First Past the Post can produce very different results from the overall share of votes.'
+      level: [teenager, adult, researcher]
+    - fact: 'MPs cannot technically resign from the House of Commons. Instead, they are appointed to a ceremonial role called the Steward of the Chiltern Hundreds or the Steward of the Manor of Northstead, which automatically disqualifies them from sitting as an MP.'
+      level: [teenager, adult]
+    - fact: "The suffragette Emily Wilding Davison, who died after stepping in front of King George V's horse at the 1913 Epsom Derby, had a return train ticket in her pocket -- suggesting she may not have intended to sacrifice her life."
+      level: [teenager, adult, researcher]
+    - fact: 'Turnout among 18-24 year olds in the 2024 general election was just 37 per cent, less than half the turnout among voters aged 65 and over.'
+      level: [adult, researcher]
 
 key_dates:
-  - year: 1832
-    event: "Great Reform Act"
-    significance: "Eliminated rotten boroughs, standardised property qualifications, and extended the vote to approximately 14 per cent of the adult male population -- the first major expansion of the franchise."
-    levels: [teenager, adult, researcher]
-  - year: 1867
-    event: "Second Reform Act"
-    significance: "Extended the vote to urban working-class men, nearly doubling the electorate and making the House of Commons more representative of the broader population for the first time."
-    levels: [adult, researcher]
-  - year: 1903
-    event: "Women's Social and Political Union founded"
-    significance: "Emmeline Pankhurst founded the WSPU in Manchester, launching the militant suffragette campaign that used direct action, civil disobedience, and public protest to demand votes for women."
-    levels: [teenager, adult, researcher]
-  - year: 1918
-    event: "Representation of the People Act"
-    significance: "Gave the vote to all men over 21 and women over 30 who met property qualifications, tripling the electorate and granting women the parliamentary vote for the first time."
-    levels: [child, teenager, adult, researcher]
-  - year: 1928
-    event: "Equal Franchise Act"
-    significance: "Extended the vote to women on the same terms as men at age 21, achieving full universal adult suffrage in the United Kingdom for the first time."
-    levels: [child, teenager, adult, researcher]
-  - year: 1969
-    event: "Voting age lowered to 18"
-    significance: "The Representation of the People Act 1969 reduced the minimum voting age from 21 to 18, enfranchising millions of younger citizens in response to changing attitudes about adulthood and civic responsibility."
-    levels: [teenager, adult, researcher]
-  - year: 2000
-    event: "Electoral Commission established"
-    significance: "The Political Parties, Elections and Referendums Act 2000 created the Electoral Commission as an independent regulator of elections and political finance, bringing systematic oversight to the UK's electoral processes."
-    levels: [adult, researcher]
-  - year: 2024
-    event: "General election held on 4 July"
-    significance: "Labour won a landslide majority of 411 seats with 33.7 per cent of the vote, while turnout fell to 60.0 per cent -- the second lowest since universal suffrage. The election used newly redrawn constituency boundaries for the first time."
-    levels: [child, teenager, adult, researcher]
+    - year: 1832
+      event: 'Great Reform Act'
+      significance: 'Eliminated rotten boroughs, standardised property qualifications, and extended the vote to approximately 14 per cent of the adult male population -- the first major expansion of the franchise.'
+      levels: [teenager, adult, researcher]
+    - year: 1867
+      event: 'Second Reform Act'
+      significance: 'Extended the vote to urban working-class men, nearly doubling the electorate and making the House of Commons more representative of the broader population for the first time.'
+      levels: [adult, researcher]
+    - year: 1903
+      event: "Women's Social and Political Union founded"
+      significance: 'Emmeline Pankhurst founded the WSPU in Manchester, launching the militant suffragette campaign that used direct action, civil disobedience, and public protest to demand votes for women.'
+      levels: [teenager, adult, researcher]
+    - year: 1918
+      event: 'Representation of the People Act'
+      significance: 'Gave the vote to all men over 21 and women over 30 who met property qualifications, tripling the electorate and granting women the parliamentary vote for the first time.'
+      levels: [child, teenager, adult, researcher]
+    - year: 1928
+      event: 'Equal Franchise Act'
+      significance: 'Extended the vote to women on the same terms as men at age 21, achieving full universal adult suffrage in the United Kingdom for the first time.'
+      levels: [child, teenager, adult, researcher]
+    - year: 1969
+      event: 'Voting age lowered to 18'
+      significance: 'The Representation of the People Act 1969 reduced the minimum voting age from 21 to 18, enfranchising millions of younger citizens in response to changing attitudes about adulthood and civic responsibility.'
+      levels: [teenager, adult, researcher]
+    - year: 2000
+      event: 'Electoral Commission established'
+      significance: "The Political Parties, Elections and Referendums Act 2000 created the Electoral Commission as an independent regulator of elections and political finance, bringing systematic oversight to the UK's electoral processes."
+      levels: [adult, researcher]
+    - year: 2024
+      event: 'General election held on 4 July'
+      significance: 'Labour won a landslide majority of 411 seats with 33.7 per cent of the vote, while turnout fell to 60.0 per cent -- the second lowest since universal suffrage. The election used newly redrawn constituency boundaries for the first time.'
+      levels: [child, teenager, adult, researcher]
 
 key_figures:
-  - name: "Emmeline Pankhurst"
-    role: "Founder of the Women's Social and Political Union"
-    description: "Emmeline Pankhurst (1858-1928) founded the WSPU in 1903 and led the militant suffragette campaign for women's voting rights. Her tactics of direct action, including window-smashing, arson, and hunger strikes, generated enormous public attention and controversy. She lived to see the Equal Franchise Act passed in 1928, dying just weeks before it became law."
-    levels: [child, teenager, adult, researcher]
-  - name: "Millicent Fawcett"
-    role: "Leader of the National Union of Women's Suffrage Societies"
-    description: "Dame Millicent Fawcett (1847-1929) led the NUWSS from 1897, campaigning peacefully for women's suffrage through lobbying, petitions, and public persuasion. Her constitutionalist approach, running in parallel with the Pankhursts' militancy, built broad support for the cause over decades. A statue of Fawcett was unveiled in Parliament Square in 2018."
-    levels: [teenager, adult, researcher]
-  - name: "Emily Wilding Davison"
-    role: "Suffragette"
-    description: "Emily Wilding Davison (1872-1913) was a committed suffragette who was arrested nine times, went on hunger strike seven times, and was force-fed 49 times. She died from injuries sustained when she stepped onto the racecourse at the 1913 Epsom Derby and was struck by King George V's horse Anmer. Her death became a defining moment of the suffrage movement."
-    levels: [teenager, adult, researcher]
-  - name: "Maurice Duverger"
-    role: "French political scientist"
-    description: "Maurice Duverger (1917-2014) was the author of 'Les Partis Politiques' (1951), in which he formulated what became known as Duverger's law: the proposition that single-ballot plurality electoral systems tend to produce two-party competition through mechanical and psychological effects. His work remains a foundational reference in comparative electoral studies, though its applicability to the UK's multi-party reality is actively debated."
-    levels: [researcher]
-  - name: "Earl Grey"
-    role: "Prime Minister who passed the Great Reform Act"
-    description: "Charles Grey, 2nd Earl Grey (1764-1845), served as Prime Minister from 1830 to 1834 and oversaw the passage of the Great Reform Act 1832, which began the process of modernising parliamentary representation by abolishing rotten boroughs and extending the franchise. The act is considered the starting point of Britain's journey toward democratic government."
-    levels: [adult, researcher]
+    - name: 'Emmeline Pankhurst'
+      role: "Founder of the Women's Social and Political Union"
+      description: "Emmeline Pankhurst (1858-1928) founded the WSPU in 1903 and led the militant suffragette campaign for women's voting rights. Her tactics of direct action, including window-smashing, arson, and hunger strikes, generated enormous public attention and controversy. She lived to see the Equal Franchise Act passed in 1928, dying just weeks before it became law."
+      levels: [child, teenager, adult, researcher]
+    - name: 'Millicent Fawcett'
+      role: "Leader of the National Union of Women's Suffrage Societies"
+      description: "Dame Millicent Fawcett (1847-1929) led the NUWSS from 1897, campaigning peacefully for women's suffrage through lobbying, petitions, and public persuasion. Her constitutionalist approach, running in parallel with the Pankhursts' militancy, built broad support for the cause over decades. A statue of Fawcett was unveiled in Parliament Square in 2018."
+      levels: [teenager, adult, researcher]
+    - name: 'Emily Wilding Davison'
+      role: 'Suffragette'
+      description: "Emily Wilding Davison (1872-1913) was a committed suffragette who was arrested nine times, went on hunger strike seven times, and was force-fed 49 times. She died from injuries sustained when she stepped onto the racecourse at the 1913 Epsom Derby and was struck by King George V's horse Anmer. Her death became a defining moment of the suffrage movement."
+      levels: [teenager, adult, researcher]
+    - name: 'Maurice Duverger'
+      role: 'French political scientist'
+      description: "Maurice Duverger (1917-2014) was the author of 'Les Partis Politiques' (1951), in which he formulated what became known as Duverger's law: the proposition that single-ballot plurality electoral systems tend to produce two-party competition through mechanical and psychological effects. His work remains a foundational reference in comparative electoral studies, though its applicability to the UK's multi-party reality is actively debated."
+      levels: [researcher]
+    - name: 'Earl Grey'
+      role: 'Prime Minister who passed the Great Reform Act'
+      description: "Charles Grey, 2nd Earl Grey (1764-1845), served as Prime Minister from 1830 to 1834 and oversaw the passage of the Great Reform Act 1832, which began the process of modernising parliamentary representation by abolishing rotten boroughs and extending the franchise. The act is considered the starting point of Britain's journey toward democratic government."
+      levels: [adult, researcher]
 
 video_links:
-  - title: "Who's in charge of Britain?"
-    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
-    source: "Jay and Mark (Jay Foreman)"
-    description: "A humorous and accessible explanation of how the British political system works, covering elections, Parliament, and who really runs the country."
-    levels: [teenager, adult]
-  - title: "General election 2019: The voting system explained"
-    url: "https://www.youtube.com/watch?v=cRxUhGetEPQ"
-    source: "BBC News"
-    description: "BBC News explains how the UK general election voting system works, including constituencies, first past the post, and how a government is formed."
-    levels: [teenager, adult]
-  - title: "Why Your Vote Doesn't Count"
-    url: "https://www.youtube.com/watch?v=s7tWHJfhiyo"
-    source: "CGP Grey"
-    description: "An animated explainer on the problems with the First Past the Post voting system, showing how it can produce unrepresentative results and squeeze out smaller parties."
-    levels: [teenager, adult, researcher]
+    - title: "Who's in charge of Britain?"
+      url: 'https://www.youtube.com/watch?v=rMXJOKhf_AA'
+      source: 'Jay and Mark (Jay Foreman)'
+      description: 'A humorous and accessible explanation of how the British political system works, covering elections, Parliament, and who really runs the country.'
+      levels: [teenager, adult]
+    - title: 'General election 2019: The voting system explained'
+      url: 'https://www.youtube.com/watch?v=cRxUhGetEPQ'
+      source: 'BBC News'
+      description: 'BBC News explains how the UK general election voting system works, including constituencies, first past the post, and how a government is formed.'
+      levels: [teenager, adult]
+    - title: "Why Your Vote Doesn't Count"
+      url: 'https://www.youtube.com/watch?v=s7tWHJfhiyo'
+      source: 'CGP Grey'
+      description: 'An animated explainer on the problems with the First Past the Post voting system, showing how it can produce unrepresentative results and squeeze out smaller parties.'
+      levels: [teenager, adult, researcher]
 
 quizzes:
-  child:
-    - question: "What do you do on a ballot paper to vote for someone?"
-      type: multiple_choice
-      options:
-        - "Write their name"
-        - "Put a cross next to their name"
-        - "Draw a circle around their name"
-      correct_answer: "Put a cross next to their name"
-      explanation: "When you vote, you put a cross (X) next to the name of the person you want to be your MP."
-    - question: "True or false: In the UK, every adult has always been allowed to vote."
-      type: true_false
-      correct_answer: "False"
-      explanation: "A long time ago, only rich men could vote. Women were not allowed to vote at all until 1918, and it took until 1928 for all adults to get equal voting rights."
-    - question: "What is a general election?"
-      type: multiple_choice
-      options:
-        - "When one area votes for a new MP"
-        - "When the whole country votes to choose all MPs on the same day"
-        - "When people vote for a new King"
-      correct_answer: "When the whole country votes to choose all MPs on the same day"
-      explanation: "A general election is when every constituency in the country votes on the same day to choose their MP. The party that wins the most seats usually forms the Government."
-  teenager:
-    - question: "What does First Past the Post mean?"
-      type: multiple_choice
-      options:
-        - "A candidate must win more than half of all votes to be elected"
-        - "The candidate with the most votes wins, even without a majority"
-        - "Candidates are ranked in order of preference by voters"
-      correct_answer: "The candidate with the most votes wins, even without a majority"
-      explanation: "Under First Past the Post, the candidate who gets the most votes in a constituency wins the seat. They do not need to get more than 50 per cent -- they just need more votes than any other single candidate."
-    - question: "What was the voter turnout at the 2024 UK general election?"
-      type: multiple_choice
-      options:
-        - "72.0 per cent"
-        - "60.0 per cent"
-        - "45.5 per cent"
-      correct_answer: "60.0 per cent"
-      explanation: "Turnout at the 2024 general election was 60.0 per cent, the second lowest since universal suffrage was achieved in 1928."
-    - question: "True or false: The suffragettes used only peaceful protest to campaign for women's right to vote."
-      type: true_false
-      correct_answer: "False"
-      explanation: "While the NUWSS under Millicent Fawcett used peaceful methods, the suffragettes of the WSPU under Emmeline Pankhurst used militant tactics including window-smashing, arson, hunger strikes, and chaining themselves to railings."
-  adult:
-    - question: "What is the role of the Boundary Commissions in UK elections?"
-      type: multiple_choice
-      options:
-        - "Counting votes on election night"
-        - "Periodically reviewing and redrawing constituency boundaries to ensure roughly equal electorates"
-        - "Registering voters on the electoral roll"
-        - "Regulating campaign spending by political parties"
-      correct_answer: "Periodically reviewing and redrawing constituency boundaries to ensure roughly equal electorates"
-      explanation: "The four Boundary Commissions (for England, Scotland, Wales, and Northern Ireland) review constituency boundaries every eight years to ensure each constituency has roughly the same number of voters, within 5 per cent of the electoral quota."
-    - question: "Which piece of legislation established the Electoral Commission?"
-      type: multiple_choice
-      options:
-        - "Representation of the People Act 1983"
-        - "Political Parties, Elections and Referendums Act 2000"
-        - "Elections Act 2022"
-        - "Electoral Registration and Administration Act 2013"
-      correct_answer: "Political Parties, Elections and Referendums Act 2000"
-      explanation: "The Electoral Commission was established by the Political Parties, Elections and Referendums Act 2000 (PPERA) as an independent body to oversee elections and regulate political finance in the UK."
-    - question: "What requirement did the Elections Act 2022 introduce for voters in Great Britain?"
-      type: short_answer
-      correct_answer: "Photographic voter identification (photo ID) is now required to vote at polling stations."
-      explanation: "The Elections Act 2022 introduced a requirement for voters in Great Britain to show an approved form of photographic identification before being issued a ballot paper at a polling station, a measure that proved controversial during the 2024 general election."
-  researcher:
-    - question: "Explain the mechanical and psychological effects described in Duverger's law and evaluate their applicability to the modern UK party system."
-      type: essay
-      correct_answer: "The mechanical effect refers to the systematic underrepresentation of smaller parties whose vote is geographically dispersed, as FPTP converts votes to seats non-proportionally. The psychological effect describes strategic voting and elite coordination as voters and party organisers anticipate the mechanical effect. In the UK, Duverger's law is partially contradicted by the persistence of multi-party competition, sustained by geographically concentrated parties such as the SNP."
-      explanation: "Duverger's law predicts two-party dominance under plurality voting. The UK partially confirms this at constituency level but deviates nationally, with scholars like Dunleavy arguing that the law is effectively 'dead' in the UK context. The 2024 election -- with five parties winning seats and extreme disproportionality -- provides rich evidence for this debate."
-    - question: "How does the Gallagher index of disproportionality apply to the 2024 UK general election, and what does this imply for democratic legitimacy?"
-      type: essay
-      correct_answer: "The Gallagher index measures the deviation between parties' vote shares and seat shares. The 2024 election produced one of the highest Gallagher index scores in UK history, with Labour winning 63 per cent of seats on 34 per cent of the vote. This raises significant questions about the representational legitimacy of FPTP governments, particularly when combined with historically low turnout."
-      explanation: "The Gallagher (or least-squares) index provides a single numerical measure of electoral disproportionality. The 2024 result -- a governing supermajority built on barely a third of votes cast, themselves cast by only 60 per cent of eligible voters -- means Labour's mandate rests on approximately 20 per cent of the eligible electorate, an empirical reality that feeds directly into normative debates about electoral reform."
-    - question: "Assess the constitutional implications of the Elections Act 2022 strategy and policy statement for the Electoral Commission's independence."
-      type: short_answer
-      correct_answer: "The strategy and policy statement, authored by the Government, allows ministers to set priorities for an ostensibly independent regulator. Critics, including the Electoral Commission itself and the Committee on Standards in Public Life, argued this represented an inappropriate erosion of regulatory independence, as the body tasked with overseeing elections should not be subject to Government direction."
-      explanation: "The tension between executive direction and regulatory independence is a fundamental constitutional question. The Commission's reporting line to the Speaker's Committee (a parliamentary body) was designed to insulate it from Government influence, making the 2022 Act's provision for a ministerial strategy statement a significant constitutional departure."
+    child:
+        - question: 'What do you do on a ballot paper to vote for someone?'
+          type: multiple_choice
+          options:
+              - 'Write their name'
+              - 'Put a cross next to their name'
+              - 'Draw a circle around their name'
+          correct_answer: 'Put a cross next to their name'
+          explanation: 'When you vote, you put a cross (X) next to the name of the person you want to be your MP.'
+        - question: 'True or false: In the UK, every adult has always been allowed to vote.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'A long time ago, only rich men could vote. Women were not allowed to vote at all until 1918, and it took until 1928 for all adults to get equal voting rights.'
+        - question: 'What is a general election?'
+          type: multiple_choice
+          options:
+              - 'When one area votes for a new MP'
+              - 'When the whole country votes to choose all MPs on the same day'
+              - 'When people vote for a new King'
+          correct_answer: 'When the whole country votes to choose all MPs on the same day'
+          explanation: 'A general election is when every constituency in the country votes on the same day to choose their MP. The party that wins the most seats usually forms the Government.'
+    teenager:
+        - question: 'What does First Past the Post mean?'
+          type: multiple_choice
+          options:
+              - 'A candidate must win more than half of all votes to be elected'
+              - 'The candidate with the most votes wins, even without a majority'
+              - 'Candidates are ranked in order of preference by voters'
+          correct_answer: 'The candidate with the most votes wins, even without a majority'
+          explanation: 'Under First Past the Post, the candidate who gets the most votes in a constituency wins the seat. They do not need to get more than 50 per cent -- they just need more votes than any other single candidate.'
+        - question: 'What was the voter turnout at the 2024 UK general election?'
+          type: multiple_choice
+          options:
+              - '72.0 per cent'
+              - '60.0 per cent'
+              - '45.5 per cent'
+          correct_answer: '60.0 per cent'
+          explanation: 'Turnout at the 2024 general election was 60.0 per cent, the second lowest since universal suffrage was achieved in 1928.'
+        - question: "True or false: The suffragettes used only peaceful protest to campaign for women's right to vote."
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'While the NUWSS under Millicent Fawcett used peaceful methods, the suffragettes of the WSPU under Emmeline Pankhurst used militant tactics including window-smashing, arson, hunger strikes, and chaining themselves to railings.'
+    adult:
+        - question: 'What is the role of the Boundary Commissions in UK elections?'
+          type: multiple_choice
+          options:
+              - 'Counting votes on election night'
+              - 'Periodically reviewing and redrawing constituency boundaries to ensure roughly equal electorates'
+              - 'Registering voters on the electoral roll'
+              - 'Regulating campaign spending by political parties'
+          correct_answer: 'Periodically reviewing and redrawing constituency boundaries to ensure roughly equal electorates'
+          explanation: 'The four Boundary Commissions (for England, Scotland, Wales, and Northern Ireland) review constituency boundaries every eight years to ensure each constituency has roughly the same number of voters, within 5 per cent of the electoral quota.'
+        - question: 'Which piece of legislation established the Electoral Commission?'
+          type: multiple_choice
+          options:
+              - 'Representation of the People Act 1983'
+              - 'Political Parties, Elections and Referendums Act 2000'
+              - 'Elections Act 2022'
+              - 'Electoral Registration and Administration Act 2013'
+          correct_answer: 'Political Parties, Elections and Referendums Act 2000'
+          explanation: 'The Electoral Commission was established by the Political Parties, Elections and Referendums Act 2000 (PPERA) as an independent body to oversee elections and regulate political finance in the UK.'
+        - question: 'What requirement did the Elections Act 2022 introduce for voters in Great Britain?'
+          type: short_answer
+          correct_answer: 'Photographic voter identification (photo ID) is now required to vote at polling stations.'
+          explanation: 'The Elections Act 2022 introduced a requirement for voters in Great Britain to show an approved form of photographic identification before being issued a ballot paper at a polling station, a measure that proved controversial during the 2024 general election.'
+    researcher:
+        - question: "Explain the mechanical and psychological effects described in Duverger's law and evaluate their applicability to the modern UK party system."
+          type: essay
+          correct_answer: "The mechanical effect refers to the systematic underrepresentation of smaller parties whose vote is geographically dispersed, as FPTP converts votes to seats non-proportionally. The psychological effect describes strategic voting and elite coordination as voters and party organisers anticipate the mechanical effect. In the UK, Duverger's law is partially contradicted by the persistence of multi-party competition, sustained by geographically concentrated parties such as the SNP."
+          explanation: "Duverger's law predicts two-party dominance under plurality voting. The UK partially confirms this at constituency level but deviates nationally, with scholars like Dunleavy arguing that the law is effectively 'dead' in the UK context. The 2024 election -- with five parties winning seats and extreme disproportionality -- provides rich evidence for this debate."
+        - question: 'How does the Gallagher index of disproportionality apply to the 2024 UK general election, and what does this imply for democratic legitimacy?'
+          type: essay
+          correct_answer: "The Gallagher index measures the deviation between parties' vote shares and seat shares. The 2024 election produced one of the highest Gallagher index scores in UK history, with Labour winning 63 per cent of seats on 34 per cent of the vote. This raises significant questions about the representational legitimacy of FPTP governments, particularly when combined with historically low turnout."
+          explanation: "The Gallagher (or least-squares) index provides a single numerical measure of electoral disproportionality. The 2024 result -- a governing supermajority built on barely a third of votes cast, themselves cast by only 60 per cent of eligible voters -- means Labour's mandate rests on approximately 20 per cent of the eligible electorate, an empirical reality that feeds directly into normative debates about electoral reform."
+        - question: "Assess the constitutional implications of the Elections Act 2022 strategy and policy statement for the Electoral Commission's independence."
+          type: short_answer
+          correct_answer: 'The strategy and policy statement, authored by the Government, allows ministers to set priorities for an ostensibly independent regulator. Critics, including the Electoral Commission itself and the Committee on Standards in Public Life, argued this represented an inappropriate erosion of regulatory independence, as the body tasked with overseeing elections should not be subject to Government direction.'
+          explanation: "The tension between executive direction and regulatory independence is a fundamental constitutional question. The Commission's reporting line to the Speaker's Committee (a parliamentary body) was designed to insulate it from Government influence, making the 2022 Act's provision for a ministerial strategy statement a significant constitutional departure."

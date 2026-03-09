@@ -1,103 +1,103 @@
 schema:
-  version: "1.0"
-  description: "UK Parliament Learn — YAML content schema for educational topic files"
+    version: '1.0'
+    description: 'UK Parliament Learn — YAML content schema for educational topic files'
 
 field_definitions:
-  topic_file:
-    required:
-      - id: string  # unique topic slug
-      - title: string  # display title
-      - slug: string  # URL-safe identifier, matches id
-      - metadata: object
-      - explanations: object
-    optional:
-      - related_topics: array
-      - glossary: array
-      - did_you_know: array
-      - key_dates: array
-      - key_figures: array
-      - video_links: array
-      - quizzes: object
+    topic_file:
+        required:
+            - id: string # unique topic slug
+            - title: string # display title
+            - slug: string # URL-safe identifier, matches id
+            - metadata: object
+            - explanations: object
+        optional:
+            - related_topics: array
+            - glossary: array
+            - did_you_know: array
+            - key_dates: array
+            - key_figures: array
+            - video_links: array
+            - quizzes: object
 
-  metadata:
-    required:
-      - category: string  # must match a category id in _categories.yaml
-      - tags: array  # list of strings
-      - last_updated: date  # ISO 8601 date
-      - status: enum  # draft | review | published
-      - order: integer  # sort position within category
+    metadata:
+        required:
+            - category: string # must match a category id in _categories.yaml
+            - tags: array # list of strings
+            - last_updated: date # ISO 8601 date
+            - status: enum # draft | review | published
+            - order: integer # sort position within category
 
-  related_topics_entry:
-    required:
-      - id: string  # must match an existing topic id
-      - relationship: enum  # subtopic | prerequisite | see-also | contrast
+    related_topics_entry:
+        required:
+            - id: string # must match an existing topic id
+            - relationship: enum # subtopic | prerequisite | see-also | contrast
 
-  explanations:
-    required_levels:
-      - child
-      - teenager
-      - adult
-      - researcher
-    level_fields:
-      required:
-        - summary: string  # one-line summary
-        - body: string  # full explanation, multi-line
-      optional:
-        - reading_age: integer | null  # null for researcher level
-        - sources: array  # researcher level only
-    source_entry:
-      required:
-        - citation: string
-        - url: string
-        - type: enum  # primary | secondary | official
+    explanations:
+        required_levels:
+            - child
+            - teenager
+            - adult
+            - researcher
+        level_fields:
+            required:
+                - summary: string # one-line summary
+                - body: string # full explanation, multi-line
+            optional:
+                - reading_age: integer | null # null for researcher level
+                - sources: array # researcher level only
+        source_entry:
+            required:
+                - citation: string
+                - url: string
+                - type: enum # primary | secondary | official
 
-  glossary_entry:
-    required:
-      - term: string
-      - definition_simple: string  # for child/teenager
-      - definition_full: string  # for adult/researcher
+    glossary_entry:
+        required:
+            - term: string
+            - definition_simple: string # for child/teenager
+            - definition_full: string # for adult/researcher
 
-  did_you_know_entry:
-    required:
-      - fact: string
-      - level: array  # subset of [child, teenager, adult, researcher]
+    did_you_know_entry:
+        required:
+            - fact: string
+            - level: array # subset of [child, teenager, adult, researcher]
 
-  key_dates_entry:
-    required:
-      - year: integer
-      - event: string
-      - significance: string
-      - levels: array  # subset of [child, teenager, adult, researcher]
+    key_dates_entry:
+        required:
+            - year: integer
+            - event: string
+            - significance: string
+            - levels: array # subset of [child, teenager, adult, researcher]
 
-  key_figures_entry:
-    required:
-      - name: string
-      - role: string
-      - description: string
-      - levels: array  # subset of [child, teenager, adult, researcher]
+    key_figures_entry:
+        required:
+            - name: string
+            - role: string
+            - description: string
+            - levels: array # subset of [child, teenager, adult, researcher]
 
-  video_links_entry:
-    required:
-      - title: string  # descriptive video title
-      - url: string  # full YouTube URL
-      - source: string  # channel or publisher name
-      - levels: array  # subset of [child, teenager, adult, researcher]
-    optional:
-      - description: string  # brief note on what the video covers
+    video_links_entry:
+        required:
+            - title: string # descriptive video title
+            - url: string # full YouTube URL
+            - source: string # channel or publisher name
+            - levels: array # subset of [child, teenager, adult, researcher]
+        optional:
+            - description: string # brief note on what the video covers
 
-  quizzes:
-    levels: [child, teenager, adult, researcher]
-    quiz_entry:
-      required:
-        - question: string
-        - type: enum  # multiple_choice | true_false | short_answer | essay
-        - correct_answer: string
-        - explanation: string
-      optional:
-        - options: array  # required for multiple_choice
+    quizzes:
+        levels: [child, teenager, adult, researcher]
+        quiz_entry:
+            required:
+                - question: string
+                - type: enum # multiple_choice | true_false | short_answer | essay
+                - correct_answer: string
+                - explanation: string
+            optional:
+                - options: array # required for multiple_choice
 
 design_principles:
-  - Each audience level is self-contained, not additive
-  - The app renders only the selected level block
-  - Sources attach to the researcher level per topic
-  - did_you_know, key_dates, key_figures, video_links use levels arrays for audience filtering
+    - Each audience level is self-contained, not additive
+    - The app renders only the selected level block
+    - Sources attach to the researcher level per topic
+    - did_you_know, key_dates, key_figures, video_links use levels arrays for audience filtering

@@ -1,0 +1,20 @@
+{
+    "project": ["src/**/*.ts"],
+    "paths": {
+        "@/*": ["src/*"],
+        "@api/*": ["src/api/*"],
+        "@core/*": ["src/core/*"],
+        "@utils/*": ["src/utils/*"],
+        "@config/*": ["src/config/*"],
+        "@types/*": ["src/types/*"]
+    },
+    "ignoreExportsUsedInFile": true,
+    "exclude": ["unlisted", "unresolved", "exports", "types"],
+    "ignore": [
+        "src/api/index.ts",
+        "src/core/index.ts",
+        "src/types/index.ts",
+        "src/utils/index.ts",
+        "src/utils/helpers.ts"
+    ]
+}

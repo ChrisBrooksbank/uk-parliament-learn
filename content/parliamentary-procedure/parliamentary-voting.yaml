@@ -1,263 +1,297 @@
 id: parliamentary-voting
-title: "How Parliament Votes"
+title: 'How Parliament Votes'
 slug: parliamentary-voting
 
 metadata:
-  category: parliamentary-procedure
-  tags: [divisions, voting, division-lobbies, tellers, whipping, free-votes, casting-vote, deferred-divisions]
-  last_updated: 2026-03-09
-  status: published
-  order: 3
+    category: parliamentary-procedure
+    tags:
+        [
+            divisions,
+            voting,
+            division-lobbies,
+            tellers,
+            whipping,
+            free-votes,
+            casting-vote,
+            deferred-divisions,
+        ]
+    last_updated: 2026-03-09
+    status: published
+    order: 3
 
 related_topics:
-  - id: house-of-commons
-    relationship: prerequisite
-  - id: house-of-lords
-    relationship: see-also
-  - id: how-laws-are-made
-    relationship: see-also
+    - id: house-of-commons
+      relationship: prerequisite
+    - id: house-of-lords
+      relationship: see-also
+    - id: how-laws-are-made
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "When MPs need to make a decision, they vote by walking through special corridors called division lobbies, and their votes are counted by helpers called tellers."
-    body: |
-      When MPs in the House of Commons need to decide something important, like whether a new law should be passed, they have a vote. But they do not vote by pressing a button or putting up their hands. Instead, they do something much more unusual: they walk through a corridor!
+    child:
+        summary: 'When MPs need to make a decision, they vote by walking through special corridors called division lobbies, and their votes are counted by helpers called tellers.'
+        body: |
+            When MPs in the House of Commons need to decide something important, like whether a new law should be passed, they have a vote. But they do not vote by pressing a button or putting up their hands. Instead, they do something much more unusual: they walk through a corridor!
 
-      First, the Speaker asks MPs to say "Aye" (which means yes) or "No" out loud. This is called a voice vote. If it is easy to tell which side is louder, the Speaker announces the result and that is the end of it.
+            First, the Speaker asks MPs to say "Aye" (which means yes) or "No" out loud. This is called a voice vote. If it is easy to tell which side is louder, the Speaker announces the result and that is the end of it.
 
-      But if it is a close call, or if MPs want their individual votes to be recorded, they call out "Division!" This means they want a proper count. Division bells ring all around Parliament, giving MPs eight minutes to get to the Chamber from wherever they are in the building.
+            But if it is a close call, or if MPs want their individual votes to be recorded, they call out "Division!" This means they want a proper count. Division bells ring all around Parliament, giving MPs eight minutes to get to the Chamber from wherever they are in the building.
 
-      Then something quite funny happens. MPs who want to vote yes walk through one corridor called the Aye Lobby, and MPs who want to vote no walk through another corridor called the No Lobby. As they walk through, their names are checked off a list and they are counted by special helpers called tellers. There are four tellers: two for each side.
+            Then something quite funny happens. MPs who want to vote yes walk through one corridor called the Aye Lobby, and MPs who want to vote no walk through another corridor called the No Lobby. As they walk through, their names are checked off a list and they are counted by special helpers called tellers. There are four tellers: two for each side.
 
-      The whole process takes about 15 minutes. At the end, the tellers line up in front of the Speaker and announce the numbers. The Speaker then declares whether the Ayes or the Noes have won.
+            The whole process takes about 15 minutes. At the end, the tellers line up in front of the Speaker and announce the numbers. The Speaker then declares whether the Ayes or the Noes have won.
 
-      Sometimes the Prime Minister and party leaders tell their MPs which way to vote. The people who make sure MPs vote the right way are called whips. But occasionally there is a free vote, where MPs can vote however they want without being told what to do.
-    reading_age: 8
-  teenager:
-    summary: "The House of Commons votes through a physical process called a division, where MPs walk through the Aye or No lobbies to be counted, a system governed by tellers, whips, and procedural conventions."
-    body: |
-      Voting in the House of Commons follows a distinctive physical process that has changed remarkably little over the centuries. When a decision needs to be made, the Speaker first puts the question to a voice vote, asking Members to call out "Aye" or "No". If the result is clear, the Speaker declares it without further process. However, if the outcome is uncertain or if Members challenge the Speaker's judgment, a division is called.
+            Sometimes the Prime Minister and party leaders tell their MPs which way to vote. The people who make sure MPs vote the right way are called whips. But occasionally there is a free vote, where MPs can vote however they want without being told what to do.
+        reading_age: 8
+    teenager:
+        summary: 'The House of Commons votes through a physical process called a division, where MPs walk through the Aye or No lobbies to be counted, a system governed by tellers, whips, and procedural conventions.'
+        body: |
+            Voting in the House of Commons follows a distinctive physical process that has changed remarkably little over the centuries. When a decision needs to be made, the Speaker first puts the question to a voice vote, asking Members to call out "Aye" or "No". If the result is clear, the Speaker declares it without further process. However, if the outcome is uncertain or if Members challenge the Speaker's judgment, a division is called.
 
-      When a division is called, the division bells ring throughout the Palace of Westminster and across the parliamentary estate, giving MPs eight minutes to reach the Chamber. The Speaker then orders the lobbies to be cleared, and MPs file through one of two division lobbies: the Aye Lobby (to the right of the Speaker's chair) and the No Lobby (to the left). As MPs pass through, their names are recorded by clerks and they are counted by four tellers, two appointed from each side. The entire process typically takes around 15 minutes.
+            When a division is called, the division bells ring throughout the Palace of Westminster and across the parliamentary estate, giving MPs eight minutes to reach the Chamber. The Speaker then orders the lobbies to be cleared, and MPs file through one of two division lobbies: the Aye Lobby (to the right of the Speaker's chair) and the No Lobby (to the left). As MPs pass through, their names are recorded by clerks and they are counted by four tellers, two appointed from each side. The entire process typically takes around 15 minutes.
 
-      The results are announced by the tellers, who line up before the Speaker. The teller announcing the winning side always stands on the right. If the vote is tied, the Speaker has the casting vote, which by convention is exercised according to Speaker Denison's Rule: the Speaker votes to maintain the status quo, avoiding decisions on the merits of a question wherever possible.
+            The results are announced by the tellers, who line up before the Speaker. The teller announcing the winning side always stands on the right. If the vote is tied, the Speaker has the casting vote, which by convention is exercised according to Speaker Denison's Rule: the Speaker votes to maintain the status quo, avoiding decisions on the merits of a question wherever possible.
 
-      Party discipline plays a central role in parliamentary voting. Each major party appoints whips, whose job is to ensure that MPs vote in line with the party position. The term comes from the "whipper-in" in fox hunting, who keeps the hounds together. Whips issue a weekly document, also called the whip, which outlines upcoming votes. A three-line whip, where the instruction is underlined three times, indicates the most important votes where attendance and loyalty are expected. Defying a three-line whip can result in disciplinary action, including having the whip withdrawn, which effectively suspends an MP from the parliamentary party.
+            Party discipline plays a central role in parliamentary voting. Each major party appoints whips, whose job is to ensure that MPs vote in line with the party position. The term comes from the "whipper-in" in fox hunting, who keeps the hounds together. Whips issue a weekly document, also called the whip, which outlines upcoming votes. A three-line whip, where the instruction is underlined three times, indicates the most important votes where attendance and loyalty are expected. Defying a three-line whip can result in disciplinary action, including having the whip withdrawn, which effectively suspends an MP from the parliamentary party.
 
-      However, not all votes are whipped. On matters of personal conscience, such as assisted dying or hunting, parties may declare a free vote, allowing MPs to vote according to their own judgment without facing consequences. Free votes are relatively rare but can produce unpredictable results.
+            However, not all votes are whipped. On matters of personal conscience, such as assisted dying or hunting, parties may declare a free vote, allowing MPs to vote according to their own judgment without facing consequences. Free votes are relatively rare but can produce unpredictable results.
 
-      Deferred divisions were introduced in 2000 for certain less contentious matters. Instead of a physical division in the Chamber, MPs mark a ballot paper in the division lobby during a set period the following Wednesday. This reduces the time spent on routine votes and allows the Chamber to focus on debate.
+            Deferred divisions were introduced in 2000 for certain less contentious matters. Instead of a physical division in the Chamber, MPs mark a ballot paper in the division lobby during a set period the following Wednesday. This reduces the time spent on routine votes and allows the Chamber to focus on debate.
 
-      In the House of Lords, the voting process is similar but uses the terms "Content" and "Not Content" rather than "Aye" and "No". Peers walk through corresponding lobbies, and the process follows similar conventions, though the Lords lacks a formal whipping system as strong as the Commons.
-    reading_age: 14
-  adult:
-    summary: "Parliamentary voting in the House of Commons operates through a combination of voice votes and physical divisions, governed by procedural conventions including the whipping system, free votes, deferred divisions, and the Speaker's casting vote exercised under Denison's Rule."
-    body: |
-      The voting procedures of the House of Commons are rooted in centuries of parliamentary practice and continue to rely on a physical process of walking through division lobbies, a method that has resisted modernisation despite periodic calls for electronic voting. Understanding these procedures is essential to comprehending how legislation is passed, governments are sustained, and political accountability is enforced.
+            In the House of Lords, the voting process is similar but uses the terms "Content" and "Not Content" rather than "Aye" and "No". Peers walk through corresponding lobbies, and the process follows similar conventions, though the Lords lacks a formal whipping system as strong as the Commons.
+        reading_age: 14
+    adult:
+        summary: "Parliamentary voting in the House of Commons operates through a combination of voice votes and physical divisions, governed by procedural conventions including the whipping system, free votes, deferred divisions, and the Speaker's casting vote exercised under Denison's Rule."
+        body: |
+            The voting procedures of the House of Commons are rooted in centuries of parliamentary practice and continue to rely on a physical process of walking through division lobbies, a method that has resisted modernisation despite periodic calls for electronic voting. Understanding these procedures is essential to comprehending how legislation is passed, governments are sustained, and political accountability is enforced.
 
-      The standard voting process begins with the Speaker putting the question to a voice vote, inviting Members to call "Aye" or "No". If the Speaker can determine the majority by sound, they declare the result. If the outcome is disputed, any Member may challenge the decision by calling "Division!", triggering the formal division process. The division bells sound across the parliamentary estate for eight minutes, after which the Speaker orders the doors to the lobbies to be locked.
+            The standard voting process begins with the Speaker putting the question to a voice vote, inviting Members to call "Aye" or "No". If the Speaker can determine the majority by sound, they declare the result. If the outcome is disputed, any Member may challenge the decision by calling "Division!", triggering the formal division process. The division bells sound across the parliamentary estate for eight minutes, after which the Speaker orders the doors to the lobbies to be locked.
 
-      Members vote by walking through the Aye Lobby (to the Speaker's right, supporting the motion) or the No Lobby (to the Speaker's left, opposing it). As they pass through, their names are recorded by clerks stationed at desks in the lobbies, and they are counted at the exit by four tellers: two from each side, typically drawn from the whips' offices. The tellers report the result to the Speaker, who announces it to the House. The complete division process normally takes 12 to 15 minutes.
+            Members vote by walking through the Aye Lobby (to the Speaker's right, supporting the motion) or the No Lobby (to the Speaker's left, opposing it). As they pass through, their names are recorded by clerks stationed at desks in the lobbies, and they are counted at the exit by four tellers: two from each side, typically drawn from the whips' offices. The tellers report the result to the Speaker, who announces it to the House. The complete division process normally takes 12 to 15 minutes.
 
-      The Speaker's casting vote, exercised when the numbers are equal, follows Speaker Denison's Rule, named after Speaker John Evelyn Denison who articulated the convention in 1867. Under this rule, the Speaker votes to preserve the status quo: against a motion for change at second reading, in favour of further discussion at committee stage, and against amendments and new clauses. The rule ensures that the Speaker does not determine substantive policy on a casting vote, preserving the principle that decisions should be made by the elected Members.
+            The Speaker's casting vote, exercised when the numbers are equal, follows Speaker Denison's Rule, named after Speaker John Evelyn Denison who articulated the convention in 1867. Under this rule, the Speaker votes to preserve the status quo: against a motion for change at second reading, in favour of further discussion at committee stage, and against amendments and new clauses. The rule ensures that the Speaker does not determine substantive policy on a casting vote, preserving the principle that decisions should be made by the elected Members.
 
-      The whipping system is the mechanism through which party discipline is maintained in parliamentary voting. Each party appoints a Chief Whip and a team of junior whips, whose primary function is to ensure Members attend votes and support the party line. The weekly whip document indicates the importance of upcoming votes through a system of underlining: a one-line whip is advisory, a two-line whip is a firm expectation of attendance, and a three-line whip is an absolute instruction to attend and vote as directed. Defiance of a three-line whip is a serious matter that can result in the whip being withdrawn, meaning the MP is suspended from the parliamentary party and sits as an independent until the whip is restored.
+            The whipping system is the mechanism through which party discipline is maintained in parliamentary voting. Each party appoints a Chief Whip and a team of junior whips, whose primary function is to ensure Members attend votes and support the party line. The weekly whip document indicates the importance of upcoming votes through a system of underlining: a one-line whip is advisory, a two-line whip is a firm expectation of attendance, and a three-line whip is an absolute instruction to attend and vote as directed. Defiance of a three-line whip is a serious matter that can result in the whip being withdrawn, meaning the MP is suspended from the parliamentary party and sits as an independent until the whip is restored.
 
-      The role of the Government Chief Whip extends beyond vote management. As Parliamentary Secretary to the Treasury, the Chief Whip occupies a Cabinet-level position and plays a crucial role in managing the government's legislative programme, negotiating pairing arrangements (where an MP from one side agrees not to vote, balancing the absence of an MP from the other side), and maintaining communication between the frontbench and backbenchers.
+            The role of the Government Chief Whip extends beyond vote management. As Parliamentary Secretary to the Treasury, the Chief Whip occupies a Cabinet-level position and plays a crucial role in managing the government's legislative programme, negotiating pairing arrangements (where an MP from one side agrees not to vote, balancing the absence of an MP from the other side), and maintaining communication between the frontbench and backbenchers.
 
-      Free votes occur when the party whip is not applied, typically on matters of personal conscience. Historic free votes include those on the abolition of the death penalty (1965), the legalisation of abortion (1967), the hunting ban (2004), and assisted dying. While ostensibly allowing Members to vote according to conscience, the reality is more nuanced: informal pressure from colleagues, constituency associations, and the media can influence voting behaviour even in the absence of a formal whip.
+            Free votes occur when the party whip is not applied, typically on matters of personal conscience. Historic free votes include those on the abolition of the death penalty (1965), the legalisation of abortion (1967), the hunting ban (2004), and assisted dying. While ostensibly allowing Members to vote according to conscience, the reality is more nuanced: informal pressure from colleagues, constituency associations, and the media can influence voting behaviour even in the absence of a formal whip.
 
-      Deferred divisions, introduced by Standing Order No. 41A in 2000, allow certain votes to be conducted by ballot paper rather than physical division. Applicable to most proceedings on delegated legislation and other specified business, deferred divisions take place on Wednesdays between 11:30 am and 2:00 pm. Members mark a ballot paper in the division lobby, reducing disruption to the parliamentary timetable.
+            Deferred divisions, introduced by Standing Order No. 41A in 2000, allow certain votes to be conducted by ballot paper rather than physical division. Applicable to most proceedings on delegated legislation and other specified business, deferred divisions take place on Wednesdays between 11:30 am and 2:00 pm. Members mark a ballot paper in the division lobby, reducing disruption to the parliamentary timetable.
 
-      The COVID-19 pandemic prompted the most significant temporary change to voting procedures in parliamentary history. In 2020, the House initially adopted remote electronic voting through the MemberHub app, before transitioning to a physical queuing system through the division lobbies with social distancing measures. The experience reignited debate about permanent electronic voting, though the House ultimately returned to traditional division procedures. Advocates of electronic voting argue it would save time and improve accessibility, while opponents contend that the physical process facilitates informal communication between Members and ministers, a feature valued by whips and backbenchers alike.
+            The COVID-19 pandemic prompted the most significant temporary change to voting procedures in parliamentary history. In 2020, the House initially adopted remote electronic voting through the MemberHub app, before transitioning to a physical queuing system through the division lobbies with social distancing measures. The experience reignited debate about permanent electronic voting, though the House ultimately returned to traditional division procedures. Advocates of electronic voting argue it would save time and improve accessibility, while opponents contend that the physical process facilitates informal communication between Members and ministers, a feature valued by whips and backbenchers alike.
 
-      In the House of Lords, the terminology differs (Content and Not Content) but the physical process is analogous. Peers walk through the Content and Not Content lobbies. The Lord Speaker does not have a casting vote; in the event of a tie, the motion is lost under the principle that the Not Contents have it. Whipping in the Lords is generally weaker than in the Commons, reflecting the convention that the upper House exercises greater independence.
-    reading_age: 18
-  researcher:
-    summary: "Parliamentary voting in the Westminster system operates through voice votes and physical divisions in the Aye and No lobbies, governed by Standing Orders, the Speaker's casting vote under Denison's Rule, a formalised whipping system, conventions on free votes, and deferred division procedures, with the COVID-19 pandemic prompting temporary innovations in remote and proxy voting."
-    body: |
-      The division procedure of the House of Commons represents one of the most enduring features of Westminster parliamentary practice. Despite periodic proposals for electronic voting, the physical process of walking through division lobbies has been maintained, reflecting both institutional conservatism and a functional appreciation of the opportunities for informal communication that the process affords. The procedural framework governing divisions, whipping, and related conventions constitutes a critical component of the constitutional relationship between the legislature, the executive, and political parties.
+            In the House of Lords, the terminology differs (Content and Not Content) but the physical process is analogous. Peers walk through the Content and Not Content lobbies. The Lord Speaker does not have a casting vote; in the event of a tie, the motion is lost under the principle that the Not Contents have it. Whipping in the Lords is generally weaker than in the Commons, reflecting the convention that the upper House exercises greater independence.
+        reading_age: 18
+    researcher:
+        summary: "Parliamentary voting in the Westminster system operates through voice votes and physical divisions in the Aye and No lobbies, governed by Standing Orders, the Speaker's casting vote under Denison's Rule, a formalised whipping system, conventions on free votes, and deferred division procedures, with the COVID-19 pandemic prompting temporary innovations in remote and proxy voting."
+        body: |
+            The division procedure of the House of Commons represents one of the most enduring features of Westminster parliamentary practice. Despite periodic proposals for electronic voting, the physical process of walking through division lobbies has been maintained, reflecting both institutional conservatism and a functional appreciation of the opportunities for informal communication that the process affords. The procedural framework governing divisions, whipping, and related conventions constitutes a critical component of the constitutional relationship between the legislature, the executive, and political parties.
 
-      The procedural basis for divisions is established in Standing Orders Nos. 37-41. When the Speaker puts the question and the result of the voice vote is challenged, a division is ordered. The division bells ring for eight minutes (reduced from the previous practice by a resolution of the House), after which the Speaker directs the Serjeant at Arms to lock the doors. Members divide into the Aye Lobby (to the Speaker's right) and the No Lobby (to the left), where their names are recorded by division clerks and they are counted by four tellers. The tellers, typically drawn from the whips' offices, report the numbers to the Speaker, who announces the result. The names of all Members voting in each lobby are published in Hansard and in the division lists.
+            The procedural basis for divisions is established in Standing Orders Nos. 37-41. When the Speaker puts the question and the result of the voice vote is challenged, a division is ordered. The division bells ring for eight minutes (reduced from the previous practice by a resolution of the House), after which the Speaker directs the Serjeant at Arms to lock the doors. Members divide into the Aye Lobby (to the Speaker's right) and the No Lobby (to the left), where their names are recorded by division clerks and they are counted by four tellers. The tellers, typically drawn from the whips' offices, report the numbers to the Speaker, who announces the result. The names of all Members voting in each lobby are published in Hansard and in the division lists.
 
-      The Speaker's casting vote, exercised in the event of an equality of votes, is governed by the convention known as Denison's Rule, articulated by Speaker John Evelyn Denison on 22 April 1867. The principles are: the Speaker should always vote in favour of further discussion where possible; should not vote to introduce a measure for the first time; should vote to maintain the existing state of affairs where no clear majority exists for change; and should act so as to leave the decision to a majority of the House on a future occasion. Erskine May codifies this convention, noting that it has been applied consistently, though the precise application to novel procedural situations requires judgment. The casting vote has been exercised only rarely in modern times; Speaker Bercow cast it on several occasions during the Brexit-related proceedings of 2019, including on amendments to the European Union (Withdrawal) Bill.
+            The Speaker's casting vote, exercised in the event of an equality of votes, is governed by the convention known as Denison's Rule, articulated by Speaker John Evelyn Denison on 22 April 1867. The principles are: the Speaker should always vote in favour of further discussion where possible; should not vote to introduce a measure for the first time; should vote to maintain the existing state of affairs where no clear majority exists for change; and should act so as to leave the decision to a majority of the House on a future occasion. Erskine May codifies this convention, noting that it has been applied consistently, though the precise application to novel procedural situations requires judgment. The casting vote has been exercised only rarely in modern times; Speaker Bercow cast it on several occasions during the Brexit-related proceedings of 2019, including on amendments to the European Union (Withdrawal) Bill.
 
-      The whipping system represents the primary mechanism through which party discipline is enforced in parliamentary voting. The institution of the party whip dates to the eighteenth century, with the term derived from the "whipper-in" of a hunting pack. The Government Chief Whip, formally styled the Parliamentary Secretary to the Treasury, holds a senior position in government and attends Cabinet. The Opposition Chief Whip holds an equivalent role in the shadow government. The weekly document known as the whip communicates the party's expectations: a one-line whip indicates a routine matter with attendance requested; a two-line whip signifies an important matter with attendance required unless a pair is arranged; and a three-line whip denotes a vote of the highest importance with mandatory attendance and compliance.
+            The whipping system represents the primary mechanism through which party discipline is enforced in parliamentary voting. The institution of the party whip dates to the eighteenth century, with the term derived from the "whipper-in" of a hunting pack. The Government Chief Whip, formally styled the Parliamentary Secretary to the Treasury, holds a senior position in government and attends Cabinet. The Opposition Chief Whip holds an equivalent role in the shadow government. The weekly document known as the whip communicates the party's expectations: a one-line whip indicates a routine matter with attendance requested; a two-line whip signifies an important matter with attendance required unless a pair is arranged; and a three-line whip denotes a vote of the highest importance with mandatory attendance and compliance.
 
-      The withdrawal of the whip is the most severe disciplinary sanction available to parliamentary parties. An MP who has the whip withdrawn ceases to be a member of the parliamentary party and sits as an independent, losing access to party resources, participation in party committees, and typically facing deselection as a candidate at the next election. Historical instances include the withdrawal of the whip from eight Conservative MPs in 1994 over the Maastricht Treaty ratification, and from 21 Conservative MPs in September 2019 for voting against the government on the European Union (Withdrawal) (No. 6) Bill, though the latter group largely had the whip restored within months.
+            The withdrawal of the whip is the most severe disciplinary sanction available to parliamentary parties. An MP who has the whip withdrawn ceases to be a member of the parliamentary party and sits as an independent, losing access to party resources, participation in party committees, and typically facing deselection as a candidate at the next election. Historical instances include the withdrawal of the whip from eight Conservative MPs in 1994 over the Maastricht Treaty ratification, and from 21 Conservative MPs in September 2019 for voting against the government on the European Union (Withdrawal) (No. 6) Bill, though the latter group largely had the whip restored within months.
 
-      Free votes represent a constitutionally significant departure from the whipping norm. By convention, matters of personal conscience are subject to free votes, including issues relating to capital punishment, abortion, embryology, assisted dying, and hunting. The decision to designate a vote as free rests with the party leadership and is itself a political choice. Cowley (2005) has demonstrated that even on nominally free votes, informal pressures including constituency party expectations, media scrutiny, and lobbying from colleagues significantly influence voting behaviour. The extent to which a truly free vote exists in practice is therefore contested.
+            Free votes represent a constitutionally significant departure from the whipping norm. By convention, matters of personal conscience are subject to free votes, including issues relating to capital punishment, abortion, embryology, assisted dying, and hunting. The decision to designate a vote as free rests with the party leadership and is itself a political choice. Cowley (2005) has demonstrated that even on nominally free votes, informal pressures including constituency party expectations, media scrutiny, and lobbying from colleagues significantly influence voting behaviour. The extent to which a truly free vote exists in practice is therefore contested.
 
-      Pairing is a longstanding informal arrangement whereby a Member from one party agrees not to vote, balancing the absence of a Member from the opposing party. Pairing is managed by the whips' offices and is based on trust rather than formal rules. The convention was temporarily suspended during the minority government of 2017-19 when trust between the parties broke down over disputed pairing arrangements.
+            Pairing is a longstanding informal arrangement whereby a Member from one party agrees not to vote, balancing the absence of a Member from the opposing party. Pairing is managed by the whips' offices and is based on trust rather than formal rules. The convention was temporarily suspended during the minority government of 2017-19 when trust between the parties broke down over disputed pairing arrangements.
 
-      Deferred divisions, introduced by Standing Order No. 41A in 2000 following recommendations of the Modernisation Committee, allow certain votes to be held by ballot paper on Wednesdays between 11:30 am and 2:00 pm. Applicable to most proceedings on statutory instruments and other specified business, deferred divisions reduce the disruption caused by divisions during debate. Members mark a ballot paper in the Aye or No column and place it in a ballot box in the division lobby.
+            Deferred divisions, introduced by Standing Order No. 41A in 2000 following recommendations of the Modernisation Committee, allow certain votes to be held by ballot paper on Wednesdays between 11:30 am and 2:00 pm. Applicable to most proceedings on statutory instruments and other specified business, deferred divisions reduce the disruption caused by divisions during debate. Members mark a ballot paper in the Aye or No column and place it in a ballot box in the division lobby.
 
-      The COVID-19 pandemic of 2020-21 necessitated unprecedented changes to voting procedures. The House initially adopted fully remote electronic voting in April 2020, using the MemberHub online platform. This was replaced in June 2020 by a physical queuing system through the division lobbies with social distancing, which significantly extended division times. Proxy voting, previously available only for Members on baby leave since January 2019, was temporarily extended to Members unable to attend due to medical vulnerability. The pandemic experience prompted the Procedure Committee to examine the case for permanent electronic or hybrid voting, but the House voted in 2021 to restore traditional procedures in full.
+            The COVID-19 pandemic of 2020-21 necessitated unprecedented changes to voting procedures. The House initially adopted fully remote electronic voting in April 2020, using the MemberHub online platform. This was replaced in June 2020 by a physical queuing system through the division lobbies with social distancing, which significantly extended division times. Proxy voting, previously available only for Members on baby leave since January 2019, was temporarily extended to Members unable to attend due to medical vulnerability. The pandemic experience prompted the Procedure Committee to examine the case for permanent electronic or hybrid voting, but the House voted in 2021 to restore traditional procedures in full.
 
-      The division procedure in the House of Lords is procedurally analogous but differs in important respects. Peers divide into the Content and Not Content lobbies. Crucially, the Lord Speaker does not have a casting vote; in the event of an equality of votes, the motion is negatived under the convention that the Not Contents have it, reflecting the principle that the question is not decided unless a majority affirms it. Whipping in the Lords is substantially weaker: crossbench peers have no whip, and party whips exercise less leverage over peers who do not face re-election. The Political and Constitutional Reform Committee (2013) noted that the absence of electoral accountability fundamentally alters the dynamics of party discipline in the upper House.
-    reading_age: null
-    sources:
-      - citation: "Erskine May, 'Parliamentary Practice', 25th edition, LexisNexis, 2019"
-        url: "https://erskinemay.parliament.uk/"
-        type: secondary
-      - citation: "UK Parliament, 'Voting in the House of Commons'"
-        url: "https://www.parliament.uk/about/how/business/divisions/"
-        type: official
-      - citation: "Cowley, P., 'The Rebels: How Blair Mislaid His Majority', Politico's Publishing, 2005"
-        url: "https://www.philip-cowley.co.uk/the-rebels"
-        type: secondary
-      - citation: "House of Commons Procedure Committee, 'Procedure under Coronavirus Restrictions: Lessons from the Pandemic', Fourth Report of Session 2021-22, HC 563"
-        url: "https://committees.parliament.uk/work/1510/procedure-under-coronavirus-restrictions/"
-        type: primary
-      - citation: "UK Parliament, 'Whips'"
-        url: "https://www.parliament.uk/about/mps-and-lords/principal/whips/"
-        type: official
-      - citation: "Norton, P., 'Parliament in British Politics', 2nd edition, Palgrave Macmillan, 2013"
-        url: "https://link.springer.com/book/10.1007/978-1-137-35717-2"
-        type: secondary
-      - citation: "House of Commons Library, 'The Speaker's Casting Vote', Research Briefing SN05765"
-        url: "https://commonslibrary.parliament.uk/research-briefings/sn05765/"
-        type: primary
-      - citation: "Cowley, P. and Stuart, M., 'Parliament: A Few Headaches and a Dose of Modernisation', Parliamentary Affairs, 57(2), 2004, pp. 442-458"
-        url: "https://academic.oup.com/pa/article/57/2/442/1533778"
-        type: secondary
+            The division procedure in the House of Lords is procedurally analogous but differs in important respects. Peers divide into the Content and Not Content lobbies. Crucially, the Lord Speaker does not have a casting vote; in the event of an equality of votes, the motion is negatived under the convention that the Not Contents have it, reflecting the principle that the question is not decided unless a majority affirms it. Whipping in the Lords is substantially weaker: crossbench peers have no whip, and party whips exercise less leverage over peers who do not face re-election. The Political and Constitutional Reform Committee (2013) noted that the absence of electoral accountability fundamentally alters the dynamics of party discipline in the upper House.
+        reading_age: null
+        sources:
+            - citation: "Erskine May, 'Parliamentary Practice', 25th edition, LexisNexis, 2019"
+              url: 'https://erskinemay.parliament.uk/'
+              type: secondary
+            - citation: "UK Parliament, 'Voting in the House of Commons'"
+              url: 'https://www.parliament.uk/about/how/business/divisions/'
+              type: official
+            - citation: "Cowley, P., 'The Rebels: How Blair Mislaid His Majority', Politico's Publishing, 2005"
+              url: 'https://www.philip-cowley.co.uk/the-rebels'
+              type: secondary
+            - citation: "House of Commons Procedure Committee, 'Procedure under Coronavirus Restrictions: Lessons from the Pandemic', Fourth Report of Session 2021-22, HC 563"
+              url: 'https://committees.parliament.uk/work/1510/procedure-under-coronavirus-restrictions/'
+              type: primary
+            - citation: "UK Parliament, 'Whips'"
+              url: 'https://www.parliament.uk/about/mps-and-lords/principal/whips/'
+              type: official
+            - citation: "Norton, P., 'Parliament in British Politics', 2nd edition, Palgrave Macmillan, 2013"
+              url: 'https://link.springer.com/book/10.1007/978-1-137-35717-2'
+              type: secondary
+            - citation: "House of Commons Library, 'The Speaker's Casting Vote', Research Briefing SN05765"
+              url: 'https://commonslibrary.parliament.uk/research-briefings/sn05765/'
+              type: primary
+            - citation: "Cowley, P. and Stuart, M., 'Parliament: A Few Headaches and a Dose of Modernisation', Parliamentary Affairs, 57(2), 2004, pp. 442-458"
+              url: 'https://academic.oup.com/pa/article/57/2/442/1533778'
+              type: secondary
 
 glossary:
-  - term: "Division"
-    definition_simple: "The process where MPs vote by walking through corridors called lobbies, so their votes can be counted."
-    definition_full: "The formal voting procedure of the House of Commons in which Members physically walk through the Aye or No division lobbies to have their votes recorded by clerks and counted by tellers. A division is called when the result of a voice vote is challenged."
-  - term: "Division Lobby"
-    definition_simple: "One of two special corridors next to the House of Commons Chamber that MPs walk through to cast their vote."
-    definition_full: "One of two corridors flanking the House of Commons Chamber through which Members pass during a division. The Aye Lobby is to the right of the Speaker's chair and the No Lobby to the left. Members' names are recorded as they pass through, and they are counted by tellers at the exit."
-  - term: "Teller"
-    definition_simple: "One of four people who count the MPs as they walk through the voting lobbies."
-    definition_full: "One of four Members appointed to count votes during a division, two from each side. Tellers are typically drawn from the whips' offices. They stand at the exits of the division lobbies, count the Members passing through, and report the result to the Speaker."
-  - term: "Casting Vote"
-    definition_simple: "The special vote the Speaker uses to break a tie, following a tradition of keeping things the way they are."
-    definition_full: "The vote exercised by the Speaker of the House of Commons when the numbers in a division are equal. By convention, the casting vote is exercised according to Denison's Rule, which directs the Speaker to vote in favour of further discussion and against introducing new measures, preserving the status quo."
-  - term: "Deferred Division"
-    definition_simple: "A type of vote where MPs fill in a ballot paper on Wednesday instead of walking through the lobbies straight away."
-    definition_full: "A voting procedure introduced by Standing Order No. 41A in 2000, applicable to certain less contentious matters such as statutory instruments. Instead of a physical division in the Chamber, Members mark a ballot paper in the division lobby during a set period on the following Wednesday."
+    - term: 'Division'
+      definition_simple: 'The process where MPs vote by walking through corridors called lobbies, so their votes can be counted.'
+      definition_full: 'The formal voting procedure of the House of Commons in which Members physically walk through the Aye or No division lobbies to have their votes recorded by clerks and counted by tellers. A division is called when the result of a voice vote is challenged.'
+    - term: 'Division Lobby'
+      definition_simple: 'One of two special corridors next to the House of Commons Chamber that MPs walk through to cast their vote.'
+      definition_full: "One of two corridors flanking the House of Commons Chamber through which Members pass during a division. The Aye Lobby is to the right of the Speaker's chair and the No Lobby to the left. Members' names are recorded as they pass through, and they are counted by tellers at the exit."
+    - term: 'Teller'
+      definition_simple: 'One of four people who count the MPs as they walk through the voting lobbies.'
+      definition_full: "One of four Members appointed to count votes during a division, two from each side. Tellers are typically drawn from the whips' offices. They stand at the exits of the division lobbies, count the Members passing through, and report the result to the Speaker."
+    - term: 'Casting Vote'
+      definition_simple: 'The special vote the Speaker uses to break a tie, following a tradition of keeping things the way they are.'
+      definition_full: "The vote exercised by the Speaker of the House of Commons when the numbers in a division are equal. By convention, the casting vote is exercised according to Denison's Rule, which directs the Speaker to vote in favour of further discussion and against introducing new measures, preserving the status quo."
+    - term: 'Deferred Division'
+      definition_simple: 'A type of vote where MPs fill in a ballot paper on Wednesday instead of walking through the lobbies straight away.'
+      definition_full: 'A voting procedure introduced by Standing Order No. 41A in 2000, applicable to certain less contentious matters such as statutory instruments. Instead of a physical division in the Chamber, Members mark a ballot paper in the division lobby during a set period on the following Wednesday.'
 
 did_you_know:
-  - fact: "When a division is called, bells ring all around Parliament for eight minutes. MPs have been known to run from the gym, the canteen, or even the bar to make it to the lobbies in time!"
-    level: [child, teenager]
-  - fact: "The House of Commons does not have enough seats for all 650 MPs. During major divisions, the Chamber and lobbies can become extremely crowded, with MPs queuing to pass through the narrow lobby exits."
-    level: [child, teenager, adult]
-  - fact: "During the Brexit debates of 2019, Speaker Bercow had to use his casting vote on several occasions, always following Denison's Rule to maintain the status quo rather than deciding the issue himself."
-    level: [teenager, adult, researcher]
-  - fact: "In September 2019, 21 Conservative MPs had the whip withdrawn for voting against the government on a Brexit Bill, the largest mass withdrawal of the whip in modern parliamentary history. Most had it restored within months."
-    level: [teenager, adult, researcher]
-  - fact: "During the COVID-19 pandemic in 2020, MPs voted electronically for the first time in parliamentary history using an app on their phones. The House later voted to return to the traditional lobby system."
-    level: [teenager, adult, researcher]
+    - fact: 'When a division is called, bells ring all around Parliament for eight minutes. MPs have been known to run from the gym, the canteen, or even the bar to make it to the lobbies in time!'
+      level: [child, teenager]
+    - fact: 'The House of Commons does not have enough seats for all 650 MPs. During major divisions, the Chamber and lobbies can become extremely crowded, with MPs queuing to pass through the narrow lobby exits.'
+      level: [child, teenager, adult]
+    - fact: "During the Brexit debates of 2019, Speaker Bercow had to use his casting vote on several occasions, always following Denison's Rule to maintain the status quo rather than deciding the issue himself."
+      level: [teenager, adult, researcher]
+    - fact: 'In September 2019, 21 Conservative MPs had the whip withdrawn for voting against the government on a Brexit Bill, the largest mass withdrawal of the whip in modern parliamentary history. Most had it restored within months.'
+      level: [teenager, adult, researcher]
+    - fact: 'During the COVID-19 pandemic in 2020, MPs voted electronically for the first time in parliamentary history using an app on their phones. The House later voted to return to the traditional lobby system.'
+      level: [teenager, adult, researcher]
 
 key_dates:
-  - year: 1867
-    event: "Speaker Denison articulates the casting vote convention"
-    significance: "Speaker John Evelyn Denison set out the principles governing the Speaker's casting vote, establishing the convention that the Speaker votes to maintain the status quo and avoid deciding substantive questions, a rule still followed today."
-    levels: [adult, researcher]
-  - year: 1994
-    event: "Eight Conservative MPs have the whip withdrawn over Maastricht"
-    significance: "Eight Conservative rebels lost the whip for voting against the government on the European Communities (Finance) Bill, demonstrating both the severity of whip withdrawal as a disciplinary tool and the limits of party discipline on deeply divisive issues."
-    levels: [adult, researcher]
-  - year: 2000
-    event: "Deferred divisions introduced"
-    significance: "Standing Order No. 41A established deferred divisions, allowing certain routine votes to be held by ballot paper on Wednesdays, reducing disruption to Chamber business and modernising voting procedures for less contentious matters."
-    levels: [teenager, adult, researcher]
-  - year: 2019
-    event: "21 Conservative MPs have the whip withdrawn over Brexit"
-    significance: "The largest mass withdrawal of the whip in modern parliamentary history occurred when 21 Conservative MPs voted against the government to prevent a no-deal Brexit, highlighting the tensions between party discipline and individual conscience on constitutional matters."
-    levels: [teenager, adult, researcher]
-  - year: 2020
-    event: "First electronic voting in the House of Commons"
-    significance: "The COVID-19 pandemic forced the House to adopt remote electronic voting for the first time, using the MemberHub platform. Though temporary, the experiment prompted significant debate about permanently modernising voting procedures."
-    levels: [teenager, adult, researcher]
+    - year: 1867
+      event: 'Speaker Denison articulates the casting vote convention'
+      significance: "Speaker John Evelyn Denison set out the principles governing the Speaker's casting vote, establishing the convention that the Speaker votes to maintain the status quo and avoid deciding substantive questions, a rule still followed today."
+      levels: [adult, researcher]
+    - year: 1994
+      event: 'Eight Conservative MPs have the whip withdrawn over Maastricht'
+      significance: 'Eight Conservative rebels lost the whip for voting against the government on the European Communities (Finance) Bill, demonstrating both the severity of whip withdrawal as a disciplinary tool and the limits of party discipline on deeply divisive issues.'
+      levels: [adult, researcher]
+    - year: 2000
+      event: 'Deferred divisions introduced'
+      significance: 'Standing Order No. 41A established deferred divisions, allowing certain routine votes to be held by ballot paper on Wednesdays, reducing disruption to Chamber business and modernising voting procedures for less contentious matters.'
+      levels: [teenager, adult, researcher]
+    - year: 2019
+      event: '21 Conservative MPs have the whip withdrawn over Brexit'
+      significance: 'The largest mass withdrawal of the whip in modern parliamentary history occurred when 21 Conservative MPs voted against the government to prevent a no-deal Brexit, highlighting the tensions between party discipline and individual conscience on constitutional matters.'
+      levels: [teenager, adult, researcher]
+    - year: 2020
+      event: 'First electronic voting in the House of Commons'
+      significance: 'The COVID-19 pandemic forced the House to adopt remote electronic voting for the first time, using the MemberHub platform. Though temporary, the experiment prompted significant debate about permanently modernising voting procedures.'
+      levels: [teenager, adult, researcher]
 
 key_figures:
-  - name: "John Evelyn Denison"
-    role: "Speaker of the House of Commons (1857-1872)"
-    description: "Articulated the convention governing the Speaker's casting vote in 1867, establishing principles that direct the Speaker to maintain the status quo and avoid deciding substantive questions. Denison's Rule remains the governing convention for casting votes today."
-    levels: [adult, researcher]
-  - name: "Mark Spencer"
-    role: "Government Chief Whip (2019-2022)"
-    description: "Served as Government Chief Whip during a period of significant parliamentary turbulence including the COVID-19 pandemic and its impact on voting procedures. Managed the transition between remote voting and the return to physical divisions."
-    levels: [adult, researcher]
-  - name: "John Bercow"
-    role: "Speaker of the House of Commons (2009-2019)"
-    description: "Exercised the casting vote on multiple occasions during the Brexit-related proceedings of 2019, applying Denison's Rule in novel procedural circumstances. His decisions demonstrated the continuing relevance and application of the casting vote convention."
-    levels: [teenager, adult, researcher]
+    - name: 'John Evelyn Denison'
+      role: 'Speaker of the House of Commons (1857-1872)'
+      description: "Articulated the convention governing the Speaker's casting vote in 1867, establishing principles that direct the Speaker to maintain the status quo and avoid deciding substantive questions. Denison's Rule remains the governing convention for casting votes today."
+      levels: [adult, researcher]
+    - name: 'Mark Spencer'
+      role: 'Government Chief Whip (2019-2022)'
+      description: 'Served as Government Chief Whip during a period of significant parliamentary turbulence including the COVID-19 pandemic and its impact on voting procedures. Managed the transition between remote voting and the return to physical divisions.'
+      levels: [adult, researcher]
+    - name: 'John Bercow'
+      role: 'Speaker of the House of Commons (2009-2019)'
+      description: "Exercised the casting vote on multiple occasions during the Brexit-related proceedings of 2019, applying Denison's Rule in novel procedural circumstances. His decisions demonstrated the continuing relevance and application of the casting vote convention."
+      levels: [teenager, adult, researcher]
 
 video_links:
-  - title: "How do MPs vote in the House of Commons? | Exploring the House of Commons | BBC Teach"
-    url: "https://www.youtube.com/watch?v=J6e_XoSuopo"
-    source: "BBC Bitesize for Teachers"
-    description: "BBC Teach explains how MPs vote by walking through the division lobbies, including the role of tellers and the whip system."
-    levels: [child, teenager]
-  - title: "UK Parliament tour - Bills and Voting"
-    url: "https://www.youtube.com/watch?v=ctrfygrTAQU"
-    source: "UK Parliament"
-    description: "A tour of the UK Parliament focusing on how bills progress through the legislative process and how voting works in the division lobbies."
-    levels: [teenager, adult]
-  - title: "What happens when a vote is tied in the House of Lords?"
-    url: "https://www.youtube.com/watch?v=BecwfYAPsdY"
-    source: "House of Lords"
-    description: "Explains the rules governing tied votes in the House of Lords, where a tied vote means the motion is defeated without the need for a casting vote."
-    levels: [adult, researcher]
+    - title: 'How do MPs vote in the House of Commons? | Exploring the House of Commons | BBC Teach'
+      url: 'https://www.youtube.com/watch?v=J6e_XoSuopo'
+      source: 'BBC Bitesize for Teachers'
+      description: 'BBC Teach explains how MPs vote by walking through the division lobbies, including the role of tellers and the whip system.'
+      levels: [child, teenager]
+    - title: 'UK Parliament tour - Bills and Voting'
+      url: 'https://www.youtube.com/watch?v=ctrfygrTAQU'
+      source: 'UK Parliament'
+      description: 'A tour of the UK Parliament focusing on how bills progress through the legislative process and how voting works in the division lobbies.'
+      levels: [teenager, adult]
+    - title: 'What happens when a vote is tied in the House of Lords?'
+      url: 'https://www.youtube.com/watch?v=BecwfYAPsdY'
+      source: 'House of Lords'
+      description: 'Explains the rules governing tied votes in the House of Lords, where a tied vote means the motion is defeated without the need for a casting vote.'
+      levels: [adult, researcher]
 
 quizzes:
-  child:
-    - question: "How do MPs vote in the House of Commons?"
-      type: multiple_choice
-      options: ["By pressing a button on their desk", "By putting up their hand", "By walking through a special corridor called a lobby", "By shouting the loudest"]
-      answer: "By walking through a special corridor called a lobby"
-      explanation: "MPs vote by walking through one of two division lobbies: the Aye Lobby if they want to vote yes, or the No Lobby if they want to vote no."
-    - question: "True or false: When there is a tied vote, the Speaker can vote for whichever side they personally agree with."
-      type: true_false
-      answer: false
-      explanation: "The Speaker must follow Denison's Rule, which means they vote to keep things the way they are rather than choosing based on their own opinion."
-    - question: "What are tellers?"
-      type: multiple_choice
-      options: ["People who tell MPs what to vote", "People who count MPs as they walk through the lobbies", "People who ring the division bells", "People who write down the debates"]
-      answer: "People who count MPs as they walk through the lobbies"
-      explanation: "Four tellers (two for each side) stand at the exits of the voting lobbies and count the MPs as they walk through."
-  teenager:
-    - question: "What is a three-line whip?"
-      type: multiple_choice
-      options: ["An instruction underlined three times indicating the most important votes where attendance and loyalty are mandatory", "A rule that allows MPs three chances to vote", "A whip document sent out three days before a vote", "An instruction that applies only to three senior MPs"]
-      answer: "An instruction underlined three times indicating the most important votes where attendance and loyalty are mandatory"
-      explanation: "The weekly whip document uses underlining to indicate vote importance. A three-line whip is the strongest instruction, and defying it can result in having the whip withdrawn."
-    - question: "True or false: During the COVID-19 pandemic, the House of Commons used electronic voting for the first time in its history."
-      type: true_false
-      answer: true
-      explanation: "In April 2020, MPs voted electronically using the MemberHub app for the first time. The House later returned to traditional lobby divisions."
-    - question: "What happens when a vote in the House of Commons is tied?"
-      type: short_answer
-      answer: "When a vote is tied, the Speaker exercises the casting vote according to Denison's Rule. This convention directs the Speaker to vote to maintain the status quo, rather than deciding the substantive question. This means voting against introducing new measures and in favour of further discussion."
-      explanation: "Denison's Rule ensures that the Speaker does not determine policy on a casting vote, preserving the principle that decisions should be made by the elected Members."
-  adult:
-    - question: "Explain the difference between a free vote and a whipped vote, and give examples of when each might be used."
-      type: short_answer
-      answer: "A whipped vote is one where the party issues a formal instruction to MPs on how to vote, with the strength of the instruction indicated by the number of lines under the item in the weekly whip document (one-line through three-line). Whipped votes are the norm for government legislation and confidence matters. A free vote occurs when parties do not issue a voting instruction, allowing MPs to vote according to personal conscience. Free votes are conventionally applied to matters of personal morality such as assisted dying, abortion, and hunting. However, even on free votes, informal pressures from colleagues, constituency parties, and media can influence voting behaviour."
-      explanation: "The distinction between free and whipped votes reveals the tension between individual conscience and collective party discipline that pervades parliamentary democracy."
-    - question: "What was the significance of the withdrawal of the whip from 21 Conservative MPs in September 2019?"
-      type: short_answer
-      answer: "In September 2019, 21 Conservative MPs voted against the government to prevent a no-deal Brexit by supporting a motion to take control of the parliamentary timetable. The government withdrew the whip from all 21, the largest mass withdrawal in modern parliamentary history. The episode highlighted the limits of party discipline on deeply divisive constitutional matters and included senior figures such as former Chancellor Philip Hammond and Winston Churchill's grandson Nicholas Soames. Most had the whip restored within months."
-      explanation: "This event illustrated the extreme tensions between executive authority and parliamentary sovereignty during the Brexit crisis."
-    - question: "Which of the following is NOT a principle of Speaker Denison's Rule?"
-      type: multiple_choice
-      options: ["Vote to maintain the status quo", "Vote in favour of further discussion", "Vote according to the Speaker's personal political beliefs", "Avoid deciding substantive questions on a casting vote"]
-      answer: "Vote according to the Speaker's personal political beliefs"
-      explanation: "Denison's Rule specifically requires the Speaker to set aside personal views and vote to preserve the status quo, ensure further discussion, and avoid determining substantive policy on a casting vote."
-  researcher:
-    - question: "Critically evaluate the arguments for and against replacing the physical division lobby system with electronic voting in the House of Commons, drawing on the experience of the COVID-19 pandemic and comparative evidence from other legislatures."
-      type: essay
-      answer: "A strong answer would discuss: the historical and functional rationale for physical divisions (tradition, informal communication between members and ministers, the 'pairing' system); the practical drawbacks (time consumed, accessibility for disabled members, disruption to debate); the COVID-19 experience with remote electronic voting via MemberHub and subsequent physical queuing; the Procedure Committee's examination of permanent alternatives; comparative evidence from legislatures using electronic voting (e.g., European Parliament, Scottish Parliament, Welsh Senedd); arguments about the democratic significance of physical presence; the role of divisions in facilitating lobbying by whips; and the 2021 vote to restore traditional procedures."
-      explanation: "This question requires balanced analysis of institutional design, practical considerations, and constitutional principles."
-    - question: "Analyse the constitutional significance of Denison's Rule and its application during the Brexit-related proceedings of 2019, assessing whether the convention remains fit for purpose in the context of highly polarised parliamentary politics."
-      type: essay
-      answer: "A comprehensive response should address: the historical origins of the rule in Speaker Denison's statement of 1867; its codification in Erskine May; the principles underlying the convention (status quo preservation, avoidance of substantive decisions on a casting vote, encouragement of further discussion); Speaker Bercow's application of the rule during Brexit proceedings; specific instances where the casting vote was exercised and the procedural context; criticism that the rule's application was politically motivated; the counterargument that the rule was applied consistently with its historical principles; and the broader question of whether conventions designed for a less polarised era can withstand the pressures of modern constitutional crises."
-      explanation: "This question examines the resilience of parliamentary conventions under extreme political pressure."
-    - question: "Assess the effectiveness of the whipping system as a mechanism for maintaining party discipline in the House of Commons, with reference to major rebellions and the concept of 'anticipated reaction'."
-      type: essay
-      answer: "An excellent answer would discuss: the institutional structure of the whips' offices; the graduated system of one-line, two-line, and three-line whips; the sanctions available (withdrawal of the whip, deselection); empirical evidence on rebellion rates (Cowley 2005, Cowley and Stuart 2004); major rebellions including Maastricht (1992-93), Iraq War (2003), and Brexit (2017-19); the concept of anticipated reaction whereby the whipping system's effectiveness lies partly in its deterrent effect; the distinction between loyalty and acquiescence; the role of patronage and career incentives in maintaining discipline; the limitations of the whipping system when conscience or constituency pressure overrides party loyalty; and the special dynamics of free votes."
-      explanation: "This question requires analysis of both the formal and informal mechanisms of party discipline and their effectiveness in practice."
+    child:
+        - question: 'How do MPs vote in the House of Commons?'
+          type: multiple_choice
+          options:
+              [
+                  'By pressing a button on their desk',
+                  'By putting up their hand',
+                  'By walking through a special corridor called a lobby',
+                  'By shouting the loudest',
+              ]
+          answer: 'By walking through a special corridor called a lobby'
+          explanation: 'MPs vote by walking through one of two division lobbies: the Aye Lobby if they want to vote yes, or the No Lobby if they want to vote no.'
+        - question: 'True or false: When there is a tied vote, the Speaker can vote for whichever side they personally agree with.'
+          type: true_false
+          answer: false
+          explanation: "The Speaker must follow Denison's Rule, which means they vote to keep things the way they are rather than choosing based on their own opinion."
+        - question: 'What are tellers?'
+          type: multiple_choice
+          options:
+              [
+                  'People who tell MPs what to vote',
+                  'People who count MPs as they walk through the lobbies',
+                  'People who ring the division bells',
+                  'People who write down the debates',
+              ]
+          answer: 'People who count MPs as they walk through the lobbies'
+          explanation: 'Four tellers (two for each side) stand at the exits of the voting lobbies and count the MPs as they walk through.'
+    teenager:
+        - question: 'What is a three-line whip?'
+          type: multiple_choice
+          options:
+              [
+                  'An instruction underlined three times indicating the most important votes where attendance and loyalty are mandatory',
+                  'A rule that allows MPs three chances to vote',
+                  'A whip document sent out three days before a vote',
+                  'An instruction that applies only to three senior MPs',
+              ]
+          answer: 'An instruction underlined three times indicating the most important votes where attendance and loyalty are mandatory'
+          explanation: 'The weekly whip document uses underlining to indicate vote importance. A three-line whip is the strongest instruction, and defying it can result in having the whip withdrawn.'
+        - question: 'True or false: During the COVID-19 pandemic, the House of Commons used electronic voting for the first time in its history.'
+          type: true_false
+          answer: true
+          explanation: 'In April 2020, MPs voted electronically using the MemberHub app for the first time. The House later returned to traditional lobby divisions.'
+        - question: 'What happens when a vote in the House of Commons is tied?'
+          type: short_answer
+          answer: "When a vote is tied, the Speaker exercises the casting vote according to Denison's Rule. This convention directs the Speaker to vote to maintain the status quo, rather than deciding the substantive question. This means voting against introducing new measures and in favour of further discussion."
+          explanation: "Denison's Rule ensures that the Speaker does not determine policy on a casting vote, preserving the principle that decisions should be made by the elected Members."
+    adult:
+        - question: 'Explain the difference between a free vote and a whipped vote, and give examples of when each might be used.'
+          type: short_answer
+          answer: 'A whipped vote is one where the party issues a formal instruction to MPs on how to vote, with the strength of the instruction indicated by the number of lines under the item in the weekly whip document (one-line through three-line). Whipped votes are the norm for government legislation and confidence matters. A free vote occurs when parties do not issue a voting instruction, allowing MPs to vote according to personal conscience. Free votes are conventionally applied to matters of personal morality such as assisted dying, abortion, and hunting. However, even on free votes, informal pressures from colleagues, constituency parties, and media can influence voting behaviour.'
+          explanation: 'The distinction between free and whipped votes reveals the tension between individual conscience and collective party discipline that pervades parliamentary democracy.'
+        - question: 'What was the significance of the withdrawal of the whip from 21 Conservative MPs in September 2019?'
+          type: short_answer
+          answer: "In September 2019, 21 Conservative MPs voted against the government to prevent a no-deal Brexit by supporting a motion to take control of the parliamentary timetable. The government withdrew the whip from all 21, the largest mass withdrawal in modern parliamentary history. The episode highlighted the limits of party discipline on deeply divisive constitutional matters and included senior figures such as former Chancellor Philip Hammond and Winston Churchill's grandson Nicholas Soames. Most had the whip restored within months."
+          explanation: 'This event illustrated the extreme tensions between executive authority and parliamentary sovereignty during the Brexit crisis.'
+        - question: "Which of the following is NOT a principle of Speaker Denison's Rule?"
+          type: multiple_choice
+          options:
+              [
+                  'Vote to maintain the status quo',
+                  'Vote in favour of further discussion',
+                  "Vote according to the Speaker's personal political beliefs",
+                  'Avoid deciding substantive questions on a casting vote',
+              ]
+          answer: "Vote according to the Speaker's personal political beliefs"
+          explanation: "Denison's Rule specifically requires the Speaker to set aside personal views and vote to preserve the status quo, ensure further discussion, and avoid determining substantive policy on a casting vote."
+    researcher:
+        - question: 'Critically evaluate the arguments for and against replacing the physical division lobby system with electronic voting in the House of Commons, drawing on the experience of the COVID-19 pandemic and comparative evidence from other legislatures.'
+          type: essay
+          answer: "A strong answer would discuss: the historical and functional rationale for physical divisions (tradition, informal communication between members and ministers, the 'pairing' system); the practical drawbacks (time consumed, accessibility for disabled members, disruption to debate); the COVID-19 experience with remote electronic voting via MemberHub and subsequent physical queuing; the Procedure Committee's examination of permanent alternatives; comparative evidence from legislatures using electronic voting (e.g., European Parliament, Scottish Parliament, Welsh Senedd); arguments about the democratic significance of physical presence; the role of divisions in facilitating lobbying by whips; and the 2021 vote to restore traditional procedures."
+          explanation: 'This question requires balanced analysis of institutional design, practical considerations, and constitutional principles.'
+        - question: "Analyse the constitutional significance of Denison's Rule and its application during the Brexit-related proceedings of 2019, assessing whether the convention remains fit for purpose in the context of highly polarised parliamentary politics."
+          type: essay
+          answer: "A comprehensive response should address: the historical origins of the rule in Speaker Denison's statement of 1867; its codification in Erskine May; the principles underlying the convention (status quo preservation, avoidance of substantive decisions on a casting vote, encouragement of further discussion); Speaker Bercow's application of the rule during Brexit proceedings; specific instances where the casting vote was exercised and the procedural context; criticism that the rule's application was politically motivated; the counterargument that the rule was applied consistently with its historical principles; and the broader question of whether conventions designed for a less polarised era can withstand the pressures of modern constitutional crises."
+          explanation: 'This question examines the resilience of parliamentary conventions under extreme political pressure.'
+        - question: "Assess the effectiveness of the whipping system as a mechanism for maintaining party discipline in the House of Commons, with reference to major rebellions and the concept of 'anticipated reaction'."
+          type: essay
+          answer: "An excellent answer would discuss: the institutional structure of the whips' offices; the graduated system of one-line, two-line, and three-line whips; the sanctions available (withdrawal of the whip, deselection); empirical evidence on rebellion rates (Cowley 2005, Cowley and Stuart 2004); major rebellions including Maastricht (1992-93), Iraq War (2003), and Brexit (2017-19); the concept of anticipated reaction whereby the whipping system's effectiveness lies partly in its deterrent effect; the distinction between loyalty and acquiescence; the role of patronage and career incentives in maintaining discipline; the limitations of the whipping system when conscience or constituency pressure overrides party loyalty; and the special dynamics of free votes."
+          explanation: 'This question requires analysis of both the formal and informal mechanisms of party discipline and their effectiveness in practice.'

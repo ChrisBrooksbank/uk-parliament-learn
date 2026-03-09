@@ -1,267 +1,295 @@
 id: debates-and-questions
-title: "Debates and Questions"
+title: 'Debates and Questions'
 slug: debates-and-questions
 
 metadata:
-  category: parliamentary-procedure
-  tags: [debates, questions, pmqs, adjournment, urgent-questions, westminster-hall, opposition-day, scrutiny]
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: parliamentary-procedure
+    tags:
+        [
+            debates,
+            questions,
+            pmqs,
+            adjournment,
+            urgent-questions,
+            westminster-hall,
+            opposition-day,
+            scrutiny,
+        ]
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: what-is-parliament
-    relationship: prerequisite
-  - id: house-of-commons
-    relationship: see-also
-  - id: select-committees
-    relationship: see-also
+    - id: what-is-parliament
+      relationship: prerequisite
+    - id: house-of-commons
+      relationship: see-also
+    - id: select-committees
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Debates and questions are the ways MPs talk about important issues and ask the government to explain what it is doing."
-    body: |
-      In the UK Parliament, MPs have special times when they can talk about important things happening in the country and ask questions to the people in charge.
+    child:
+        summary: 'Debates and questions are the ways MPs talk about important issues and ask the government to explain what it is doing.'
+        body: |
+            In the UK Parliament, MPs have special times when they can talk about important things happening in the country and ask questions to the people in charge.
 
-      One of the most exciting times is called Prime Minister's Questions, or PMQs. This happens every Wednesday at lunchtime. MPs get to stand up and ask the Prime Minister questions about anything they want. The Leader of the Opposition, who is the head of the second-biggest party, gets to ask up to six questions. It can get very noisy and exciting!
+            One of the most exciting times is called Prime Minister's Questions, or PMQs. This happens every Wednesday at lunchtime. MPs get to stand up and ask the Prime Minister questions about anything they want. The Leader of the Opposition, who is the head of the second-biggest party, gets to ask up to six questions. It can get very noisy and exciting!
 
-      MPs can also ask questions in other ways. They can put their hand up during the day to ask a minister a question out loud, which is called an oral question. Or they can write their question down and send it in, which is called a written question. The minister has to answer written questions within a certain number of days.
+            MPs can also ask questions in other ways. They can put their hand up during the day to ask a minister a question out loud, which is called an oral question. Or they can write their question down and send it in, which is called a written question. The minister has to answer written questions within a certain number of days.
 
-      Sometimes something really important happens suddenly, like a big storm or an emergency. When that happens, an MP can ask for something called an urgent question. The Speaker decides if it is important enough, and if it is, a minister has to come to the House of Commons and answer questions about it straight away.
+            Sometimes something really important happens suddenly, like a big storm or an emergency. When that happens, an MP can ask for something called an urgent question. The Speaker decides if it is important enough, and if it is, a minister has to come to the House of Commons and answer questions about it straight away.
 
-      There are also debates, where MPs take turns talking about a topic. In Westminster Hall, which is a second debating chamber, MPs can discuss issues that matter to the people in their local area. These debates are usually calmer and friendlier than the main Chamber.
-    reading_age: 8
-  teenager:
-    summary: "The UK Parliament uses debates and questions as key tools for holding the government to account, from the weekly drama of PMQs to quieter Westminster Hall debates."
-    body: |
-      The House of Commons has developed several mechanisms for MPs to scrutinise the government, raise issues affecting their constituents, and debate matters of national importance. These range from the high-profile weekly session of Prime Minister's Questions to more detailed and specialist debates in Westminster Hall.
+            There are also debates, where MPs take turns talking about a topic. In Westminster Hall, which is a second debating chamber, MPs can discuss issues that matter to the people in their local area. These debates are usually calmer and friendlier than the main Chamber.
+        reading_age: 8
+    teenager:
+        summary: 'The UK Parliament uses debates and questions as key tools for holding the government to account, from the weekly drama of PMQs to quieter Westminster Hall debates.'
+        body: |
+            The House of Commons has developed several mechanisms for MPs to scrutinise the government, raise issues affecting their constituents, and debate matters of national importance. These range from the high-profile weekly session of Prime Minister's Questions to more detailed and specialist debates in Westminster Hall.
 
-      Prime Minister's Questions (PMQs) takes place every Wednesday at noon and lasts at least 30 minutes. The Leader of the Opposition is allowed up to six questions, and other MPs are called by the Speaker. PMQs begins with an open question about the Prime Minister's engagements for the day, which allows follow-up questions on virtually any subject. While PMQs attracts enormous media attention, critics argue it often generates more heat than light, with pre-prepared soundbites replacing genuine scrutiny.
+            Prime Minister's Questions (PMQs) takes place every Wednesday at noon and lasts at least 30 minutes. The Leader of the Opposition is allowed up to six questions, and other MPs are called by the Speaker. PMQs begins with an open question about the Prime Minister's engagements for the day, which allows follow-up questions on virtually any subject. While PMQs attracts enormous media attention, critics argue it often generates more heat than light, with pre-prepared soundbites replacing genuine scrutiny.
 
-      Oral questions to other government departments follow a rota system, with each department answering questions in the Chamber on a set day. MPs must submit their questions in advance and are selected by a random ballot known as the shuffle. If called, an MP asks their question and can then ask a supplementary question based on the minister's response.
+            Oral questions to other government departments follow a rota system, with each department answering questions in the Chamber on a set day. MPs must submit their questions in advance and are selected by a random ballot known as the shuffle. If called, an MP asks their question and can then ask a supplementary question based on the minister's response.
 
-      Written questions are a workhorse of parliamentary scrutiny. MPs can table ordinary written questions, which should receive a response within seven sitting days, or named day questions, which specify a particular date for the answer. Tens of thousands of written questions are tabled each parliamentary session, covering everything from local hospital waiting times to defence spending.
+            Written questions are a workhorse of parliamentary scrutiny. MPs can table ordinary written questions, which should receive a response within seven sitting days, or named day questions, which specify a particular date for the answer. Tens of thousands of written questions are tabled each parliamentary session, covering everything from local hospital waiting times to defence spending.
 
-      Urgent questions allow MPs to demand that a minister come to the House to answer questions on a pressing matter. The Speaker decides whether to grant an urgent question, and the number granted has increased significantly since John Bercow became Speaker in 2009. Urgent questions ensure the government cannot avoid scrutiny on breaking issues.
+            Urgent questions allow MPs to demand that a minister come to the House to answer questions on a pressing matter. The Speaker decides whether to grant an urgent question, and the number granted has increased significantly since John Bercow became Speaker in 2009. Urgent questions ensure the government cannot avoid scrutiny on breaking issues.
 
-      Westminster Hall debates take place in the Grand Committee Room and provide a parallel debating chamber where MPs can raise constituency issues, respond to e-petitions, or discuss select committee reports. These debates are generally less adversarial than those in the main Chamber.
+            Westminster Hall debates take place in the Grand Committee Room and provide a parallel debating chamber where MPs can raise constituency issues, respond to e-petitions, or discuss select committee reports. These debates are generally less adversarial than those in the main Chamber.
 
-      Opposition Day debates give opposition parties the chance to choose the topic of debate. The Official Opposition is allocated 17 days per session and the third largest party 3 days. While votes on Opposition Day motions are not binding on the government, they carry significant political weight.
-    reading_age: 14
-  adult:
-    summary: "Parliamentary debates and questions constitute the principal mechanisms through which the House of Commons holds the executive to account, encompassing PMQs, oral and written questions, urgent questions, adjournment debates, Westminster Hall debates, and Opposition Day debates."
-    body: |
-      The system of debates and questions in the House of Commons represents the core of parliamentary scrutiny, providing multiple channels through which Members of Parliament can interrogate government policy, raise constituency concerns, and shape public discourse on matters of national importance.
+            Opposition Day debates give opposition parties the chance to choose the topic of debate. The Official Opposition is allocated 17 days per session and the third largest party 3 days. While votes on Opposition Day motions are not binding on the government, they carry significant political weight.
+        reading_age: 14
+    adult:
+        summary: 'Parliamentary debates and questions constitute the principal mechanisms through which the House of Commons holds the executive to account, encompassing PMQs, oral and written questions, urgent questions, adjournment debates, Westminster Hall debates, and Opposition Day debates.'
+        body: |
+            The system of debates and questions in the House of Commons represents the core of parliamentary scrutiny, providing multiple channels through which Members of Parliament can interrogate government policy, raise constituency concerns, and shape public discourse on matters of national importance.
 
-      Prime Minister's Questions (PMQs) is the most visible element of this system. Held every Wednesday at noon for at least 30 minutes, it evolved into its current weekly format in 1997 when Tony Blair replaced the previous twice-weekly 15-minute sessions. The Leader of the Opposition is permitted up to six questions, leaders of other parties are typically called for two, and backbenchers are selected by the Speaker. The session begins with open engagements questions, a procedural device that allows supplementary questions on any topic. PMQs serves as both a scrutiny mechanism and a political set piece, though its effectiveness as a tool of accountability remains contested among parliamentarians and scholars.
+            Prime Minister's Questions (PMQs) is the most visible element of this system. Held every Wednesday at noon for at least 30 minutes, it evolved into its current weekly format in 1997 when Tony Blair replaced the previous twice-weekly 15-minute sessions. The Leader of the Opposition is permitted up to six questions, leaders of other parties are typically called for two, and backbenchers are selected by the Speaker. The session begins with open engagements questions, a procedural device that allows supplementary questions on any topic. PMQs serves as both a scrutiny mechanism and a political set piece, though its effectiveness as a tool of accountability remains contested among parliamentarians and scholars.
 
-      The oral questions system operates on a departmental rota, with each government department allocated a regular slot in the Chamber. Questions are submitted in advance and selected by a computerised random ballot (the shuffle). The minister responds, and the questioning MP may ask one unscripted supplementary question, as may other Members whom the Speaker calls. This format encourages ministers to prepare thoroughly across their departmental brief.
+            The oral questions system operates on a departmental rota, with each government department allocated a regular slot in the Chamber. Questions are submitted in advance and selected by a computerised random ballot (the shuffle). The minister responds, and the questioning MP may ask one unscripted supplementary question, as may other Members whom the Speaker calls. This format encourages ministers to prepare thoroughly across their departmental brief.
 
-      Written questions are the most prolific form of parliamentary questioning. An MP may table an ordinary written question, to which the government should respond within seven sitting days, or a named day question specifying a date for reply. In the 2022-23 session, over 40,000 written questions were tabled. Answers are published in Hansard and provide a valuable public record of government policy and data.
+            Written questions are the most prolific form of parliamentary questioning. An MP may table an ordinary written question, to which the government should respond within seven sitting days, or a named day question specifying a date for reply. In the 2022-23 session, over 40,000 written questions were tabled. Answers are published in Hansard and provide a valuable public record of government policy and data.
 
-      Urgent questions, granted at the Speaker's discretion, require a minister to attend the House and make a statement on a matter of pressing public importance. Under Speaker Bercow (2009-2019), the number of urgent questions granted rose dramatically, from a handful per session to over 100 per year in some sessions. This trend continued under Speaker Hoyle, ensuring that the government faces timely scrutiny on breaking events.
+            Urgent questions, granted at the Speaker's discretion, require a minister to attend the House and make a statement on a matter of pressing public importance. Under Speaker Bercow (2009-2019), the number of urgent questions granted rose dramatically, from a handful per session to over 100 per year in some sessions. This trend continued under Speaker Hoyle, ensuring that the government faces timely scrutiny on breaking events.
 
-      Adjournment debates take place at the end of each sitting day, lasting approximately 30 minutes. A backbench MP raises a specific issue, typically a constituency matter, and a minister responds. Though they rarely attract large audiences, adjournment debates can be highly effective in securing ministerial attention on individual cases. The weekly Westminster Hall adjournment debate and the recess adjournment debates serve a similar function.
+            Adjournment debates take place at the end of each sitting day, lasting approximately 30 minutes. A backbench MP raises a specific issue, typically a constituency matter, and a minister responds. Though they rarely attract large audiences, adjournment debates can be highly effective in securing ministerial attention on individual cases. The weekly Westminster Hall adjournment debate and the recess adjournment debates serve a similar function.
 
-      Westminster Hall debates, held in the Grand Committee Room since 1999, provide a parallel debating chamber. They include debates on e-petitions that have received over 100,000 signatures, debates on select committee reports, and general debates secured through the Backbench Business Committee. The atmosphere is typically less adversarial than the main Chamber, and the round-table seating arrangement encourages more collaborative discussion.
+            Westminster Hall debates, held in the Grand Committee Room since 1999, provide a parallel debating chamber. They include debates on e-petitions that have received over 100,000 signatures, debates on select committee reports, and general debates secured through the Backbench Business Committee. The atmosphere is typically less adversarial than the main Chamber, and the round-table seating arrangement encourages more collaborative discussion.
 
-      Opposition Day debates allocate 20 days per session for opposition parties to choose the subject of debate: 17 days for the Official Opposition and 3 for the third largest party. While the resulting motions are not legally binding, the political significance of a government defeat on an Opposition Day motion can be considerable, as demonstrated by several high-profile defeats during the 2017-19 Parliament over Brexit.
-    reading_age: 18
-  researcher:
-    summary: "Parliamentary debates and questions in the House of Commons constitute a multi-layered system of executive accountability, encompassing PMQs, departmental oral questions, written parliamentary questions, urgent questions, adjournment debates, Westminster Hall proceedings, and Opposition Day debates, each with distinct procedural rules and varying effectiveness as scrutiny instruments."
-    body: |
-      The House of Commons employs a suite of procedural mechanisms for questioning and debating the executive, collectively forming the backbone of day-to-day parliamentary accountability. These instruments vary in formality, visibility, and effectiveness, and have evolved considerably through practice, Standing Order amendments, and the discretionary authority of successive Speakers.
+            Opposition Day debates allocate 20 days per session for opposition parties to choose the subject of debate: 17 days for the Official Opposition and 3 for the third largest party. While the resulting motions are not legally binding, the political significance of a government defeat on an Opposition Day motion can be considerable, as demonstrated by several high-profile defeats during the 2017-19 Parliament over Brexit.
+        reading_age: 18
+    researcher:
+        summary: 'Parliamentary debates and questions in the House of Commons constitute a multi-layered system of executive accountability, encompassing PMQs, departmental oral questions, written parliamentary questions, urgent questions, adjournment debates, Westminster Hall proceedings, and Opposition Day debates, each with distinct procedural rules and varying effectiveness as scrutiny instruments.'
+        body: |
+            The House of Commons employs a suite of procedural mechanisms for questioning and debating the executive, collectively forming the backbone of day-to-day parliamentary accountability. These instruments vary in formality, visibility, and effectiveness, and have evolved considerably through practice, Standing Order amendments, and the discretionary authority of successive Speakers.
 
-      Prime Minister's Questions occupies a unique position in the Westminster system. Originating informally in the mid-twentieth century, the convention of oral questions to the Prime Minister was formalised in the 1961 sessional order. The twice-weekly format (Tuesdays and Thursdays, approximately 15 minutes each) persisted until 1997, when Tony Blair consolidated it into a single 30-minute Wednesday session. The procedural foundation of PMQs rests on the open engagements question: by asking the Prime Minister to list their official engagements for the day, the questioner secures the right to an unscripted supplementary on any topic. The Leader of the Opposition is permitted up to six questions under convention, and the leaders of the third and fourth largest parties typically receive two. Scholarly analysis of PMQs has generated a substantial literature, with Bates et al. (2014) demonstrating that the adversarial format correlates with public disengagement from politics, while Bull and Wells (2012) have analysed the rhetorical strategies employed by Prime Ministers to evade direct answers.
+            Prime Minister's Questions occupies a unique position in the Westminster system. Originating informally in the mid-twentieth century, the convention of oral questions to the Prime Minister was formalised in the 1961 sessional order. The twice-weekly format (Tuesdays and Thursdays, approximately 15 minutes each) persisted until 1997, when Tony Blair consolidated it into a single 30-minute Wednesday session. The procedural foundation of PMQs rests on the open engagements question: by asking the Prime Minister to list their official engagements for the day, the questioner secures the right to an unscripted supplementary on any topic. The Leader of the Opposition is permitted up to six questions under convention, and the leaders of the third and fourth largest parties typically receive two. Scholarly analysis of PMQs has generated a substantial literature, with Bates et al. (2014) demonstrating that the adversarial format correlates with public disengagement from politics, while Bull and Wells (2012) have analysed the rhetorical strategies employed by Prime Ministers to evade direct answers.
 
-      Oral questions to departmental ministers follow a rota published by the Table Office, with each department appearing approximately once every four to five weeks. Questions are tabled up to three sitting days in advance and selected by computerised random ballot. Standing Order No. 22 governs the procedure. The minister provides a prepared answer, after which the tabling MP and other Members called by the Speaker may ask supplementary questions. The effectiveness of oral questions as a scrutiny mechanism depends significantly on the quality of supplementary questioning, which tests ministerial knowledge in real time.
+            Oral questions to departmental ministers follow a rota published by the Table Office, with each department appearing approximately once every four to five weeks. Questions are tabled up to three sitting days in advance and selected by computerised random ballot. Standing Order No. 22 governs the procedure. The minister provides a prepared answer, after which the tabling MP and other Members called by the Speaker may ask supplementary questions. The effectiveness of oral questions as a scrutiny mechanism depends significantly on the quality of supplementary questioning, which tests ministerial knowledge in real time.
 
-      Written parliamentary questions represent the most voluminous form of scrutiny. Governed by the ministerial code obligation to provide accurate and truthful information to Parliament, written questions generate tens of thousands of answers each session. The Procedure Committee has periodically investigated the timeliness and quality of government responses, noting recurrent concerns about late answers and evasive replies. Named day questions, introduced to ensure timely responses on urgent matters, carry an expectation of answer on the specified date, though compliance is imperfect.
+            Written parliamentary questions represent the most voluminous form of scrutiny. Governed by the ministerial code obligation to provide accurate and truthful information to Parliament, written questions generate tens of thousands of answers each session. The Procedure Committee has periodically investigated the timeliness and quality of government responses, noting recurrent concerns about late answers and evasive replies. Named day questions, introduced to ensure timely responses on urgent matters, carry an expectation of answer on the specified date, though compliance is imperfect.
 
-      Urgent questions (UQs) have undergone a transformation in recent decades. Prior to 2009, Private Notice Questions (as they were then styled) were rarely granted. Speaker Bercow dramatically expanded their use, granting over 100 per year in some sessions, fundamentally altering the dynamic of government accountability. This practice has been largely maintained by Speaker Hoyle. UQs require a minister to attend the House at short notice and answer questions on a matter the Speaker deems of urgent public importance. Their increased use has shifted the balance of power towards the legislature, forcing government departments to maintain a state of preparedness for parliamentary questioning on breaking events.
+            Urgent questions (UQs) have undergone a transformation in recent decades. Prior to 2009, Private Notice Questions (as they were then styled) were rarely granted. Speaker Bercow dramatically expanded their use, granting over 100 per year in some sessions, fundamentally altering the dynamic of government accountability. This practice has been largely maintained by Speaker Hoyle. UQs require a minister to attend the House at short notice and answer questions on a matter the Speaker deems of urgent public importance. Their increased use has shifted the balance of power towards the legislature, forcing government departments to maintain a state of preparedness for parliamentary questioning on breaking events.
 
-      Adjournment debates, provided for under Standing Order No. 9(7), occur at the close of each sitting day and last approximately 30 minutes. A single backbench Member raises a topic, typically a constituency issue, and a minister responds. The Backbench Business Committee, established in 2010 following the Wright Committee recommendations, allocates time for backbench debates in the main Chamber and Westminster Hall, strengthening backbench influence over the parliamentary agenda.
+            Adjournment debates, provided for under Standing Order No. 9(7), occur at the close of each sitting day and last approximately 30 minutes. A single backbench Member raises a topic, typically a constituency issue, and a minister responds. The Backbench Business Committee, established in 2010 following the Wright Committee recommendations, allocates time for backbench debates in the main Chamber and Westminster Hall, strengthening backbench influence over the parliamentary agenda.
 
-      Westminster Hall sittings, introduced by a sessional order in November 1999, operate as a parallel debating chamber. Sitting in the Grand Committee Room off Westminster Hall, these sessions follow a structured timetable including 30-minute, 60-minute, and 90-minute debates. Topics include e-petitions receiving over 100,000 signatures (debated in the Petitions Committee's allocated time), select committee reports, and general debates allocated by the Backbench Business Committee. The format encourages more constructive and less adversarial debate than the main Chamber.
+            Westminster Hall sittings, introduced by a sessional order in November 1999, operate as a parallel debating chamber. Sitting in the Grand Committee Room off Westminster Hall, these sessions follow a structured timetable including 30-minute, 60-minute, and 90-minute debates. Topics include e-petitions receiving over 100,000 signatures (debated in the Petitions Committee's allocated time), select committee reports, and general debates allocated by the Backbench Business Committee. The format encourages more constructive and less adversarial debate than the main Chamber.
 
-      Opposition Day debates are allocated under Standing Order No. 13, which provides 20 days per session for the discussion of subjects chosen by opposition parties (17 for the Official Opposition, 3 for the second largest opposition party). Although motions passed on Opposition Days are not binding, they carry considerable political significance. During the 2017-19 Parliament, the government suffered multiple Opposition Day defeats on Brexit-related motions, several of which directly influenced the trajectory of negotiations and legislation.
+            Opposition Day debates are allocated under Standing Order No. 13, which provides 20 days per session for the discussion of subjects chosen by opposition parties (17 for the Official Opposition, 3 for the second largest opposition party). Although motions passed on Opposition Days are not binding, they carry considerable political significance. During the 2017-19 Parliament, the government suffered multiple Opposition Day defeats on Brexit-related motions, several of which directly influenced the trajectory of negotiations and legislation.
 
-      The effectiveness of these mechanisms as tools of executive accountability remains a subject of active scholarly debate. Norton (2013) argues that the cumulative effect of parliamentary questions, debates, and committee scrutiny creates a culture of anticipated reaction, whereby governments modify policy in expectation of parliamentary challenge. Conversely, Russell and Cowley (2016) note that the adversarial design of the Chamber and the dominance of party discipline can limit the depth of scrutiny achieved in practice.
-    reading_age: null
-    sources:
-      - citation: "Bates, S., Kerr, P., Byrne, C. and Stanley, L., 'Questions to the Prime Minister: A Comparative Study', Parliamentary Affairs, 67(2), 2014, pp. 253-280"
-        url: "https://academic.oup.com/pa/article/67/2/253/1528935"
-        type: secondary
-      - citation: "UK Parliament, 'Prime Minister's Questions'"
-        url: "https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/prime-ministers-questions/"
-        type: official
-      - citation: "UK Parliament, 'Parliamentary Questions'"
-        url: "https://www.parliament.uk/about/how/business/questions/"
-        type: official
-      - citation: "Erskine May, 'Parliamentary Practice', 25th edition, LexisNexis, 2019"
-        url: "https://erskinemay.parliament.uk/"
-        type: secondary
-      - citation: "Norton, P., 'Parliament in British Politics', 2nd edition, Palgrave Macmillan, 2013"
-        url: "https://link.springer.com/book/10.1007/978-1-137-35717-2"
-        type: secondary
-      - citation: "House of Commons Procedure Committee, 'Written Parliamentary Questions: Government Responses', Third Report of Session 2019-21, HC 391"
-        url: "https://committees.parliament.uk/work/234/written-parliamentary-questions/"
-        type: primary
-      - citation: "Russell, M. and Cowley, P., 'The Policy Power of the Westminster Parliament: The Parliamentary State and the Empirical Evidence', Governance, 29(1), 2016, pp. 121-137"
-        url: "https://onlinelibrary.wiley.com/doi/10.1111/gove.12149"
-        type: secondary
-      - citation: "UK Parliament, 'Westminster Hall Debates'"
-        url: "https://www.parliament.uk/about/how/business/westminsterhall/"
-        type: official
-      - citation: "House of Commons Library, 'Opposition Day Debates', Research Briefing SN06315"
-        url: "https://commonslibrary.parliament.uk/research-briefings/sn06315/"
-        type: primary
+            The effectiveness of these mechanisms as tools of executive accountability remains a subject of active scholarly debate. Norton (2013) argues that the cumulative effect of parliamentary questions, debates, and committee scrutiny creates a culture of anticipated reaction, whereby governments modify policy in expectation of parliamentary challenge. Conversely, Russell and Cowley (2016) note that the adversarial design of the Chamber and the dominance of party discipline can limit the depth of scrutiny achieved in practice.
+        reading_age: null
+        sources:
+            - citation: "Bates, S., Kerr, P., Byrne, C. and Stanley, L., 'Questions to the Prime Minister: A Comparative Study', Parliamentary Affairs, 67(2), 2014, pp. 253-280"
+              url: 'https://academic.oup.com/pa/article/67/2/253/1528935'
+              type: secondary
+            - citation: "UK Parliament, 'Prime Minister's Questions'"
+              url: 'https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/prime-ministers-questions/'
+              type: official
+            - citation: "UK Parliament, 'Parliamentary Questions'"
+              url: 'https://www.parliament.uk/about/how/business/questions/'
+              type: official
+            - citation: "Erskine May, 'Parliamentary Practice', 25th edition, LexisNexis, 2019"
+              url: 'https://erskinemay.parliament.uk/'
+              type: secondary
+            - citation: "Norton, P., 'Parliament in British Politics', 2nd edition, Palgrave Macmillan, 2013"
+              url: 'https://link.springer.com/book/10.1007/978-1-137-35717-2'
+              type: secondary
+            - citation: "House of Commons Procedure Committee, 'Written Parliamentary Questions: Government Responses', Third Report of Session 2019-21, HC 391"
+              url: 'https://committees.parliament.uk/work/234/written-parliamentary-questions/'
+              type: primary
+            - citation: "Russell, M. and Cowley, P., 'The Policy Power of the Westminster Parliament: The Parliamentary State and the Empirical Evidence', Governance, 29(1), 2016, pp. 121-137"
+              url: 'https://onlinelibrary.wiley.com/doi/10.1111/gove.12149'
+              type: secondary
+            - citation: "UK Parliament, 'Westminster Hall Debates'"
+              url: 'https://www.parliament.uk/about/how/business/westminsterhall/'
+              type: official
+            - citation: "House of Commons Library, 'Opposition Day Debates', Research Briefing SN06315"
+              url: 'https://commonslibrary.parliament.uk/research-briefings/sn06315/'
+              type: primary
 
 glossary:
-  - term: "Prime Minister's Questions (PMQs)"
-    definition_simple: "A time every Wednesday when MPs ask the Prime Minister questions about what the government is doing."
-    definition_full: "A weekly session held each Wednesday at noon in the House of Commons Chamber, lasting at least 30 minutes, in which the Prime Minister answers questions from Members of Parliament. The format centres on open engagements questions that permit supplementary questions on any topic."
-  - term: "Adjournment Debate"
-    definition_simple: "A short debate at the end of the day where one MP can talk about an issue that matters to them or their local area."
-    definition_full: "A debate held at the close of each sitting day under Standing Order No. 9(7), lasting approximately 30 minutes, in which a single backbench Member raises a specific topic and a minister responds. Adjournment debates are a mechanism for raising constituency and policy concerns directly with government."
-  - term: "Urgent Question"
-    definition_simple: "A special question that forces a minister to come to Parliament and answer questions about something important that has just happened."
-    definition_full: "A question granted at the Speaker's discretion that requires a government minister to attend the House of Commons and answer questions on a matter of urgent public importance. Formerly known as Private Notice Questions, their use has increased substantially since 2009."
-  - term: "Opposition Day"
-    definition_simple: "A day when the parties that are not in government get to choose what Parliament talks about."
-    definition_full: "One of 20 days per parliamentary session allocated under Standing Order No. 13 for debates on subjects chosen by opposition parties. The Official Opposition receives 17 days and the third largest party receives 3. Motions passed on Opposition Days are not legally binding but carry significant political weight."
-  - term: "Written Question"
-    definition_simple: "A question that an MP writes down and sends to a government minister, who must write back with an answer."
-    definition_full: "A parliamentary question submitted in writing to a government department, to which a minister must provide a written response. Ordinary written questions should be answered within seven sitting days; named day questions specify a particular date for reply. Answers are published in Hansard."
+    - term: "Prime Minister's Questions (PMQs)"
+      definition_simple: 'A time every Wednesday when MPs ask the Prime Minister questions about what the government is doing.'
+      definition_full: 'A weekly session held each Wednesday at noon in the House of Commons Chamber, lasting at least 30 minutes, in which the Prime Minister answers questions from Members of Parliament. The format centres on open engagements questions that permit supplementary questions on any topic.'
+    - term: 'Adjournment Debate'
+      definition_simple: 'A short debate at the end of the day where one MP can talk about an issue that matters to them or their local area.'
+      definition_full: 'A debate held at the close of each sitting day under Standing Order No. 9(7), lasting approximately 30 minutes, in which a single backbench Member raises a specific topic and a minister responds. Adjournment debates are a mechanism for raising constituency and policy concerns directly with government.'
+    - term: 'Urgent Question'
+      definition_simple: 'A special question that forces a minister to come to Parliament and answer questions about something important that has just happened.'
+      definition_full: "A question granted at the Speaker's discretion that requires a government minister to attend the House of Commons and answer questions on a matter of urgent public importance. Formerly known as Private Notice Questions, their use has increased substantially since 2009."
+    - term: 'Opposition Day'
+      definition_simple: 'A day when the parties that are not in government get to choose what Parliament talks about.'
+      definition_full: 'One of 20 days per parliamentary session allocated under Standing Order No. 13 for debates on subjects chosen by opposition parties. The Official Opposition receives 17 days and the third largest party receives 3. Motions passed on Opposition Days are not legally binding but carry significant political weight.'
+    - term: 'Written Question'
+      definition_simple: 'A question that an MP writes down and sends to a government minister, who must write back with an answer.'
+      definition_full: 'A parliamentary question submitted in writing to a government department, to which a minister must provide a written response. Ordinary written questions should be answered within seven sitting days; named day questions specify a particular date for reply. Answers are published in Hansard.'
 
 did_you_know:
-  - fact: "During Prime Minister's Questions, the first question is always the same: asking the PM to list their engagements for the day. This clever trick means the follow-up question can be about absolutely anything!"
-    level: [child, teenager]
-  - fact: "Speaker John Bercow became famous for shouting 'Order! Order!' during heated debates. He granted more urgent questions during his time as Speaker than all his recent predecessors combined."
-    level: [child, teenager, adult]
-  - fact: "Over 40,000 written parliamentary questions are tabled each session, making them the most prolific form of scrutiny in the House of Commons. Every answer becomes part of the permanent public record in Hansard."
-    level: [adult, researcher]
-  - fact: "Westminster Hall debates have been held since 1999 in a room with a horseshoe seating arrangement, deliberately designed to encourage less confrontational discussion than the adversarial layout of the main Chamber."
-    level: [teenager, adult, researcher]
-  - fact: "The tradition of PMQs only dates back to 1961. Before that, the Prime Minister answered questions on an ad hoc basis alongside other ministers, with no dedicated slot."
-    level: [teenager, adult, researcher]
+    - fact: "During Prime Minister's Questions, the first question is always the same: asking the PM to list their engagements for the day. This clever trick means the follow-up question can be about absolutely anything!"
+      level: [child, teenager]
+    - fact: "Speaker John Bercow became famous for shouting 'Order! Order!' during heated debates. He granted more urgent questions during his time as Speaker than all his recent predecessors combined."
+      level: [child, teenager, adult]
+    - fact: 'Over 40,000 written parliamentary questions are tabled each session, making them the most prolific form of scrutiny in the House of Commons. Every answer becomes part of the permanent public record in Hansard.'
+      level: [adult, researcher]
+    - fact: 'Westminster Hall debates have been held since 1999 in a room with a horseshoe seating arrangement, deliberately designed to encourage less confrontational discussion than the adversarial layout of the main Chamber.'
+      level: [teenager, adult, researcher]
+    - fact: 'The tradition of PMQs only dates back to 1961. Before that, the Prime Minister answered questions on an ad hoc basis alongside other ministers, with no dedicated slot.'
+      level: [teenager, adult, researcher]
 
 key_dates:
-  - year: 1961
-    event: "Introduction of dedicated Prime Minister's Questions"
-    significance: "The Prime Minister was given a regular dedicated slot for oral questions, initially twice weekly on Tuesdays and Thursdays for approximately 15 minutes each, formalising the practice of direct prime ministerial accountability."
-    levels: [teenager, adult, researcher]
-  - year: 1997
-    event: "PMQs consolidated into a single weekly session"
-    significance: "Tony Blair replaced the twice-weekly 15-minute sessions with a single 30-minute session every Wednesday at noon, a format that has remained in place and increased the theatrical intensity of the occasion."
-    levels: [teenager, adult, researcher]
-  - year: 1999
-    event: "Introduction of Westminster Hall sittings"
-    significance: "A parallel debating chamber was established in the Grand Committee Room off Westminster Hall, providing additional time for backbench debates, e-petition discussions, and select committee report debates."
-    levels: [adult, researcher]
-  - year: 2009
-    event: "Speaker Bercow begins expanding urgent questions"
-    significance: "John Bercow's election as Speaker marked a dramatic increase in the granting of urgent questions, transforming them from a rarely used device into a regular tool of parliamentary accountability."
-    levels: [adult, researcher]
-  - year: 2010
-    event: "Backbench Business Committee established"
-    significance: "Following the Wright Committee recommendations, the Backbench Business Committee was created to give backbenchers greater control over the parliamentary agenda, including the allocation of debate time in the Chamber and Westminster Hall."
-    levels: [teenager, adult, researcher]
+    - year: 1961
+      event: "Introduction of dedicated Prime Minister's Questions"
+      significance: 'The Prime Minister was given a regular dedicated slot for oral questions, initially twice weekly on Tuesdays and Thursdays for approximately 15 minutes each, formalising the practice of direct prime ministerial accountability.'
+      levels: [teenager, adult, researcher]
+    - year: 1997
+      event: 'PMQs consolidated into a single weekly session'
+      significance: 'Tony Blair replaced the twice-weekly 15-minute sessions with a single 30-minute session every Wednesday at noon, a format that has remained in place and increased the theatrical intensity of the occasion.'
+      levels: [teenager, adult, researcher]
+    - year: 1999
+      event: 'Introduction of Westminster Hall sittings'
+      significance: 'A parallel debating chamber was established in the Grand Committee Room off Westminster Hall, providing additional time for backbench debates, e-petition discussions, and select committee report debates.'
+      levels: [adult, researcher]
+    - year: 2009
+      event: 'Speaker Bercow begins expanding urgent questions'
+      significance: "John Bercow's election as Speaker marked a dramatic increase in the granting of urgent questions, transforming them from a rarely used device into a regular tool of parliamentary accountability."
+      levels: [adult, researcher]
+    - year: 2010
+      event: 'Backbench Business Committee established'
+      significance: 'Following the Wright Committee recommendations, the Backbench Business Committee was created to give backbenchers greater control over the parliamentary agenda, including the allocation of debate time in the Chamber and Westminster Hall.'
+      levels: [teenager, adult, researcher]
 
 key_figures:
-  - name: "John Bercow"
-    role: "Speaker of the House of Commons (2009-2019)"
-    description: "Transformed the role of Speaker by dramatically expanding the use of urgent questions and championing the rights of backbenchers to hold the government to account. His tenure saw the number of urgent questions rise from a handful to over 100 per year in some sessions."
-    levels: [teenager, adult, researcher]
-  - name: "Tony Blair"
-    role: "Prime Minister (1997-2007)"
-    description: "Consolidated Prime Minister's Questions from two 15-minute sessions per week into a single 30-minute weekly session on Wednesdays, the format still used today. This change fundamentally altered the dynamics and media profile of PMQs."
-    levels: [teenager, adult, researcher]
-  - name: "Natascha Engel"
-    role: "First Chair of the Backbench Business Committee (2010-2015)"
-    description: "Led the newly created Backbench Business Committee from its inception, establishing its role in allocating debate time and giving backbenchers a meaningful voice in setting the parliamentary agenda."
-    levels: [adult, researcher]
-  - name: "Sir Lindsay Hoyle"
-    role: "Speaker of the House of Commons (2019-present)"
-    description: "Continued the practice of granting urgent questions to ensure government accountability and maintained the expanded role of the Speaker in facilitating scrutiny of the executive."
-    levels: [child, teenager, adult]
+    - name: 'John Bercow'
+      role: 'Speaker of the House of Commons (2009-2019)'
+      description: 'Transformed the role of Speaker by dramatically expanding the use of urgent questions and championing the rights of backbenchers to hold the government to account. His tenure saw the number of urgent questions rise from a handful to over 100 per year in some sessions.'
+      levels: [teenager, adult, researcher]
+    - name: 'Tony Blair'
+      role: 'Prime Minister (1997-2007)'
+      description: "Consolidated Prime Minister's Questions from two 15-minute sessions per week into a single 30-minute weekly session on Wednesdays, the format still used today. This change fundamentally altered the dynamics and media profile of PMQs."
+      levels: [teenager, adult, researcher]
+    - name: 'Natascha Engel'
+      role: 'First Chair of the Backbench Business Committee (2010-2015)'
+      description: 'Led the newly created Backbench Business Committee from its inception, establishing its role in allocating debate time and giving backbenchers a meaningful voice in setting the parliamentary agenda.'
+      levels: [adult, researcher]
+    - name: 'Sir Lindsay Hoyle'
+      role: 'Speaker of the House of Commons (2019-present)'
+      description: 'Continued the practice of granting urgent questions to ensure government accountability and maintained the expanded role of the Speaker in facilitating scrutiny of the executive.'
+      levels: [child, teenager, adult]
 
 video_links:
-  - title: "Debating in Parliament"
-    url: "https://www.youtube.com/watch?v=9vsv32GhQ2s"
-    source: "UK Parliament"
-    description: "A short overview of how debates work in Parliament, covering the basics of how MPs discuss and argue about important issues."
-    levels: [child, teenager]
-  - title: "What is Prime Minister's Questions? | Exploring the House of Commons | BBC Teach"
-    url: "https://www.youtube.com/watch?v=vF57tO_F4pY"
-    source: "BBC Bitesize for Teachers"
-    description: "BBC Teach explains how PMQs works, why it matters, and what happens during the weekly clash between the Prime Minister and the Leader of the Opposition."
-    levels: [teenager, adult]
-  - title: "What are oral questions? | House of Commons"
-    url: "https://www.youtube.com/watch?v=0x4NIJzIR8M"
-    source: "UK Parliament"
-    description: "An explainer from the UK Parliament on how oral questions work in the House of Commons, including the process for tabling and asking questions of ministers."
-    levels: [teenager, adult, researcher]
-  - title: "What are Westminster Hall debates? | House of Commons"
-    url: "https://www.youtube.com/watch?v=GcdO07l8RCA"
-    source: "UK Parliament"
-    description: "Explains how Westminster Hall debates provide a parallel debating chamber where MPs can raise constituency issues and discuss select committee reports."
-    levels: [adult, researcher]
+    - title: 'Debating in Parliament'
+      url: 'https://www.youtube.com/watch?v=9vsv32GhQ2s'
+      source: 'UK Parliament'
+      description: 'A short overview of how debates work in Parliament, covering the basics of how MPs discuss and argue about important issues.'
+      levels: [child, teenager]
+    - title: "What is Prime Minister's Questions? | Exploring the House of Commons | BBC Teach"
+      url: 'https://www.youtube.com/watch?v=vF57tO_F4pY'
+      source: 'BBC Bitesize for Teachers'
+      description: 'BBC Teach explains how PMQs works, why it matters, and what happens during the weekly clash between the Prime Minister and the Leader of the Opposition.'
+      levels: [teenager, adult]
+    - title: 'What are oral questions? | House of Commons'
+      url: 'https://www.youtube.com/watch?v=0x4NIJzIR8M'
+      source: 'UK Parliament'
+      description: 'An explainer from the UK Parliament on how oral questions work in the House of Commons, including the process for tabling and asking questions of ministers.'
+      levels: [teenager, adult, researcher]
+    - title: 'What are Westminster Hall debates? | House of Commons'
+      url: 'https://www.youtube.com/watch?v=GcdO07l8RCA'
+      source: 'UK Parliament'
+      description: 'Explains how Westminster Hall debates provide a parallel debating chamber where MPs can raise constituency issues and discuss select committee reports.'
+      levels: [adult, researcher]
 
 quizzes:
-  child:
-    - question: "When does Prime Minister's Questions happen?"
-      type: multiple_choice
-      options: ["Every Monday morning", "Every Wednesday at lunchtime", "Every Friday afternoon", "Once a month"]
-      answer: "Every Wednesday at lunchtime"
-      explanation: "PMQs takes place every Wednesday at noon (lunchtime) and lasts at least 30 minutes."
-    - question: "True or false: An MP can only ask the Prime Minister questions about one specific topic during PMQs."
-      type: true_false
-      answer: false
-      explanation: "Because PMQs starts with an open question about the PM's engagements, MPs can ask follow-up questions about absolutely anything!"
-    - question: "What is a written question?"
-      type: multiple_choice
-      options: ["A question written on the wall of Parliament", "A question an MP writes down and sends to a minister who must reply", "A question on a school test", "A question the Speaker writes for the PM"]
-      answer: "A question an MP writes down and sends to a minister who must reply"
-      explanation: "MPs can write questions to government ministers, who have to write back with an answer. These answers become part of the official record."
-  teenager:
-    - question: "How many Opposition Days are allocated per parliamentary session?"
-      type: multiple_choice
-      options: ["10", "15", "20", "25"]
-      answer: "20"
-      explanation: "There are 20 Opposition Days per session: 17 for the Official Opposition and 3 for the third largest party. These days allow opposition parties to choose the topic of debate."
-    - question: "True or false: Motions passed on Opposition Day debates are legally binding on the government."
-      type: true_false
-      answer: false
-      explanation: "Opposition Day motions are not legally binding, but they carry significant political weight, especially if the government loses the vote."
-    - question: "What change did Speaker Bercow make to the use of urgent questions after 2009?"
-      type: short_answer
-      answer: "He dramatically increased the number of urgent questions granted, from a handful per session to over 100 per year in some sessions, making them a regular tool for holding the government to account."
-      explanation: "Before Bercow, urgent questions (then called Private Notice Questions) were rarely granted. His willingness to grant them transformed parliamentary scrutiny of the government."
-  adult:
-    - question: "Explain the procedural significance of the 'open engagements question' in the format of Prime Minister's Questions."
-      type: short_answer
-      answer: "The open engagements question asks the Prime Minister to list their official engagements for the day. This procedural device is significant because it allows the supplementary question to be on any topic whatsoever, preventing the PM from preparing a specific answer in advance and ensuring genuine accountability across the full range of government activity."
-      explanation: "Without this device, the PM would know the exact topic in advance and could prepare a detailed scripted response, reducing the scrutiny value of the session."
-    - question: "What role does the Backbench Business Committee play in parliamentary debates?"
-      type: short_answer
-      answer: "The Backbench Business Committee, established in 2010 following the Wright Committee recommendations, allocates time for backbench debates in both the main Chamber and Westminster Hall. It gives backbenchers greater control over the parliamentary agenda by allowing them to propose and schedule debates on topics of their choosing, independent of government or opposition party control."
-      explanation: "Before the Committee's creation, almost all debate time was controlled by the government or opposition frontbenches, leaving backbenchers with little influence over the agenda."
-    - question: "Which of the following is NOT a type of parliamentary question in the House of Commons?"
-      type: multiple_choice
-      options: ["Oral question", "Written question", "Named day question", "Ministerial directive question"]
-      answer: "Ministerial directive question"
-      explanation: "The main types are oral questions (asked in the Chamber), ordinary written questions (answered within seven sitting days), and named day questions (specifying a date for reply). There is no such thing as a ministerial directive question."
-  researcher:
-    - question: "Critically assess the extent to which the expansion of urgent questions under Speakers Bercow and Hoyle has shifted the balance of power between the legislature and the executive in the House of Commons."
-      type: essay
-      answer: "A strong answer would analyse: the historical rarity of Private Notice Questions before 2009; the quantitative increase under Bercow (from single digits to over 100 per year); the procedural basis for the Speaker's discretion; the impact on government departments' preparedness and responsiveness; the political dynamics of ministers being summoned to the House at short notice; comparison with other scrutiny mechanisms; the argument that UQs represent a strengthening of backbench and opposition power; counterarguments regarding the theatrical nature of some UQs; and the sustainability of this practice under future Speakers."
-      explanation: "This question requires analysis of the institutional dynamics between Speaker, backbenchers, and the executive, drawing on evidence from recent parliamentary practice."
-    - question: "Evaluate the effectiveness of written parliamentary questions as a mechanism for transparency and government accountability, with reference to the Procedure Committee's findings on the quality and timeliness of government responses."
-      type: essay
-      answer: "A comprehensive response should address: the volume of written questions (over 40,000 per session); the distinction between ordinary and named day questions; the ministerial code obligation to provide accurate information; the Procedure Committee's findings on late and evasive answers; the role of written answers in creating a public record via Hansard; the use of written questions by both backbenchers and frontbenchers for different purposes; comparison with Freedom of Information requests as an alternative transparency mechanism; and proposals for reform including penalties for late or inadequate responses."
-      explanation: "This question assesses understanding of the practical operation of written questions as a scrutiny tool and the institutional challenges of ensuring meaningful government responses."
-    - question: "Analyse the constitutional and practical significance of Opposition Day debates, drawing on examples from the 2017-19 Parliament to illustrate their impact on government policy."
-      type: essay
-      answer: "An excellent answer would discuss: the allocation of Opposition Days under Standing Order No. 13; the non-binding nature of Opposition Day motions; the political significance of government defeats; specific examples from 2017-19 including defeats on Brexit motions; the argument that Opposition Days serve as a political barometer; the government's attempts to downplay the significance of defeats; the role of Opposition Days in agenda-setting and media coverage; and the broader question of whether non-binding votes can effectively constrain executive action."
-      explanation: "This question examines the gap between formal constitutional status and practical political impact of Opposition Day debates."
+    child:
+        - question: "When does Prime Minister's Questions happen?"
+          type: multiple_choice
+          options:
+              [
+                  'Every Monday morning',
+                  'Every Wednesday at lunchtime',
+                  'Every Friday afternoon',
+                  'Once a month',
+              ]
+          answer: 'Every Wednesday at lunchtime'
+          explanation: 'PMQs takes place every Wednesday at noon (lunchtime) and lasts at least 30 minutes.'
+        - question: 'True or false: An MP can only ask the Prime Minister questions about one specific topic during PMQs.'
+          type: true_false
+          answer: false
+          explanation: "Because PMQs starts with an open question about the PM's engagements, MPs can ask follow-up questions about absolutely anything!"
+        - question: 'What is a written question?'
+          type: multiple_choice
+          options:
+              [
+                  'A question written on the wall of Parliament',
+                  'A question an MP writes down and sends to a minister who must reply',
+                  'A question on a school test',
+                  'A question the Speaker writes for the PM',
+              ]
+          answer: 'A question an MP writes down and sends to a minister who must reply'
+          explanation: 'MPs can write questions to government ministers, who have to write back with an answer. These answers become part of the official record.'
+    teenager:
+        - question: 'How many Opposition Days are allocated per parliamentary session?'
+          type: multiple_choice
+          options: ['10', '15', '20', '25']
+          answer: '20'
+          explanation: 'There are 20 Opposition Days per session: 17 for the Official Opposition and 3 for the third largest party. These days allow opposition parties to choose the topic of debate.'
+        - question: 'True or false: Motions passed on Opposition Day debates are legally binding on the government.'
+          type: true_false
+          answer: false
+          explanation: 'Opposition Day motions are not legally binding, but they carry significant political weight, especially if the government loses the vote.'
+        - question: 'What change did Speaker Bercow make to the use of urgent questions after 2009?'
+          type: short_answer
+          answer: 'He dramatically increased the number of urgent questions granted, from a handful per session to over 100 per year in some sessions, making them a regular tool for holding the government to account.'
+          explanation: 'Before Bercow, urgent questions (then called Private Notice Questions) were rarely granted. His willingness to grant them transformed parliamentary scrutiny of the government.'
+    adult:
+        - question: "Explain the procedural significance of the 'open engagements question' in the format of Prime Minister's Questions."
+          type: short_answer
+          answer: 'The open engagements question asks the Prime Minister to list their official engagements for the day. This procedural device is significant because it allows the supplementary question to be on any topic whatsoever, preventing the PM from preparing a specific answer in advance and ensuring genuine accountability across the full range of government activity.'
+          explanation: 'Without this device, the PM would know the exact topic in advance and could prepare a detailed scripted response, reducing the scrutiny value of the session.'
+        - question: 'What role does the Backbench Business Committee play in parliamentary debates?'
+          type: short_answer
+          answer: 'The Backbench Business Committee, established in 2010 following the Wright Committee recommendations, allocates time for backbench debates in both the main Chamber and Westminster Hall. It gives backbenchers greater control over the parliamentary agenda by allowing them to propose and schedule debates on topics of their choosing, independent of government or opposition party control.'
+          explanation: "Before the Committee's creation, almost all debate time was controlled by the government or opposition frontbenches, leaving backbenchers with little influence over the agenda."
+        - question: 'Which of the following is NOT a type of parliamentary question in the House of Commons?'
+          type: multiple_choice
+          options:
+              [
+                  'Oral question',
+                  'Written question',
+                  'Named day question',
+                  'Ministerial directive question',
+              ]
+          answer: 'Ministerial directive question'
+          explanation: 'The main types are oral questions (asked in the Chamber), ordinary written questions (answered within seven sitting days), and named day questions (specifying a date for reply). There is no such thing as a ministerial directive question.'
+    researcher:
+        - question: 'Critically assess the extent to which the expansion of urgent questions under Speakers Bercow and Hoyle has shifted the balance of power between the legislature and the executive in the House of Commons.'
+          type: essay
+          answer: "A strong answer would analyse: the historical rarity of Private Notice Questions before 2009; the quantitative increase under Bercow (from single digits to over 100 per year); the procedural basis for the Speaker's discretion; the impact on government departments' preparedness and responsiveness; the political dynamics of ministers being summoned to the House at short notice; comparison with other scrutiny mechanisms; the argument that UQs represent a strengthening of backbench and opposition power; counterarguments regarding the theatrical nature of some UQs; and the sustainability of this practice under future Speakers."
+          explanation: 'This question requires analysis of the institutional dynamics between Speaker, backbenchers, and the executive, drawing on evidence from recent parliamentary practice.'
+        - question: "Evaluate the effectiveness of written parliamentary questions as a mechanism for transparency and government accountability, with reference to the Procedure Committee's findings on the quality and timeliness of government responses."
+          type: essay
+          answer: "A comprehensive response should address: the volume of written questions (over 40,000 per session); the distinction between ordinary and named day questions; the ministerial code obligation to provide accurate information; the Procedure Committee's findings on late and evasive answers; the role of written answers in creating a public record via Hansard; the use of written questions by both backbenchers and frontbenchers for different purposes; comparison with Freedom of Information requests as an alternative transparency mechanism; and proposals for reform including penalties for late or inadequate responses."
+          explanation: 'This question assesses understanding of the practical operation of written questions as a scrutiny tool and the institutional challenges of ensuring meaningful government responses.'
+        - question: 'Analyse the constitutional and practical significance of Opposition Day debates, drawing on examples from the 2017-19 Parliament to illustrate their impact on government policy.'
+          type: essay
+          answer: "An excellent answer would discuss: the allocation of Opposition Days under Standing Order No. 13; the non-binding nature of Opposition Day motions; the political significance of government defeats; specific examples from 2017-19 including defeats on Brexit motions; the argument that Opposition Days serve as a political barometer; the government's attempts to downplay the significance of defeats; the role of Opposition Days in agenda-setting and media coverage; and the broader question of whether non-binding votes can effectively constrain executive action."
+          explanation: 'This question examines the gap between formal constitutional status and practical political impact of Opposition Day debates.'

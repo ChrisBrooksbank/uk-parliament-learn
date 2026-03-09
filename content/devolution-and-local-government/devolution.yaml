@@ -1,288 +1,288 @@
 id: devolution
-title: "Devolution in the UK"
+title: 'Devolution in the UK'
 slug: devolution
 
 metadata:
-  category: devolution-and-local-government
-  tags:
-    - devolution
-    - scotland
-    - wales
-    - northern-ireland
-    - scottish-parliament
-    - welsh-senedd
-    - northern-ireland-assembly
-    - reserved-powers
-    - devolved-powers
-    - sewel-convention
-    - barnett-formula
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: devolution-and-local-government
+    tags:
+        - devolution
+        - scotland
+        - wales
+        - northern-ireland
+        - scottish-parliament
+        - welsh-senedd
+        - northern-ireland-assembly
+        - reserved-powers
+        - devolved-powers
+        - sewel-convention
+        - barnett-formula
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: what-is-parliament
-    relationship: prerequisite
-  - id: the-uk-constitution
-    relationship: see-also
-  - id: elections-and-voting
-    relationship: see-also
+    - id: what-is-parliament
+      relationship: prerequisite
+    - id: the-uk-constitution
+      relationship: see-also
+    - id: elections-and-voting
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Devolution means giving some of the power to make decisions to Scotland, Wales, and Northern Ireland, so they can decide certain things for themselves."
-    body: |
-      The United Kingdom is made up of four parts: England, Scotland, Wales, and Northern Ireland. For a long time, almost all the big decisions for the whole country were made by Parliament in London. But people in Scotland, Wales, and Northern Ireland wanted to have more say over what happened in their own part of the UK. This is where devolution comes in.
+    child:
+        summary: 'Devolution means giving some of the power to make decisions to Scotland, Wales, and Northern Ireland, so they can decide certain things for themselves.'
+        body: |
+            The United Kingdom is made up of four parts: England, Scotland, Wales, and Northern Ireland. For a long time, almost all the big decisions for the whole country were made by Parliament in London. But people in Scotland, Wales, and Northern Ireland wanted to have more say over what happened in their own part of the UK. This is where devolution comes in.
 
-      Devolution means that some powers have been passed from the UK Parliament in London to new parliaments and assemblies in Scotland, Wales, and Northern Ireland. Scotland has the Scottish Parliament, which is based in Edinburgh. Wales has the Senedd, which meets in Cardiff. Northern Ireland has the Northern Ireland Assembly, which is based at Stormont in Belfast.
+            Devolution means that some powers have been passed from the UK Parliament in London to new parliaments and assemblies in Scotland, Wales, and Northern Ireland. Scotland has the Scottish Parliament, which is based in Edinburgh. Wales has the Senedd, which meets in Cardiff. Northern Ireland has the Northern Ireland Assembly, which is based at Stormont in Belfast.
 
-      These bodies can make decisions about things like schools, hospitals, and the environment in their own part of the UK. But some big decisions, like defence and foreign affairs, are still made by the UK Parliament in London. These are called reserved powers, because they are reserved for Westminster.
+            These bodies can make decisions about things like schools, hospitals, and the environment in their own part of the UK. But some big decisions, like defence and foreign affairs, are still made by the UK Parliament in London. These are called reserved powers, because they are reserved for Westminster.
 
-      In 1997, the people of Scotland and Wales voted in referendums to set up their own parliaments. Northern Ireland's Assembly was created as part of the peace process in 1998. Since then, each of these bodies has been given more powers over time.
+            In 1997, the people of Scotland and Wales voted in referendums to set up their own parliaments. Northern Ireland's Assembly was created as part of the peace process in 1998. Since then, each of these bodies has been given more powers over time.
 
-      Devolution means that people in different parts of the UK can have laws and policies that are right for them, while still being part of the same country.
-    reading_age: 8
-  teenager:
-    summary: "Devolution is the transfer of legislative and executive powers from the UK Parliament at Westminster to elected bodies in Scotland, Wales, and Northern Ireland, allowing them to make their own laws in certain policy areas."
-    body: |
-      Devolution is one of the most significant constitutional changes in the UK's recent history. It involves transferring powers from the UK Parliament at Westminster to elected institutions in Scotland, Wales, and Northern Ireland. The key principle is that decisions about certain policy areas should be made closer to the people they affect.
+            Devolution means that people in different parts of the UK can have laws and policies that are right for them, while still being part of the same country.
+        reading_age: 8
+    teenager:
+        summary: 'Devolution is the transfer of legislative and executive powers from the UK Parliament at Westminster to elected bodies in Scotland, Wales, and Northern Ireland, allowing them to make their own laws in certain policy areas.'
+        body: |
+            Devolution is one of the most significant constitutional changes in the UK's recent history. It involves transferring powers from the UK Parliament at Westminster to elected institutions in Scotland, Wales, and Northern Ireland. The key principle is that decisions about certain policy areas should be made closer to the people they affect.
 
-      The push for devolution gained momentum in the 1990s. In 1997, referendums in Scotland and Wales showed public support for creating devolved legislatures. The Scotland Act 1998 established the Scottish Parliament, and the Government of Wales Act 1998 created the National Assembly for Wales (now known as the Senedd Cymru). In Northern Ireland, the Belfast (Good Friday) Agreement of 1998 led to the creation of the Northern Ireland Assembly as part of the peace process.
+            The push for devolution gained momentum in the 1990s. In 1997, referendums in Scotland and Wales showed public support for creating devolved legislatures. The Scotland Act 1998 established the Scottish Parliament, and the Government of Wales Act 1998 created the National Assembly for Wales (now known as the Senedd Cymru). In Northern Ireland, the Belfast (Good Friday) Agreement of 1998 led to the creation of the Northern Ireland Assembly as part of the peace process.
 
-      The UK system distinguishes between devolved powers and reserved powers. Devolved powers are those transferred to the devolved bodies -- they include areas like health, education, transport, and the environment. Reserved powers remain with the UK Parliament and include defence, foreign affairs, immigration, and most taxation. Scotland has the broadest set of devolved powers, including some tax-varying powers granted by the Scotland Act 2016.
+            The UK system distinguishes between devolved powers and reserved powers. Devolved powers are those transferred to the devolved bodies -- they include areas like health, education, transport, and the environment. Reserved powers remain with the UK Parliament and include defence, foreign affairs, immigration, and most taxation. Scotland has the broadest set of devolved powers, including some tax-varying powers granted by the Scotland Act 2016.
 
-      An important convention governs the relationship between Westminster and the devolved legislatures. The Sewel Convention holds that the UK Parliament will "not normally" legislate on devolved matters without the consent of the relevant devolved legislature. This convention was recognised in statute by the Scotland Act 2016, though the Supreme Court ruled in 2017 that it remains a political convention rather than a legally enforceable rule.
+            An important convention governs the relationship between Westminster and the devolved legislatures. The Sewel Convention holds that the UK Parliament will "not normally" legislate on devolved matters without the consent of the relevant devolved legislature. This convention was recognised in statute by the Scotland Act 2016, though the Supreme Court ruled in 2017 that it remains a political convention rather than a legally enforceable rule.
 
-      Funding for devolved governments is largely determined by the Barnett Formula, a mechanism created in 1978 that calculates changes to the block grants received by Scotland, Wales, and Northern Ireland based on changes in comparable spending in England. The formula has been criticised for producing funding levels that do not always reflect the relative needs of different parts of the UK.
+            Funding for devolved governments is largely determined by the Barnett Formula, a mechanism created in 1978 that calculates changes to the block grants received by Scotland, Wales, and Northern Ireland based on changes in comparable spending in England. The formula has been criticised for producing funding levels that do not always reflect the relative needs of different parts of the UK.
 
-      Devolution has created a more complex system of governance in the UK. Different parts of the country now have different policies on issues such as university tuition fees, prescription charges, and environmental regulation. This has prompted ongoing debates about fairness, representation, and the future of the Union.
-    reading_age: 14
-  adult:
-    summary: "Devolution is the statutory delegation of legislative and executive competences from the UK Parliament to the Scottish Parliament, the Welsh Senedd, and the Northern Ireland Assembly, creating an asymmetric system of multi-level governance within the unitary state."
-    body: |
-      Devolution represents the most far-reaching programme of constitutional reform undertaken in the United Kingdom since the extension of the franchise. It involves the statutory transfer of legislative and executive powers from the UK Parliament at Westminster to elected institutions in Scotland, Wales, and Northern Ireland, while preserving the legal sovereignty of the Westminster Parliament. The result is an asymmetric system of territorial governance: each devolved settlement differs in scope, structure, and the degree of autonomy conferred.
+            Devolution has created a more complex system of governance in the UK. Different parts of the country now have different policies on issues such as university tuition fees, prescription charges, and environmental regulation. This has prompted ongoing debates about fairness, representation, and the future of the Union.
+        reading_age: 14
+    adult:
+        summary: 'Devolution is the statutory delegation of legislative and executive competences from the UK Parliament to the Scottish Parliament, the Welsh Senedd, and the Northern Ireland Assembly, creating an asymmetric system of multi-level governance within the unitary state.'
+        body: |
+            Devolution represents the most far-reaching programme of constitutional reform undertaken in the United Kingdom since the extension of the franchise. It involves the statutory transfer of legislative and executive powers from the UK Parliament at Westminster to elected institutions in Scotland, Wales, and Northern Ireland, while preserving the legal sovereignty of the Westminster Parliament. The result is an asymmetric system of territorial governance: each devolved settlement differs in scope, structure, and the degree of autonomy conferred.
 
-      The modern devolution settlements emerged from referendums held in 1997 (Scotland and Wales) and the peace process in Northern Ireland. The Scotland Act 1998 established the Scottish Parliament with primary legislative competence over a broad range of policy areas, using a reserved powers model: everything not explicitly reserved to Westminster is devolved. The Government of Wales Act 1998 initially created a body with only secondary legislative powers, but successive reforms -- the Government of Wales Act 2006 and the Wales Act 2017 -- progressively expanded Welsh competences and moved Wales to a reserved powers model aligned with Scotland. The Northern Ireland Act 1998, implementing the Belfast (Good Friday) Agreement, created the Northern Ireland Assembly with a distinctive power-sharing executive designed to ensure cross-community representation.
+            The modern devolution settlements emerged from referendums held in 1997 (Scotland and Wales) and the peace process in Northern Ireland. The Scotland Act 1998 established the Scottish Parliament with primary legislative competence over a broad range of policy areas, using a reserved powers model: everything not explicitly reserved to Westminster is devolved. The Government of Wales Act 1998 initially created a body with only secondary legislative powers, but successive reforms -- the Government of Wales Act 2006 and the Wales Act 2017 -- progressively expanded Welsh competences and moved Wales to a reserved powers model aligned with Scotland. The Northern Ireland Act 1998, implementing the Belfast (Good Friday) Agreement, created the Northern Ireland Assembly with a distinctive power-sharing executive designed to ensure cross-community representation.
 
-      The division between reserved and devolved powers is central to the constitutional architecture. Reserved matters -- including defence, foreign affairs, immigration, and the constitution -- remain with Westminster. Devolved matters include health, education, housing, transport, the environment, and (to varying degrees) justice and policing. The Scotland Act 2016 devolved further powers over income tax rates and bands, air passenger duty, and certain welfare benefits, while the Wales Act 2017 devolved some tax powers and placed the Senedd on a firmer legislative footing.
+            The division between reserved and devolved powers is central to the constitutional architecture. Reserved matters -- including defence, foreign affairs, immigration, and the constitution -- remain with Westminster. Devolved matters include health, education, housing, transport, the environment, and (to varying degrees) justice and policing. The Scotland Act 2016 devolved further powers over income tax rates and bands, air passenger duty, and certain welfare benefits, while the Wales Act 2017 devolved some tax powers and placed the Senedd on a firmer legislative footing.
 
-      The Sewel Convention, established in 1998 and later recognised in Section 28(8) of the Scotland Act 1998 (as amended by the Scotland Act 2016), provides that Westminster will "not normally" legislate on devolved matters without the consent of the relevant devolved legislature. The convention was tested during the passage of the European Union (Withdrawal) Act 2018 and the UK Internal Market Act 2020, both of which proceeded without consent from all devolved legislatures. In the Miller case (R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5), the Supreme Court held that the Sewel Convention, despite its statutory recognition, is a political convention and not a justiciable legal rule.
+            The Sewel Convention, established in 1998 and later recognised in Section 28(8) of the Scotland Act 1998 (as amended by the Scotland Act 2016), provides that Westminster will "not normally" legislate on devolved matters without the consent of the relevant devolved legislature. The convention was tested during the passage of the European Union (Withdrawal) Act 2018 and the UK Internal Market Act 2020, both of which proceeded without consent from all devolved legislatures. In the Miller case (R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5), the Supreme Court held that the Sewel Convention, despite its statutory recognition, is a political convention and not a justiciable legal rule.
 
-      Devolved governments are funded primarily through block grants from the UK Treasury, calculated using the Barnett Formula. Devised in 1978 by then Chief Secretary to the Treasury Joel Barnett, the formula determines changes to devolved block grants by reference to changes in comparable public spending in England, adjusted for population share. The formula has been widely criticised: it does not account for relative need, and over time it has tended to produce convergence in per capita funding levels. The Scotland Act 2016 introduced a fiscal framework that adjusts block grant calculations to account for Scotland's devolved tax powers.
+            Devolved governments are funded primarily through block grants from the UK Treasury, calculated using the Barnett Formula. Devised in 1978 by then Chief Secretary to the Treasury Joel Barnett, the formula determines changes to devolved block grants by reference to changes in comparable public spending in England, adjusted for population share. The formula has been widely criticised: it does not account for relative need, and over time it has tended to produce convergence in per capita funding levels. The Scotland Act 2016 introduced a fiscal framework that adjusts block grant calculations to account for Scotland's devolved tax powers.
 
-      Devolution has had profound implications for UK governance. Policy divergence across the four nations has become increasingly visible, particularly in areas such as health (prescription charges are abolished in Scotland, Wales, and Northern Ireland), education (Scotland has a distinct system, and Wales has diverged on curriculum reform), and the environment. The absence of a devolved legislature for England -- the so-called "West Lothian Question" -- has prompted debate about the legitimacy of MPs from devolved nations voting on England-only matters, leading to the introduction and subsequent repeal of English Votes for English Laws (EVEL) procedures.
-    reading_age: 18
-  researcher:
-    summary: "A scholarly examination of UK devolution as an exercise in asymmetric constitutionalism, analysing the statutory frameworks, intergovernmental relations, fiscal architecture, and constitutional tensions inherent in the devolution settlements."
-    body: |
-      Devolution in the United Kingdom constitutes a programme of asymmetric constitutional reform that has fundamentally reshaped the territorial governance of the state while leaving intact the formal doctrine of parliamentary sovereignty. The settlements established by the Scotland Act 1998, the Government of Wales Act 1998, and the Northern Ireland Act 1998 created three distinct sub-state legislatures with varying competences, structures, and political dynamics, producing what Bogdanor (1999) described as a constitution "in a state of perpetual evolution."
+            Devolution has had profound implications for UK governance. Policy divergence across the four nations has become increasingly visible, particularly in areas such as health (prescription charges are abolished in Scotland, Wales, and Northern Ireland), education (Scotland has a distinct system, and Wales has diverged on curriculum reform), and the environment. The absence of a devolved legislature for England -- the so-called "West Lothian Question" -- has prompted debate about the legitimacy of MPs from devolved nations voting on England-only matters, leading to the introduction and subsequent repeal of English Votes for English Laws (EVEL) procedures.
+        reading_age: 18
+    researcher:
+        summary: 'A scholarly examination of UK devolution as an exercise in asymmetric constitutionalism, analysing the statutory frameworks, intergovernmental relations, fiscal architecture, and constitutional tensions inherent in the devolution settlements.'
+        body: |
+            Devolution in the United Kingdom constitutes a programme of asymmetric constitutional reform that has fundamentally reshaped the territorial governance of the state while leaving intact the formal doctrine of parliamentary sovereignty. The settlements established by the Scotland Act 1998, the Government of Wales Act 1998, and the Northern Ireland Act 1998 created three distinct sub-state legislatures with varying competences, structures, and political dynamics, producing what Bogdanor (1999) described as a constitution "in a state of perpetual evolution."
 
-      The Scottish devolution settlement, the most extensive of the three, employs a reserved powers model: the Scotland Act 1998 enumerates matters reserved to Westminster (Schedule 5), with all other matters falling within the legislative competence of the Scottish Parliament. This model was explicitly chosen to maximise the scope of devolved authority and to provide a degree of future-proofing, as new policy areas not listed in Schedule 5 would automatically fall within devolved competence. The Scotland Act 2012 introduced limited tax-varying powers, and the Scotland Act 2016 -- implementing the recommendations of the Smith Commission following the 2014 independence referendum -- devolved substantial fiscal powers including income tax rates and bands, a share of VAT receipts, air passenger duty, and certain welfare benefits. The 2016 Act also placed the Scottish Parliament and Scottish Government on a statutory permanent footing, providing that they could not be abolished without a referendum of the Scottish people, and gave statutory recognition to the Sewel Convention.
+            The Scottish devolution settlement, the most extensive of the three, employs a reserved powers model: the Scotland Act 1998 enumerates matters reserved to Westminster (Schedule 5), with all other matters falling within the legislative competence of the Scottish Parliament. This model was explicitly chosen to maximise the scope of devolved authority and to provide a degree of future-proofing, as new policy areas not listed in Schedule 5 would automatically fall within devolved competence. The Scotland Act 2012 introduced limited tax-varying powers, and the Scotland Act 2016 -- implementing the recommendations of the Smith Commission following the 2014 independence referendum -- devolved substantial fiscal powers including income tax rates and bands, a share of VAT receipts, air passenger duty, and certain welfare benefits. The 2016 Act also placed the Scottish Parliament and Scottish Government on a statutory permanent footing, providing that they could not be abolished without a referendum of the Scottish people, and gave statutory recognition to the Sewel Convention.
 
-      The Welsh settlement has undergone the most radical transformation since its inception. The Government of Wales Act 1998 created a body corporate with only executive and secondary legislative powers -- a model widely regarded as constitutionally incoherent (the Richard Commission, 2004). The Government of Wales Act 2006 introduced a conferred powers model with primary legislative competence in specified areas, subject to a referendum trigger that was activated in 2011. The Wales Act 2017, implementing recommendations from the Silk Commission, moved Wales to a reserved powers model broadly aligned with Scotland, devolved minor tax powers, and renamed the institution the Senedd Cymru / Welsh Parliament.
+            The Welsh settlement has undergone the most radical transformation since its inception. The Government of Wales Act 1998 created a body corporate with only executive and secondary legislative powers -- a model widely regarded as constitutionally incoherent (the Richard Commission, 2004). The Government of Wales Act 2006 introduced a conferred powers model with primary legislative competence in specified areas, subject to a referendum trigger that was activated in 2011. The Wales Act 2017, implementing recommendations from the Silk Commission, moved Wales to a reserved powers model broadly aligned with Scotland, devolved minor tax powers, and renamed the institution the Senedd Cymru / Welsh Parliament.
 
-      The Northern Ireland settlement is constitutionally distinctive due to its origins in the Belfast (Good Friday) Agreement of 1998, an international treaty between the UK and Irish governments. The Northern Ireland Act 1998 establishes a consociational model of governance: the power-sharing Executive requires cross-community support, with the First Minister and deputy First Minister drawn from the largest unionist and nationalist parties respectively. Legislative competence is divided into three categories: transferred matters (devolved), excepted matters (permanently reserved), and reserved matters (which may be transferred in future). The Assembly's operation has been marked by periods of suspension -- most notably from 2002 to 2007 and from 2017 to 2020 and again from 2022 to 2024 -- reflecting the fragility of consociational arrangements in a deeply divided society.
+            The Northern Ireland settlement is constitutionally distinctive due to its origins in the Belfast (Good Friday) Agreement of 1998, an international treaty between the UK and Irish governments. The Northern Ireland Act 1998 establishes a consociational model of governance: the power-sharing Executive requires cross-community support, with the First Minister and deputy First Minister drawn from the largest unionist and nationalist parties respectively. Legislative competence is divided into three categories: transferred matters (devolved), excepted matters (permanently reserved), and reserved matters (which may be transferred in future). The Assembly's operation has been marked by periods of suspension -- most notably from 2002 to 2007 and from 2017 to 2020 and again from 2022 to 2024 -- reflecting the fragility of consociational arrangements in a deeply divided society.
 
-      Intergovernmental relations have been a persistent weakness of the devolution architecture. The original framework relied heavily on informal bilateral contacts and the Joint Ministerial Committee (JMC), established by a Memorandum of Understanding in 2001. The JMC was widely criticised for lacking transparency, regularity, and dispute resolution capacity. Following a review, the JMC was replaced in 2022 by a new intergovernmental relations framework comprising the Prime Minister and Heads of Devolved Governments Council, Interministerial Standing Committees, and a formal dispute resolution mechanism. Whether these reforms will address the structural imbalance inherent in a system where one participant (the UK Government) is simultaneously a party and, in many respects, the dominant actor remains to be seen.
+            Intergovernmental relations have been a persistent weakness of the devolution architecture. The original framework relied heavily on informal bilateral contacts and the Joint Ministerial Committee (JMC), established by a Memorandum of Understanding in 2001. The JMC was widely criticised for lacking transparency, regularity, and dispute resolution capacity. Following a review, the JMC was replaced in 2022 by a new intergovernmental relations framework comprising the Prime Minister and Heads of Devolved Governments Council, Interministerial Standing Committees, and a formal dispute resolution mechanism. Whether these reforms will address the structural imbalance inherent in a system where one participant (the UK Government) is simultaneously a party and, in many respects, the dominant actor remains to be seen.
 
-      The fiscal dimension of devolution centres on the Barnett Formula, a non-statutory mechanism devised in 1978 by Chief Secretary to the Treasury Joel Barnett. The formula determines changes (not absolute levels) to devolved block grants by calculating population-proportionate shares of changes in comparable English departmental spending. The formula has been criticised on multiple grounds: it does not reflect relative need (the Holtham Commission for Wales estimated a significant funding shortfall relative to a needs-based allocation); it lacks statutory authority or transparency; and its convergence properties mean that historically higher per capita spending in Scotland is gradually eroded. The fiscal frameworks negotiated alongside the Scotland Act 2016 and Wales Act 2017 introduced block grant adjustments to account for devolved tax powers, but these mechanisms have themselves generated debate about fairness, risk-sharing, and fiscal accountability.
+            The fiscal dimension of devolution centres on the Barnett Formula, a non-statutory mechanism devised in 1978 by Chief Secretary to the Treasury Joel Barnett. The formula determines changes (not absolute levels) to devolved block grants by calculating population-proportionate shares of changes in comparable English departmental spending. The formula has been criticised on multiple grounds: it does not reflect relative need (the Holtham Commission for Wales estimated a significant funding shortfall relative to a needs-based allocation); it lacks statutory authority or transparency; and its convergence properties mean that historically higher per capita spending in Scotland is gradually eroded. The fiscal frameworks negotiated alongside the Scotland Act 2016 and Wales Act 2017 introduced block grant adjustments to account for devolved tax powers, but these mechanisms have themselves generated debate about fairness, risk-sharing, and fiscal accountability.
 
-      The constitutional status of the Sewel Convention has been a focal point of scholarly and judicial attention. Despite statutory recognition in the Scotland Act 2016 ("it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament"), the Supreme Court in Miller (2017) held that the convention is "not a legal rule which the courts can enforce" but rather a "political convention." This determination has significant implications: it means that the legal sovereignty of Westminster remains formally unqualified, and that the consent of devolved legislatures, while politically expected, cannot be legally compelled. The passage of the UK Internal Market Act 2020 without the consent of any devolved legislature tested this position and prompted renewed debate about whether the convention retains meaningful force.
+            The constitutional status of the Sewel Convention has been a focal point of scholarly and judicial attention. Despite statutory recognition in the Scotland Act 2016 ("it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament"), the Supreme Court in Miller (2017) held that the convention is "not a legal rule which the courts can enforce" but rather a "political convention." This determination has significant implications: it means that the legal sovereignty of Westminster remains formally unqualified, and that the consent of devolved legislatures, while politically expected, cannot be legally compelled. The passage of the UK Internal Market Act 2020 without the consent of any devolved legislature tested this position and prompted renewed debate about whether the convention retains meaningful force.
 
-      Devolution has generated a rich body of scholarship on asymmetric constitutionalism, multi-level governance, and the territorial constitution. Key questions include whether devolution is a stable constitutional settlement or a process that tends inherently toward either independence or recentralisation; how intergovernmental relations can be structured to ensure equity and accountability in the absence of a codified federal constitution; and whether the "West Lothian Question" -- the anomaly whereby MPs from constituencies in devolved nations may vote on legislation affecting only England -- can be satisfactorily resolved within the current constitutional framework.
-    reading_age: null
-    sources:
-      - citation: "Scotland Act 1998, UK Parliament"
-        url: "https://www.legislation.gov.uk/ukpga/1998/46/contents"
-        type: official
-      - citation: "Scotland Act 2016, UK Parliament"
-        url: "https://www.legislation.gov.uk/ukpga/2016/11/contents"
-        type: official
-      - citation: "Wales Act 2017, UK Parliament"
-        url: "https://www.legislation.gov.uk/ukpga/2017/4/contents"
-        type: official
-      - citation: "Northern Ireland Act 1998, UK Parliament"
-        url: "https://www.legislation.gov.uk/ukpga/1998/47/contents"
-        type: official
-      - citation: "Bogdanor, Vernon, Devolution in the United Kingdom, Oxford University Press, 1999"
-        url: "https://global.oup.com/academic/product/devolution-in-the-united-kingdom-9780192801722"
-        type: primary
-      - citation: "House of Commons Library, 'Devolution: A Reading List', Research Briefing CBP-9encyclopaedia"
-        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-8599/"
-        type: secondary
-      - citation: "R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5"
-        url: "https://www.supremecourt.uk/cases/uksc-2016-0196.html"
-        type: primary
-      - citation: "The Smith Commission, Report of the Smith Commission for further devolution of powers to the Scottish Parliament, 2014"
-        url: "https://www.smith-commission.scot/"
-        type: official
-      - citation: "Independent Commission on Funding and Finance for Wales (Holtham Commission), Final Report, 2010"
-        url: "https://www.gov.wales/independent-commission-funding-and-finance-wales"
-        type: secondary
-      - citation: "UK Government, 'Review of Intergovernmental Relations', 2022"
-        url: "https://www.gov.uk/government/publications/the-review-of-intergovernmental-relations"
-        type: official
+            Devolution has generated a rich body of scholarship on asymmetric constitutionalism, multi-level governance, and the territorial constitution. Key questions include whether devolution is a stable constitutional settlement or a process that tends inherently toward either independence or recentralisation; how intergovernmental relations can be structured to ensure equity and accountability in the absence of a codified federal constitution; and whether the "West Lothian Question" -- the anomaly whereby MPs from constituencies in devolved nations may vote on legislation affecting only England -- can be satisfactorily resolved within the current constitutional framework.
+        reading_age: null
+        sources:
+            - citation: 'Scotland Act 1998, UK Parliament'
+              url: 'https://www.legislation.gov.uk/ukpga/1998/46/contents'
+              type: official
+            - citation: 'Scotland Act 2016, UK Parliament'
+              url: 'https://www.legislation.gov.uk/ukpga/2016/11/contents'
+              type: official
+            - citation: 'Wales Act 2017, UK Parliament'
+              url: 'https://www.legislation.gov.uk/ukpga/2017/4/contents'
+              type: official
+            - citation: 'Northern Ireland Act 1998, UK Parliament'
+              url: 'https://www.legislation.gov.uk/ukpga/1998/47/contents'
+              type: official
+            - citation: 'Bogdanor, Vernon, Devolution in the United Kingdom, Oxford University Press, 1999'
+              url: 'https://global.oup.com/academic/product/devolution-in-the-united-kingdom-9780192801722'
+              type: primary
+            - citation: "House of Commons Library, 'Devolution: A Reading List', Research Briefing CBP-9encyclopaedia"
+              url: 'https://commonslibrary.parliament.uk/research-briefings/cbp-8599/'
+              type: secondary
+            - citation: 'R (Miller) v Secretary of State for Exiting the European Union [2017] UKSC 5'
+              url: 'https://www.supremecourt.uk/cases/uksc-2016-0196.html'
+              type: primary
+            - citation: 'The Smith Commission, Report of the Smith Commission for further devolution of powers to the Scottish Parliament, 2014'
+              url: 'https://www.smith-commission.scot/'
+              type: official
+            - citation: 'Independent Commission on Funding and Finance for Wales (Holtham Commission), Final Report, 2010'
+              url: 'https://www.gov.wales/independent-commission-funding-and-finance-wales'
+              type: secondary
+            - citation: "UK Government, 'Review of Intergovernmental Relations', 2022"
+              url: 'https://www.gov.uk/government/publications/the-review-of-intergovernmental-relations'
+              type: official
 
 glossary:
-  - term: "Devolution"
-    definition_simple: "When the UK Parliament gives some of its powers to parliaments or assemblies in Scotland, Wales, and Northern Ireland, so they can make their own decisions about certain things."
-    definition_full: "The statutory delegation of legislative and executive competences from the UK Parliament at Westminster to sub-state institutions -- the Scottish Parliament, the Senedd Cymru, and the Northern Ireland Assembly. Devolution differs from federalism in that the devolved powers are granted by and can, in principle, be withdrawn by the sovereign Westminster Parliament, though political convention and statutory provisions make this practically very difficult."
-  - term: "Reserved Powers"
-    definition_simple: "The important areas that only the UK Parliament in London is allowed to make decisions about, like defence, foreign affairs, and immigration."
-    definition_full: "Matters that remain within the exclusive legislative competence of the UK Parliament at Westminster and are not transferred to devolved legislatures. In the Scottish and (since 2017) Welsh models, reserved matters are enumerated in statute, with everything not listed being devolved. Key reserved areas include defence, foreign affairs, immigration, the constitution, and most macroeconomic policy."
-  - term: "Devolved Powers"
-    definition_simple: "The areas that the Scottish Parliament, Welsh Senedd, or Northern Ireland Assembly are allowed to make laws about, like health, education, and the environment."
-    definition_full: "Policy areas over which legislative and executive competence has been transferred from the UK Parliament to the devolved legislatures. The scope of devolved powers varies between the three settlements: Scotland has the broadest range, including some tax-varying powers, while Northern Ireland's transferred matters are subject to a consociational governance model requiring cross-community consent."
-  - term: "Sewel Convention"
-    definition_simple: "An agreement that the UK Parliament will not usually make laws about things that have been devolved to Scotland, Wales, or Northern Ireland without asking their permission first."
-    definition_full: "A constitutional convention, originating in a statement by Lord Sewel during the passage of the Scotland Act 1998, holding that the UK Parliament will 'not normally' legislate on devolved matters without the consent of the relevant devolved legislature. The convention was given statutory recognition by the Scotland Act 2016, but the Supreme Court in Miller (2017) held that it remains a political convention rather than a justiciable legal rule, meaning it cannot be enforced by the courts."
-  - term: "Barnett Formula"
-    definition_simple: "A method used to work out how much money Scotland, Wales, and Northern Ireland get from the UK government, based on how much is spent on similar things in England."
-    definition_full: "A non-statutory mechanism, devised in 1978 by Chief Secretary to the Treasury Joel Barnett, for calculating changes to the block grants allocated to the devolved governments of Scotland, Wales, and Northern Ireland. The formula applies population-proportionate shares of changes in comparable English departmental spending. It has been criticised for not reflecting relative need and for lacking statutory authority or transparency."
-  - term: "Legislative Competence"
-    definition_simple: "The legal authority that a parliament or assembly has to make laws about certain topics."
-    definition_full: "The legal power of a legislature to enact primary legislation in specified subject areas. In the UK devolution context, legislative competence defines the boundaries of what the devolved legislatures may lawfully legislate on. Acts of the devolved legislatures that fall outside their legislative competence may be struck down by the courts. The boundaries of competence are defined by the relevant devolution statutes and interpreted by the UK Supreme Court."
-  - term: "Scottish Parliament"
-    definition_simple: "The parliament for Scotland, based in Edinburgh, which makes laws about things like schools, hospitals, and the police in Scotland."
-    definition_full: "The devolved unicameral legislature for Scotland, established by the Scotland Act 1998 and operational since 1999. Based at Holyrood in Edinburgh, it comprises 129 Members of the Scottish Parliament (MSPs) elected by the additional member system. It has primary legislative competence over all matters not reserved to Westminster, and since the Scotland Act 2016, has powers to set income tax rates and bands and receives a share of VAT revenue."
+    - term: 'Devolution'
+      definition_simple: 'When the UK Parliament gives some of its powers to parliaments or assemblies in Scotland, Wales, and Northern Ireland, so they can make their own decisions about certain things.'
+      definition_full: 'The statutory delegation of legislative and executive competences from the UK Parliament at Westminster to sub-state institutions -- the Scottish Parliament, the Senedd Cymru, and the Northern Ireland Assembly. Devolution differs from federalism in that the devolved powers are granted by and can, in principle, be withdrawn by the sovereign Westminster Parliament, though political convention and statutory provisions make this practically very difficult.'
+    - term: 'Reserved Powers'
+      definition_simple: 'The important areas that only the UK Parliament in London is allowed to make decisions about, like defence, foreign affairs, and immigration.'
+      definition_full: 'Matters that remain within the exclusive legislative competence of the UK Parliament at Westminster and are not transferred to devolved legislatures. In the Scottish and (since 2017) Welsh models, reserved matters are enumerated in statute, with everything not listed being devolved. Key reserved areas include defence, foreign affairs, immigration, the constitution, and most macroeconomic policy.'
+    - term: 'Devolved Powers'
+      definition_simple: 'The areas that the Scottish Parliament, Welsh Senedd, or Northern Ireland Assembly are allowed to make laws about, like health, education, and the environment.'
+      definition_full: "Policy areas over which legislative and executive competence has been transferred from the UK Parliament to the devolved legislatures. The scope of devolved powers varies between the three settlements: Scotland has the broadest range, including some tax-varying powers, while Northern Ireland's transferred matters are subject to a consociational governance model requiring cross-community consent."
+    - term: 'Sewel Convention'
+      definition_simple: 'An agreement that the UK Parliament will not usually make laws about things that have been devolved to Scotland, Wales, or Northern Ireland without asking their permission first.'
+      definition_full: "A constitutional convention, originating in a statement by Lord Sewel during the passage of the Scotland Act 1998, holding that the UK Parliament will 'not normally' legislate on devolved matters without the consent of the relevant devolved legislature. The convention was given statutory recognition by the Scotland Act 2016, but the Supreme Court in Miller (2017) held that it remains a political convention rather than a justiciable legal rule, meaning it cannot be enforced by the courts."
+    - term: 'Barnett Formula'
+      definition_simple: 'A method used to work out how much money Scotland, Wales, and Northern Ireland get from the UK government, based on how much is spent on similar things in England.'
+      definition_full: 'A non-statutory mechanism, devised in 1978 by Chief Secretary to the Treasury Joel Barnett, for calculating changes to the block grants allocated to the devolved governments of Scotland, Wales, and Northern Ireland. The formula applies population-proportionate shares of changes in comparable English departmental spending. It has been criticised for not reflecting relative need and for lacking statutory authority or transparency.'
+    - term: 'Legislative Competence'
+      definition_simple: 'The legal authority that a parliament or assembly has to make laws about certain topics.'
+      definition_full: 'The legal power of a legislature to enact primary legislation in specified subject areas. In the UK devolution context, legislative competence defines the boundaries of what the devolved legislatures may lawfully legislate on. Acts of the devolved legislatures that fall outside their legislative competence may be struck down by the courts. The boundaries of competence are defined by the relevant devolution statutes and interpreted by the UK Supreme Court.'
+    - term: 'Scottish Parliament'
+      definition_simple: 'The parliament for Scotland, based in Edinburgh, which makes laws about things like schools, hospitals, and the police in Scotland.'
+      definition_full: 'The devolved unicameral legislature for Scotland, established by the Scotland Act 1998 and operational since 1999. Based at Holyrood in Edinburgh, it comprises 129 Members of the Scottish Parliament (MSPs) elected by the additional member system. It has primary legislative competence over all matters not reserved to Westminster, and since the Scotland Act 2016, has powers to set income tax rates and bands and receives a share of VAT revenue.'
 
 did_you_know:
-  - fact: "The Scottish Parliament building at Holyrood in Edinburgh was designed by the Spanish architect Enric Miralles and cost over 400 million pounds to build -- more than ten times the original estimate."
-    level: [child, teenager]
-  - fact: "In the 1997 Scottish devolution referendum, 74.3% of voters supported the creation of a Scottish Parliament, and 63.5% agreed it should have tax-varying powers."
-    level: [teenager, adult]
-  - fact: "The Barnett Formula was originally intended as a temporary measure in 1978 but has remained in use for nearly fifty years without ever being given a statutory basis."
-    level: [teenager, adult, researcher]
-  - fact: "The Northern Ireland Assembly has been suspended on multiple occasions, including for nearly five years between 2002 and 2007, and again from 2017 to 2020 and from 2022 to 2024."
-    level: [adult, researcher]
-  - fact: "Prescription charges have been abolished in Scotland, Wales, and Northern Ireland but remain in place in England, illustrating how devolution has led to policy divergence across the UK."
-    level: [child, teenager, adult]
+    - fact: 'The Scottish Parliament building at Holyrood in Edinburgh was designed by the Spanish architect Enric Miralles and cost over 400 million pounds to build -- more than ten times the original estimate.'
+      level: [child, teenager]
+    - fact: 'In the 1997 Scottish devolution referendum, 74.3% of voters supported the creation of a Scottish Parliament, and 63.5% agreed it should have tax-varying powers.'
+      level: [teenager, adult]
+    - fact: 'The Barnett Formula was originally intended as a temporary measure in 1978 but has remained in use for nearly fifty years without ever being given a statutory basis.'
+      level: [teenager, adult, researcher]
+    - fact: 'The Northern Ireland Assembly has been suspended on multiple occasions, including for nearly five years between 2002 and 2007, and again from 2017 to 2020 and from 2022 to 2024.'
+      level: [adult, researcher]
+    - fact: 'Prescription charges have been abolished in Scotland, Wales, and Northern Ireland but remain in place in England, illustrating how devolution has led to policy divergence across the UK.'
+      level: [child, teenager, adult]
 
 key_dates:
-  - year: 1997
-    event: "Referendums in Scotland and Wales approve devolution"
-    significance: "The Scottish referendum saw 74.3% vote in favour of a Scottish Parliament, while the Welsh referendum passed by a narrow margin of 50.3%. These results provided the democratic mandate for the devolution legislation that followed."
-    levels: [teenager, adult, researcher]
-  - year: 1998
-    event: "The Scotland Act, Government of Wales Act, and Northern Ireland Act receive Royal Assent"
-    significance: "These three Acts of Parliament established the constitutional framework for devolution, creating the Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly respectively. The Northern Ireland Act implemented the Belfast (Good Friday) Agreement."
-    levels: [child, teenager, adult, researcher]
-  - year: 1999
-    event: "The Scottish Parliament and National Assembly for Wales hold their first sessions"
-    significance: "Marked the beginning of devolved governance in Scotland and Wales, with elected representatives taking their seats for the first time. The Scottish Parliament met for the first time on 12 May 1999."
-    levels: [child, teenager, adult]
-  - year: 2016
-    event: "The Scotland Act 2016 receives Royal Assent"
-    significance: "Implemented the Smith Commission recommendations following the 2014 independence referendum, devolving significant fiscal powers including income tax rates and bands. It also gave statutory recognition to the Sewel Convention and placed the Scottish Parliament on a statutory permanent footing."
-    levels: [adult, researcher]
-  - year: 2017
-    event: "The Wales Act 2017 receives Royal Assent"
-    significance: "Moved Wales from a conferred powers model to a reserved powers model aligned with Scotland, giving the Senedd primary legislative competence over all matters not explicitly reserved to Westminster and devolving some tax powers."
-    levels: [adult, researcher]
+    - year: 1997
+      event: 'Referendums in Scotland and Wales approve devolution'
+      significance: 'The Scottish referendum saw 74.3% vote in favour of a Scottish Parliament, while the Welsh referendum passed by a narrow margin of 50.3%. These results provided the democratic mandate for the devolution legislation that followed.'
+      levels: [teenager, adult, researcher]
+    - year: 1998
+      event: 'The Scotland Act, Government of Wales Act, and Northern Ireland Act receive Royal Assent'
+      significance: 'These three Acts of Parliament established the constitutional framework for devolution, creating the Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly respectively. The Northern Ireland Act implemented the Belfast (Good Friday) Agreement.'
+      levels: [child, teenager, adult, researcher]
+    - year: 1999
+      event: 'The Scottish Parliament and National Assembly for Wales hold their first sessions'
+      significance: 'Marked the beginning of devolved governance in Scotland and Wales, with elected representatives taking their seats for the first time. The Scottish Parliament met for the first time on 12 May 1999.'
+      levels: [child, teenager, adult]
+    - year: 2016
+      event: 'The Scotland Act 2016 receives Royal Assent'
+      significance: 'Implemented the Smith Commission recommendations following the 2014 independence referendum, devolving significant fiscal powers including income tax rates and bands. It also gave statutory recognition to the Sewel Convention and placed the Scottish Parliament on a statutory permanent footing.'
+      levels: [adult, researcher]
+    - year: 2017
+      event: 'The Wales Act 2017 receives Royal Assent'
+      significance: 'Moved Wales from a conferred powers model to a reserved powers model aligned with Scotland, giving the Senedd primary legislative competence over all matters not explicitly reserved to Westminster and devolving some tax powers.'
+      levels: [adult, researcher]
 
 key_figures:
-  - name: "Donald Dewar"
-    role: "First First Minister of Scotland"
-    description: "Donald Dewar (1937-2000) served as Secretary of State for Scotland and was the principal architect of Scottish devolution. He steered the Scotland Act 1998 through Parliament and became the first First Minister of Scotland when the Scottish Parliament was established in 1999. He is often referred to as the 'Father of the Nation' in the context of Scottish devolution."
-    levels: [teenager, adult, researcher]
-  - name: "Ron Davies"
-    role: "Secretary of State for Wales"
-    description: "Ron Davies served as Secretary of State for Wales and was instrumental in delivering the Welsh devolution referendum in 1997 and the Government of Wales Act 1998. He famously described devolution as 'a process, not an event,' a phrase that has come to define the evolving nature of the Welsh settlement."
-    levels: [adult, researcher]
-  - name: "Joel Barnett"
-    role: "Chief Secretary to the Treasury"
-    description: "Joel Barnett (1923-2014) devised the Barnett Formula in 1978 as a mechanism for allocating public expenditure to Scotland, Wales, and Northern Ireland. Originally intended as a temporary measure, the formula remains in use today. Barnett himself later called the formula 'unfair' and advocated for a needs-based replacement."
-    levels: [adult, researcher]
-  - name: "Vernon Bogdanor"
-    role: "Constitutional scholar"
-    description: "Vernon Bogdanor is a leading authority on the UK constitution and devolution. His book 'Devolution in the United Kingdom' (1999) provided the foundational scholarly analysis of the devolution settlements and their constitutional implications. He has argued that devolution has transformed the UK into a 'quasi-federal' state."
-    levels: [researcher]
+    - name: 'Donald Dewar'
+      role: 'First First Minister of Scotland'
+      description: "Donald Dewar (1937-2000) served as Secretary of State for Scotland and was the principal architect of Scottish devolution. He steered the Scotland Act 1998 through Parliament and became the first First Minister of Scotland when the Scottish Parliament was established in 1999. He is often referred to as the 'Father of the Nation' in the context of Scottish devolution."
+      levels: [teenager, adult, researcher]
+    - name: 'Ron Davies'
+      role: 'Secretary of State for Wales'
+      description: "Ron Davies served as Secretary of State for Wales and was instrumental in delivering the Welsh devolution referendum in 1997 and the Government of Wales Act 1998. He famously described devolution as 'a process, not an event,' a phrase that has come to define the evolving nature of the Welsh settlement."
+      levels: [adult, researcher]
+    - name: 'Joel Barnett'
+      role: 'Chief Secretary to the Treasury'
+      description: "Joel Barnett (1923-2014) devised the Barnett Formula in 1978 as a mechanism for allocating public expenditure to Scotland, Wales, and Northern Ireland. Originally intended as a temporary measure, the formula remains in use today. Barnett himself later called the formula 'unfair' and advocated for a needs-based replacement."
+      levels: [adult, researcher]
+    - name: 'Vernon Bogdanor'
+      role: 'Constitutional scholar'
+      description: "Vernon Bogdanor is a leading authority on the UK constitution and devolution. His book 'Devolution in the United Kingdom' (1999) provided the foundational scholarly analysis of the devolution settlements and their constitutional implications. He has argued that devolution has transformed the UK into a 'quasi-federal' state."
+      levels: [researcher]
 
 video_links:
-  - title: "The Difference between the United Kingdom, Great Britain and England Explained"
-    url: "https://www.youtube.com/watch?v=rNu8XDBSn10"
-    source: "CGP Grey"
-    description: "An engaging animated explainer covering how the UK is made up of different countries with their own identities, providing essential background for understanding why devolution exists."
-    levels: [child, teenager]
-  - title: "What is the Commonwealth?"
-    url: "https://www.youtube.com/watch?v=aWsvHuuV-qE"
-    source: "BBC What's New"
-    description: "A BBC explainer covering the Commonwealth and how the UK's nations relate to the wider world, with context relevant to understanding devolution within the UK."
-    levels: [child, teenager]
-  - title: "How does the United Nations work?"
-    url: "https://www.youtube.com/watch?v=QoIafzc0k74"
-    source: "RMIT University"
-    description: "An educational video explaining how international organisations work, providing useful context for understanding different levels of governance including devolution."
-    levels: [teenager, adult]
+    - title: 'The Difference between the United Kingdom, Great Britain and England Explained'
+      url: 'https://www.youtube.com/watch?v=rNu8XDBSn10'
+      source: 'CGP Grey'
+      description: 'An engaging animated explainer covering how the UK is made up of different countries with their own identities, providing essential background for understanding why devolution exists.'
+      levels: [child, teenager]
+    - title: 'What is the Commonwealth?'
+      url: 'https://www.youtube.com/watch?v=aWsvHuuV-qE'
+      source: "BBC What's New"
+      description: "A BBC explainer covering the Commonwealth and how the UK's nations relate to the wider world, with context relevant to understanding devolution within the UK."
+      levels: [child, teenager]
+    - title: 'How does the United Nations work?'
+      url: 'https://www.youtube.com/watch?v=QoIafzc0k74'
+      source: 'RMIT University'
+      description: 'An educational video explaining how international organisations work, providing useful context for understanding different levels of governance including devolution.'
+      levels: [teenager, adult]
 
 quizzes:
-  child:
-    - question: "What does devolution mean?"
-      type: multiple_choice
-      options:
-        - "Giving some powers to Scotland, Wales, and Northern Ireland so they can make their own decisions"
-        - "Taking all power away from the UK Parliament"
-        - "Joining the UK with another country"
-      correct_answer: "Giving some powers to Scotland, Wales, and Northern Ireland so they can make their own decisions"
-      explanation: "Devolution means that the UK Parliament has given some of its powers to parliaments and assemblies in Scotland, Wales, and Northern Ireland. They can now make their own laws about things like schools and hospitals, but the UK Parliament still decides on things like defence."
-    - question: "True or false: The Scottish Parliament can make decisions about defence and the armed forces."
-      type: true_false
-      correct_answer: "False"
-      explanation: "Defence is a reserved power, which means only the UK Parliament in London can make decisions about it. The Scottish Parliament makes decisions about devolved matters like health, education, and the environment."
-    - question: "Where does the Scottish Parliament meet?"
-      type: multiple_choice
-      options:
-        - "London"
-        - "Edinburgh"
-        - "Cardiff"
-      correct_answer: "Edinburgh"
-      explanation: "The Scottish Parliament is based at Holyrood in Edinburgh. The Welsh Senedd meets in Cardiff, and the Northern Ireland Assembly is at Stormont in Belfast."
-  teenager:
-    - question: "What is the Sewel Convention?"
-      type: multiple_choice
-      options:
-        - "A rule that the UK Parliament will not normally legislate on devolved matters without the consent of the relevant devolved legislature"
-        - "A treaty between Scotland and England"
-        - "A formula for calculating how much money devolved governments receive"
-        - "A requirement that all UK laws must be approved by the Scottish Parliament"
-      correct_answer: "A rule that the UK Parliament will not normally legislate on devolved matters without the consent of the relevant devolved legislature"
-      explanation: "The Sewel Convention holds that Westminster will 'not normally' legislate on devolved matters without consent. It was given statutory recognition in 2016, but the Supreme Court ruled that it remains a political convention, not a legally enforceable rule."
-    - question: "What is the difference between reserved powers and devolved powers?"
-      type: short_answer
-      correct_answer: "Reserved powers are kept by the UK Parliament (like defence and foreign affairs), while devolved powers are transferred to the Scottish Parliament, Welsh Senedd, or Northern Ireland Assembly (like health and education)."
-      explanation: "The distinction between reserved and devolved powers is central to how devolution works. In Scotland and Wales, a reserved powers model is used: matters listed in the relevant Acts are reserved to Westminster, and everything else is devolved."
-    - question: "True or false: The Welsh Senedd had the same powers as the Scottish Parliament from the very beginning of devolution."
-      type: true_false
-      correct_answer: "False"
-      explanation: "The Welsh settlement initially gave the National Assembly only secondary legislative powers. It took several Acts of Parliament -- the Government of Wales Act 2006, a referendum in 2011, and the Wales Act 2017 -- before Wales moved to a reserved powers model broadly aligned with Scotland."
-  adult:
-    - question: "How does the Barnett Formula work, and what are its main criticisms?"
-      type: short_answer
-      correct_answer: "The Barnett Formula calculates changes to devolved block grants based on population-proportionate shares of changes in comparable English departmental spending. It is criticised for not reflecting relative need, lacking statutory authority, and producing convergence in per capita spending over time."
-      explanation: "The Barnett Formula was designed as a simple, administratively convenient mechanism, but its longevity has exposed significant shortcomings. The Holtham Commission found that Wales was underfunded relative to a needs-based assessment. The formula also lacks transparency and democratic accountability, having never been put on a statutory footing."
-    - question: "What did the Supreme Court decide about the Sewel Convention in the Miller case (2017)?"
-      type: short_answer
-      correct_answer: "The Supreme Court held that the Sewel Convention, despite its statutory recognition in the Scotland Act 2016, is a political convention rather than a justiciable legal rule, meaning courts cannot enforce it."
-      explanation: "This ruling confirmed that Westminster's legal sovereignty remains unqualified. While the convention creates a strong political expectation that consent will be sought, the devolved legislatures have no legal veto over Westminster legislation in devolved areas. This distinction became practically significant when several major pieces of legislation proceeded without devolved consent."
-    - question: "Why is UK devolution described as 'asymmetric'?"
-      type: multiple_choice
-      options:
-        - "Because each devolved legislature has different powers, structures, and electoral systems"
-        - "Because England has the largest population"
-        - "Because devolution can be reversed at any time"
-        - "Because the devolved bodies meet at different times of the year"
-      correct_answer: "Because each devolved legislature has different powers, structures, and electoral systems"
-      explanation: "Asymmetry is a defining feature of UK devolution. Scotland has the broadest legislative competence and fiscal powers. Wales was initially given only secondary legislative powers but has since been granted primary legislative competence. Northern Ireland operates under a consociational model with power-sharing requirements. England has no devolved legislature at all."
-  researcher:
-    - question: "Assess the constitutional significance of the Supreme Court's treatment of the Sewel Convention in Miller (2017). Does the distinction between a political convention and a justiciable legal rule provide an adequate framework for managing the relationship between Westminster and the devolved legislatures?"
-      type: essay
-      correct_answer: "The Miller ruling preserved Westminster's unqualified legal sovereignty while acknowledging the political importance of the Sewel Convention. The distinction is analytically clear but practically problematic: it means that the convention's force depends entirely on political will, with no legal mechanism to prevent Westminster from legislating in devolved areas without consent. The passage of the UK Internal Market Act 2020 without devolved consent demonstrated the convention's fragility."
-      explanation: "This question engages with a central tension in UK devolution: the gap between legal form and constitutional practice. The convention creates a legitimate expectation of consent, but its non-justiciable status means that the devolved legislatures depend on political norms rather than legal protections. Scholars such as Tierney and McHarg have argued that this arrangement is unsustainable in a context of increasing intergovernmental disagreement, and that a more formal, legally binding framework is needed."
-    - question: "Evaluate the Barnett Formula as a mechanism for fiscal governance in a devolved United Kingdom. What are the implications of its non-statutory status, and what alternatives have been proposed?"
-      type: essay
-      correct_answer: "The Barnett Formula's non-statutory status means it operates without parliamentary scrutiny, democratic accountability, or needs-based justification. Alternatives include needs-based allocation (recommended by the Holtham Commission for Wales), full fiscal autonomy, and formal fiscal federalism. The fiscal frameworks negotiated alongside the Scotland Act 2016 and Wales Act 2017 introduced partial adjustments but did not replace the formula itself."
-      explanation: "The Barnett Formula illustrates the broader problem of governing devolution through informal mechanisms. Its simplicity is both a strength (administrative convenience) and a weakness (lack of responsiveness to need). The formula's persistence despite near-universal criticism reflects the political difficulty of reform: any needs-based alternative would produce winners and losers among the devolved nations."
-    - question: "How do the consociational requirements of the Northern Ireland Assembly affect the stability and effectiveness of devolution in Northern Ireland, and what lessons does the Northern Ireland experience offer for the broader UK devolution framework?"
-      type: essay
-      correct_answer: "The consociational model requires cross-community power-sharing, which provides inclusivity and legitimacy in a divided society but creates institutional fragility: either community can effectively veto governance by withdrawing from the Executive. Repeated suspensions demonstrate that consociational arrangements are vulnerable to breakdowns in trust between communities. The Northern Ireland experience highlights the tension between institutional design for divided societies and effective governance."
-      explanation: "Northern Ireland's devolution settlement is unique in the UK context because it emerged from a peace process rather than a general programme of constitutional reform. The consociational model, drawing on Lijphart's theoretical framework, prioritises inclusion over efficiency. The repeated suspensions of the Assembly suggest that while consociationalism can manage conflict, it cannot resolve the underlying divisions, and the institution's stability depends on continuing commitment from all parties to power-sharing."
+    child:
+        - question: 'What does devolution mean?'
+          type: multiple_choice
+          options:
+              - 'Giving some powers to Scotland, Wales, and Northern Ireland so they can make their own decisions'
+              - 'Taking all power away from the UK Parliament'
+              - 'Joining the UK with another country'
+          correct_answer: 'Giving some powers to Scotland, Wales, and Northern Ireland so they can make their own decisions'
+          explanation: 'Devolution means that the UK Parliament has given some of its powers to parliaments and assemblies in Scotland, Wales, and Northern Ireland. They can now make their own laws about things like schools and hospitals, but the UK Parliament still decides on things like defence.'
+        - question: 'True or false: The Scottish Parliament can make decisions about defence and the armed forces.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'Defence is a reserved power, which means only the UK Parliament in London can make decisions about it. The Scottish Parliament makes decisions about devolved matters like health, education, and the environment.'
+        - question: 'Where does the Scottish Parliament meet?'
+          type: multiple_choice
+          options:
+              - 'London'
+              - 'Edinburgh'
+              - 'Cardiff'
+          correct_answer: 'Edinburgh'
+          explanation: 'The Scottish Parliament is based at Holyrood in Edinburgh. The Welsh Senedd meets in Cardiff, and the Northern Ireland Assembly is at Stormont in Belfast.'
+    teenager:
+        - question: 'What is the Sewel Convention?'
+          type: multiple_choice
+          options:
+              - 'A rule that the UK Parliament will not normally legislate on devolved matters without the consent of the relevant devolved legislature'
+              - 'A treaty between Scotland and England'
+              - 'A formula for calculating how much money devolved governments receive'
+              - 'A requirement that all UK laws must be approved by the Scottish Parliament'
+          correct_answer: 'A rule that the UK Parliament will not normally legislate on devolved matters without the consent of the relevant devolved legislature'
+          explanation: "The Sewel Convention holds that Westminster will 'not normally' legislate on devolved matters without consent. It was given statutory recognition in 2016, but the Supreme Court ruled that it remains a political convention, not a legally enforceable rule."
+        - question: 'What is the difference between reserved powers and devolved powers?'
+          type: short_answer
+          correct_answer: 'Reserved powers are kept by the UK Parliament (like defence and foreign affairs), while devolved powers are transferred to the Scottish Parliament, Welsh Senedd, or Northern Ireland Assembly (like health and education).'
+          explanation: 'The distinction between reserved and devolved powers is central to how devolution works. In Scotland and Wales, a reserved powers model is used: matters listed in the relevant Acts are reserved to Westminster, and everything else is devolved.'
+        - question: 'True or false: The Welsh Senedd had the same powers as the Scottish Parliament from the very beginning of devolution.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'The Welsh settlement initially gave the National Assembly only secondary legislative powers. It took several Acts of Parliament -- the Government of Wales Act 2006, a referendum in 2011, and the Wales Act 2017 -- before Wales moved to a reserved powers model broadly aligned with Scotland.'
+    adult:
+        - question: 'How does the Barnett Formula work, and what are its main criticisms?'
+          type: short_answer
+          correct_answer: 'The Barnett Formula calculates changes to devolved block grants based on population-proportionate shares of changes in comparable English departmental spending. It is criticised for not reflecting relative need, lacking statutory authority, and producing convergence in per capita spending over time.'
+          explanation: 'The Barnett Formula was designed as a simple, administratively convenient mechanism, but its longevity has exposed significant shortcomings. The Holtham Commission found that Wales was underfunded relative to a needs-based assessment. The formula also lacks transparency and democratic accountability, having never been put on a statutory footing.'
+        - question: 'What did the Supreme Court decide about the Sewel Convention in the Miller case (2017)?'
+          type: short_answer
+          correct_answer: 'The Supreme Court held that the Sewel Convention, despite its statutory recognition in the Scotland Act 2016, is a political convention rather than a justiciable legal rule, meaning courts cannot enforce it.'
+          explanation: "This ruling confirmed that Westminster's legal sovereignty remains unqualified. While the convention creates a strong political expectation that consent will be sought, the devolved legislatures have no legal veto over Westminster legislation in devolved areas. This distinction became practically significant when several major pieces of legislation proceeded without devolved consent."
+        - question: "Why is UK devolution described as 'asymmetric'?"
+          type: multiple_choice
+          options:
+              - 'Because each devolved legislature has different powers, structures, and electoral systems'
+              - 'Because England has the largest population'
+              - 'Because devolution can be reversed at any time'
+              - 'Because the devolved bodies meet at different times of the year'
+          correct_answer: 'Because each devolved legislature has different powers, structures, and electoral systems'
+          explanation: 'Asymmetry is a defining feature of UK devolution. Scotland has the broadest legislative competence and fiscal powers. Wales was initially given only secondary legislative powers but has since been granted primary legislative competence. Northern Ireland operates under a consociational model with power-sharing requirements. England has no devolved legislature at all.'
+    researcher:
+        - question: "Assess the constitutional significance of the Supreme Court's treatment of the Sewel Convention in Miller (2017). Does the distinction between a political convention and a justiciable legal rule provide an adequate framework for managing the relationship between Westminster and the devolved legislatures?"
+          type: essay
+          correct_answer: "The Miller ruling preserved Westminster's unqualified legal sovereignty while acknowledging the political importance of the Sewel Convention. The distinction is analytically clear but practically problematic: it means that the convention's force depends entirely on political will, with no legal mechanism to prevent Westminster from legislating in devolved areas without consent. The passage of the UK Internal Market Act 2020 without devolved consent demonstrated the convention's fragility."
+          explanation: 'This question engages with a central tension in UK devolution: the gap between legal form and constitutional practice. The convention creates a legitimate expectation of consent, but its non-justiciable status means that the devolved legislatures depend on political norms rather than legal protections. Scholars such as Tierney and McHarg have argued that this arrangement is unsustainable in a context of increasing intergovernmental disagreement, and that a more formal, legally binding framework is needed.'
+        - question: 'Evaluate the Barnett Formula as a mechanism for fiscal governance in a devolved United Kingdom. What are the implications of its non-statutory status, and what alternatives have been proposed?'
+          type: essay
+          correct_answer: "The Barnett Formula's non-statutory status means it operates without parliamentary scrutiny, democratic accountability, or needs-based justification. Alternatives include needs-based allocation (recommended by the Holtham Commission for Wales), full fiscal autonomy, and formal fiscal federalism. The fiscal frameworks negotiated alongside the Scotland Act 2016 and Wales Act 2017 introduced partial adjustments but did not replace the formula itself."
+          explanation: "The Barnett Formula illustrates the broader problem of governing devolution through informal mechanisms. Its simplicity is both a strength (administrative convenience) and a weakness (lack of responsiveness to need). The formula's persistence despite near-universal criticism reflects the political difficulty of reform: any needs-based alternative would produce winners and losers among the devolved nations."
+        - question: 'How do the consociational requirements of the Northern Ireland Assembly affect the stability and effectiveness of devolution in Northern Ireland, and what lessons does the Northern Ireland experience offer for the broader UK devolution framework?'
+          type: essay
+          correct_answer: 'The consociational model requires cross-community power-sharing, which provides inclusivity and legitimacy in a divided society but creates institutional fragility: either community can effectively veto governance by withdrawing from the Executive. Repeated suspensions demonstrate that consociational arrangements are vulnerable to breakdowns in trust between communities. The Northern Ireland experience highlights the tension between institutional design for divided societies and effective governance.'
+          explanation: "Northern Ireland's devolution settlement is unique in the UK context because it emerged from a peace process rather than a general programme of constitutional reform. The consociational model, drawing on Lijphart's theoretical framework, prioritises inclusion over efficiency. The repeated suspensions of the Assembly suggest that while consociationalism can manage conflict, it cannot resolve the underlying divisions, and the institution's stability depends on continuing commitment from all parties to power-sharing."

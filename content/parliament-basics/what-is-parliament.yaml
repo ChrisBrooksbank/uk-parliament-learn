@@ -1,281 +1,281 @@
 id: what-is-parliament
-title: "What is Parliament?"
+title: 'What is Parliament?'
 slug: what-is-parliament
 
 metadata:
-  category: parliament-basics
-  tags:
-    - parliament
-    - house-of-commons
-    - house-of-lords
-    - monarchy
-    - parliamentary-sovereignty
-    - democracy
-    - legislation
-  last_updated: 2026-03-09
-  status: published
-  order: 1
+    category: parliament-basics
+    tags:
+        - parliament
+        - house-of-commons
+        - house-of-lords
+        - monarchy
+        - parliamentary-sovereignty
+        - democracy
+        - legislation
+    last_updated: 2026-03-09
+    status: published
+    order: 1
 
 related_topics:
-  - id: house-of-commons
-    relationship: subtopic
-  - id: house-of-lords
-    relationship: subtopic
-  - id: the-monarchy
-    relationship: subtopic
-  - id: how-laws-are-made
-    relationship: see-also
-  - id: history-of-parliament
-    relationship: see-also
-  - id: the-uk-constitution
-    relationship: see-also
+    - id: house-of-commons
+      relationship: subtopic
+    - id: house-of-lords
+      relationship: subtopic
+    - id: the-monarchy
+      relationship: subtopic
+    - id: how-laws-are-made
+      relationship: see-also
+    - id: history-of-parliament
+      relationship: see-also
+    - id: the-uk-constitution
+      relationship: see-also
 
 explanations:
-  child:
-    summary: "Parliament is where people go to make the rules that everyone in the country follows."
-    body: |
-      Parliament is a very important place in London where decisions are made about how our country is run. It is made up of three parts: the House of Commons, the House of Lords, and the King.
+    child:
+        summary: 'Parliament is where people go to make the rules that everyone in the country follows.'
+        body: |
+            Parliament is a very important place in London where decisions are made about how our country is run. It is made up of three parts: the House of Commons, the House of Lords, and the King.
 
-      The House of Commons is filled with people called Members of Parliament, or MPs. There are 650 of them, and they are chosen by grown-ups in elections. Each MP speaks up for the people who live near them.
+            The House of Commons is filled with people called Members of Parliament, or MPs. There are 650 of them, and they are chosen by grown-ups in elections. Each MP speaks up for the people who live near them.
 
-      The House of Lords is the second part. The people there are called Lords. They help check the work that MPs do and suggest ways to make new rules better.
+            The House of Lords is the second part. The people there are called Lords. They help check the work that MPs do and suggest ways to make new rules better.
 
-      The King is the third part. When Parliament agrees on a new rule, the King gives it the final stamp of approval. This is called Royal Assent.
+            The King is the third part. When Parliament agrees on a new rule, the King gives it the final stamp of approval. This is called Royal Assent.
 
-      Parliament meets in a big, old building called the Palace of Westminster, right next to the River Thames in London. You might know it because of its famous clock tower, which has a giant bell called Big Ben.
+            Parliament meets in a big, old building called the Palace of Westminster, right next to the River Thames in London. You might know it because of its famous clock tower, which has a giant bell called Big Ben.
 
-      Parliament is not the same as the Government. The Government is a smaller group of MPs who are in charge of running the country day to day. Parliament's job is to make laws, check that the Government is doing a good job, and decide how taxes are spent.
-    reading_age: 8
-  teenager:
-    summary: "Parliament is the UK's supreme law-making body, composed of the House of Commons, the House of Lords, and the Monarch."
-    body: |
-      The UK Parliament is the highest law-making authority in the United Kingdom. It sits at the Palace of Westminster in London and is made up of three distinct parts: the House of Commons, the House of Lords, and the Monarch.
+            Parliament is not the same as the Government. The Government is a smaller group of MPs who are in charge of running the country day to day. Parliament's job is to make laws, check that the Government is doing a good job, and decide how taxes are spent.
+        reading_age: 8
+    teenager:
+        summary: "Parliament is the UK's supreme law-making body, composed of the House of Commons, the House of Lords, and the Monarch."
+        body: |
+            The UK Parliament is the highest law-making authority in the United Kingdom. It sits at the Palace of Westminster in London and is made up of three distinct parts: the House of Commons, the House of Lords, and the Monarch.
 
-      The House of Commons is the elected chamber. It has 650 Members of Parliament (MPs), each representing a constituency across the UK. General elections must be held at least every five years, and voters in each constituency choose one MP to represent them. The Commons is the more powerful of the two Houses. It alone has the authority to approve taxes and government spending.
+            The House of Commons is the elected chamber. It has 650 Members of Parliament (MPs), each representing a constituency across the UK. General elections must be held at least every five years, and voters in each constituency choose one MP to represent them. The Commons is the more powerful of the two Houses. It alone has the authority to approve taxes and government spending.
 
-      The House of Lords is the unelected second chamber. Its members include life peers appointed for their expertise, hereditary peers, and bishops of the Church of England. The Lords scrutinise legislation passed by the Commons, propose amendments, and conduct detailed investigations into public policy. While the Lords can delay most legislation, they cannot permanently block it.
+            The House of Lords is the unelected second chamber. Its members include life peers appointed for their expertise, hereditary peers, and bishops of the Church of England. The Lords scrutinise legislation passed by the Commons, propose amendments, and conduct detailed investigations into public policy. While the Lords can delay most legislation, they cannot permanently block it.
 
-      The Monarch is the third component. The King formally opens each new session of Parliament and must give Royal Assent to all Bills before they become Acts of Parliament. In practice, Royal Assent has not been refused since 1708. The concept of the "Crown-in-Parliament" means that legal sovereignty rests in all three parts acting together.
+            The Monarch is the third component. The King formally opens each new session of Parliament and must give Royal Assent to all Bills before they become Acts of Parliament. In practice, Royal Assent has not been refused since 1708. The concept of the "Crown-in-Parliament" means that legal sovereignty rests in all three parts acting together.
 
-      It is important to understand that Parliament and the Government are separate. Parliament is the legislature -- it makes and passes laws. The Government is the executive -- it runs the country and puts laws into practice. The Government is formed by the political party that wins the most seats in the House of Commons, and the Prime Minister and around 120 ministers make up the Government. Parliament's role is to hold the Government to account through debates, questions, and committee inquiries.
+            It is important to understand that Parliament and the Government are separate. Parliament is the legislature -- it makes and passes laws. The Government is the executive -- it runs the country and puts laws into practice. The Government is formed by the political party that wins the most seats in the House of Commons, and the Prime Minister and around 120 ministers make up the Government. Parliament's role is to hold the Government to account through debates, questions, and committee inquiries.
 
-      The principle of parliamentary sovereignty means that Parliament is the supreme legal authority. It can create or abolish any law, and no other body, including the courts, can override or set aside an Act of Parliament.
-    reading_age: 14
-  adult:
-    summary: "Parliament is the bicameral legislature of the United Kingdom, comprising the House of Commons, the House of Lords, and the Monarch, exercising supreme legal authority through the doctrine of parliamentary sovereignty."
-    body: |
-      The Parliament of the United Kingdom is the supreme legislative body of the country, sitting at the Palace of Westminster in London. It is a bicameral institution consisting of three component parts: the House of Commons, the House of Lords, and the Monarch (collectively referred to as the "Crown-in-Parliament" or "King-in-Parliament").
+            The principle of parliamentary sovereignty means that Parliament is the supreme legal authority. It can create or abolish any law, and no other body, including the courts, can override or set aside an Act of Parliament.
+        reading_age: 14
+    adult:
+        summary: 'Parliament is the bicameral legislature of the United Kingdom, comprising the House of Commons, the House of Lords, and the Monarch, exercising supreme legal authority through the doctrine of parliamentary sovereignty.'
+        body: |
+            The Parliament of the United Kingdom is the supreme legislative body of the country, sitting at the Palace of Westminster in London. It is a bicameral institution consisting of three component parts: the House of Commons, the House of Lords, and the Monarch (collectively referred to as the "Crown-in-Parliament" or "King-in-Parliament").
 
-      The House of Commons is the democratically elected lower chamber, composed of 650 Members of Parliament, each elected by the first-past-the-post system to represent a single constituency. The Commons holds primacy in financial matters: all money Bills must originate there, and the Lords cannot amend or reject them. By convention, the Government is formed from the party or coalition commanding a majority in the Commons, making it the dominant chamber in practice.
+            The House of Commons is the democratically elected lower chamber, composed of 650 Members of Parliament, each elected by the first-past-the-post system to represent a single constituency. The Commons holds primacy in financial matters: all money Bills must originate there, and the Lords cannot amend or reject them. By convention, the Government is formed from the party or coalition commanding a majority in the Commons, making it the dominant chamber in practice.
 
-      The House of Lords is the appointed upper chamber. Its membership includes life peers (appointed under the Life Peerages Act 1958), 92 hereditary peers (retained under the House of Lords Act 1999), and 26 Lords Spiritual (senior bishops of the Church of England). The Lords serve as a revising chamber, scrutinising legislation, proposing amendments, and conducting in-depth inquiries. Under the Parliament Acts of 1911 and 1949, the Lords can delay non-money Bills for up to one year but cannot veto them indefinitely.
+            The House of Lords is the appointed upper chamber. Its membership includes life peers (appointed under the Life Peerages Act 1958), 92 hereditary peers (retained under the House of Lords Act 1999), and 26 Lords Spiritual (senior bishops of the Church of England). The Lords serve as a revising chamber, scrutinising legislation, proposing amendments, and conducting in-depth inquiries. Under the Parliament Acts of 1911 and 1949, the Lords can delay non-money Bills for up to one year but cannot veto them indefinitely.
 
-      The Monarch's role is largely ceremonial but constitutionally essential. The King opens each session of Parliament with the King's Speech (written by the Government), and Royal Assent is required before any Bill becomes an Act of Parliament. The last refusal of Royal Assent was by Queen Anne in 1708 regarding the Scottish Militia Bill.
+            The Monarch's role is largely ceremonial but constitutionally essential. The King opens each session of Parliament with the King's Speech (written by the Government), and Royal Assent is required before any Bill becomes an Act of Parliament. The last refusal of Royal Assent was by Queen Anne in 1708 regarding the Scottish Militia Bill.
 
-      The doctrine of parliamentary sovereignty, as articulated by the constitutional scholar A.V. Dicey, holds that Parliament has the right to make or unmake any law whatsoever, that no Parliament can bind a future Parliament, and that no body (including the courts) may override or set aside Parliament's legislation. This remains a foundational principle of the UK's uncodified constitution, though its absoluteness has been debated in light of EU membership (1973-2020), devolution, and the Human Rights Act 1998.
+            The doctrine of parliamentary sovereignty, as articulated by the constitutional scholar A.V. Dicey, holds that Parliament has the right to make or unmake any law whatsoever, that no Parliament can bind a future Parliament, and that no body (including the courts) may override or set aside Parliament's legislation. This remains a foundational principle of the UK's uncodified constitution, though its absoluteness has been debated in light of EU membership (1973-2020), devolution, and the Human Rights Act 1998.
 
-      Parliament is distinct from the Government. Parliament is the legislature: it debates, amends, and passes laws, approves taxation, and scrutinises the executive. The Government is the executive: led by the Prime Minister and Cabinet, it proposes legislation, sets policy, and administers public services. Ministers are drawn from both Houses but must regularly appear before Parliament to answer questions and justify their decisions. This separation ensures democratic accountability.
+            Parliament is distinct from the Government. Parliament is the legislature: it debates, amends, and passes laws, approves taxation, and scrutinises the executive. The Government is the executive: led by the Prime Minister and Cabinet, it proposes legislation, sets policy, and administers public services. Ministers are drawn from both Houses but must regularly appear before Parliament to answer questions and justify their decisions. This separation ensures democratic accountability.
 
-      The Palace of Westminster itself is a UNESCO World Heritage Site (since 1987), with over 1,100 rooms, 100 staircases, and 11 courtyards. Much of the current building was designed by Charles Barry and Augustus Pugin following the devastating fire of 1834, which destroyed most of the medieval palace. Westminster Hall, dating from 1097, survived the fire and remains one of the finest medieval halls in Europe. The Elizabeth Tower, housing the Great Bell known as Big Ben, stands at 96 metres and has become an internationally recognised symbol of British democracy.
-    reading_age: 18
-  researcher:
-    summary: "An analysis of the Parliament of the United Kingdom as a tripartite institution exercising sovereign legislative authority through the Crown-in-Parliament, its constitutional evolution, and its contemporary relationship with executive power."
-    body: |
-      The Parliament of the United Kingdom of Great Britain and Northern Ireland is the supreme legislative authority within the British constitutional framework, operating under the doctrine of parliamentary sovereignty. Constitutionally, Parliament is a tripartite institution comprising the House of Commons, the House of Lords, and the Monarch acting as the Crown-in-Parliament -- a formulation established through centuries of constitutional evolution and codified in the scholarship of A.V. Dicey's "Introduction to the Study of the Law of the Constitution" (1885).
+            The Palace of Westminster itself is a UNESCO World Heritage Site (since 1987), with over 1,100 rooms, 100 staircases, and 11 courtyards. Much of the current building was designed by Charles Barry and Augustus Pugin following the devastating fire of 1834, which destroyed most of the medieval palace. Westminster Hall, dating from 1097, survived the fire and remains one of the finest medieval halls in Europe. The Elizabeth Tower, housing the Great Bell known as Big Ben, stands at 96 metres and has become an internationally recognised symbol of British democracy.
+        reading_age: 18
+    researcher:
+        summary: 'An analysis of the Parliament of the United Kingdom as a tripartite institution exercising sovereign legislative authority through the Crown-in-Parliament, its constitutional evolution, and its contemporary relationship with executive power.'
+        body: |
+            The Parliament of the United Kingdom of Great Britain and Northern Ireland is the supreme legislative authority within the British constitutional framework, operating under the doctrine of parliamentary sovereignty. Constitutionally, Parliament is a tripartite institution comprising the House of Commons, the House of Lords, and the Monarch acting as the Crown-in-Parliament -- a formulation established through centuries of constitutional evolution and codified in the scholarship of A.V. Dicey's "Introduction to the Study of the Law of the Constitution" (1885).
 
-      Dicey's articulation of parliamentary sovereignty rests upon three interconnected propositions: that Parliament may make or unmake any law; that no Parliament may bind its successors; and that no institution may question the validity of an Act of Parliament. This orthodox formulation has been subject to significant scholarly critique and practical qualification. Sir Ivor Jennings challenged Dicey's positivist approach, arguing that sovereignty must be understood within a broader political and conventional context. More recently, the relationship between parliamentary sovereignty and the rule of law has been explored in judicial dicta, notably in R (Jackson) v Attorney General [2005] UKHL 56, where several Law Lords suggested that parliamentary sovereignty might itself be a construct of the common law, potentially subject to judicial limitation in extreme circumstances.
+            Dicey's articulation of parliamentary sovereignty rests upon three interconnected propositions: that Parliament may make or unmake any law; that no Parliament may bind its successors; and that no institution may question the validity of an Act of Parliament. This orthodox formulation has been subject to significant scholarly critique and practical qualification. Sir Ivor Jennings challenged Dicey's positivist approach, arguing that sovereignty must be understood within a broader political and conventional context. More recently, the relationship between parliamentary sovereignty and the rule of law has been explored in judicial dicta, notably in R (Jackson) v Attorney General [2005] UKHL 56, where several Law Lords suggested that parliamentary sovereignty might itself be a construct of the common law, potentially subject to judicial limitation in extreme circumstances.
 
-      The House of Commons, with its 650 elected members returned by single-member plurality (first-past-the-post) voting, derives its democratic legitimacy from the Representation of the People Acts and universal adult suffrage achieved progressively through the Reform Acts of 1832, 1867, and 1884, the Representation of the People Act 1918 (extending the vote to women over 30 and all men over 21), and the Equal Franchise Act 1928. The Commons exercises financial privilege: under the Parliament Act 1911, money Bills certified by the Speaker may receive Royal Assent without Lords consent after one month. The Parliament Acts of 1911 and 1949 further curtailed Lords' power over other public Bills to a maximum delay of one year.
+            The House of Commons, with its 650 elected members returned by single-member plurality (first-past-the-post) voting, derives its democratic legitimacy from the Representation of the People Acts and universal adult suffrage achieved progressively through the Reform Acts of 1832, 1867, and 1884, the Representation of the People Act 1918 (extending the vote to women over 30 and all men over 21), and the Equal Franchise Act 1928. The Commons exercises financial privilege: under the Parliament Act 1911, money Bills certified by the Speaker may receive Royal Assent without Lords consent after one month. The Parliament Acts of 1911 and 1949 further curtailed Lords' power over other public Bills to a maximum delay of one year.
 
-      The House of Lords has undergone substantial reform. The Life Peerages Act 1958 introduced life peers, diversifying the chamber's composition. The House of Lords Act 1999 removed all but 92 hereditary peers, fundamentally altering the chamber's character from a predominantly hereditary body to one dominated by appointed life peers. As of 2025, the Lords numbers approximately 780 members, including life peers, excepted hereditary peers, and 26 Lords Spiritual. The House of Lords (Hereditary Peers) Act 2025 removes the right of the remaining hereditary peers to sit and vote.
+            The House of Lords has undergone substantial reform. The Life Peerages Act 1958 introduced life peers, diversifying the chamber's composition. The House of Lords Act 1999 removed all but 92 hereditary peers, fundamentally altering the chamber's character from a predominantly hereditary body to one dominated by appointed life peers. As of 2025, the Lords numbers approximately 780 members, including life peers, excepted hereditary peers, and 26 Lords Spiritual. The House of Lords (Hereditary Peers) Act 2025 removes the right of the remaining hereditary peers to sit and vote.
 
-      The Monarch's constitutional role is governed primarily by convention rather than statute. Royal Assent has not been refused since Queen Anne withheld it from the Scottish Militia Bill in 1708. The King's Speech at the State Opening of Parliament is written by the Government and sets out the legislative programme. The royal prerogative -- historically a source of executive power -- has been progressively curtailed and is now exercised almost entirely on ministerial advice.
+            The Monarch's constitutional role is governed primarily by convention rather than statute. Royal Assent has not been refused since Queen Anne withheld it from the Scottish Militia Bill in 1708. The King's Speech at the State Opening of Parliament is written by the Government and sets out the legislative programme. The royal prerogative -- historically a source of executive power -- has been progressively curtailed and is now exercised almost entirely on ministerial advice.
 
-      The distinction between Parliament and Government is fundamental to the British constitution. Parliament (the legislature) makes law and holds the executive to account; the Government (the executive) formulates policy, introduces the majority of legislation, and administers the state. The fusion of powers -- whereby Government ministers must sit in Parliament -- creates a system of responsible government, but it is the separation of institutional roles that provides the mechanism for democratic accountability through parliamentary questions, select committee inquiries, debates, and votes of confidence.
+            The distinction between Parliament and Government is fundamental to the British constitution. Parliament (the legislature) makes law and holds the executive to account; the Government (the executive) formulates policy, introduces the majority of legislation, and administers the state. The fusion of powers -- whereby Government ministers must sit in Parliament -- creates a system of responsible government, but it is the separation of institutional roles that provides the mechanism for democratic accountability through parliamentary questions, select committee inquiries, debates, and votes of confidence.
 
-      The physical seat of Parliament, the Palace of Westminster, is itself of constitutional and historical significance. The original palace served as a royal residence from the reign of Canute (1016-1035) until the fire of 1512. Westminster Hall, constructed by William Rufus in 1097 and remodelled with its famous hammerbeam roof by Richard II in the 1390s, has hosted significant state trials, including those of William Wallace (1305), Thomas More (1535), and Charles I (1649). Following the fire of 16 October 1834 -- caused by the over-zealous burning of Exchequer tally sticks -- the palace was rebuilt in the Perpendicular Gothic style by Sir Charles Barry (architect) and Augustus Welby Northmore Pugin (interior design), completed substantially by 1870. The complex was designated a UNESCO World Heritage Site in 1987 alongside Westminster Abbey and St Margaret's Church.
-    reading_age: null
-    sources:
-      - citation: "Dicey, A.V., Introduction to the Study of the Law of the Constitution, 1885"
-        url: "https://archive.org/details/introductiontos18teleggoog"
-        type: primary
-      - citation: "UK Parliament, Parliamentary Sovereignty, House of Commons Library Research Briefing CBP-10377"
-        url: "https://commonslibrary.parliament.uk/research-briefings/cbp-10377/"
-        type: official
-      - citation: "UK Parliament, What is the Role of Parliament?"
-        url: "https://www.parliament.uk/about/how/role/"
-        type: official
-      - citation: "UK Parliament, Parliament and Crown"
-        url: "https://www.parliament.uk/about/how-parliament-works/role-of-parliament/parliament-crown/"
-        type: official
-      - citation: "Jennings, Sir Ivor, The Law and the Constitution, 5th ed., 1959"
-        url: "https://archive.org/details/lawconstitution0000jenn"
-        type: secondary
-      - citation: "R (Jackson) v Attorney General [2005] UKHL 56"
-        url: "https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd051013/jack-1.htm"
-        type: primary
+            The physical seat of Parliament, the Palace of Westminster, is itself of constitutional and historical significance. The original palace served as a royal residence from the reign of Canute (1016-1035) until the fire of 1512. Westminster Hall, constructed by William Rufus in 1097 and remodelled with its famous hammerbeam roof by Richard II in the 1390s, has hosted significant state trials, including those of William Wallace (1305), Thomas More (1535), and Charles I (1649). Following the fire of 16 October 1834 -- caused by the over-zealous burning of Exchequer tally sticks -- the palace was rebuilt in the Perpendicular Gothic style by Sir Charles Barry (architect) and Augustus Welby Northmore Pugin (interior design), completed substantially by 1870. The complex was designated a UNESCO World Heritage Site in 1987 alongside Westminster Abbey and St Margaret's Church.
+        reading_age: null
+        sources:
+            - citation: 'Dicey, A.V., Introduction to the Study of the Law of the Constitution, 1885'
+              url: 'https://archive.org/details/introductiontos18teleggoog'
+              type: primary
+            - citation: 'UK Parliament, Parliamentary Sovereignty, House of Commons Library Research Briefing CBP-10377'
+              url: 'https://commonslibrary.parliament.uk/research-briefings/cbp-10377/'
+              type: official
+            - citation: 'UK Parliament, What is the Role of Parliament?'
+              url: 'https://www.parliament.uk/about/how/role/'
+              type: official
+            - citation: 'UK Parliament, Parliament and Crown'
+              url: 'https://www.parliament.uk/about/how-parliament-works/role-of-parliament/parliament-crown/'
+              type: official
+            - citation: 'Jennings, Sir Ivor, The Law and the Constitution, 5th ed., 1959'
+              url: 'https://archive.org/details/lawconstitution0000jenn'
+              type: secondary
+            - citation: 'R (Jackson) v Attorney General [2005] UKHL 56'
+              url: 'https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd051013/jack-1.htm'
+              type: primary
 
 glossary:
-  - term: "Parliamentary Sovereignty"
-    definition_simple: "The idea that Parliament is the most powerful law-making body in the country and no one can overrule it."
-    definition_full: "The constitutional doctrine, as articulated by A.V. Dicey, that Parliament possesses the supreme legal authority to make or unmake any law, that no Parliament may bind a future Parliament, and that no body -- including the courts -- may override or set aside an Act of Parliament."
-  - term: "Royal Assent"
-    definition_simple: "The King's agreement that a new law can go ahead. It is the final step before a Bill becomes a law."
-    definition_full: "The formal approval by the Monarch of a Bill passed by both Houses of Parliament, upon which it becomes an Act of Parliament and part of the law of the land. Royal Assent is granted as a matter of constitutional convention and has not been refused since 1708."
-  - term: "Constituency"
-    definition_simple: "An area of the country that chooses one MP to speak for the people who live there."
-    definition_full: "A geographically defined electoral district, each represented by one Member of Parliament in the House of Commons. The UK is divided into 650 constituencies, with boundaries periodically reviewed by the Boundary Commissions."
-  - term: "Bicameral"
-    definition_simple: "A word meaning that Parliament has two separate groups, or chambers, that work together to make laws."
-    definition_full: "A legislative system consisting of two separate chambers or houses. In the UK, the bicameral Parliament comprises the elected House of Commons (the lower house) and the appointed House of Lords (the upper house), each with distinct roles in the legislative process."
-  - term: "Act of Parliament"
-    definition_simple: "A rule that has been agreed by the House of Commons, the House of Lords, and the King, and has become an official law."
-    definition_full: "A statute formally enacted by all three components of Parliament -- the House of Commons, the House of Lords, and the Monarch through Royal Assent. Acts of Parliament are primary legislation and represent the highest form of law in the UK legal system."
+    - term: 'Parliamentary Sovereignty'
+      definition_simple: 'The idea that Parliament is the most powerful law-making body in the country and no one can overrule it.'
+      definition_full: 'The constitutional doctrine, as articulated by A.V. Dicey, that Parliament possesses the supreme legal authority to make or unmake any law, that no Parliament may bind a future Parliament, and that no body -- including the courts -- may override or set aside an Act of Parliament.'
+    - term: 'Royal Assent'
+      definition_simple: "The King's agreement that a new law can go ahead. It is the final step before a Bill becomes a law."
+      definition_full: 'The formal approval by the Monarch of a Bill passed by both Houses of Parliament, upon which it becomes an Act of Parliament and part of the law of the land. Royal Assent is granted as a matter of constitutional convention and has not been refused since 1708.'
+    - term: 'Constituency'
+      definition_simple: 'An area of the country that chooses one MP to speak for the people who live there.'
+      definition_full: 'A geographically defined electoral district, each represented by one Member of Parliament in the House of Commons. The UK is divided into 650 constituencies, with boundaries periodically reviewed by the Boundary Commissions.'
+    - term: 'Bicameral'
+      definition_simple: 'A word meaning that Parliament has two separate groups, or chambers, that work together to make laws.'
+      definition_full: 'A legislative system consisting of two separate chambers or houses. In the UK, the bicameral Parliament comprises the elected House of Commons (the lower house) and the appointed House of Lords (the upper house), each with distinct roles in the legislative process.'
+    - term: 'Act of Parliament'
+      definition_simple: 'A rule that has been agreed by the House of Commons, the House of Lords, and the King, and has become an official law.'
+      definition_full: 'A statute formally enacted by all three components of Parliament -- the House of Commons, the House of Lords, and the Monarch through Royal Assent. Acts of Parliament are primary legislation and represent the highest form of law in the UK legal system.'
 
 did_you_know:
-  - fact: "The Palace of Westminster has over 1,100 rooms, 100 staircases, and 11 courtyards. You could get lost exploring it for days!"
-    level: [child, teenager]
-  - fact: "Big Ben is actually the nickname for the Great Bell inside the Elizabeth Tower, not the tower itself. The bell weighs nearly 14 tonnes -- about as heavy as two African elephants!"
-    level: [child, teenager]
-  - fact: "The fire that destroyed most of the old Palace of Westminster in 1834 was started by burning old wooden tally sticks that had been used for keeping accounts. They were stuffed into furnaces under the House of Lords and set the chimney flues ablaze."
-    level: [teenager, adult, researcher]
-  - fact: "The last time a monarch refused Royal Assent was in 1708, when Queen Anne rejected the Scottish Militia Bill. Every monarch since then has approved every law passed by both Houses."
-    level: [teenager, adult]
-  - fact: "Westminster Hall, built in 1097, has one of the largest medieval hammerbeam roofs in Europe, spanning 20.7 metres without a single supporting column."
-    level: [adult, researcher]
+    - fact: 'The Palace of Westminster has over 1,100 rooms, 100 staircases, and 11 courtyards. You could get lost exploring it for days!'
+      level: [child, teenager]
+    - fact: 'Big Ben is actually the nickname for the Great Bell inside the Elizabeth Tower, not the tower itself. The bell weighs nearly 14 tonnes -- about as heavy as two African elephants!'
+      level: [child, teenager]
+    - fact: 'The fire that destroyed most of the old Palace of Westminster in 1834 was started by burning old wooden tally sticks that had been used for keeping accounts. They were stuffed into furnaces under the House of Lords and set the chimney flues ablaze.'
+      level: [teenager, adult, researcher]
+    - fact: 'The last time a monarch refused Royal Assent was in 1708, when Queen Anne rejected the Scottish Militia Bill. Every monarch since then has approved every law passed by both Houses.'
+      level: [teenager, adult]
+    - fact: 'Westminster Hall, built in 1097, has one of the largest medieval hammerbeam roofs in Europe, spanning 20.7 metres without a single supporting column.'
+      level: [adult, researcher]
 
 key_dates:
-  - year: 1215
-    event: "Magna Carta sealed by King John"
-    significance: "Established the principle that the King was subject to the law and laid the groundwork for parliamentary authority and the limitation of royal power."
-    levels: [teenager, adult, researcher]
-  - year: 1265
-    event: "Simon de Montfort's Parliament"
-    significance: "Often regarded as the first representative English Parliament, because for the first time both knights from the shires and burgesses from the towns were summoned alongside nobles and clergy to discuss national affairs."
-    levels: [teenager, adult, researcher]
-  - year: 1689
-    event: "Bill of Rights enacted"
-    significance: "Established key constitutional principles including the supremacy of Parliament over the Crown, the right to free elections, freedom of speech in parliamentary debate, and the prohibition of cruel and unusual punishment."
-    levels: [teenager, adult, researcher]
-  - year: 1834
-    event: "Palace of Westminster destroyed by fire"
-    significance: "The accidental burning of Exchequer tally sticks destroyed most of the medieval palace, leading to the construction of the current Gothic Revival building designed by Charles Barry and Augustus Pugin."
-    levels: [child, teenager, adult, researcher]
-  - year: 1911
-    event: "Parliament Act 1911 passed"
-    significance: "Removed the House of Lords' power to veto money Bills and limited its ability to delay other legislation to two years (later reduced to one year by the Parliament Act 1949), establishing the primacy of the elected House of Commons."
-    levels: [adult, researcher]
-  - year: 1928
-    event: "Equal Franchise Act"
-    significance: "Granted women the right to vote on the same terms as men (at age 21), achieving universal adult suffrage and completing a century-long struggle for equal democratic representation."
-    levels: [teenager, adult, researcher]
+    - year: 1215
+      event: 'Magna Carta sealed by King John'
+      significance: 'Established the principle that the King was subject to the law and laid the groundwork for parliamentary authority and the limitation of royal power.'
+      levels: [teenager, adult, researcher]
+    - year: 1265
+      event: "Simon de Montfort's Parliament"
+      significance: 'Often regarded as the first representative English Parliament, because for the first time both knights from the shires and burgesses from the towns were summoned alongside nobles and clergy to discuss national affairs.'
+      levels: [teenager, adult, researcher]
+    - year: 1689
+      event: 'Bill of Rights enacted'
+      significance: 'Established key constitutional principles including the supremacy of Parliament over the Crown, the right to free elections, freedom of speech in parliamentary debate, and the prohibition of cruel and unusual punishment.'
+      levels: [teenager, adult, researcher]
+    - year: 1834
+      event: 'Palace of Westminster destroyed by fire'
+      significance: 'The accidental burning of Exchequer tally sticks destroyed most of the medieval palace, leading to the construction of the current Gothic Revival building designed by Charles Barry and Augustus Pugin.'
+      levels: [child, teenager, adult, researcher]
+    - year: 1911
+      event: 'Parliament Act 1911 passed'
+      significance: "Removed the House of Lords' power to veto money Bills and limited its ability to delay other legislation to two years (later reduced to one year by the Parliament Act 1949), establishing the primacy of the elected House of Commons."
+      levels: [adult, researcher]
+    - year: 1928
+      event: 'Equal Franchise Act'
+      significance: 'Granted women the right to vote on the same terms as men (at age 21), achieving universal adult suffrage and completing a century-long struggle for equal democratic representation.'
+      levels: [teenager, adult, researcher]
 
 key_figures:
-  - name: "Simon de Montfort"
-    role: "Earl of Leicester and rebel leader"
-    description: "Led a baronial revolt against Henry III and in 1265 summoned what is widely considered the first representative Parliament in English history, including knights and burgesses alongside nobles. He is often credited as the founder of the House of Commons."
-    levels: [teenager, adult, researcher]
-  - name: "Sir Charles Barry"
-    role: "Architect of the Palace of Westminster"
-    description: "Won the competition to design the new Palace of Westminster after the 1834 fire. Working with Augustus Pugin on the interiors and detailing, he created the iconic Gothic Revival building that serves as the home of Parliament today."
-    levels: [child, teenager, adult]
-  - name: "Augustus Welby Northmore Pugin"
-    role: "Interior designer of the Palace of Westminster"
-    description: "One of the foremost architects of the Gothic Revival, Pugin designed the elaborate interiors, furnishings, and decorative details of the new Palace of Westminster, including the Elizabeth Tower (Big Ben's clock tower). He died in 1852, aged just 40, before the building was completed."
-    levels: [teenager, adult, researcher]
-  - name: "A.V. Dicey"
-    role: "Constitutional scholar"
-    description: "Albert Venn Dicey was a Vinerian Professor of English Law at Oxford whose 1885 work 'Introduction to the Study of the Law of the Constitution' defined the orthodox doctrine of parliamentary sovereignty that remains central to British constitutional law."
-    levels: [adult, researcher]
+    - name: 'Simon de Montfort'
+      role: 'Earl of Leicester and rebel leader'
+      description: 'Led a baronial revolt against Henry III and in 1265 summoned what is widely considered the first representative Parliament in English history, including knights and burgesses alongside nobles. He is often credited as the founder of the House of Commons.'
+      levels: [teenager, adult, researcher]
+    - name: 'Sir Charles Barry'
+      role: 'Architect of the Palace of Westminster'
+      description: 'Won the competition to design the new Palace of Westminster after the 1834 fire. Working with Augustus Pugin on the interiors and detailing, he created the iconic Gothic Revival building that serves as the home of Parliament today.'
+      levels: [child, teenager, adult]
+    - name: 'Augustus Welby Northmore Pugin'
+      role: 'Interior designer of the Palace of Westminster'
+      description: "One of the foremost architects of the Gothic Revival, Pugin designed the elaborate interiors, furnishings, and decorative details of the new Palace of Westminster, including the Elizabeth Tower (Big Ben's clock tower). He died in 1852, aged just 40, before the building was completed."
+      levels: [teenager, adult, researcher]
+    - name: 'A.V. Dicey'
+      role: 'Constitutional scholar'
+      description: "Albert Venn Dicey was a Vinerian Professor of English Law at Oxford whose 1885 work 'Introduction to the Study of the Law of the Constitution' defined the orthodox doctrine of parliamentary sovereignty that remains central to British constitutional law."
+      levels: [adult, researcher]
 
 video_links:
-  - title: "An introduction to Parliament"
-    url: "https://www.youtube.com/watch?v=RAMbIz3Y2JA"
-    source: "UK Parliament"
-    description: "Official UK Parliament animation introducing the three parts of Parliament, how laws are made, and how citizens can get involved in democracy."
-    levels: [child, teenager]
-  - title: "Parliament structure explained"
-    url: "https://www.youtube.com/watch?v=SlPSAOa4vR4"
-    source: "UK Parliament"
-    description: "Short explainer from the UK Parliament channel breaking down how the House of Commons, House of Lords, and the Monarch work together."
-    levels: [teenager, adult]
-  - title: "Who's in charge of Britain?"
-    url: "https://www.youtube.com/watch?v=rMXJOKhf_AA"
-    source: "Jay Foreman"
-    description: "Entertaining and educational look at the fragmented authority structures in British government, from devolved parliaments to local councils."
-    levels: [teenager, adult]
+    - title: 'An introduction to Parliament'
+      url: 'https://www.youtube.com/watch?v=RAMbIz3Y2JA'
+      source: 'UK Parliament'
+      description: 'Official UK Parliament animation introducing the three parts of Parliament, how laws are made, and how citizens can get involved in democracy.'
+      levels: [child, teenager]
+    - title: 'Parliament structure explained'
+      url: 'https://www.youtube.com/watch?v=SlPSAOa4vR4'
+      source: 'UK Parliament'
+      description: 'Short explainer from the UK Parliament channel breaking down how the House of Commons, House of Lords, and the Monarch work together.'
+      levels: [teenager, adult]
+    - title: "Who's in charge of Britain?"
+      url: 'https://www.youtube.com/watch?v=rMXJOKhf_AA'
+      source: 'Jay Foreman'
+      description: 'Entertaining and educational look at the fragmented authority structures in British government, from devolved parliaments to local councils.'
+      levels: [teenager, adult]
 
 quizzes:
-  child:
-    - question: "How many parts make up Parliament?"
-      type: multiple_choice
-      options:
-        - "Two"
-        - "Three"
-        - "Four"
-      correct_answer: "Three"
-      explanation: "Parliament is made up of three parts: the House of Commons, the House of Lords, and the King."
-    - question: "What is the name of the building where Parliament meets?"
-      type: multiple_choice
-      options:
-        - "Buckingham Palace"
-        - "The Palace of Westminster"
-        - "The Tower of London"
-      correct_answer: "The Palace of Westminster"
-      explanation: "Parliament meets in the Palace of Westminster, next to the River Thames in London."
-    - question: "True or false: Big Ben is the name of the clock tower at Parliament."
-      type: true_false
-      correct_answer: "False"
-      explanation: "Big Ben is actually the nickname for the Great Bell inside the tower. The tower itself is called the Elizabeth Tower."
-  teenager:
-    - question: "What does 'parliamentary sovereignty' mean?"
-      type: multiple_choice
-      options:
-        - "The Prime Minister has the final say on all laws"
-        - "Parliament is the supreme legal authority and can make or unmake any law"
-        - "The King can overrule any decision made by Parliament"
-      correct_answer: "Parliament is the supreme legal authority and can make or unmake any law"
-      explanation: "Parliamentary sovereignty means Parliament is the highest legal authority in the UK. No other body can override an Act of Parliament."
-    - question: "What is the key difference between Parliament and the Government?"
-      type: multiple_choice
-      options:
-        - "They are the same thing"
-        - "Parliament makes laws and scrutinises the Government; the Government runs the country day to day"
-        - "The Government makes laws and Parliament runs the country"
-      correct_answer: "Parliament makes laws and scrutinises the Government; the Government runs the country day to day"
-      explanation: "Parliament is the legislature that passes laws and holds the executive to account. The Government is the executive that sets policy and administers public services."
-    - question: "Why is Simon de Montfort's Parliament of 1265 considered historically significant?"
-      type: short_answer
-      correct_answer: "It was the first Parliament to include elected representatives from towns and shires alongside nobles, making it the first representative Parliament."
-      explanation: "De Montfort summoned knights from the shires and burgesses from the towns to sit alongside nobles and clergy, establishing the principle of broader representation that became the foundation of the House of Commons."
-  adult:
-    - question: "Under the Parliament Acts of 1911 and 1949, for how long can the House of Lords delay a non-money public Bill?"
-      type: multiple_choice
-      options:
-        - "Six months"
-        - "One year"
-        - "Two years"
-        - "Indefinitely"
-      correct_answer: "One year"
-      explanation: "The Parliament Act 1911 initially set the delay at two years. The Parliament Act 1949 reduced this to one year, ensuring that the elected House of Commons can ultimately prevail."
-    - question: "What caused the 1834 fire that destroyed most of the Palace of Westminster?"
-      type: short_answer
-      correct_answer: "The careless burning of old wooden Exchequer tally sticks in furnaces beneath the House of Lords."
-      explanation: "Wooden tally sticks, used for accounting until 1826, were disposed of by being burned in the furnaces under the House of Lords. The excessive heat set fire to the chimney flues, which spread rapidly throughout the palace."
-    - question: "Which constitutional scholar articulated the orthodox doctrine of parliamentary sovereignty, and in which work?"
-      type: short_answer
-      correct_answer: "A.V. Dicey, in 'Introduction to the Study of the Law of the Constitution' (1885)."
-      explanation: "Albert Venn Dicey, Vinerian Professor of English Law at Oxford, set out the classic formulation: Parliament can make or unmake any law, no Parliament can bind its successor, and no court can override an Act of Parliament."
-  researcher:
-    - question: "In R (Jackson) v Attorney General [2005], what significant proposition regarding parliamentary sovereignty did several Law Lords advance?"
-      type: short_answer
-      correct_answer: "Several Law Lords suggested that parliamentary sovereignty might itself be a common law construct, and could theoretically be subject to judicial limitation in extreme circumstances."
-      explanation: "In obiter dicta, Lords Steyn, Hope, and Baroness Hale questioned the absoluteness of parliamentary sovereignty, suggesting that if Parliament attempted to abolish fundamental constitutional rights, the courts might refuse to give effect to such legislation -- a radical departure from Diceyan orthodoxy."
-    - question: "How did the House of Lords Act 1999 and the House of Lords (Hereditary Peers) Act 2025 transform the composition of the upper chamber?"
-      type: short_answer
-      correct_answer: "The 1999 Act removed all but 92 hereditary peers, transforming the Lords from a predominantly hereditary to a predominantly appointed chamber. The 2025 Act removes the right of the remaining hereditary peers to sit and vote, completing the transition."
-      explanation: "Before 1999, the Lords was dominated by over 750 hereditary peers. The 1999 reform retained 92 as a transitional compromise. The 2025 Act ends even this residual hereditary element, leaving the chamber composed entirely of life peers and Lords Spiritual."
-    - question: "Contrast Dicey's and Jennings's conceptions of parliamentary sovereignty."
-      type: essay
-      correct_answer: "Dicey advanced a positivist, legalistic conception in which sovereignty was unlimited and absolute. Jennings challenged this by arguing sovereignty must be understood within a broader political and conventional context, noting that legal rules about sovereignty are themselves dependent on political facts."
-      explanation: "Dicey treated sovereignty as a matter of strict legal analysis -- Parliament's legal power is unlimited. Jennings, in 'The Law and the Constitution' (1933/1959), argued that Dicey's approach was artificially narrow, that constitutional conventions shape and constrain legal sovereignty, and that the 'rules of recognition' that establish Parliament's authority are themselves extra-legal, grounded in political practice rather than pure law."
+    child:
+        - question: 'How many parts make up Parliament?'
+          type: multiple_choice
+          options:
+              - 'Two'
+              - 'Three'
+              - 'Four'
+          correct_answer: 'Three'
+          explanation: 'Parliament is made up of three parts: the House of Commons, the House of Lords, and the King.'
+        - question: 'What is the name of the building where Parliament meets?'
+          type: multiple_choice
+          options:
+              - 'Buckingham Palace'
+              - 'The Palace of Westminster'
+              - 'The Tower of London'
+          correct_answer: 'The Palace of Westminster'
+          explanation: 'Parliament meets in the Palace of Westminster, next to the River Thames in London.'
+        - question: 'True or false: Big Ben is the name of the clock tower at Parliament.'
+          type: true_false
+          correct_answer: 'False'
+          explanation: 'Big Ben is actually the nickname for the Great Bell inside the tower. The tower itself is called the Elizabeth Tower.'
+    teenager:
+        - question: "What does 'parliamentary sovereignty' mean?"
+          type: multiple_choice
+          options:
+              - 'The Prime Minister has the final say on all laws'
+              - 'Parliament is the supreme legal authority and can make or unmake any law'
+              - 'The King can overrule any decision made by Parliament'
+          correct_answer: 'Parliament is the supreme legal authority and can make or unmake any law'
+          explanation: 'Parliamentary sovereignty means Parliament is the highest legal authority in the UK. No other body can override an Act of Parliament.'
+        - question: 'What is the key difference between Parliament and the Government?'
+          type: multiple_choice
+          options:
+              - 'They are the same thing'
+              - 'Parliament makes laws and scrutinises the Government; the Government runs the country day to day'
+              - 'The Government makes laws and Parliament runs the country'
+          correct_answer: 'Parliament makes laws and scrutinises the Government; the Government runs the country day to day'
+          explanation: 'Parliament is the legislature that passes laws and holds the executive to account. The Government is the executive that sets policy and administers public services.'
+        - question: "Why is Simon de Montfort's Parliament of 1265 considered historically significant?"
+          type: short_answer
+          correct_answer: 'It was the first Parliament to include elected representatives from towns and shires alongside nobles, making it the first representative Parliament.'
+          explanation: 'De Montfort summoned knights from the shires and burgesses from the towns to sit alongside nobles and clergy, establishing the principle of broader representation that became the foundation of the House of Commons.'
+    adult:
+        - question: 'Under the Parliament Acts of 1911 and 1949, for how long can the House of Lords delay a non-money public Bill?'
+          type: multiple_choice
+          options:
+              - 'Six months'
+              - 'One year'
+              - 'Two years'
+              - 'Indefinitely'
+          correct_answer: 'One year'
+          explanation: 'The Parliament Act 1911 initially set the delay at two years. The Parliament Act 1949 reduced this to one year, ensuring that the elected House of Commons can ultimately prevail.'
+        - question: 'What caused the 1834 fire that destroyed most of the Palace of Westminster?'
+          type: short_answer
+          correct_answer: 'The careless burning of old wooden Exchequer tally sticks in furnaces beneath the House of Lords.'
+          explanation: 'Wooden tally sticks, used for accounting until 1826, were disposed of by being burned in the furnaces under the House of Lords. The excessive heat set fire to the chimney flues, which spread rapidly throughout the palace.'
+        - question: 'Which constitutional scholar articulated the orthodox doctrine of parliamentary sovereignty, and in which work?'
+          type: short_answer
+          correct_answer: "A.V. Dicey, in 'Introduction to the Study of the Law of the Constitution' (1885)."
+          explanation: 'Albert Venn Dicey, Vinerian Professor of English Law at Oxford, set out the classic formulation: Parliament can make or unmake any law, no Parliament can bind its successor, and no court can override an Act of Parliament.'
+    researcher:
+        - question: 'In R (Jackson) v Attorney General [2005], what significant proposition regarding parliamentary sovereignty did several Law Lords advance?'
+          type: short_answer
+          correct_answer: 'Several Law Lords suggested that parliamentary sovereignty might itself be a common law construct, and could theoretically be subject to judicial limitation in extreme circumstances.'
+          explanation: 'In obiter dicta, Lords Steyn, Hope, and Baroness Hale questioned the absoluteness of parliamentary sovereignty, suggesting that if Parliament attempted to abolish fundamental constitutional rights, the courts might refuse to give effect to such legislation -- a radical departure from Diceyan orthodoxy.'
+        - question: 'How did the House of Lords Act 1999 and the House of Lords (Hereditary Peers) Act 2025 transform the composition of the upper chamber?'
+          type: short_answer
+          correct_answer: 'The 1999 Act removed all but 92 hereditary peers, transforming the Lords from a predominantly hereditary to a predominantly appointed chamber. The 2025 Act removes the right of the remaining hereditary peers to sit and vote, completing the transition.'
+          explanation: 'Before 1999, the Lords was dominated by over 750 hereditary peers. The 1999 reform retained 92 as a transitional compromise. The 2025 Act ends even this residual hereditary element, leaving the chamber composed entirely of life peers and Lords Spiritual.'
+        - question: "Contrast Dicey's and Jennings's conceptions of parliamentary sovereignty."
+          type: essay
+          correct_answer: 'Dicey advanced a positivist, legalistic conception in which sovereignty was unlimited and absolute. Jennings challenged this by arguing sovereignty must be understood within a broader political and conventional context, noting that legal rules about sovereignty are themselves dependent on political facts.'
+          explanation: "Dicey treated sovereignty as a matter of strict legal analysis -- Parliament's legal power is unlimited. Jennings, in 'The Law and the Constitution' (1933/1959), argued that Dicey's approach was artificially narrow, that constitutional conventions shape and constrain legal sovereignty, and that the 'rules of recognition' that establish Parliament's authority are themselves extra-legal, grounded in political practice rather than pure law."

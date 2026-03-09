@@ -1,12 +1,12 @@
 id: parliamentary-procedure
-title: "Parliamentary Procedure"
-description: "How Parliament conducts its business day to day — debates, votes, committees, and scrutiny"
+title: 'Parliamentary Procedure'
+description: 'How Parliament conducts its business day to day — debates, votes, committees, and scrutiny'
 order: 2
 
 topics:
-  - debates-and-questions
-  - select-committees
-  - parliamentary-voting
-  - parliamentary-privilege
-  - petitions-and-public-engagement
-  - standing-orders-and-sessions
+    - debates-and-questions
+    - select-committees
+    - parliamentary-voting
+    - parliamentary-privilege
+    - petitions-and-public-engagement
+    - standing-orders-and-sessions
