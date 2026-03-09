@@ -2,6 +2,7 @@ import { loadConfig } from '@config/index';
 import { loadTopics, loadCategories, loadGlossary } from '@api/index';
 import { initRouter } from '@core/router';
 import { renderHomePage } from './pages/home';
+import { renderCategoryPage } from './pages/category';
 import { Logger } from '@utils/logger';
 import type { Route } from '@core/router';
 
@@ -20,6 +21,8 @@ function renderRoute(app: HTMLElement, route: Route): void {
             renderHomePage(app);
             break;
         case 'category':
+            renderCategoryPage(app, route.params.id);
+            break;
         case 'topic':
         case 'glossary':
         case 'search':
