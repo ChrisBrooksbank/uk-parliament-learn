@@ -31,7 +31,7 @@ _Everything depends on this. Build first._
 - [x] Implement glossary loader: parse `_glossary-master.yaml` into a keyed lookup map (spec: content-loading.md)
 - [x] Implement Zod validation for loaded topics and categories against schema rules (spec: content-loading.md)
 - [x] Expose typed content API: `getTopics()`, `getTopic(id)`, `getCategory(id)`, `getCategories()`, `getGlossary()` in `src/api/` (spec: content-loading.md)
-- [ ] Unit tests for content loader, validator, and all API functions (spec: content-loading.md)
+- [x] Unit tests for content loader, validator, and all API functions (spec: content-loading.md)
 
 ### Phase 2 — Core UI & Navigation (spec: core-ui-navigation.md)
 
