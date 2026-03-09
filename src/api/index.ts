@@ -1,16 +1,6 @@
 /**
- * API Module
- * External API clients and data fetching
+ * Content API
+ * Loads and caches YAML content at startup.
  */
 
-// Example API client structure:
-//
-// export async function fetchData(endpoint: string): Promise<unknown> {
-//     const response = await fetch(endpoint);
-//     if (!response.ok) {
-//         throw new Error(`API error: ${response.status}`);
-//     }
-//     return response.json();
-// }
-
-export {};
+export { loadTopics, loadCategories, clearCache } from './content-loader';

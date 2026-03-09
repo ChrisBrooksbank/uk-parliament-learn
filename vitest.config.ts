@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitest/config';
 import tsconfigPaths from 'vite-tsconfig-paths';
+import yaml from '@modyfi/vite-plugin-yaml';
 
 export default defineConfig({
-    plugins: [tsconfigPaths()],
+    plugins: [yaml(), tsconfigPaths()],
     test: {
         globals: true,
         environment: 'jsdom',
