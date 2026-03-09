@@ -1,5 +1,9 @@
 import { loadConfig } from '@config/index';
+import { loadTopics, loadCategories, loadGlossary } from '@api/index';
+import { initRouter } from '@core/router';
+import { renderHomePage } from './pages/home';
 import { Logger } from '@utils/logger';
+import type { Route } from '@core/router';
 
 export function renderLoadingState(app: HTMLElement): void {
     app.innerHTML =
@@ -8,6 +12,22 @@ export function renderLoadingState(app: HTMLElement): void {
 
 export function renderErrorState(app: HTMLElement, message: string): void {
     app.innerHTML = `<div class="error-state" role="alert"><strong>Error:</strong> ${message}</div>`;
+}
+
+function renderRoute(app: HTMLElement, route: Route): void {
+    switch (route.name) {
+        case 'home':
+            renderHomePage(app);
+            break;
+        case 'category':
+        case 'topic':
+        case 'glossary':
+        case 'search':
+        case 'not-found':
+            // Placeholder — implemented in later tasks
+            app.innerHTML = `<p class="loading-state">Page coming soon: ${route.name}</p>`;
+            break;
+    }
 }
 
 export async function initApp(): Promise<void> {
@@ -22,7 +42,16 @@ export async function initApp(): Promise<void> {
     try {
         const config = await loadConfig();
         Logger.setDebugMode(config.debug);
+
+        // Pre-load content into cache
+        loadTopics();
+        loadCategories();
+        loadGlossary();
+
         Logger.success('Application mounted');
+
+        // Start router — renders the current route immediately
+        initRouter((route: Route) => renderRoute(app, route));
     } catch (error) {
         const message = error instanceof Error ? error.message : String(error);
         Logger.error('Failed to initialize:', message);
