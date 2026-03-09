@@ -7,3 +7,8 @@ coverage/
 .DS_Store
 *.config.json
 !*.config.example.json
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/

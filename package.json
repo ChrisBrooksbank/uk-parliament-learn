@@ -17,6 +17,9 @@
         "typecheck": "tsc --noEmit",
         "knip": "knip",
         "check": "npm run typecheck && npm run lint && npm run format:check && npm run knip",
+        "test:e2e": "playwright test",
+        "test:e2e:ui": "playwright test --ui",
+        "test:e2e:update-snapshots": "playwright test --update-snapshots",
         "prepare": "husky"
     },
     "dependencies": {
@@ -39,6 +42,7 @@
         "vite": "^6.0.0",
         "vite-plugin-pwa": "^1.2.0",
         "vite-tsconfig-paths": "^5.0.0",
+        "@playwright/test": "^1.48.0",
         "vitest": "^2.0.0"
     },
     "lint-staged": {
