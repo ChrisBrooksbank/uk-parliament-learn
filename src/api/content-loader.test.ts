@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { loadTopics, loadCategories, clearCache } from './content-loader';
+import { loadTopics, loadCategories, loadGlossary, clearCache } from './content-loader';
 
 describe('loadTopics', () => {
     beforeEach(() => {
@@ -105,5 +105,59 @@ describe('loadCategories', () => {
         const categories = loadCategories();
         const orders = categories.map(c => c.order).sort((a, b) => a - b);
         expect(orders).toEqual([1, 2, 3, 4, 5, 6, 7, 8]);
+    });
+});
+
+describe('loadGlossary', () => {
+    beforeEach(() => {
+        clearCache();
+    });
+
+    it('returns a Map with entries', () => {
+        const glossary = loadGlossary();
+        expect(glossary).toBeInstanceOf(Map);
+        expect(glossary.size).toBeGreaterThan(0);
+    });
+
+    it('loads all 185 glossary terms', () => {
+        const glossary = loadGlossary();
+        expect(glossary.size).toBe(185);
+    });
+
+    it('keys are lowercase for case-insensitive lookup', () => {
+        const glossary = loadGlossary();
+        for (const key of glossary.keys()) {
+            expect(key).toBe(key.toLowerCase());
+        }
+    });
+
+    it('each entry has required fields', () => {
+        const glossary = loadGlossary();
+        for (const term of glossary.values()) {
+            expect(term.term).toBeTruthy();
+            expect(term.definition_simple).toBeTruthy();
+            expect(term.definition_full).toBeTruthy();
+        }
+    });
+
+    it('lookup by lowercase key returns the term', () => {
+        const glossary = loadGlossary();
+        const entry = glossary.get('act of parliament');
+        expect(entry).toBeDefined();
+        expect(entry!.term).toBe('Act of Parliament');
+    });
+
+    it('returns cached result on second call', () => {
+        const first = loadGlossary();
+        const second = loadGlossary();
+        expect(first).toBe(second);
+    });
+
+    it('returns fresh result after clearCache', () => {
+        const first = loadGlossary();
+        clearCache();
+        const second = loadGlossary();
+        expect(first).not.toBe(second);
+        expect(second.size).toBeGreaterThan(0);
     });
 });
