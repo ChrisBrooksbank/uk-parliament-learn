@@ -3,10 +3,5 @@
  * Core application logic and business rules
  */
 
-// Example:
-//
-// export function processData(input: string): string {
-//     return input.trim().toLowerCase();
-// }
-
-export {};
+export type { Route, RouteHandler } from './router';
+export { parseHash, navigate, initRouter } from './router';

@@ -38,7 +38,7 @@ _Everything depends on this. Build first._
 _App shell and routing required before any page work._
 
 - [x] Create `index.html` app shell with header, main content area, and nav; wire up Vite entry point (spec: core-ui-navigation.md)
-- [ ] Implement hash-based client-side router with routes: `/`, `/category/:id`, `/topic/:id`, `/glossary`, `/search` (spec: core-ui-navigation.md)
+- [x] Implement hash-based client-side router with routes: `/`, `/category/:id`, `/topic/:id`, `/glossary`, `/search` (spec: core-ui-navigation.md)
 - [ ] Implement Home page: 8 category cards with name, description, and topic count (spec: core-ui-navigation.md)
 - [ ] Implement Category page: lists topics in the category with links to topic pages (spec: core-ui-navigation.md)
 - [ ] Implement Topic page: renders title, introduction, and explanation body for current audience level (spec: core-ui-navigation.md)
