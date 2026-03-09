@@ -3,6 +3,7 @@ import { loadTopics, loadCategories, loadGlossary } from '@api/index';
 import { initRouter } from '@core/router';
 import { renderHomePage } from './pages/home';
 import { renderCategoryPage } from './pages/category';
+import { renderTopicPage } from './pages/topic';
 import { Logger } from '@utils/logger';
 import type { Route } from '@core/router';
 
@@ -24,6 +25,8 @@ function renderRoute(app: HTMLElement, route: Route): void {
             renderCategoryPage(app, route.params.id);
             break;
         case 'topic':
+            renderTopicPage(app, route.params.id);
+            break;
         case 'glossary':
         case 'search':
         case 'not-found':
