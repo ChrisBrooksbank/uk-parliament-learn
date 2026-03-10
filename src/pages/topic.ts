@@ -10,6 +10,15 @@ import {
     renderMultipleChoiceQuiz,
     attachMultipleChoiceHandlers,
     getMultipleChoiceQuestions,
+    renderTrueFalseQuiz,
+    attachTrueFalseHandlers,
+    getTrueFalseQuestions,
+    renderShortAnswerQuiz,
+    attachShortAnswerHandlers,
+    getShortAnswerQuestions,
+    renderEssayQuiz,
+    attachEssayHandlers,
+    getEssayQuestions,
 } from './quiz';
 
 /**
@@ -66,10 +75,16 @@ export function renderTopicPage(
             ${renderKeyFigures(keyFigures)}
             ${level === 'researcher' ? renderSources(explanation.sources ?? []) : ''}
             ${renderMultipleChoiceQuiz(getMultipleChoiceQuestions(topic.quizzes, level))}
+            ${renderTrueFalseQuiz(getTrueFalseQuestions(topic.quizzes, level))}
+            ${renderShortAnswerQuiz(getShortAnswerQuestions(topic.quizzes, level))}
+            ${renderEssayQuiz(getEssayQuestions(topic.quizzes, level))}
         </article>
     `;
 
     attachMultipleChoiceHandlers(container);
+    attachTrueFalseHandlers(container);
+    attachShortAnswerHandlers(container);
+    attachEssayHandlers(container);
 }
 
 function renderDidYouKnow(entries: DidYouKnowEntry[]): string {

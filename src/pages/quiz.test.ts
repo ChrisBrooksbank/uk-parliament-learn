@@ -258,6 +258,170 @@ describe('attachTrueFalseHandlers', () => {
     });
 });
 
+describe('multiple_choice score summary', () => {
+    it('score summary is hidden before any question is answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion, mcQuestion2]);
+        attachMultipleChoiceHandlers(container);
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(true);
+    });
+
+    it('score summary remains hidden after first of two questions answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion, mcQuestion2]);
+        attachMultipleChoiceHandlers(container);
+        const q1 = container.querySelector<HTMLElement>('.quiz-question--multiple-choice')!;
+        q1.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'A legislative body') r.checked = true;
+        });
+        q1.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(true);
+    });
+
+    it('score summary shows correct score after all questions answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion, mcQuestion2]);
+        attachMultipleChoiceHandlers(container);
+        const questions = container.querySelectorAll<HTMLElement>(
+            '.quiz-question--multiple-choice'
+        );
+        // Answer q1 correctly
+        questions[0]!.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'A legislative body') r.checked = true;
+        });
+        questions[0]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        // Answer q2 incorrectly
+        questions[1]!.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'Three') r.checked = true;
+        });
+        questions[1]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(false);
+        expect(summary.textContent).toBe('You scored 1 out of 2');
+    });
+
+    it('score summary shows perfect score when all correct', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion, mcQuestion2]);
+        attachMultipleChoiceHandlers(container);
+        const questions = container.querySelectorAll<HTMLElement>(
+            '.quiz-question--multiple-choice'
+        );
+        questions[0]!.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'A legislative body') r.checked = true;
+        });
+        questions[0]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        questions[1]!.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'Two') r.checked = true;
+        });
+        questions[1]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(false);
+        expect(summary.textContent).toBe('You scored 2 out of 2');
+    });
+
+    it('score summary shows for single question quiz', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion]);
+        attachMultipleChoiceHandlers(container);
+        const q = container.querySelector<HTMLElement>('.quiz-question--multiple-choice')!;
+        q.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(r => {
+            if (r.value === 'A legislative body') r.checked = true;
+        });
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(false);
+        expect(summary.textContent).toBe('You scored 1 out of 1');
+    });
+
+    it('score summary not shown when submit rejected (no selection)', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderMultipleChoiceQuiz([mcQuestion]);
+        attachMultipleChoiceHandlers(container);
+        const q = container.querySelector<HTMLElement>('.quiz-question--multiple-choice')!;
+        // Click submit without selecting anything
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(true);
+    });
+
+    it('renderMultipleChoiceQuiz includes score summary element', () => {
+        const html = renderMultipleChoiceQuiz([mcQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const summary = div.querySelector('.quiz-score-summary') as HTMLElement;
+        expect(summary).not.toBeNull();
+        expect(summary.hidden).toBe(true);
+    });
+});
+
+describe('true_false score summary', () => {
+    it('score summary is hidden before any question is answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        attachTrueFalseHandlers(container);
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(true);
+    });
+
+    it('score summary remains hidden after first of two questions answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        attachTrueFalseHandlers(container);
+        const q1 = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        Array.from(q1.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'True')!
+            .click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(true);
+    });
+
+    it('score summary shows correct score after all questions answered', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        attachTrueFalseHandlers(container);
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+        // Answer q1 correctly (True)
+        Array.from(questions[0]!.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'True')!
+            .click();
+        // Answer q2 incorrectly (True, but correct is False)
+        Array.from(questions[1]!.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'True')!
+            .click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(false);
+        expect(summary.textContent).toBe('You scored 1 out of 2');
+    });
+
+    it('score summary shows perfect score when all correct', () => {
+        const container = document.createElement('div');
+        container.innerHTML = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        attachTrueFalseHandlers(container);
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+        Array.from(questions[0]!.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'True')!
+            .click();
+        Array.from(questions[1]!.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'False')!
+            .click();
+        const summary = container.querySelector<HTMLElement>('.quiz-score-summary')!;
+        expect(summary.hidden).toBe(false);
+        expect(summary.textContent).toBe('You scored 2 out of 2');
+    });
+
+    it('renderTrueFalseQuiz includes score summary element', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const summary = div.querySelector('.quiz-score-summary') as HTMLElement;
+        expect(summary).not.toBeNull();
+        expect(summary.hidden).toBe(true);
+    });
+});
+
 describe('getMultipleChoiceQuestions', () => {
     it('returns multiple_choice questions for the given level', () => {
         const quizzes = {

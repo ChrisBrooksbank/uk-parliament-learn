@@ -55,6 +55,7 @@ export function renderMultipleChoiceQuiz(questions: QuizEntry[]): string {
             <div class="quiz-questions">
                 ${questions.map((q, i) => renderMultipleChoiceQuestion(q, i)).join('\n')}
             </div>
+            <div class="quiz-score-summary" aria-live="polite" hidden></div>
         </section>
     `;
 }
@@ -64,9 +65,13 @@ export function renderMultipleChoiceQuiz(questions: QuizEntry[]): string {
  * Must be called after the HTML has been injected into the DOM.
  */
 export function attachMultipleChoiceHandlers(container: HTMLElement): void {
-    const questions = container.querySelectorAll<HTMLElement>('.quiz-question--multiple-choice');
+    const questionEls = container.querySelectorAll<HTMLElement>('.quiz-question--multiple-choice');
+    const scoreSummary = container.querySelector<HTMLElement>('.quiz-score-summary');
+    const total = questionEls.length;
+    let answered = 0;
+    let correctCount = 0;
 
-    questions.forEach(questionEl => {
+    questionEls.forEach(questionEl => {
         const submitBtn = questionEl.querySelector<HTMLButtonElement>('.quiz-question__submit');
         if (!submitBtn) return;
 
@@ -110,6 +115,13 @@ export function attachMultipleChoiceHandlers(container: HTMLElement): void {
             }`;
 
             submitBtn.disabled = true;
+
+            answered++;
+            if (isCorrect) correctCount++;
+            if (answered === total && scoreSummary) {
+                scoreSummary.textContent = `You scored ${correctCount} out of ${total}`;
+                scoreSummary.hidden = false;
+            }
         });
     });
 }
@@ -153,6 +165,7 @@ export function renderTrueFalseQuiz(questions: QuizEntry[]): string {
             <div class="quiz-questions">
                 ${questions.map((q, i) => renderTrueFalseQuestion(q, i)).join('\n')}
             </div>
+            <div class="quiz-score-summary" aria-live="polite" hidden></div>
         </section>
     `;
 }
@@ -162,9 +175,13 @@ export function renderTrueFalseQuiz(questions: QuizEntry[]): string {
  * Must be called after the HTML has been injected into the DOM.
  */
 export function attachTrueFalseHandlers(container: HTMLElement): void {
-    const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+    const questionEls = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+    const scoreSummary = container.querySelector<HTMLElement>('.quiz-score-summary');
+    const total = questionEls.length;
+    let answered = 0;
+    let correctCount = 0;
 
-    questions.forEach(questionEl => {
+    questionEls.forEach(questionEl => {
         const correct = questionEl.dataset['correct'] ?? '';
         const optionBtns = questionEl.querySelectorAll<HTMLButtonElement>('.quiz-option--tf');
         const feedback = questionEl.querySelector<HTMLElement>('.quiz-question__feedback');
@@ -192,6 +209,13 @@ export function attachTrueFalseHandlers(container: HTMLElement): void {
                             ? 'quiz-question__feedback--correct'
                             : 'quiz-question__feedback--incorrect'
                     }`;
+                }
+
+                answered++;
+                if (isCorrect) correctCount++;
+                if (answered === total && scoreSummary) {
+                    scoreSummary.textContent = `You scored ${correctCount} out of ${total}`;
+                    scoreSummary.hidden = false;
                 }
             });
         });
