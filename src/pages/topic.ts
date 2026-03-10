@@ -6,6 +6,11 @@ import type {
     KeyFigureEntry,
     Source,
 } from '../types/index';
+import {
+    renderMultipleChoiceQuiz,
+    attachMultipleChoiceHandlers,
+    getMultipleChoiceQuestions,
+} from './quiz';
 
 /**
  * Render the Topic page: title, breadcrumb, introduction (summary), explanation body,
@@ -60,8 +65,11 @@ export function renderTopicPage(
             ${renderKeyDates(keyDates)}
             ${renderKeyFigures(keyFigures)}
             ${level === 'researcher' ? renderSources(explanation.sources ?? []) : ''}
+            ${renderMultipleChoiceQuiz(getMultipleChoiceQuestions(topic.quizzes, level))}
         </article>
     `;
+
+    attachMultipleChoiceHandlers(container);
 }
 
 function renderDidYouKnow(entries: DidYouKnowEntry[]): string {
