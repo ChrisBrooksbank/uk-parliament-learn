@@ -4,6 +4,9 @@ import {
     renderMultipleChoiceQuiz,
     attachMultipleChoiceHandlers,
     getMultipleChoiceQuestions,
+    renderTrueFalseQuiz,
+    attachTrueFalseHandlers,
+    getTrueFalseQuestions,
 } from './quiz';
 
 const mcQuestion: QuizEntry = {
@@ -28,6 +31,196 @@ const tfQuestion: QuizEntry = {
     correct_answer: 'True',
     explanation: 'Parliament sits at the Palace of Westminster in London.',
 };
+
+const tfQuestion2: QuizEntry = {
+    question: 'True or false: The House of Lords is elected.',
+    type: 'true_false',
+    correct_answer: 'False',
+    explanation: 'The House of Lords is not elected — members are appointed.',
+};
+
+describe('getTrueFalseQuestions', () => {
+    it('returns true_false questions for the given level', () => {
+        const quizzes = { adult: [mcQuestion, tfQuestion] };
+        const result = getTrueFalseQuestions(quizzes, 'adult');
+        expect(result).toHaveLength(1);
+        expect(result[0]).toBe(tfQuestion);
+    });
+
+    it('returns empty array when quizzes is undefined', () => {
+        expect(getTrueFalseQuestions(undefined, 'adult')).toEqual([]);
+    });
+
+    it('returns empty array when level has no quizzes', () => {
+        const quizzes = { adult: [tfQuestion] };
+        expect(getTrueFalseQuestions(quizzes, 'child')).toEqual([]);
+    });
+
+    it('returns empty array when level has no true_false questions', () => {
+        const quizzes = { adult: [mcQuestion] };
+        expect(getTrueFalseQuestions(quizzes, 'adult')).toEqual([]);
+    });
+
+    it('returns multiple true_false questions', () => {
+        const quizzes = { adult: [tfQuestion, tfQuestion2] };
+        expect(getTrueFalseQuestions(quizzes, 'adult')).toHaveLength(2);
+    });
+});
+
+describe('renderTrueFalseQuiz', () => {
+    it('returns empty string when no questions', () => {
+        expect(renderTrueFalseQuiz([])).toBe('');
+    });
+
+    it('renders quiz section with heading', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.topic-page__quiz--true-false')).not.toBeNull();
+        expect(div.querySelector('h3')!.textContent).toContain('True or False');
+    });
+
+    it('renders question text', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.quiz-question__text')!.textContent).toContain(
+            'True or false: Parliament is in London.'
+        );
+    });
+
+    it('renders True and False buttons', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const btns = div.querySelectorAll<HTMLButtonElement>('.quiz-option--tf');
+        expect(btns).toHaveLength(2);
+        const values = Array.from(btns).map(b => b.dataset['value']);
+        expect(values).toContain('True');
+        expect(values).toContain('False');
+    });
+
+    it('renders hidden feedback element', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const feedback = div.querySelector('.quiz-question__feedback') as HTMLElement;
+        expect(feedback).not.toBeNull();
+        expect(feedback.hidden).toBe(true);
+    });
+
+    it('renders multiple questions', () => {
+        const html = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelectorAll('.quiz-question--true-false')).toHaveLength(2);
+    });
+
+    it('escapes HTML in question text', () => {
+        const xssQ: QuizEntry = { ...tfQuestion, question: '<script>alert("xss")</script>' };
+        const html = renderTrueFalseQuiz([xssQ]);
+        expect(html).not.toContain('<script>');
+    });
+
+    it('has aria-label on quiz section', () => {
+        const html = renderTrueFalseQuiz([tfQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const section = div.querySelector('.topic-page__quiz--true-false');
+        expect(section!.getAttribute('aria-label')).toBe('True or False Quiz');
+    });
+});
+
+describe('attachTrueFalseHandlers', () => {
+    let container: HTMLElement;
+
+    beforeEach(() => {
+        container = document.createElement('div');
+        container.innerHTML = renderTrueFalseQuiz([tfQuestion, tfQuestion2]);
+        attachTrueFalseHandlers(container);
+    });
+
+    it('shows correct feedback when correct button clicked (True)', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        const trueBtn = Array.from(q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')).find(
+            b => b.dataset['value'] === 'True'
+        )!;
+        trueBtn.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.hidden).toBe(false);
+        expect(feedback.textContent).toContain('Correct');
+        expect(feedback.classList.contains('quiz-question__feedback--correct')).toBe(true);
+    });
+
+    it('shows incorrect feedback when wrong button clicked', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        const falseBtn = Array.from(q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')).find(
+            b => b.dataset['value'] === 'False'
+        )!;
+        falseBtn.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.hidden).toBe(false);
+        expect(feedback.textContent).toContain('Incorrect');
+        expect(feedback.classList.contains('quiz-question__feedback--incorrect')).toBe(true);
+    });
+
+    it('marks correct option with correct class after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        const falseBtn = Array.from(q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')).find(
+            b => b.dataset['value'] === 'False'
+        )!;
+        falseBtn.click();
+        const trueBtn = Array.from(q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')).find(
+            b => b.dataset['value'] === 'True'
+        )!;
+        expect(trueBtn.classList.contains('quiz-option--correct')).toBe(true);
+    });
+
+    it('marks selected wrong button with incorrect class after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        const falseBtn = Array.from(q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')).find(
+            b => b.dataset['value'] === 'False'
+        )!;
+        falseBtn.click();
+        expect(falseBtn.classList.contains('quiz-option--incorrect')).toBe(true);
+    });
+
+    it('disables all buttons after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--true-false')!;
+        const btns = q.querySelectorAll<HTMLButtonElement>('.quiz-option--tf');
+        btns[0]!.click();
+        btns.forEach(b => expect(b.disabled).toBe(true));
+    });
+
+    it('handles multiple independent questions', () => {
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+        expect(questions).toHaveLength(2);
+
+        // Answer first question
+        const q1 = questions[0]!;
+        Array.from(q1.querySelectorAll<HTMLButtonElement>('.quiz-option--tf'))
+            .find(b => b.dataset['value'] === 'True')!
+            .click();
+        expect(q1.querySelector<HTMLElement>('.quiz-question__feedback')!.textContent).toContain(
+            'Correct'
+        );
+
+        // Second question unaffected
+        const q2 = questions[1]!;
+        expect(q2.querySelector<HTMLElement>('.quiz-question__feedback')!.hidden).toBe(true);
+    });
+
+    it('handles correct answer False correctly', () => {
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+        const q2 = questions[1]!; // correct_answer: 'False'
+        const falseBtn = Array.from(
+            q2.querySelectorAll<HTMLButtonElement>('.quiz-option--tf')
+        ).find(b => b.dataset['value'] === 'False')!;
+        falseBtn.click();
+        const feedback = q2.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.textContent).toContain('Correct');
+    });
+});
 
 describe('getMultipleChoiceQuestions', () => {
     it('returns multiple_choice questions for the given level', () => {

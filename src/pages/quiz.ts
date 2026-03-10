@@ -124,3 +124,87 @@ export function getMultipleChoiceQuestions(
     const levelQuizzes = quizzes?.[level] ?? [];
     return levelQuizzes.filter(q => q.type === 'multiple_choice');
 }
+
+/**
+ * Render HTML for a true_false quiz question.
+ */
+function renderTrueFalseQuestion(question: QuizEntry, index: number): string {
+    return `
+        <div class="quiz-question quiz-question--true-false" data-question-index="${index}" data-correct="${escapeHtml(question.correct_answer)}">
+            <p class="quiz-question__text">${escapeHtml(question.question)}</p>
+            <div class="quiz-question__options quiz-question__options--true-false" role="group" aria-label="True or false">
+                <button class="quiz-option quiz-option--tf" type="button" data-value="True" aria-label="True">True</button>
+                <button class="quiz-option quiz-option--tf" type="button" data-value="False" aria-label="False">False</button>
+            </div>
+            <div class="quiz-question__feedback" aria-live="polite" hidden></div>
+        </div>
+    `;
+}
+
+/**
+ * Render the full quiz section for true_false questions.
+ * Returns an HTML string.
+ */
+export function renderTrueFalseQuiz(questions: QuizEntry[]): string {
+    if (questions.length === 0) return '';
+    return `
+        <section class="topic-page__quiz topic-page__quiz--true-false" aria-label="True or False Quiz">
+            <h3>True or False</h3>
+            <div class="quiz-questions">
+                ${questions.map((q, i) => renderTrueFalseQuestion(q, i)).join('\n')}
+            </div>
+        </section>
+    `;
+}
+
+/**
+ * Attach click handlers to rendered true_false questions inside a container.
+ * Must be called after the HTML has been injected into the DOM.
+ */
+export function attachTrueFalseHandlers(container: HTMLElement): void {
+    const questions = container.querySelectorAll<HTMLElement>('.quiz-question--true-false');
+
+    questions.forEach(questionEl => {
+        const correct = questionEl.dataset['correct'] ?? '';
+        const optionBtns = questionEl.querySelectorAll<HTMLButtonElement>('.quiz-option--tf');
+        const feedback = questionEl.querySelector<HTMLElement>('.quiz-question__feedback');
+
+        optionBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const selected = btn.dataset['value'] ?? '';
+                const isCorrect = selected === correct;
+
+                // Mark buttons correct/incorrect
+                optionBtns.forEach(b => {
+                    if (b.dataset['value'] === correct) {
+                        b.classList.add('quiz-option--correct');
+                    } else if (b === btn) {
+                        b.classList.add('quiz-option--incorrect');
+                    }
+                    b.disabled = true;
+                });
+
+                if (feedback) {
+                    feedback.textContent = isCorrect ? '✓ Correct!' : '✗ Incorrect.';
+                    feedback.hidden = false;
+                    feedback.className = `quiz-question__feedback ${
+                        isCorrect
+                            ? 'quiz-question__feedback--correct'
+                            : 'quiz-question__feedback--incorrect'
+                    }`;
+                }
+            });
+        });
+    });
+}
+
+/**
+ * Get true_false questions from a topic's quizzes for a given level.
+ */
+export function getTrueFalseQuestions(
+    quizzes: Partial<Record<AudienceLevel, QuizEntry[]>> | undefined,
+    level: AudienceLevel
+): QuizEntry[] {
+    const levelQuizzes = quizzes?.[level] ?? [];
+    return levelQuizzes.filter(q => q.type === 'true_false');
+}

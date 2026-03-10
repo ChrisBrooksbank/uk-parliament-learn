@@ -62,7 +62,7 @@ _Depends on Phase 1 (content API) and Phase 2 (topic page exists)._
 _Depends on Phase 1–3._
 
 - [x] Implement `multiple_choice` quiz renderer: show options, highlight correct/incorrect on submit (spec: quizzes-and-engagement.md)
-- [ ] Implement `true_false` quiz renderer: binary choice with feedback (spec: quizzes-and-engagement.md)
+- [x] Implement `true_false` quiz renderer: binary choice with feedback (spec: quizzes-and-engagement.md)
 - [ ] Implement `short_answer` quiz renderer: text input with model answer reveal on submit (spec: quizzes-and-engagement.md)
 - [ ] Implement `essay` quiz renderer: textarea with guidance prompt (no auto-grading) (spec: quizzes-and-engagement.md)
 - [ ] Add quiz score summary after completing all questions; filter quiz questions by current audience level (spec: quizzes-and-engagement.md)
