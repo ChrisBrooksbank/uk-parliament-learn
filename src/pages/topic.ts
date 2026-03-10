@@ -1,5 +1,11 @@
 import { getTopic, getCategory } from '@api/index';
-import type { AudienceLevel, DidYouKnowEntry, KeyDateEntry, KeyFigureEntry } from '../types/index';
+import type {
+    AudienceLevel,
+    DidYouKnowEntry,
+    KeyDateEntry,
+    KeyFigureEntry,
+    Source,
+} from '../types/index';
 
 /**
  * Render the Topic page: title, breadcrumb, introduction (summary), explanation body,
@@ -53,6 +59,7 @@ export function renderTopicPage(
             ${renderDidYouKnow(didYouKnow)}
             ${renderKeyDates(keyDates)}
             ${renderKeyFigures(keyFigures)}
+            ${level === 'researcher' ? renderSources(explanation.sources ?? []) : ''}
         </article>
     `;
 }
@@ -100,6 +107,27 @@ function renderKeyFigures(entries: KeyFigureEntry[]): string {
                     <li>
                         <strong>${escapeHtml(e.name)}</strong> — ${escapeHtml(e.role)}
                         <p>${escapeHtml(e.description)}</p>
+                    </li>
+                `
+                    )
+                    .join('\n')}
+            </ul>
+        </section>
+    `;
+}
+
+function renderSources(sources: Source[]): string {
+    if (sources.length === 0) return '';
+    return `
+        <section class="topic-page__sources" aria-label="Sources">
+            <h3>Sources</h3>
+            <ul>
+                ${sources
+                    .map(
+                        s => `
+                    <li>
+                        <a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.citation)}</a>
+                        ${s.type ? `<span class="source-type">(${escapeHtml(s.type)})</span>` : ''}
                     </li>
                 `
                     )

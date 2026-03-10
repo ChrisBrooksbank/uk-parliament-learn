@@ -280,6 +280,59 @@ describe('renderTopicPage', () => {
         });
     });
 
+    describe('sources section', () => {
+        it('shows sources section for researcher level', () => {
+            renderTopicPage(container, 'what-is-parliament', 'researcher');
+            const section = container.querySelector('.topic-page__sources');
+            expect(section).not.toBeNull();
+            expect(section!.textContent).toContain('UK Parliament');
+        });
+
+        it('renders source as a clickable link', () => {
+            renderTopicPage(container, 'what-is-parliament', 'researcher');
+            const link = container.querySelector('.topic-page__sources a');
+            expect(link).not.toBeNull();
+            expect(link!.getAttribute('href')).toBe('https://parliament.uk');
+            expect(link!.textContent).toContain('UK Parliament');
+        });
+
+        it('does not show sources section for adult level', () => {
+            renderTopicPage(container, 'what-is-parliament', 'adult');
+            const section = container.querySelector('.topic-page__sources');
+            expect(section).toBeNull();
+        });
+
+        it('does not show sources section for child level', () => {
+            renderTopicPage(container, 'what-is-parliament', 'child');
+            const section = container.querySelector('.topic-page__sources');
+            expect(section).toBeNull();
+        });
+
+        it('does not show sources section for teenager level', () => {
+            renderTopicPage(container, 'what-is-parliament', 'teenager');
+            const section = container.querySelector('.topic-page__sources');
+            expect(section).toBeNull();
+        });
+
+        it('omits sources section when researcher level has no sources', async () => {
+            const { getTopic } = await import('@api/index');
+            vi.mocked(getTopic).mockReturnValueOnce({
+                ...mockTopic,
+                explanations: {
+                    ...mockTopic.explanations,
+                    researcher: {
+                        summary: 'Researcher summary',
+                        body: 'Detailed analysis.',
+                        sources: [],
+                    },
+                },
+            });
+            renderTopicPage(container, 'what-is-parliament', 'researcher');
+            const section = container.querySelector('.topic-page__sources');
+            expect(section).toBeNull();
+        });
+    });
+
     describe('key_figures filtering', () => {
         it('shows figures matching the current level', () => {
             renderTopicPage(container, 'what-is-parliament', 'adult');
