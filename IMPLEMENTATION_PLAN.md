@@ -66,7 +66,7 @@ _Depends on Phase 1–3._
 - [x] Implement `short_answer` quiz renderer: text input with model answer reveal on submit (spec: quizzes-and-engagement.md)
 - [x] Implement `essay` quiz renderer: textarea with guidance prompt (no auto-grading) (spec: quizzes-and-engagement.md)
 - [x] Add quiz score summary after completing all questions; filter quiz questions by current audience level (spec: quizzes-and-engagement.md)
-- [ ] Implement glossary term detection in rendered topic text and wrap matched terms (spec: quizzes-and-engagement.md)
+- [x] Implement glossary term detection in rendered topic text and wrap matched terms (spec: quizzes-and-engagement.md)
 - [ ] Implement glossary tooltip component: shows definition on hover (desktop) and tap (mobile) (spec: quizzes-and-engagement.md)
 - [ ] Build client-side search index at startup (Fuse.js or inverted index over titles, explanations, glossary terms) (spec: quizzes-and-engagement.md)
 - [ ] Implement Search page UI: input in header on all pages, results page with matched topics and snippets (spec: quizzes-and-engagement.md)

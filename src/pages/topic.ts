@@ -1,11 +1,13 @@
-import { getTopic, getCategory } from '@api/index';
+import { getTopic, getCategory, getGlossary } from '@api/index';
 import type {
     AudienceLevel,
     DidYouKnowEntry,
     KeyDateEntry,
     KeyFigureEntry,
+    GlossaryTerm,
     Source,
 } from '../types/index';
+import { wrapGlossaryTerms } from '@utils/glossaryDetector';
 import {
     renderMultipleChoiceQuiz,
     attachMultipleChoiceHandlers,
@@ -44,6 +46,7 @@ export function renderTopicPage(
 
     const category = getCategory(topic.metadata.category);
     const explanation = topic.explanations[level];
+    const glossary = getGlossary();
 
     // Filter supplementary content by current audience level
     const didYouKnow = (topic.did_you_know ?? []).filter(e => e.level.includes(level));
@@ -66,7 +69,7 @@ export function renderTopicPage(
             <section class="topic-page__body" aria-label="Explanation">
                 ${
                     explanation.body
-                        ? `<div class="topic-page__content">${renderBody(explanation.body)}</div>`
+                        ? `<div class="topic-page__content">${renderBody(explanation.body, glossary)}</div>`
                         : '<p class="topic-page__empty">No content available for this level.</p>'
                 }
             </section>
@@ -162,13 +165,14 @@ function renderSources(sources: Source[]): string {
 
 /**
  * Convert plain text body to paragraphs. Each blank-line-separated block becomes a <p>.
+ * Glossary terms in the text are wrapped with `<abbr class="glossary-term">` elements.
  */
-function renderBody(body: string): string {
+function renderBody(body: string, glossary: Map<string, GlossaryTerm>): string {
     return body
         .split(/\n\s*\n/)
         .map(para => para.trim())
         .filter(para => para.length > 0)
-        .map(para => `<p>${escapeHtml(para.replace(/\n/g, ' '))}</p>`)
+        .map(para => `<p>${wrapGlossaryTerms(para.replace(/\n/g, ' '), glossary)}</p>`)
         .join('\n');
 }
 

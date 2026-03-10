@@ -87,6 +87,7 @@ vi.mock('@api/index', () => ({
         }
         return undefined;
     }),
+    getGlossary: vi.fn(() => new Map()),
 }));
 
 describe('renderTopicPage', () => {
