@@ -1,7 +1,7 @@
 import { loadConfig } from '@config/index';
 import { loadTopics, loadCategories, loadGlossary } from '@api/index';
 import { initRouter } from '@core/router';
-import { initLevelStore } from '@core/levelStore';
+import { initLevelStore, getLevel, onLevelChange } from '@core/levelStore';
 import { initLevelSelector } from '@core/levelSelector';
 import { renderHomePage } from './pages/home';
 import { renderCategoryPage } from './pages/category';
@@ -42,7 +42,10 @@ export function updateNavAriaCurrent(route: Route): void {
     }
 }
 
+let currentRoute: Route | null = null;
+
 function renderRoute(app: HTMLElement, route: Route): void {
+    currentRoute = route;
     updateNavAriaCurrent(route);
     switch (route.name) {
         case 'home':
@@ -52,7 +55,7 @@ function renderRoute(app: HTMLElement, route: Route): void {
             renderCategoryPage(app, route.params.id);
             break;
         case 'topic':
-            renderTopicPage(app, route.params.id);
+            renderTopicPage(app, route.params.id, getLevel());
             break;
         case 'glossary':
             renderGlossaryPage(app);
@@ -81,6 +84,13 @@ export async function initApp(): Promise<void> {
         // Initialise audience level store and UI selector
         initLevelStore();
         initLevelSelector();
+
+        // Re-render topic page when audience level changes
+        onLevelChange(() => {
+            if (currentRoute?.name === 'topic') {
+                renderTopicPage(app, currentRoute.params.id, getLevel());
+            }
+        });
 
         // Pre-load content into cache
         loadTopics();

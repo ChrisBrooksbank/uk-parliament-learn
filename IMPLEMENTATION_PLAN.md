@@ -53,7 +53,7 @@ _Depends on Phase 1 (content API) and Phase 2 (topic page exists)._
 
 - [x] Implement global audience level store in `src/core/` with localStorage persistence and default of "adult" (spec: audience-adaptation.md)
 - [x] Add audience level selector UI to header (child / teenager / adult / researcher) with current-level badge (spec: audience-adaptation.md)
-- [ ] Wire topic page to read from level store: render correct explanation level, filter `did_you_know`/`key_dates`/`key_figures` by their `levels` arrays (spec: audience-adaptation.md)
+- [x] Wire topic page to read from level store: render correct explanation level, filter `did_you_know`/`key_dates`/`key_figures` by their `levels` arrays (spec: audience-adaptation.md)
 - [ ] Show `sources` section with clickable URLs only when level is "researcher" (spec: audience-adaptation.md)
 - [ ] Unit tests for level filtering logic; E2e test: switch level and verify content updates without page reload (spec: audience-adaptation.md)
 

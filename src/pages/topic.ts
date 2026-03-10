@@ -1,9 +1,9 @@
 import { getTopic, getCategory } from '@api/index';
-import type { AudienceLevel } from '../types/index';
+import type { AudienceLevel, DidYouKnowEntry, KeyDateEntry, KeyFigureEntry } from '../types/index';
 
 /**
- * Render the Topic page: title, breadcrumb, introduction (summary), and explanation body
- * for the given audience level (defaults to "adult").
+ * Render the Topic page: title, breadcrumb, introduction (summary), explanation body,
+ * and supplementary content (did_you_know, key_dates, key_figures) filtered by level.
  */
 export function renderTopicPage(
     container: HTMLElement,
@@ -25,6 +25,11 @@ export function renderTopicPage(
     const category = getCategory(topic.metadata.category);
     const explanation = topic.explanations[level];
 
+    // Filter supplementary content by current audience level
+    const didYouKnow = (topic.did_you_know ?? []).filter(e => e.level.includes(level));
+    const keyDates = (topic.key_dates ?? []).filter(e => e.levels.includes(level));
+    const keyFigures = (topic.key_figures ?? []).filter(e => e.levels.includes(level));
+
     container.innerHTML = `
         <nav class="breadcrumb" aria-label="Breadcrumb">
             <ol>
@@ -45,7 +50,62 @@ export function renderTopicPage(
                         : '<p class="topic-page__empty">No content available for this level.</p>'
                 }
             </section>
+            ${renderDidYouKnow(didYouKnow)}
+            ${renderKeyDates(keyDates)}
+            ${renderKeyFigures(keyFigures)}
         </article>
+    `;
+}
+
+function renderDidYouKnow(entries: DidYouKnowEntry[]): string {
+    if (entries.length === 0) return '';
+    return `
+        <section class="topic-page__did-you-know" aria-label="Did you know?">
+            <h3>Did you know?</h3>
+            <ul>
+                ${entries.map(e => `<li>${escapeHtml(e.fact)}</li>`).join('\n')}
+            </ul>
+        </section>
+    `;
+}
+
+function renderKeyDates(entries: KeyDateEntry[]): string {
+    if (entries.length === 0) return '';
+    return `
+        <section class="topic-page__key-dates" aria-label="Key dates">
+            <h3>Key Dates</h3>
+            <dl>
+                ${entries
+                    .map(
+                        e => `
+                    <dt>${escapeHtml(String(e.year))}</dt>
+                    <dd>${escapeHtml(e.event)}${e.significance ? ` — ${escapeHtml(e.significance)}` : ''}</dd>
+                `
+                    )
+                    .join('\n')}
+            </dl>
+        </section>
+    `;
+}
+
+function renderKeyFigures(entries: KeyFigureEntry[]): string {
+    if (entries.length === 0) return '';
+    return `
+        <section class="topic-page__key-figures" aria-label="Key figures">
+            <h3>Key Figures</h3>
+            <ul>
+                ${entries
+                    .map(
+                        e => `
+                    <li>
+                        <strong>${escapeHtml(e.name)}</strong> — ${escapeHtml(e.role)}
+                        <p>${escapeHtml(e.description)}</p>
+                    </li>
+                `
+                    )
+                    .join('\n')}
+            </ul>
+        </section>
     `;
 }
 
