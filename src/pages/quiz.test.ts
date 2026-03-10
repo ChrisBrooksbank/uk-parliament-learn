@@ -10,6 +10,9 @@ import {
     renderShortAnswerQuiz,
     attachShortAnswerHandlers,
     getShortAnswerQuestions,
+    renderEssayQuiz,
+    attachEssayHandlers,
+    getEssayQuestions,
 } from './quiz';
 
 const mcQuestion: QuizEntry = {
@@ -54,6 +57,22 @@ const saQuestion2: QuizEntry = {
     type: 'short_answer',
     correct_answer: 'The Lords can delay legislation by up to one year.',
     explanation: 'The House of Lords acts as a revising chamber.',
+};
+
+const essayQuestion: QuizEntry = {
+    question: 'Discuss the role of Parliament in a democratic society.',
+    type: 'essay',
+    correct_answer: '',
+    explanation:
+        'Consider how Parliament makes laws, scrutinises the government, and represents citizens.',
+};
+
+const essayQuestion2: QuizEntry = {
+    question: 'How does the House of Lords complement the House of Commons?',
+    type: 'essay',
+    correct_answer: '',
+    explanation:
+        'Think about revision of legislation, expertise, and the checks and balances involved.',
 };
 
 describe('getTrueFalseQuestions', () => {
@@ -640,6 +659,165 @@ describe('attachShortAnswerHandlers', () => {
 
     it('handles multiple independent questions', () => {
         const questions = container.querySelectorAll<HTMLElement>('.quiz-question--short-answer');
+        expect(questions).toHaveLength(2);
+
+        questions[0]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        expect(questions[0]!.querySelector<HTMLElement>('.quiz-question__feedback')!.hidden).toBe(
+            false
+        );
+
+        // Second question unaffected
+        expect(questions[1]!.querySelector<HTMLElement>('.quiz-question__feedback')!.hidden).toBe(
+            true
+        );
+    });
+});
+
+describe('getEssayQuestions', () => {
+    it('returns essay questions for the given level', () => {
+        const quizzes = { adult: [mcQuestion, essayQuestion] };
+        const result = getEssayQuestions(quizzes, 'adult');
+        expect(result).toHaveLength(1);
+        expect(result[0]).toBe(essayQuestion);
+    });
+
+    it('returns empty array when quizzes is undefined', () => {
+        expect(getEssayQuestions(undefined, 'adult')).toEqual([]);
+    });
+
+    it('returns empty array when level has no quizzes', () => {
+        const quizzes = { adult: [essayQuestion] };
+        expect(getEssayQuestions(quizzes, 'child')).toEqual([]);
+    });
+
+    it('returns empty array when level has no essay questions', () => {
+        const quizzes = { adult: [mcQuestion] };
+        expect(getEssayQuestions(quizzes, 'adult')).toEqual([]);
+    });
+
+    it('returns multiple essay questions', () => {
+        const quizzes = { adult: [essayQuestion, essayQuestion2] };
+        expect(getEssayQuestions(quizzes, 'adult')).toHaveLength(2);
+    });
+});
+
+describe('renderEssayQuiz', () => {
+    it('returns empty string when no questions', () => {
+        expect(renderEssayQuiz([])).toBe('');
+    });
+
+    it('renders quiz section with heading', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.topic-page__quiz--essay')).not.toBeNull();
+        expect(div.querySelector('h3')!.textContent).toContain('Essay');
+    });
+
+    it('renders question text', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.quiz-question__text')!.textContent).toContain(
+            'Discuss the role of Parliament'
+        );
+    });
+
+    it('renders a textarea input', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('textarea.quiz-question__textarea')).not.toBeNull();
+    });
+
+    it('renders a show guidance button', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const btn = div.querySelector<HTMLButtonElement>('.quiz-question__submit');
+        expect(btn).not.toBeNull();
+        expect(btn!.textContent).toContain('guidance');
+    });
+
+    it('renders hidden feedback element', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const feedback = div.querySelector('.quiz-question__feedback') as HTMLElement;
+        expect(feedback).not.toBeNull();
+        expect(feedback.hidden).toBe(true);
+    });
+
+    it('renders multiple questions', () => {
+        const html = renderEssayQuiz([essayQuestion, essayQuestion2]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelectorAll('.quiz-question--essay')).toHaveLength(2);
+    });
+
+    it('escapes HTML in question text', () => {
+        const xssQ: QuizEntry = { ...essayQuestion, question: '<script>alert("xss")</script>' };
+        const html = renderEssayQuiz([xssQ]);
+        expect(html).not.toContain('<script>');
+    });
+
+    it('escapes HTML in guidance stored in data attribute', () => {
+        const xssQ: QuizEntry = { ...essayQuestion, explanation: '<script>bad</script>' };
+        const html = renderEssayQuiz([xssQ]);
+        expect(html).not.toContain('<script>');
+    });
+
+    it('has aria-label on quiz section', () => {
+        const html = renderEssayQuiz([essayQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const section = div.querySelector('.topic-page__quiz--essay');
+        expect(section!.getAttribute('aria-label')).toBe('Essay Quiz');
+    });
+});
+
+describe('attachEssayHandlers', () => {
+    let container: HTMLElement;
+
+    beforeEach(() => {
+        container = document.createElement('div');
+        container.innerHTML = renderEssayQuiz([essayQuestion, essayQuestion2]);
+        attachEssayHandlers(container);
+    });
+
+    it('reveals guidance in feedback on submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--essay')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.hidden).toBe(false);
+        expect(feedback.textContent).toContain(
+            'Consider how Parliament makes laws, scrutinises the government'
+        );
+    });
+
+    it('shows feedback with reveal class', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--essay')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.classList.contains('quiz-question__feedback--reveal')).toBe(true);
+    });
+
+    it('disables submit button after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--essay')!;
+        const btn = q.querySelector<HTMLButtonElement>('.quiz-question__submit')!;
+        btn.click();
+        expect(btn.disabled).toBe(true);
+    });
+
+    it('textarea remains enabled after submit (essay allows continued writing)', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--essay')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const textarea = q.querySelector<HTMLTextAreaElement>('.quiz-question__textarea')!;
+        expect(textarea.disabled).toBe(false);
+    });
+
+    it('handles multiple independent questions', () => {
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--essay');
         expect(questions).toHaveLength(2);
 
         questions[0]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();

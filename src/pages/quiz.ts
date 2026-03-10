@@ -282,3 +282,77 @@ export function getTrueFalseQuestions(
     const levelQuizzes = quizzes?.[level] ?? [];
     return levelQuizzes.filter(q => q.type === 'true_false');
 }
+
+/**
+ * Render HTML for an essay quiz question.
+ * Shows a textarea and a button to reveal guidance (no auto-grading).
+ */
+function renderEssayQuestion(question: QuizEntry, index: number): string {
+    return `
+        <div class="quiz-question quiz-question--essay" data-question-index="${index}" data-guidance="${escapeHtml(question.explanation)}">
+            <p class="quiz-question__text">${escapeHtml(question.question)}</p>
+            <label class="quiz-question__label" for="quiz-essay-${index}">Your response:</label>
+            <textarea
+                id="quiz-essay-${index}"
+                class="quiz-question__textarea"
+                rows="6"
+                aria-label="Your essay response to: ${escapeHtml(question.question)}"
+            ></textarea>
+            <button class="quiz-question__submit" type="button">Show guidance</button>
+            <div class="quiz-question__feedback" aria-live="polite" hidden></div>
+        </div>
+    `;
+}
+
+/**
+ * Render the full quiz section for essay questions.
+ * Returns an HTML string.
+ */
+export function renderEssayQuiz(questions: QuizEntry[]): string {
+    if (questions.length === 0) return '';
+    return `
+        <section class="topic-page__quiz topic-page__quiz--essay" aria-label="Essay Quiz">
+            <h3>Essay</h3>
+            <div class="quiz-questions">
+                ${questions.map((q, i) => renderEssayQuestion(q, i)).join('\n')}
+            </div>
+        </section>
+    `;
+}
+
+/**
+ * Attach submit handlers to rendered essay questions inside a container.
+ * On submit, reveals guidance text for self-assessment (no auto-grading).
+ * Must be called after the HTML has been injected into the DOM.
+ */
+export function attachEssayHandlers(container: HTMLElement): void {
+    const questions = container.querySelectorAll<HTMLElement>('.quiz-question--essay');
+
+    questions.forEach(questionEl => {
+        const submitBtn = questionEl.querySelector<HTMLButtonElement>('.quiz-question__submit');
+        const textarea = questionEl.querySelector<HTMLTextAreaElement>('.quiz-question__textarea');
+        const feedback = questionEl.querySelector<HTMLElement>('.quiz-question__feedback');
+        if (!submitBtn || !textarea || !feedback) return;
+
+        submitBtn.addEventListener('click', () => {
+            const guidance = questionEl.dataset['guidance'] ?? '';
+
+            feedback.innerHTML = `Guidance: <strong>${escapeHtml(guidance)}</strong>`;
+            feedback.hidden = false;
+            feedback.className = 'quiz-question__feedback quiz-question__feedback--reveal';
+
+            submitBtn.disabled = true;
+        });
+    });
+}
+
+/**
+ * Get essay questions from a topic's quizzes for a given level.
+ */
+export function getEssayQuestions(
+    quizzes: Partial<Record<AudienceLevel, QuizEntry[]>> | undefined,
+    level: AudienceLevel
+): QuizEntry[] {
+    const levelQuizzes = quizzes?.[level] ?? [];
+    return levelQuizzes.filter(q => q.type === 'essay');
+}
