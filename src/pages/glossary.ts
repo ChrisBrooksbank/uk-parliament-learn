@@ -36,7 +36,7 @@ export function renderGlossaryPage(container: HTMLElement): void {
     const letterNavHtml = letters
         .map(
             letter =>
-                `<a class="glossary-nav__link" href="#glossary-${escapeHtml(letter)}" aria-label="Jump to ${escapeHtml(letter)}">${escapeHtml(letter)}</a>`
+                `<a class="glossary-nav__link" href="javascript:void(0)" data-letter="${escapeHtml(letter)}" role="button" aria-label="Jump to ${escapeHtml(letter)}">${escapeHtml(letter)}</a>`
         )
         .join('');
 
@@ -86,6 +86,18 @@ export function renderGlossaryPage(container: HTMLElement): void {
             </div>
         </article>
     `;
+
+    // Use scrollIntoView instead of hash anchors to avoid conflicting with the hash router
+    container.querySelectorAll<HTMLAnchorElement>('.glossary-nav__link').forEach(link => {
+        link.addEventListener('click', e => {
+            e.preventDefault();
+            const letter = (e.currentTarget as HTMLAnchorElement).dataset.letter;
+            if (letter) {
+                const target = document.getElementById(`glossary-${letter}`);
+                target?.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    });
 }
 
 function escapeHtml(text: string): string {
