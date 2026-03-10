@@ -8,6 +8,7 @@ import type {
     Source,
 } from '../types/index';
 import { wrapGlossaryTerms } from '@utils/glossaryDetector';
+import { attachGlossaryTooltips } from '@utils/glossaryTooltip';
 import {
     renderMultipleChoiceQuiz,
     attachMultipleChoiceHandlers,
@@ -88,6 +89,7 @@ export function renderTopicPage(
     attachTrueFalseHandlers(container);
     attachShortAnswerHandlers(container);
     attachEssayHandlers(container);
+    attachGlossaryTooltips(container);
 }
 
 function renderDidYouKnow(entries: DidYouKnowEntry[]): string {

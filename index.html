@@ -659,6 +659,38 @@
                 padding: 3rem 1rem;
             }
 
+            /* ─── Glossary tooltip ───────────────────────────────────────── */
+
+            abbr.glossary-term {
+                text-decoration: underline dotted var(--color-primary);
+                cursor: help;
+                color: inherit;
+            }
+
+            .glossary-tooltip {
+                position: fixed;
+                z-index: 500;
+                max-width: 280px;
+                padding: 0.5rem 0.75rem;
+                background: #1f2937;
+                color: #f9fafb;
+                border-radius: 6px;
+                font-size: 0.875rem;
+                line-height: 1.5;
+                pointer-events: none;
+                opacity: 0;
+                visibility: hidden;
+                transition:
+                    opacity 0.15s,
+                    visibility 0.15s;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+            }
+
+            .glossary-tooltip--visible {
+                opacity: 1;
+                visibility: visible;
+            }
+
             /* ─── Noscript ───────────────────────────────────────────────── */
 
             noscript p {
