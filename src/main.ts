@@ -1,6 +1,8 @@
 import { loadConfig } from '@config/index';
 import { loadTopics, loadCategories, loadGlossary } from '@api/index';
 import { initRouter } from '@core/router';
+import { initLevelStore } from '@core/levelStore';
+import { initLevelSelector } from '@core/levelSelector';
 import { renderHomePage } from './pages/home';
 import { renderCategoryPage } from './pages/category';
 import { renderTopicPage } from './pages/topic';
@@ -75,6 +77,10 @@ export async function initApp(): Promise<void> {
     try {
         const config = await loadConfig();
         Logger.setDebugMode(config.debug);
+
+        // Initialise audience level store and UI selector
+        initLevelStore();
+        initLevelSelector();
 
         // Pre-load content into cache
         loadTopics();

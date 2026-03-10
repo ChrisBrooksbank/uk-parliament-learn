@@ -183,6 +183,61 @@
 
             /* ─── Responsive ─────────────────────────────────────────────── */
 
+            /* ─── Audience level selector ────────────────────────────────── */
+
+            #level-selector {
+                display: flex;
+                gap: 0.25rem;
+                flex-shrink: 0;
+            }
+
+            .level-btn {
+                background: rgba(255, 255, 255, 0.1);
+                border: 1px solid rgba(255, 255, 255, 0.25);
+                border-radius: var(--radius);
+                color: rgba(255, 255, 255, 0.8);
+                cursor: pointer;
+                font-family: inherit;
+                font-size: 0.8125rem;
+                font-weight: 500;
+                line-height: 1;
+                padding: 0.3125rem 0.625rem;
+                transition:
+                    background 0.15s,
+                    color 0.15s,
+                    border-color 0.15s;
+                white-space: nowrap;
+            }
+
+            .level-btn:hover,
+            .level-btn:focus-visible {
+                background: rgba(255, 255, 255, 0.2);
+                border-color: rgba(255, 255, 255, 0.5);
+                color: #fff;
+            }
+
+            .level-btn:focus-visible {
+                outline: 2px solid #fff;
+                outline-offset: 2px;
+            }
+
+            .level-btn--active {
+                background: #fff;
+                border-color: #fff;
+                color: var(--color-primary);
+                font-weight: 700;
+            }
+
+            .level-btn--active:hover {
+                background: rgba(255, 255, 255, 0.9);
+            }
+
+            @media (max-width: 480px) {
+                #level-selector {
+                    display: none;
+                }
+            }
+
             @media (max-width: 480px) {
                 .site-title h1 {
                     font-size: 1rem;
@@ -628,6 +683,7 @@
                         <li><a href="#/search">Search</a></li>
                     </ul>
                 </nav>
+                <div id="level-selector" role="group" aria-label="Audience level"></div>
             </div>
         </header>
 

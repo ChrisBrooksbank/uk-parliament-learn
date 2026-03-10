@@ -15,3 +15,5 @@ export {
     onLevelChange,
     resetLevelStore,
 } from './levelStore';
+
+export { initLevelSelector } from './levelSelector';
