@@ -69,7 +69,7 @@ _Depends on Phase 1–3._
 - [x] Implement glossary term detection in rendered topic text and wrap matched terms (spec: quizzes-and-engagement.md)
 - [x] Implement glossary tooltip component: shows definition on hover (desktop) and tap (mobile) (spec: quizzes-and-engagement.md)
 - [x] Build client-side search index at startup (Fuse.js or inverted index over titles, explanations, glossary terms) (spec: quizzes-and-engagement.md)
-- [ ] Implement Search page UI: input in header on all pages, results page with matched topics and snippets (spec: quizzes-and-engagement.md)
+- [x] Implement Search page UI: input in header on all pages, results page with matched topics and snippets (spec: quizzes-and-engagement.md)
 - [ ] Unit tests for quiz scoring, glossary term detection, and search indexing; E2e test: complete a quiz and verify score display (spec: quizzes-and-engagement.md)
 
 ---

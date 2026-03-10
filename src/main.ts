@@ -7,6 +7,7 @@ import { renderHomePage } from './pages/home';
 import { renderCategoryPage } from './pages/category';
 import { renderTopicPage } from './pages/topic';
 import { renderGlossaryPage } from './pages/glossary';
+import { renderSearchPage } from './pages/search';
 import { Logger } from '@utils/logger';
 import type { Route } from '@core/router';
 
@@ -42,6 +43,21 @@ export function updateNavAriaCurrent(route: Route): void {
     }
 }
 
+/**
+ * Wire up the header search form to navigate to the search page.
+ */
+export function initHeaderSearch(): void {
+    const form = document.getElementById('header-search-form') as HTMLFormElement | null;
+    const input = document.getElementById('header-search-input') as HTMLInputElement | null;
+    if (!form || !input) return;
+    form.addEventListener('submit', e => {
+        e.preventDefault();
+        const q = input.value.trim();
+        window.location.hash = q ? `/search?q=${encodeURIComponent(q)}` : '/search';
+        input.value = '';
+    });
+}
+
 let currentRoute: Route | null = null;
 
 function renderRoute(app: HTMLElement, route: Route): void {
@@ -61,9 +77,10 @@ function renderRoute(app: HTMLElement, route: Route): void {
             renderGlossaryPage(app);
             break;
         case 'search':
+            renderSearchPage(app);
+            break;
         case 'not-found':
-            // Placeholder — implemented in later tasks
-            app.innerHTML = `<p class="loading-state">Page coming soon: ${route.name}</p>`;
+            app.innerHTML = `<div class="error-state" role="alert">Page not found: <code>${route.path}</code></div>`;
             break;
     }
 }
@@ -84,6 +101,7 @@ export async function initApp(): Promise<void> {
         // Initialise audience level store and UI selector
         initLevelStore();
         initLevelSelector();
+        initHeaderSearch();
 
         // Re-render topic page when audience level changes
         onLevelChange(() => {

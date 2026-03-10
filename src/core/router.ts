@@ -45,7 +45,7 @@ export function parseHash(hash: string): Route {
         return { name: 'glossary' };
     }
 
-    if (path === '/search') {
+    if (path === '/search' || path.startsWith('/search?')) {
         return { name: 'search' };
     }
 
