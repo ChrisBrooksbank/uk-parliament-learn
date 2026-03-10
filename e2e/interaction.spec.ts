@@ -81,6 +81,67 @@ test.describe('Core interactions', () => {
     });
 });
 
+test.describe('Quiz completion', () => {
+    test('complete a multiple choice quiz and verify score display', async ({ page }) => {
+        // Navigate to a topic with quizzes and switch to child level (2 MC questions)
+        await page.goto('/#/topic/what-is-parliament');
+        await page.waitForLoadState('networkidle');
+
+        // Switch to child level which has 2 multiple_choice questions
+        await page.locator('[data-level="child"]').click();
+        await page.waitForLoadState('networkidle');
+
+        // Verify the quiz section is visible
+        const quizSection = page.locator('.topic-page__quiz').first();
+        await expect(quizSection).toBeVisible();
+
+        // Score summary should not be visible yet
+        await expect(quizSection.locator('.quiz-score-summary')).toBeHidden();
+
+        // Answer each multiple choice question by selecting the first option and submitting
+        const questions = quizSection.locator('.quiz-question--multiple-choice');
+        const questionCount = await questions.count();
+        expect(questionCount).toBeGreaterThan(0);
+
+        for (let i = 0; i < questionCount; i++) {
+            const question = questions.nth(i);
+            // Select the first radio option
+            const firstOption = question.locator('input[type="radio"]').first();
+            await firstOption.check();
+            // Click the submit button
+            await question.locator('.quiz-question__submit').click();
+            // Feedback should appear
+            await expect(question.locator('.quiz-question__feedback')).toBeVisible();
+        }
+
+        // After all questions answered, score summary should appear
+        await expect(quizSection.locator('.quiz-score-summary')).toBeVisible();
+
+        // Score summary should show "You scored X out of Y"
+        const summaryText = await quizSection.locator('.quiz-score-summary').textContent();
+        expect(summaryText).toMatch(/You scored \d+ out of \d+/);
+    });
+
+    test('submitting without selecting an answer shows warning', async ({ page }) => {
+        await page.goto('/#/topic/what-is-parliament');
+        await page.waitForLoadState('networkidle');
+
+        await page.locator('[data-level="child"]').click();
+        await page.waitForLoadState('networkidle');
+
+        const quizSection = page.locator('.topic-page__quiz').first();
+        const firstQuestion = quizSection.locator('.quiz-question--multiple-choice').first();
+
+        // Submit without selecting an answer
+        await firstQuestion.locator('.quiz-question__submit').click();
+
+        // Warning feedback should appear
+        const feedback = firstQuestion.locator('.quiz-question__feedback');
+        await expect(feedback).toBeVisible();
+        await expect(feedback).toHaveClass(/warning/);
+    });
+});
+
 test.describe('Audience level switching', () => {
     test('switching to researcher level shows sources section without page reload', async ({
         page,
