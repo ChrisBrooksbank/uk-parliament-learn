@@ -7,6 +7,9 @@ import {
     renderTrueFalseQuiz,
     attachTrueFalseHandlers,
     getTrueFalseQuestions,
+    renderShortAnswerQuiz,
+    attachShortAnswerHandlers,
+    getShortAnswerQuestions,
 } from './quiz';
 
 const mcQuestion: QuizEntry = {
@@ -37,6 +40,20 @@ const tfQuestion2: QuizEntry = {
     type: 'true_false',
     correct_answer: 'False',
     explanation: 'The House of Lords is not elected — members are appointed.',
+};
+
+const saQuestion: QuizEntry = {
+    question: 'What is the role of the Speaker in the House of Commons?',
+    type: 'short_answer',
+    correct_answer: 'The Speaker chairs debates and maintains order in the House of Commons.',
+    explanation: 'The Speaker is an elected MP who presides over debates.',
+};
+
+const saQuestion2: QuizEntry = {
+    question: 'Name one power of the House of Lords.',
+    type: 'short_answer',
+    correct_answer: 'The Lords can delay legislation by up to one year.',
+    explanation: 'The House of Lords acts as a revising chamber.',
 };
 
 describe('getTrueFalseQuestions', () => {
@@ -477,5 +494,162 @@ describe('attachMultipleChoiceHandlers', () => {
         const q2 = questions[1]!;
         const q2Feedback = q2.querySelector<HTMLElement>('.quiz-question__feedback')!;
         expect(q2Feedback.hidden).toBe(true);
+    });
+});
+
+describe('getShortAnswerQuestions', () => {
+    it('returns short_answer questions for the given level', () => {
+        const quizzes = { adult: [mcQuestion, saQuestion] };
+        const result = getShortAnswerQuestions(quizzes, 'adult');
+        expect(result).toHaveLength(1);
+        expect(result[0]).toBe(saQuestion);
+    });
+
+    it('returns empty array when quizzes is undefined', () => {
+        expect(getShortAnswerQuestions(undefined, 'adult')).toEqual([]);
+    });
+
+    it('returns empty array when level has no quizzes', () => {
+        const quizzes = { adult: [saQuestion] };
+        expect(getShortAnswerQuestions(quizzes, 'child')).toEqual([]);
+    });
+
+    it('returns empty array when level has no short_answer questions', () => {
+        const quizzes = { adult: [mcQuestion] };
+        expect(getShortAnswerQuestions(quizzes, 'adult')).toEqual([]);
+    });
+
+    it('returns multiple short_answer questions', () => {
+        const quizzes = { adult: [saQuestion, saQuestion2] };
+        expect(getShortAnswerQuestions(quizzes, 'adult')).toHaveLength(2);
+    });
+});
+
+describe('renderShortAnswerQuiz', () => {
+    it('returns empty string when no questions', () => {
+        expect(renderShortAnswerQuiz([])).toBe('');
+    });
+
+    it('renders quiz section with heading', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.topic-page__quiz--short-answer')).not.toBeNull();
+        expect(div.querySelector('h3')!.textContent).toContain('Short Answer');
+    });
+
+    it('renders question text', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.quiz-question__text')!.textContent).toContain(
+            'What is the role of the Speaker'
+        );
+    });
+
+    it('renders a textarea input', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('textarea.quiz-question__textarea')).not.toBeNull();
+    });
+
+    it('renders a submit button', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelector('.quiz-question__submit')).not.toBeNull();
+    });
+
+    it('renders hidden feedback element', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const feedback = div.querySelector('.quiz-question__feedback') as HTMLElement;
+        expect(feedback).not.toBeNull();
+        expect(feedback.hidden).toBe(true);
+    });
+
+    it('renders multiple questions', () => {
+        const html = renderShortAnswerQuiz([saQuestion, saQuestion2]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        expect(div.querySelectorAll('.quiz-question--short-answer')).toHaveLength(2);
+    });
+
+    it('escapes HTML in question text', () => {
+        const xssQ: QuizEntry = { ...saQuestion, question: '<script>alert("xss")</script>' };
+        const html = renderShortAnswerQuiz([xssQ]);
+        expect(html).not.toContain('<script>');
+    });
+
+    it('escapes HTML in model answer stored in data attribute', () => {
+        const xssQ: QuizEntry = { ...saQuestion, correct_answer: '<script>bad</script>' };
+        const html = renderShortAnswerQuiz([xssQ]);
+        expect(html).not.toContain('<script>');
+    });
+
+    it('has aria-label on quiz section', () => {
+        const html = renderShortAnswerQuiz([saQuestion]);
+        const div = document.createElement('div');
+        div.innerHTML = html;
+        const section = div.querySelector('.topic-page__quiz--short-answer');
+        expect(section!.getAttribute('aria-label')).toBe('Short Answer Quiz');
+    });
+});
+
+describe('attachShortAnswerHandlers', () => {
+    let container: HTMLElement;
+
+    beforeEach(() => {
+        container = document.createElement('div');
+        container.innerHTML = renderShortAnswerQuiz([saQuestion, saQuestion2]);
+        attachShortAnswerHandlers(container);
+    });
+
+    it('reveals model answer in feedback on submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--short-answer')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.hidden).toBe(false);
+        expect(feedback.textContent).toContain(
+            'The Speaker chairs debates and maintains order in the House of Commons.'
+        );
+    });
+
+    it('shows feedback with reveal class', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--short-answer')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const feedback = q.querySelector<HTMLElement>('.quiz-question__feedback')!;
+        expect(feedback.classList.contains('quiz-question__feedback--reveal')).toBe(true);
+    });
+
+    it('disables textarea after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--short-answer')!;
+        q.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        const textarea = q.querySelector<HTMLTextAreaElement>('.quiz-question__textarea')!;
+        expect(textarea.disabled).toBe(true);
+    });
+
+    it('disables submit button after submit', () => {
+        const q = container.querySelector<HTMLElement>('.quiz-question--short-answer')!;
+        const btn = q.querySelector<HTMLButtonElement>('.quiz-question__submit')!;
+        btn.click();
+        expect(btn.disabled).toBe(true);
+    });
+
+    it('handles multiple independent questions', () => {
+        const questions = container.querySelectorAll<HTMLElement>('.quiz-question--short-answer');
+        expect(questions).toHaveLength(2);
+
+        questions[0]!.querySelector<HTMLButtonElement>('.quiz-question__submit')!.click();
+        expect(questions[0]!.querySelector<HTMLElement>('.quiz-question__feedback')!.hidden).toBe(
+            false
+        );
+
+        // Second question unaffected
+        expect(questions[1]!.querySelector<HTMLElement>('.quiz-question__feedback')!.hidden).toBe(
+            true
+        );
     });
 });

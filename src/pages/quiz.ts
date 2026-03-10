@@ -199,6 +199,80 @@ export function attachTrueFalseHandlers(container: HTMLElement): void {
 }
 
 /**
+ * Render HTML for a short_answer quiz question.
+ * On submit, reveals the model answer for self-assessment.
+ */
+function renderShortAnswerQuestion(question: QuizEntry, index: number): string {
+    return `
+        <div class="quiz-question quiz-question--short-answer" data-question-index="${index}" data-model-answer="${escapeHtml(question.correct_answer)}">
+            <p class="quiz-question__text">${escapeHtml(question.question)}</p>
+            <label class="quiz-question__label" for="quiz-sa-${index}">Your answer:</label>
+            <textarea
+                id="quiz-sa-${index}"
+                class="quiz-question__textarea"
+                rows="3"
+                aria-label="Your answer to: ${escapeHtml(question.question)}"
+            ></textarea>
+            <button class="quiz-question__submit" type="button">Check answer</button>
+            <div class="quiz-question__feedback" aria-live="polite" hidden></div>
+        </div>
+    `;
+}
+
+/**
+ * Render the full quiz section for short_answer questions.
+ * Returns an HTML string.
+ */
+export function renderShortAnswerQuiz(questions: QuizEntry[]): string {
+    if (questions.length === 0) return '';
+    return `
+        <section class="topic-page__quiz topic-page__quiz--short-answer" aria-label="Short Answer Quiz">
+            <h3>Short Answer</h3>
+            <div class="quiz-questions">
+                ${questions.map((q, i) => renderShortAnswerQuestion(q, i)).join('\n')}
+            </div>
+        </section>
+    `;
+}
+
+/**
+ * Attach submit handlers to rendered short_answer questions inside a container.
+ * Must be called after the HTML has been injected into the DOM.
+ */
+export function attachShortAnswerHandlers(container: HTMLElement): void {
+    const questions = container.querySelectorAll<HTMLElement>('.quiz-question--short-answer');
+
+    questions.forEach(questionEl => {
+        const submitBtn = questionEl.querySelector<HTMLButtonElement>('.quiz-question__submit');
+        const textarea = questionEl.querySelector<HTMLTextAreaElement>('.quiz-question__textarea');
+        const feedback = questionEl.querySelector<HTMLElement>('.quiz-question__feedback');
+        if (!submitBtn || !textarea || !feedback) return;
+
+        submitBtn.addEventListener('click', () => {
+            const modelAnswer = questionEl.dataset['modelAnswer'] ?? '';
+
+            feedback.innerHTML = `Model answer: <strong>${escapeHtml(modelAnswer)}</strong>`;
+            feedback.hidden = false;
+            feedback.className = 'quiz-question__feedback quiz-question__feedback--reveal';
+
+            textarea.disabled = true;
+            submitBtn.disabled = true;
+        });
+    });
+}
+
+/**
+ * Get short_answer questions from a topic's quizzes for a given level.
+ */
+export function getShortAnswerQuestions(
+    quizzes: Partial<Record<AudienceLevel, QuizEntry[]>> | undefined,
+    level: AudienceLevel
+): QuizEntry[] {
+    const levelQuizzes = quizzes?.[level] ?? [];
+    return levelQuizzes.filter(q => q.type === 'short_answer');
+}
+
+/**
  * Get true_false questions from a topic's quizzes for a given level.
  */
 export function getTrueFalseQuestions(
