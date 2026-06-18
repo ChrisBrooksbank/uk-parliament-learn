@@ -1,6 +1,7 @@
 {
     "name": "uk-parliament-learn",
     "version": "1.0.0",
+    "license": "MIT",
     "description": "Educational PWA about UK Parliament and political systems",
     "type": "module",
     "scripts": {
